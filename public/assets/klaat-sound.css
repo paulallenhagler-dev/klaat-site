@@ -1,0 +1,12 @@
+/* KLAAT listening control: subtle, accessible and opt-in */
+.klaat-sound{position:fixed;z-index:9900;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom));display:flex;align-items:center;gap:0;color:#e8e2d6;border:1px solid rgba(232,226,214,.29);background:rgba(10,10,12,.89);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);box-shadow:0 7px 30px rgba(0,0,0,.25);font-family:Arial,Helvetica,sans-serif;max-width:calc(100vw - 32px)}
+.klaat-sound button{appearance:none;-webkit-appearance:none;cursor:pointer;border:0;background:transparent;min-height:43px;padding:12px 14px;color:inherit;display:flex;align-items:center;gap:10px;letter-spacing:.18em;font-family:inherit;font-size:10px;white-space:nowrap}
+.klaat-sound button:focus-visible,.klaat-sound input:focus-visible{outline:2px solid #e8e2d6;outline-offset:-3px}
+.klaat-sound button:hover{background:rgba(59,30,90,.25)}
+.klaat-sound-mark{width:9px;height:9px;border:1px solid #c7b9d4;border-radius:50%;display:inline-block;position:relative;flex:0 0 9px;transition:background .22s,box-shadow .22s}
+.klaat-sound.is-on .klaat-sound-mark{background:#c7b9d4;box-shadow:0 0 12px rgba(161,130,191,.45)}
+.klaat-sound.is-loading .klaat-sound-mark{border-color:#999}
+.klaat-volume{width:0;min-width:0;opacity:0;pointer-events:none;transition:width .25s,opacity .25s;margin:0;accent-color:#b7a2ca}
+.klaat-sound.is-on .klaat-volume{width:68px;min-width:68px;opacity:.84;pointer-events:auto;margin:0 13px 0 0}
+.klaat-sound .klaat-sound-name{font-weight:500}
+@media(max-width:620px){.klaat-sound{right:12px;bottom:max(12px,env(safe-area-inset-bottom))}.klaat-sound button{min-height:40px;padding:10px 11px;letter-spacing:.1em;font-size:9px}.klaat-sound.is-on .klaat-volume{width:48px;min-width:48px;margin-right:10px}}
