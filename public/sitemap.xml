@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://klaat.org/</loc></url>
-  <url><loc>https://klaat.org/about.html</loc></url>
-  <url><loc>https://klaat.org/research.html</loc></url>
-  <url><loc>https://klaat.org/research-reader.html</loc></url>
+  <url><loc>https://klaat.org/</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://klaat.org/about.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://klaat.org/research.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://klaat.org/research-reader.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://klaat.org/notes.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://klaat.org/notes/repetitive-drumming-and-time.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://klaat.org/notes/didgeridoo-more-than-one-note.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://klaat.org/notes/feeling-sound-and-vibration.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://klaat.org/notes/musical-trance-and-absorption.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://klaat.org/notes/missing-beat-and-musical-expectation.html</loc><lastmod>2026-10-19</lastmod></url>
 </urlset>
