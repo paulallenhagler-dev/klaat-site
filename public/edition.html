@@ -52,6 +52,17 @@ footer{border-top:1px solid #e8e2d629;padding:24px clamp(22px,5vw,74px);display:
 footer a{text-decoration:none}
 @media(max-width:700px){nav{gap:10px}.return{max-width:170px;text-align:right}.hero{min-height:760px;padding-top:80px;padding-bottom:85px}.diagram{width:180vw;left:-40vw;max-width:none}.deck{margin-top:38px}.statement{padding:90px 27px}.entries{padding-top:72px;padding-bottom:70px}.entry{grid-template-columns:1fr;gap:18px}.entries>h2{margin-bottom:30px}.end{padding:90px 22px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+.downloads{max-width:1080px;margin:auto;padding:108px 26px 108px;border-top:1px solid #e8e2d63b}
+.downloads h2{font-weight:400;font-size:clamp(40px,5.3vw,68px);line-height:1.05;margin:18px 0 19px;letter-spacing:-.025em}
+.downloads>p{color:#bfbab0;font-size:20px;line-height:1.6;margin:0 0 42px;max-width:680px}
+.download-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.download-card{display:flex;flex-direction:column;text-decoration:none;border:1px solid #e8e2d650;padding:34px 29px 32px;min-height:225px;transition:border-color .2s,background .2s;background:linear-gradient(125deg,#15323f32,transparent 70%)}
+.download-card:hover{border-color:#e8e2d6;background:#15323f6a}
+.download-card strong{font:400 clamp(30px,3.4vw,44px)/1.15 "EB Garamond",Georgia,serif;margin:24px 0 13px}
+.download-card span{font:10px/1.65 "DM Mono",monospace;letter-spacing:.14em;color:#b7bbb7}
+.download-card .arrow{align-self:flex-end;font-size:20px;font-family:"DM Mono",monospace}
+@media(max-width:700px){.downloads{padding:76px 26px}.download-grid{grid-template-columns:1fr}.download-card{min-height:185px}}
 </style>
 </head>
 <body>
@@ -73,8 +84,8 @@ footer a{text-decoration:none}
 <p class="deck">An illustrated inquiry into the sound that continues, the strike that divides it, and the mind that learns to wait.</p>
 <p class="edition-label">PAUL HAGLER · 2026 · 274-PAGE DIGITAL EDITION</p>
 <div class="actions">
-<a class="button primary" href="/atlas-extended.html">READ THE COMPLETE ONLINE ATLAS ↗</a>
-<a class="button" href="/atlas.html">ENTER BOOK I ↗</a>
+<a class="button primary" href="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Digital_Edition.pdf" type="application/pdf" download>DOWNLOAD THE COMPLETE BOOK · PDF ↓</a>
+<a class="button" href="/atlas-extended.html">READ ONLINE ↗</a>
 </div>
 </section>
 <section class="statement"><div class="small topline">00 / THE SOUND CAME FIRST</div>
@@ -84,6 +95,19 @@ footer a{text-decoration:none}
 <p class="note">The Atlas begins in music and moves through acoustics, perception, body, memory and the stubborn difference between what an instrument produces and what a listener experiences. It is an art book with a research foundation—not a claim that one pitch, one rhythm, or one technique has universal power.</p>
 </section>
 <div class="rule" role="presentation"></div>
+<section class="downloads" id="downloads" aria-labelledby="download-heading">
+<div class="small">THE BOOK / TAKE IT WITH YOU</div>
+<h2 id="download-heading">The digital edition.</h2>
+<p>Two ways to keep the complete work. The fixed-layout PDF preserves the artwork and composition of the 274-page edition. The reflowable EPUB adapts the text to your reading device and includes the principal illustrated plates.</p>
+<div class="download-grid">
+<a class="download-card" href="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Digital_Edition.pdf" type="application/pdf" download aria-label="Download KLAAT Atlas 2026 full digital edition PDF">
+<span>01 / THE ORIGINAL LAYOUT · 274 PAGES</span><strong>Download the Atlas<br><em>PDF Edition</em></strong><span>FIXED LAYOUT · 1.5 MB</span><span class="arrow" aria-hidden="true">↘</span>
+</a>
+<a class="download-card" href="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Reader.epub" type="application/epub+zip" download aria-label="Download KLAAT Atlas 2026 reflowable EPUB">
+<span>02 / THE PORTABLE READING EDITION</span><strong>Read the Atlas<br><em>EPUB Edition</em></strong><span>REFLOWABLE TEXT · 395 KB</span><span class="arrow" aria-hidden="true">↘</span>
+</a>
+</div>
+</section>
 <section class="entries" aria-labelledby="contents">
 <div class="small">THE THREE GATES</div><h2 id="contents">Enter by any path.</h2>
 <div class="entry"><div><div class="small">01 / THE ARTIST'S FIELD</div><h3>Book I<br><em>The Living Interval</em></h3></div><div class="detail"><p>Thirty-one illustrated leaves. Sound as place, interruption as event, attention as a journey. Begin here to encounter the language and imagery of KLAAT before reading its explanations.</p><a href="/atlas.html">OPEN THE ILLUSTRATED BOOK ↗</a></div></div>
