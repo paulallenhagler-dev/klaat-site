@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0a0a0c">
+<title>Read the Complete Atlas — KLAAT / 2026 Digital Edition</title>
+<meta name="description" content="Read the complete published 2026 KLAAT: Atlas of the Living Interval. The original illustrated 274-page edition and its accessible reflowable companion, including the full literary opening and research.">
+<link rel="canonical" href="https://klaat.org/read.html">
+<style>
+:root{--void:#0a0a0c;--bone:#e8e2d6;--muted:#aaa59c;--line:#e8e2d638;--teal:#82aaa9}*{box-sizing:border-box}
+html,body{padding:0;margin:0;background:var(--void);color:var(--bone)}
+body{font-family:Georgia,serif}
+a{color:inherit}
+a:focus-visible,button:focus-visible{outline:2px solid var(--teal);outline-offset:4px}
+header{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:18px clamp(16px,3vw,44px);border-bottom:1px solid var(--line)}
+header a{text-decoration:none;font:11px monospace;letter-spacing:.16em}
+.brand{font-size:14px;font-weight:bold}
+main{width:100%;margin:0 auto}
+.intro{padding:32px clamp(16px,3vw,44px) 25px;display:flex;align-items:end;justify-content:space-between;flex-wrap:wrap;gap:18px}
+.eyebrow,.caption,.hint{font:10px/1.7 monospace;letter-spacing:.11em;text-transform:uppercase;color:var(--muted)}
+h1{margin:9px 0 0;font-size:clamp(26px,4.5vw,48px);line-height:1.12;font-weight:normal;letter-spacing:-.016em}
+h1 em{font-weight:normal}
+.actions{display:flex;align-items:center;flex-wrap:wrap;gap:10px}
+.linkbtn,button{background:transparent;color:var(--bone);border:1px solid var(--line);padding:12px 14px;text-decoration:none;text-transform:uppercase;font:10px monospace;letter-spacing:.07em;cursor:pointer}
+button[aria-pressed="true"],.linkbtn.primary{background:var(--bone);color:var(--void);border-color:var(--bone)}
+button:hover,.linkbtn:hover{border-color:var(--bone)}
+.note{padding:0 clamp(16px,3vw,44px) 16px;color:#beb9b2;font:15px/1.5 Georgia,serif}
+.note strong{color:#e8e2d6;font-weight:normal}
+.reader-shell{border-top:1px solid var(--line);background:#0a0a0c;min-height:75vh}
+#pdf-pane{height:max(78vh,600px);width:100%;position:relative}
+#pdf-pane iframe{display:block;width:100%;height:100%;border:0;background:#18181a}
+#flow-pane{display:none;min-height:72vh}
+.flow-controls{display:flex;align-items:center;justify-content:space-between;gap:15px;flex-wrap:wrap;padding:13px clamp(16px,3vw,44px);border-bottom:1px solid var(--line)}
+.flow-controls button{padding:8px 10px}
+#flow-status{font:11px monospace;color:#b6aea4}
+#epub-view{height:min(80vh,1050px);min-height:580px;width:min(100%,980px);margin:0 auto;background:var(--void);overflow:auto}
+#flow-error{display:none;padding:30px;max-width:750px;margin:auto;color:#e8e2d6;font-size:19px;line-height:1.5}
+.footer{display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap;padding:20px clamp(16px,3vw,44px);border-top:1px solid var(--line)}
+.footer a{text-decoration:none}
+@media(max-width:600px){header{flex-wrap:wrap}.intro{align-items:start}.actions{width:100%}.linkbtn,button{padding:12px}.note{font-size:14px}#pdf-pane{height:78dvh;min-height:500px}#epub-view{height:75dvh;min-height:500px}}
+</style>
+</head>
+<body>
+<header><a class="brand" href="/">KLAAT</a><a href="/edition.html">ATLAS / 2026 EDITION ↗</a><a href="/">RETURN TO THE PORTAL ↗</a></header>
+<main>
+<div class="intro">
+ <div><div class="eyebrow">THE COMPLETE WORK / DIGITAL EDITION 1.0</div><h1>Atlas of the <em>Living Interval</em></h1></div>
+ <div class="actions" role="group" aria-label="Reading format">
+  <button type="button" id="art-tab" aria-pressed="true">ORIGINAL ILLUSTRATED PAGES</button>
+  <button type="button" id="text-tab" aria-pressed="false">REFLOWABLE TEXT &amp; PLATES</button>
+  <a class="linkbtn primary" href="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Digital_Edition.pdf" target="_blank" rel="noopener">OPEN FULLSCREEN PDF ↗</a>
+ </div>
+</div>
+<p class="note" id="mode-note"><strong>The complete 274-page published edition starts here at the cover.</strong> Scroll to see “To the reader,” the ten illustrated fields and the full 28-chapter research work. This is the same file as the downloadable PDF, not an earlier online manuscript.</p>
+<div class="reader-shell">
+ <section id="pdf-pane" aria-label="Illustrated book in its original page layout">
+  <iframe title="KLAAT Atlas of the Living Interval — complete 274-page illustrated edition" src="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Digital_Edition.pdf#page=1&view=FitH" loading="eager"></iframe>
+ </section>
+ <section id="flow-pane" aria-label="Reflowable reading companion">
+  <div class="flow-controls"><div><button type="button" id="prev" aria-label="Previous section">← PREVIOUS</button> <button type="button" id="next" aria-label="Next section">NEXT →</button></div><span id="flow-status" role="status">PREPARING THE READING EDITION…</span><a class="linkbtn" href="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Reader.epub" download>DOWNLOAD EPUB ↓</a></div>
+  <div id="epub-view" role="document" aria-label="Full text and illustrated plates of the KLAAT Atlas"></div>
+  <p id="flow-error">The reflowable reader could not be loaded in this browser. The complete book remains available in the <a href="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Digital_Edition.pdf">illustrated PDF</a> or as an <a href="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Reader.epub">EPUB file</a>.</p>
+ </section>
+</div>
+<div class="footer"><span class="caption">KLAAT / PAUL HAGLER / 2026</span><span class="caption">EXPERIENCE-LED CREATION · SCIENCE-INFORMED REFINEMENT</span><a class="caption" href="/research.html">THE RESEARCH ↗</a></div>
+</main>
+<script>
+(function(){
+"use strict";
+const pdf=document.getElementById("pdf-pane"),flow=document.getElementById("flow-pane");
+const artBtn=document.getElementById("art-tab"),textBtn=document.getElementById("text-tab"),status=document.getElementById("flow-status");
+const note=document.getElementById("mode-note");
+let book=null,rendition=null,loaded=false;
+function setMode(mode){
+ const isText=mode==="text";
+ pdf.style.display=isText?"none":"block";flow.style.display=isText?"block":"none";
+ artBtn.setAttribute("aria-pressed",String(!isText));textBtn.setAttribute("aria-pressed",String(isText));
+ note.innerHTML=isText?"This is the <strong>complete reflowable companion</strong>: revised opening, ten original schematic plates, 28 scientific chapters and bibliography. Text and artwork resize to your screen; the illustrated PDF remains the visual master.":"<strong>The complete 274-page published edition starts here at the cover.</strong> Scroll to see “To the reader,” the ten illustrated fields and the full 28-chapter research work. This is the same file as the downloadable PDF, not an earlier online manuscript.";
+ history.replaceState(null,"",isText?"?view=text":"?view=art");
+ if(isText&&!loaded)loadReader();
+}
+function onError(){
+ status.textContent="TEXT READER UNAVAILABLE";
+ document.getElementById("flow-error").style.display="block";
+}
+function loadReader(){
+ loaded=true;
+ status.textContent="LOADING ALL CHAPTERS…";
+ const script=document.createElement("script");script.src="https://cdn.jsdelivr.net/npm/epubjs@0.3.93/dist/epub.min.js";
+ script.onerror=onError;
+ script.onload=function(){
+ try{
+  if(typeof ePub!=="function"){onError();return;}
+  book=ePub("/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Reader.epub");
+  rendition=book.renderTo("epub-view",{width:"100%",height:"100%",flow:"scrolled-doc",manager:"continuous",spread:"none"});
+  rendition.themes.default({"body":{"background":"#0a0a0c !important","color":"#e8e2d6 !important","font-family":"Georgia, serif !important","line-height":"1.65 !important","padding":"20px !important"},"h1,h2,h3":{"color":"#e8e2d6 !important","font-family":"Georgia, serif !important"},"p":{"color":"#d2ccc1 !important","line-height":"1.65 !important"},"img":{"max-width":"100% !important"},"a":{"color":"#a3c1b7 !important"}});
+  rendition.display().then(()=>{status.textContent="READING EDITION / BEGINNING";},onError);
+  rendition.on("relocated",function(location){if(location?.start?.href) status.textContent=location.start.href.replace(/^.*\//,"").replace(".xhtml","").toUpperCase()+" / THE LIVING INTERVAL";});
+ }catch(err){onError();}
+ };
+ document.head.appendChild(script);
+}
+artBtn.addEventListener("click",()=>setMode("art"));
+textBtn.addEventListener("click",()=>setMode("text"));
+document.getElementById("prev").addEventListener("click",()=>{if(rendition)rendition.prev();});
+document.getElementById("next").addEventListener("click",()=>{if(rendition)rendition.next();});
+document.addEventListener("keydown",e=>{if(flow.style.display==="block"&&rendition){if(e.key==="ArrowRight")rendition.next();if(e.key==="ArrowLeft")rendition.prev();}});
+if(new URLSearchParams(location.search).get("view")==="text")setMode("text");
+})();
+</script>
+</body>
+</html>
