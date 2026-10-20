@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0a0a0c">
+<meta name="description" content="KLAAT: Atlas of the Living Interval — a 274-page artist–research book of drone, pulse, breath, resonance, repetition, and the listening mind. Enter the illustrated atlas and the full research.">
+<link rel="canonical" href="https://klaat.org/edition.html">
+<meta property="og:type" content="book"><meta property="og:site_name" content="KLAAT"><meta property="og:url" content="https://klaat.org/edition.html">
+<meta property="og:title" content="Atlas of the Living Interval — KLAAT">
+<meta property="og:description" content="The first digital edition. An illustrated field book exploring the distance between what sound does and what listening makes of it.">
+<meta property="og:image" content="https://klaat.org/assets/klaat-hero.png">
+<title>KLAAT — Atlas of the Living Interval / 2026 Edition</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{--void:#0a0a0c;--bone:#e8e2d6;--blue:#15323f;--purple:#3b1e5a;--teal:#88a8a4;--faded:#b7b1a5;--ember:#bb1e1e}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--void);color:var(--bone);font-family:"EB Garamond",Georgia,serif;-webkit-font-smoothing:antialiased}
+a{color:inherit}a:focus-visible{outline:2px solid #a6c2bb;outline-offset:5px}.mono,.small{font-family:"DM Mono",monospace;font-weight:400;text-transform:uppercase;letter-spacing:.16em}
+.small{font-size:10px;line-height:1.9;color:#b2aeaa}
+nav{display:flex;align-items:center;justify-content:space-between;gap:30px;padding:24px clamp(22px,5vw,74px);border-bottom:1px solid #e8e2d620;position:relative;z-index:5}
+nav a{text-decoration:none}nav .brand{font:500 15px "DM Mono",monospace;letter-spacing:.28em}
+nav .return{font:10px "DM Mono",monospace;letter-spacing:.12em;color:#c5c2bc}
+.announcement{font:10px "DM Mono",monospace;letter-spacing:.19em;line-height:1.8;color:#aaa79d}
+.hero{min-height:min(900px,92svh);position:relative;isolation:isolate;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;padding:110px 22px 115px;background:radial-gradient(ellipse at 51% 52%,#12232d70 0%,#0a0a0c 52%),radial-gradient(ellipse at 47% 45%,#3b1e5a28,transparent 67%)}
+.hero:after{content:"";pointer-events:none;position:absolute;inset:0;border-top:1px solid #ffffff0e;background:linear-gradient(0deg,#0a0a0c 0,transparent 19%,transparent 85%,#0a0a0c 100%);z-index:-1}
+.diagram{position:absolute;inset:0;margin:auto;max-width:1100px;width:min(118vw,1100px);height:100%;pointer-events:none;opacity:.71;z-index:-1}
+.diagram path,.diagram ellipse{fill:none;stroke-width:.53;vector-effect:non-scaling-stroke}.diagram .r{stroke:#d3cab8}.diagram .w{stroke:#567783}.diagram .t{stroke:#ad9da3}
+.hero .kicker{font:10px "DM Mono",monospace;letter-spacing:.29em;color:#bcbbb2;text-transform:uppercase;margin:0 0 33px}
+h1{font-size:clamp(65px,9.2vw,142px);line-height:.88;font-weight:400;letter-spacing:-.045em;margin:0;max-width:1000px;text-shadow:0 1px 30px #0a0a0c}
+h1 em{font-weight:400}h1 .last{display:block;font-size:clamp(55px,8.5vw,130px);margin-top:9px}
+.deck{max-width:530px;font-size:clamp(21px,2.1vw,28px);line-height:1.35;color:#d8d2c6;margin:45px auto 29px;text-shadow:0 1px 10px #0a0a0c}
+.edition-label{font:10px "DM Mono",monospace;letter-spacing:.19em;color:#999b97;text-transform:uppercase;margin:0 0 30px}
+.actions{display:flex;gap:14px;align-items:stretch;justify-content:center;flex-wrap:wrap;margin-top:12px}
+.button{min-height:53px;display:inline-flex;justify-content:center;align-items:center;padding:16px 21px;border:1px solid #e8e2d666;background:#e8e2d60c;text-decoration:none;font:10px "DM Mono",monospace;letter-spacing:.14em;text-transform:uppercase;transition:background .25s,border .25s}
+.button.primary{background:#e8e2d6;color:#0a0a0c;border-color:#e8e2d6}.button:hover{background:#15323fb3;border-color:#e8e2d6;color:#e8e2d6}
+.statement{max-width:730px;margin:0 auto;padding:125px 26px 120px;text-align:left}
+.statement .topline{margin-bottom:35px}
+.statement p{font-size:clamp(26px,3.15vw,43px);line-height:1.28;margin:0 0 30px}
+.statement .note{font-size:19px;line-height:1.7;color:#b8b4ac;max-width:625px}
+.rule{height:1px;background:linear-gradient(90deg,transparent,#e8e2d63f,transparent);max-width:1000px;margin:auto}
+.entries{max-width:1080px;margin:auto;padding:95px 26px 130px}
+.entries>h2{font:400 clamp(37px,5vw,64px)/1.08 "EB Garamond",Georgia,serif;margin:10px 0 60px;letter-spacing:-.025em}
+.entry{display:grid;grid-template-columns:minmax(200px,.9fr) minmax(320px,1.1fr);gap:40px;align-items:start;padding:36px 0 43px;border-top:1px solid #e8e2d636}
+.entry h3{font-weight:400;font-size:clamp(28px,4vw,49px);line-height:1.07;margin:9px 0 0}
+.entry .detail p{font-size:20px;line-height:1.6;margin:0 0 22px;color:#c9c6be}
+.entry .detail a{font:11px "DM Mono",monospace;letter-spacing:.12em;text-decoration:none;padding-bottom:7px;border-bottom:1px solid #b4c5bc9c;display:inline-block}
+.entry .detail a:hover{color:white}
+.end{max-width:860px;margin:auto;text-align:center;padding:125px 22px 150px}
+.end p{font-size:clamp(27px,4vw,51px);line-height:1.2;margin:26px auto;font-style:italic;max-width:730px}
+footer{border-top:1px solid #e8e2d629;padding:24px clamp(22px,5vw,74px);display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;font:10px "DM Mono",monospace;letter-spacing:.1em;color:#aaa79d}
+footer a{text-decoration:none}
+@media(max-width:700px){nav{gap:10px}.return{max-width:170px;text-align:right}.hero{min-height:760px;padding-top:80px;padding-bottom:85px}.diagram{width:180vw;left:-40vw;max-width:none}.deck{margin-top:38px}.statement{padding:90px 27px}.entries{padding-top:72px;padding-bottom:70px}.entry{grid-template-columns:1fr;gap:18px}.entries>h2{margin-bottom:30px}.end{padding:90px 22px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<nav aria-label="Site navigation"><a class="brand" href="/">KLAAT</a><span class="announcement">AN ARCHAEOSONIC FIELD BOOK · 2026</span><a class="return" href="/">RETURN TO THE PORTAL ↗</a></nav>
+<main>
+<section class="hero" aria-labelledby="book-title">
+<svg class="diagram" viewBox="0 0 1100 850" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+<g class="r" opacity=".5">
+<ellipse cx="550" cy="398" rx="230" ry="230"/><ellipse cx="550" cy="398" rx="247" ry="247"/><ellipse cx="550" cy="398" rx="266" ry="266"/><ellipse cx="550" cy="398" rx="283" ry="283"/><ellipse cx="550" cy="398" rx="301" ry="301"/><ellipse cx="550" cy="398" rx="316" ry="316"/><ellipse cx="550" cy="398" rx="330" ry="330"/>
+</g><g class="w" opacity=".73">
+<path d="M0 420 C130 420 145 395 205 395 S280 445 347 424 S450 390 550 420 S700 452 780 400 S945 420 1100 420"/>
+<path d="M0 435 C130 435 145 399 205 416 S280 467 347 433 S450 406 550 435 S700 470 780 418 S945 440 1100 435"/>
+<path d="M0 405 C130 405 145 386 205 386 S280 423 347 409 S450 374 550 405 S700 424 780 385 S945 405 1100 405"/>
+<path d="M0 452 C125 450 200 421 280 459 S395 480 520 452 S620 402 735 452 S915 477 1100 452"/>
+</g><g class="t" opacity=".28"><path d="M120 398H980" stroke-dasharray="2 9"/><path d="M550 47V749" stroke-dasharray="2 9"/></g>
+</svg>
+<div class="kicker">KLAAT / THE ATLAS / DIGITAL EDITION I</div>
+<h1 id="book-title">Atlas of the<br><em class="last">Living Interval</em></h1>
+<p class="deck">An illustrated inquiry into the sound that continues, the strike that divides it, and the mind that learns to wait.</p>
+<p class="edition-label">PAUL HAGLER · 2026 · 274-PAGE DIGITAL EDITION</p>
+<div class="actions">
+<a class="button primary" href="/atlas-extended.html">READ THE COMPLETE ONLINE ATLAS ↗</a>
+<a class="button" href="/atlas.html">ENTER BOOK I ↗</a>
+</div>
+</section>
+<section class="statement"><div class="small topline">00 / THE SOUND CAME FIRST</div>
+<p>Before there was an atlas, there was a breath held against a hollow column of agave.</p>
+<p>A drum entered. One strike divided the sound into a before and an after. Another strike made the interval imaginable.</p>
+<p>With the third, the ear could begin waiting for the fourth.</p>
+<p class="note">The Atlas begins in music and moves through acoustics, perception, body, memory and the stubborn difference between what an instrument produces and what a listener experiences. It is an art book with a research foundation—not a claim that one pitch, one rhythm, or one technique has universal power.</p>
+</section>
+<div class="rule" role="presentation"></div>
+<section class="entries" aria-labelledby="contents">
+<div class="small">THE THREE GATES</div><h2 id="contents">Enter by any path.</h2>
+<div class="entry"><div><div class="small">01 / THE ARTIST'S FIELD</div><h3>Book I<br><em>The Living Interval</em></h3></div><div class="detail"><p>Thirty-one illustrated leaves. Sound as place, interruption as event, attention as a journey. Begin here to encounter the language and imagery of KLAAT before reading its explanations.</p><a href="/atlas.html">OPEN THE ILLUSTRATED BOOK ↗</a></div></div>
+<div class="entry"><div><div class="small">02 / THE CONTINUOUS WORK</div><h3>The Full<br><em>Atlas</em></h3></div><div class="detail"><p>The literary opening and the complete 28-chapter research manuscript in a single long-form online reader, including the evidence distinctions and source bibliography.</p><a href="/atlas-extended.html">READ THE FULL ONLINE ATLAS ↗</a></div></div>
+<div class="entry"><div><div class="small">03 / THE DOCUMENTED FIELD</div><h3>Research &amp;<br><em>Sources</em></h3></div><div class="detail"><p>Explore the acoustics, auditory neuroscience, bodily perception, rhythmic prediction, methodological limitations and unresolved questions supporting the artistic work.</p><a href="/research.html">EXPLORE THE SCIENTIFIC FOUNDATION ↗</a></div></div>
+</section>
+<div class="rule" role="presentation"></div>
+<section class="end"><div class="small">AN UNFINISHED RETURN</div><p>The sound came first.<br>It should always be permitted the last word.</p><div class="small">EXPERIENCE-LED CREATION · SCIENCE-INFORMED REFINEMENT</div></section>
+</main>
+<footer><span>© 2026 KLAAT / PAUL HAGLER</span><span><a href="/notes.html">FIELD NOTES ↗</a> &nbsp; · &nbsp; <a href="/about.html">ORIGINS ↗</a></span></footer>
+</body></html>
