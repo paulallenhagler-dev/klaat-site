@@ -537,17 +537,31 @@ function travel(id,replace){
  changing=true;hover=-1;veil.classList.add("on");setTimeout(function(){
   if(replace){const at=path.lastIndexOf(id);path=at>=0?path.slice(0,at+1):["home",id]}else path.push(id);
   current=id;if(id!=="home"){been.add(id);try{localStorage.setItem("klaat_field_visited",JSON.stringify(Array.from(been)))}catch(e){}}
-  if(!replace)history.pushState({field:id},"","#"+id);placeNodes();veil.classList.remove("on");setTimeout(function(){changing=false},400)
+  if(!replace)history.pushState({field:id,routePath:path.slice(-48),enteredFromField:true},"","#"+id);
+  placeNodes();veil.classList.remove("on");setTimeout(function(){changing=false},400)
  },reduceMotion?0:370)
 }
 function goBack(){
- if(path.length<2){if(current!=="home")travel("home",true);return}
- const prev=path[path.length-2];path.pop();travel(prev,true)
+ if(current==="home")return;
+ if(history.state&&history.state.enteredFromField){history.back();return}
+ // Direct deep links did not originate from the field; return home instead of leaving the site.
+ const prev=path.length>1?path[path.length-2]:"home";
+ history.replaceState({field:prev,routePath:prev==="home"?["home"]:["home",prev],enteredFromField:false},"","#"+prev);
+ travel(prev,true)
 }
 $("homeLink").addEventListener("click",function(e){e.preventDefault();if(current!=="home")travel("home");else history.replaceState({field:"home"},"","#home")});
 back.addEventListener("click",goBack);
 document.addEventListener("keydown",function(e){if(e.key==="Escape"||e.key==="Backspace"&&e.target.tagName!=="INPUT"){if(current!=="home"){e.preventDefault();goBack()}}});
-window.addEventListener("popstate",function(){const id=decodeURIComponent(location.hash.slice(1)||"home");if(id==="home"||pages[id])travel(id,true)});
+window.addEventListener("popstate",function(e){
+ const id=decodeURIComponent(location.hash.slice(1)||"home");
+ if(id!=="home"&&!pages[id])return;
+ const saved=e.state?.routePath;
+ if(Array.isArray(saved)&&saved.length){
+   path=saved.filter(n=>n==="home"||pages[n]).slice(-48);
+   if(!path.includes(id))path.push(id);
+ }else path=id==="home"?["home"]:["home",id];
+ travel(id,true)
+});
 sound.addEventListener("click",function(){if(signalOn){stopAudio();return}let choice=Math.floor(Math.random()*audioModes.length);if(audioModes.length>1&&choice===currentMode)choice=(choice+1)%audioModes.length;playVariation(choice)});
 audio.addEventListener("pause",function(){if(signalOn)stopAudio()});
 audio.addEventListener("error",function(){$("audioLabel").textContent="AUDIO UNAVAILABLE";$("audioLabel").classList.add("active")});
@@ -566,7 +580,14 @@ cv.addEventListener("pointerdown",function(e){
  if(x>=0&&x<=1&&y>=.15&&y<=.73)resonanceAt(x,y,"touch");
 },{passive:true});
 window.addEventListener("resize",size,{passive:true});size();
-const hash=decodeURIComponent(location.hash.slice(1));if(hash&&pages[hash]){current=hash;path=["home",hash];been.add(hash);placeNodes()}else if(!hash){history.replaceState({field:"home"},"","#home")}
+const hash=decodeURIComponent(location.hash.slice(1));
+if(hash&&pages[hash]){
+ current=hash;path=["home",hash];been.add(hash);
+ history.replaceState({field:hash,routePath:path.slice(),enteredFromField:false},"","#"+hash);
+ placeNodes()
+}else{
+ history.replaceState({field:"home",routePath:["home"],enteredFromField:false},"","#home")
+}
 requestAnimationFrame(animate);
 })();
 </script>
