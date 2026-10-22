@@ -133,15 +133,15 @@ const defs=[
  ["body","spiral",["clock","room","unseen","@audio"]],
  ["prediction","lattice",["omission","threshold","grammar","@observe"]],
  ["grain","dust",["harmonics","drift","trace","@audio"]],
- ["grammar","glyph",["trace","circle","source","@read"]],
+ ["grammar","glyph",["trace","circle","source","@observe"]],
  ["circle","arc",["grammar","interference","held","@observe"]],
  ["interval","ticks",["clock","prediction","division","@audio"]],
  ["clock","spiral",["drift","interval","prediction","@observe"]],
- ["fieldwork","double",["room","archive","music","@read"]],
- ["archive","lattice",["source","grammar","fieldwork","@read"]],
+ ["fieldwork","double",["room","archive","interference","@observe"]],
+ ["archive","lattice",["source","grammar","fieldwork","@observe"]],
  ["music","ribbon",["held","division","source","@audio"]],
  ["unseen","dust",["threshold","trace","archive","@observe"]],
- ["source","glyph",["@read","/atlas-extended.html","/research.html","@audio"]]
+ ["source","glyph",["archive","fieldwork","grammar","@observe"]]
 ];
 const meta={
  held:["CONTINUITY","A held sound is not a stationary event.","The drone changes internally even when its tonal center remains."],
@@ -164,13 +164,13 @@ const meta={
  interval:["ANKORA / DENSITY","More events do not necessarily mean a faster pulse.","The anchor and the density can vary independently."],
  clock:["TIME","There is an event clock and a listener's clock.","Perceived time is not always measured time."],
  fieldwork:["PRACTICE / ROOM","The room is an acoustic participant.","Actual measurements can test the artistic diagram."],
- archive:["DOCUMENTED WORK","The Atlas holds the artistic and research record.","The book is available in full, beyond these fragments."],
+ archive:["RECORD / MEMORY","A field leaves traces in sound, image and notation.","An archive is a record of what happened, not a prescription for what comes next."],
  music:["AMASTACIA + ANKORA","The drone continues. The drum interrupts.","This is one musical practice, not a set of magic frequencies."],
  unseen:["UNFINISHED","The system must grow from the music.","The music owes the system nothing."],
- source:["ATLAS / SOURCES","The complete work is outside this chamber.","Original reading, full research and source records remain accessible."]
+ source:["METHOD / SOURCE","Every diagram begins as a question.","The artwork suggests a relationship; it does not establish a measurement."]
 };
 const pages={};defs.forEach(function(a,i){pages[a[0]]={index:i+1,mode:a[1],links:a[2]}});
-const homeDest=["held","division","room","body","grammar","@audio","@read"];
+const homeDest=["held","division","room","body","grammar","@audio","archive"];
 const audioModes=[
  {id:"01",rate:1,type:"allpass",freq:1100,wet:0,delay:.26,feedback:.10,name:"SOURCE"},
  {id:"02",rate:.97,type:"lowpass",freq:1050,wet:.085,delay:.32,feedback:.10,name:"VEILED"},
