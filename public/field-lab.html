@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#080808">
+<meta name="google-site-verification" content="di5E8o12Z2FR5N08ND5FIQakTfVSHUWSVBLpcym97TI">
+<title>KLAAT — The Living Field</title>
+<meta name="description" content="KLAAT. An evolving acoustic practice and visual field of drone, pulse, breath, and the listening mind. Explore the work and the complete Atlas of the Living Interval.">
+<link rel="canonical" href="https://klaat.org/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="KLAAT — The Living Field">
+<meta property="og:description" content="An evolving practice in sound, art, research and perception.">
+<meta property="og:url" content="https://klaat.org/">
+<meta property="og:image" content="https://klaat.org/assets/klaat-hero.png">
+<style>
+:root{color-scheme:dark;--black:#080808;--bone:#e8e1d5;--faint:#746f68;--red:#e33b32;--rust:#b65d40;--teal:#78a69f;--violet:#9c839f}
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:var(--black);color:var(--bone)}
+body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+#field{position:fixed;inset:0;width:100%;height:100%;display:block;touch-action:manipulation}
+#grain{position:fixed;inset:0;pointer-events:none;z-index:2;opacity:.14;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.92' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='.12'/%3E%3C/svg%3E")}
+header{position:fixed;top:0;left:0;width:100%;z-index:12;display:flex;align-items:center;justify-content:space-between;padding:32px clamp(24px,4.3vw,75px) 18px;pointer-events:none}
+header:after{content:"";position:absolute;bottom:0;left:4.3vw;right:4.3vw;border-bottom:1px solid #a49c8d77}
+header a,header button{pointer-events:auto}
+.smallmark{color:var(--bone);font-size:16px;line-height:1;letter-spacing:.39em;font-weight:700;text-decoration:none;padding:6px 0;display:inline-flex;align-items:center}
+.logo{width:143px;height:auto;display:block;max-height:29px}
+.fallback{display:none}
+.top-right{display:flex;align-items:center;gap:28px}
+.atlas{font-size:10px;letter-spacing:.46em;text-decoration:none;color:var(--bone);padding:11px 3px;opacity:.78;transition:opacity .3s}
+.atlas:hover,.atlas:focus-visible{opacity:1;text-decoration:underline;text-underline-offset:8px}
+#sound{width:26px;height:26px;background:none;border:0;cursor:pointer;position:relative;padding:0;opacity:.68;transition:opacity .25s}
+#sound:before{content:"";position:absolute;left:11px;top:10px;width:5px;height:5px;border-radius:50%;background:var(--bone)}
+#sound:after{content:"";position:absolute;inset:3px;border-radius:50%;border:1px solid #aaa297;transform:scale(.55);opacity:0;transition:.3s}
+#sound:hover,#sound:focus-visible{opacity:1}#sound:hover:after,#sound[aria-pressed="true"]:after{opacity:.8;transform:scale(1)}
+#sound[aria-pressed="true"]:before{background:var(--red);box-shadow:0 0 12px #b64139}
+#homeTitle{position:fixed;z-index:5;left:50.5%;top:25%;width:44%;text-align:center;pointer-events:none;transition:opacity .6s,transform .9s}
+#homeTitle h1{font-family:Arial,Helvetica,sans-serif;font-size:clamp(38px,6.1vw,99px);font-weight:700;letter-spacing:.23em;margin:0 0 26px;padding-left:.23em;line-height:1.02;transform:scaleX(1.11)}
+#homeTitle p{font-size:clamp(7px,.68vw,10px);letter-spacing:.66em;opacity:.78;padding-left:.66em;margin:0;white-space:nowrap}
+body:not(.is-home) #homeTitle{opacity:0;transform:translateY(-15px)}
+#nodes{position:fixed;inset:0;z-index:8;pointer-events:none}
+.node{--col:var(--bone);pointer-events:auto;position:absolute;left:var(--x);top:var(--y);width:48px;height:48px;border:0;padding:0;appearance:none;background:transparent;transform:translate(-50%,-50%);border-radius:50%;cursor:crosshair;touch-action:manipulation}
+.node .ink{position:absolute;width:var(--dot,5px);height:var(--dot,5px);background:var(--col);border-radius:50%;left:50%;top:50%;transform:translate(-50%,-50%);box-shadow:0 0 4px #000;transition:transform .5s}
+.node .ring{position:absolute;inset:9px;border:1px solid var(--col);border-radius:50%;opacity:0;transform:scale(.35);transition:opacity .35s,transform .85s cubic-bezier(.11,.69,.11,1)}
+.node .ring.two{inset:2px;transition-delay:.09s}
+.node:hover .ring,.node:focus-visible .ring,.node.tapped .ring{opacity:.8;transform:scale(1.22)}
+.node:hover .ring.two,.node:focus-visible .ring.two,.node.tapped .ring.two{opacity:.37;transform:scale(1.5)}
+.node:hover .ink,.node:focus-visible .ink{transform:translate(-50%,-50%) scale(1.35)}
+.node:focus-visible{outline:1px solid #e7e0d388;outline-offset:2px}
+#floor{position:fixed;bottom:30px;left:clamp(24px,4.3vw,75px);right:clamp(24px,4.3vw,75px);z-index:11;height:33px;display:flex;align-items:center;justify-content:space-between;border-top:1px solid #a49c8d66;padding-top:19px}
+.floorleft{display:flex;align-items:center;gap:22px}
+#back{font-size:24px;color:var(--bone);border:0;background:none;padding:0 12px 8px 0;cursor:pointer;line-height:1;opacity:0;pointer-events:none;transition:opacity .4s}
+body:not(.is-home) #back{opacity:.8;pointer-events:auto}
+#position{font:9px/1 Arial,sans-serif;letter-spacing:.36em;color:#ada79d;opacity:.65}
+#history{display:flex;gap:8px;align-items:center;opacity:.46}
+#history i{width:2px;height:2px;background:var(--bone);border-radius:50%;display:block}
+#history i.latest{width:4px;height:4px;background:var(--red)}
+#veil{position:fixed;inset:0;z-index:9;pointer-events:none;background:#080808;opacity:0;transition:opacity .37s}
+#veil.on{opacity:1}
+#quiet{position:fixed;bottom:76px;left:50%;transform:translateX(-50%);z-index:7;font-size:8px;letter-spacing:.35em;color:#c8c2b599;transition:opacity 1s;pointer-events:none}
+#quiet.disappear{opacity:0}
+.sr{position:absolute!important;width:1px!important;height:1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap}
+@media(max-width:720px){
+header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:18px}.smallmark{font-size:12px}.logo{width:109px}
+.atlas{font-size:9px;letter-spacing:.27em}#homeTitle{left:6%;top:17%;width:88%}#homeTitle h1{font-size:clamp(42px,12vw,75px);letter-spacing:.17em;padding-left:.17em;margin-bottom:16px}#homeTitle p{font-size:7px;letter-spacing:.37em;padding-left:.37em}
+#floor{left:20px;right:20px;bottom:20px}#position{font-size:8px}#quiet{bottom:86px;font-size:7px}
+}
+@media(prefers-reduced-motion:reduce){*{transition-duration:0s!important;animation:none!important}}
+</style>
+</head>
+<body class="is-home">
+<canvas id="field" role="img" aria-label="An abstract interactive acoustic diagram: interrupted concentric rings and drifting contours. Explore the colored marks."></canvas>
+<div id="grain" aria-hidden="true"></div>
+<header>
+ <a class="smallmark" href="#home" id="homeLink" aria-label="Return to KLAAT home"><img class="logo" src="/assets/klaat-wordmark.png" alt="KLAAT" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'"><span class="fallback">KLΛΛT</span></a>
+ <div class="top-right"><a class="atlas" href="/edition.html" aria-label="Read the complete KLAAT Atlas, all 274 pages">ATLAS</a><button id="sound" aria-label="Play or pause the KLAAT audio excerpt" aria-pressed="false" title="Sound"></button></div>
+</header>
+<div id="homeTitle" aria-hidden="true"><h1>KLΛΛT</h1><p>THE LIVING INTERVAL</p></div>
+<div id="nodes" aria-label="Interactive field passages"></div>
+<div id="veil"></div>
+<footer id="floor">
+ <div class="floorleft"><button id="back" aria-label="Return to the previous field">↶</button><span id="position">00 / 24</span></div>
+ <div id="history" aria-hidden="true"><i class="latest"></i></div>
+</footer>
+<div id="quiet" aria-hidden="true">· &nbsp; · &nbsp; ·</div>
+<audio id="sourceAudio" src="/assets/klaat-ambient-loop-18s.mp3" loop preload="none"></audio>
+<script>
+(function(){
+"use strict";
+const $=function(id){return document.getElementById(id)};
+const cv=$("field"),ctx=cv.getContext("2d",{alpha:false}),layer=$("nodes"),veil=$("veil"),back=$("back"),pos=$("position"),trail=$("history"),hint=$("quiet"),sound=$("sound"),audio=$("sourceAudio");
+const C={bone:"#d3ccbd",red:"#e63a32",rust:"#be684a",teal:"#86aca6",purple:"#a78eab",dim:"#847e72",white:"#f1eadc"};
+const palette=[C.red,C.bone,C.teal,C.rust,C.white,C.purple];
+const defs=[
+ ["held","arc",["breath","harmonics","drift","/atlas-extended.html"]],
+ ["division","ticks",["omission","interval","prediction","ankora"]],
+ ["room","double",["interference","body","veil","fieldwork"]],
+ ["breath","veil",["grain","held","suspension","trace"]],
+ ["drift","ribbon",["clock","threshold","return","grain"]],
+ ["omission","ticks",["prediction","suspension","interval","division"]],
+ ["harmonics","ribbon",["breath","circle","grain","music"]],
+ ["suspension","axis",["omission","threshold","unseen","body"]],
+ ["threshold","fracture",["return","veil","archive","drift"]],
+ ["return","echo",["trace","held","fieldwork","circle"]],
+ ["trace","lattice",["unseen","grammar","archive","breath"]],
+ ["interference","double",["room","circle","body","threshold"]],
+ ["body","spiral",["room","music","clock","/research.html"]],
+ ["prediction","lattice",["omission","division","interval","clock"]],
+ ["grain","dust",["harmonics","breath","veil","unseen"]],
+ ["grammar","glyph",["source","trace","circle","/atlas.html"]],
+ ["circle","arc",["grammar","interference","return","/atlas.html"]],
+ ["interval","ticks",["division","prediction","clock","suspension"]],
+ ["clock","spiral",["interval","drift","return","source"]],
+ ["fieldwork","double",["room","archive","music","/notes.html"]],
+ ["archive","lattice",["source","grammar","fieldwork","/edition.html"]],
+ ["music","ribbon",["grain","body","source","held"]],
+ ["unseen","dust",["trace","veil","threshold","archive"]],
+ ["source","glyph",["/edition.html","/atlas-extended.html","/research.html","/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Digital_Edition.pdf"]]
+];
+const pages={}; defs.forEach(function(a,i){pages[a[0]]={index:i+1,mode:a[1],links:a[2]}});
+const homeDest=["held","division","room","breath","harmonics","archive","grain","music","grammar","threshold","source","unseen"];
+let W=0,H=0,dpr=1,mobile=false,now=0,frame=0,current="home",path=["home"],changing=false,hover=-1,ambient=false,lastPointer={x:0,y:0};
+let been=new Set();try{been=new Set(JSON.parse(localStorage.getItem("klaat_field_visited")||"[]"))}catch(e){}
+const reduceMotion=matchMedia("(prefers-reduced-motion: reduce)").matches;
+function size(){W=window.innerWidth;H=window.innerHeight;mobile=W<720;dpr=Math.min(devicePixelRatio||1,2);cv.width=Math.round(W*dpr);cv.height=Math.round(H*dpr);cv.style.width=W+"px";cv.style.height=H+"px";ctx.setTransform(dpr,0,0,dpr,0,0);placeNodes()}
+function linear(x1,y1,x2,y2,alpha){ctx.strokeStyle="rgba(218,211,195,"+alpha+")";ctx.lineWidth=.65;ctx.beginPath();ctx.moveTo(x1,y1);ctx.lineTo(x2,y2);ctx.stroke()}
+function pcurve(x,y,r,a,t,i){return r+1.2*Math.sin(a*8+t*.47+i*.43)+.55*Math.sin(a*18-t*.35+i*.28)}
+function rings(cx,cy,R,n,t,gap){
+ const spread=R/(n+2);
+ for(let i=1;i<=n;i++){const r=19+i*spread,alpha=.12+.32*(i/n);ctx.beginPath();for(let k=0;k<=198;k++){const a=gap+(Math.PI*2-gap*2)*k/198;const rr=pcurve(cx,cy,r,a,t,i);const x=cx+rr*Math.cos(a),y=cy+rr*Math.sin(a);if(k===0)ctx.moveTo(x,y);else ctx.lineTo(x,y)}ctx.strokeStyle="rgba(220,213,199,"+alpha+")";ctx.lineWidth=.6+(i%5===0?.14:0);ctx.stroke()}
+}
+function ribbon(x,y,length,n,t,amp){
+ for(let i=0;i<n;i++){
+  const q=i-(n-1)/2;ctx.beginPath();
+  for(let k=0;k<=94;k++){let s=k/94,z=s*length;let rise=Math.min(1,z/Math.max(80,length*.16));let dy=q*amp*rise+Math.sin(z*.013+i*.21+t*.42)*7*rise+Math.sin(z*.004-i*.34-t*.26)*7*rise;let xx=x+z;let yy=y+dy;if(k===0)ctx.moveTo(xx,yy);else ctx.lineTo(xx,yy)}
+  ctx.strokeStyle="rgba(222,213,197,"+(.13+(1-Math.abs(q)/(n/2))*.26)+")";ctx.lineWidth=.65;ctx.stroke()
+ }
+}
+function guide(cx,cy,extent){linear(cx,cy-extent-38,cx,cy+extent+38,.16);linear(cx-extent-36,cy,cx+extent+36,cy,.12);for(let s of [-1,1]){dot(cx,cy+s*(extent+38),1.65,C.white,.64)}}
+function dot(x,y,r,col,opacity){ctx.globalAlpha=opacity===undefined?1:opacity;ctx.fillStyle=col;ctx.beginPath();ctx.arc(x,y,r,0,Math.PI*2);ctx.fill();ctx.globalAlpha=1}
+function dust(t,count,cx,cy,rad,seed){
+ for(let i=0;i<count;i++){let a=(i*2.39996+seed), rr=(.14+((i*57)%113)/130)*rad,shift=(1+Math.sin(i*13.4+t*.15))*.007*rad;let x=cx+Math.cos(a+t*.007*Math.sin(i))*rr+shift,y=cy+Math.sin(a-t*.004)*rr*.7;dot(x,y,((i*11)%5===0?1.8:.65),i%19===0?C.rust:C.bone,.16+(i%9)/36)}
+}
+function cross(x,y,scale){linear(x-scale,y,x+scale,y,.26);linear(x,y-scale,x,y+scale,.26);dot(x,y,2.8,C.red,.92)}
+function drawHome(t){
+ if(!mobile){
+  let cx=W*.236,cy=H*.505,rr=Math.min(W*.173,H*.31);
+  guide(cx,cy,rr+4);rings(cx,cy,rr,22,t,.27);ribbon(cx+4,cy,W*.78,22,t,6.2);cross(cx,cy,4);
+  dot(W*.112,cy,4,C.rust,1);dot(cx,cy-rr-45,2,C.white,.85);dot(cx,cy+rr+45,2,C.white,.85);
+  linear(W*.04,H*.073,W*.96,H*.073,.34);
+ }else{
+  let cx=W*.5,cy=H*.425,rr=Math.min(W*.39,H*.18);
+  guide(cx,cy,rr);rings(cx,cy,rr,18,t,.34);cross(cx,cy,4);
+  ctx.save();ctx.translate(cx,cy);ctx.rotate(Math.PI/2);ribbon(0,0,H*.65,17,t,4.1);ctx.restore();
+  dot(cx-rr-9,cy,3.4,C.rust,1);dot(cx,cy-rr-29,2,C.white,.75);
+ }
+}
+function strikes(cx,cy,t,seed){
+ const n=19, span=Math.min(W*.68,920);
+ linear(cx-span*.55,cy,cx+span*.55,cy,.1);
+ for(let i=0;i<n;i++){let x=cx-span*.48+i*span*.96/(n-1),v=Math.sin(i*2.34+seed)*.5+.5;
+ let h=22+v*86+(Math.cos(i*.75+t*.48)*6);if(i===9||i===14)continue;
+ linear(x,cy-h,x,cy+h,.15+v*.26);if(i%3===0)dot(x,cy-h,1.65,i%2?C.teal:C.bone,.75)}
+ dot(cx,cy,3,C.red,1);
+}
+function lattice(cx,cy,t,seed){
+ let rw=Math.min(W*.72,1100),rh=Math.min(H*.6,600);
+ for(let j=-11;j<=11;j++){ctx.beginPath();for(let k=0;k<=80;k++){let xx=cx-rw*.5+k*rw/80;let yy=cy+j*rh/30+Math.sin((xx-cx)*.009+j*.33+t*.3)*8+Math.sin(k*.19+t*.45+seed)*2;if(k===0)ctx.moveTo(xx,yy);else ctx.lineTo(xx,yy)}ctx.strokeStyle="rgba(219,212,197,"+(.12+(11-Math.abs(j))*.011)+")";ctx.lineWidth=.65;ctx.stroke()}
+ for(let i=0;i<11;i++){let xx=cx-rw*.44+i*rw*.088;linear(xx,cy-rh*.29,xx,cy+rh*.29,.065)}
+}
+function spiral(cx,cy,t,seed){
+ ctx.beginPath();for(let i=0;i<=1600;i++){let a=i/64*2*Math.PI*.75;let r=12+i*.115+2*Math.sin(a*4+t*.25+seed);let x=cx+r*Math.cos(a),y=cy+r*Math.sin(a);if(i===0)ctx.moveTo(x,y);else ctx.lineTo(x,y)}ctx.strokeStyle="rgba(224,214,199,.38)";ctx.lineWidth=.85;ctx.stroke();for(let i=0;i<15;i++){let a=i*2.4,rr=30+i*12;dot(cx+rr*Math.cos(a),cy+rr*Math.sin(a),i%5===0?2.4:1.2,i%5===0?C.teal:C.bone,.62)}
+}
+function roomArt(mode,index,t){
+ const cx=mobile?W*.5:W*.40,cy=mobile?H*.47:H*.52;
+ const r=Math.min(W*(mobile?.37:.185),H*.29);
+ if(mode==="arc"){guide(cx,cy,r);rings(cx,cy,r,21,t,.42);if(!mobile)ribbon(cx+9,cy,W*.7,16,t,5.4);else{ctx.save();ctx.translate(cx,cy);ctx.rotate(Math.PI/2);ribbon(0,0,H*.5,16,t,3.5);ctx.restore()}}
+ if(mode==="ribbon"){if(!mobile){rings(cx-W*.09,cy,r*.52,10,t,.37);ribbon(cx-W*.08,cy,W*.8,25,t,5.8)}else{rings(cx,cy-H*.06,r*.64,12,t,.33);ctx.save();ctx.translate(cx,cy-H*.04);ctx.rotate(Math.PI/2);ribbon(0,0,H*.59,21,t,4);ctx.restore()}}
+ if(mode==="ticks"){strikes(mobile?W*.5:W*.51,cy,t,index)}
+ if(mode==="double"){rings(cx-r*.4,cy-r*.17,r*.75,14,t,.14);rings(cx+r*.55,cy+r*.16,r*.78,14,-t,.14);linear(cx-r*1.5,cy+r*.07,cx+r*1.5,cy+r*.07,.13);dot(cx-r*.4,cy-r*.17,3.1,C.red,1)}
+ if(mode==="axis"){guide(cx,cy,r);rings(cx,cy,r*.8,12,t,1.04);for(let i=0;i<17;i++){let y=cy-r+i*(r*2/16);linear(cx-r*.6,y,cx+r*.6,y,i===8?.32:.08)}}
+ if(mode==="fracture"){rings(cx,cy,r,20,t,.58);for(let i=0;i<21;i++){let y=cy+(i-10)*r*.12;linear(cx+Math.sin(i*.85+t*.32)*r*.21,y,cx+r*.65,y,.15+i*.006)}}
+ if(mode==="echo"){for(let i=0;i<4;i++)rings(cx+(i-1.5)*r*.2,cy+(i-1.5)*r*.03,r*.59,8,t+i*.3,.3);linear(cx-r*1.5,cy,cx+r*1.5,cy,.12)}
+ if(mode==="lattice"){lattice(mobile?W*.5:W*.5,cy,t,index)}
+ if(mode==="spiral"){spiral(mobile?W*.5:W*.49,cy,t,index);guide(mobile?W*.5:W*.49,cy,r)}
+ if(mode==="dust"){rings(cx,cy,r*.58,11,t,.2);dust(t,260, mobile?W*.5:W*.56,cy,r*1.6,index);cross(cx,cy,4)}
+ if(mode==="veil"){for(let i=-13;i<=13;i++){ctx.beginPath();for(let k=0;k<=90;k++){let q=k/90,y=H*(mobile?.26:.14)+q*H*.76,x=cx+i*4.4+Math.sin(q*12+t*.38+i*.17)*r*.24*q;if(k===0)ctx.moveTo(x,y);else ctx.lineTo(x,y)}ctx.strokeStyle="rgba(218,211,197,"+(.10+.21*(1-Math.abs(i)/14))+")";ctx.lineWidth=.7;ctx.stroke()}}
+ if(mode==="glyph"){guide(cx,cy,r*.95);for(let i=0;i<4;i++){let x=cx+(i-1.5)*r*.75, y=cy+Math.sin(i*1.8)*r*.1;ctx.beginPath();ctx.arc(x,y,r*.23,.18+i*.2,Math.PI*1.78+i*.1);ctx.strokeStyle="rgba(219,211,196,.36)";ctx.lineWidth=.8;ctx.stroke();dot(x,y,2.4,i===0?C.red:C.bone,.87)}}
+ if(mode!=="dust")dust(t,26, mobile?W*.5:W*.6,cy,r*1.7,index);
+}
+function draw(t){
+ ctx.setTransform(dpr,0,0,dpr,0,0);ctx.fillStyle="#080808";ctx.fillRect(0,0,W,H);
+ if(current==="home")drawHome(t);else{let s=pages[current];roomArt(s.mode,s.index,t)}
+ if(hover!==-1){let b=layer.children[hover];if(b){let r=b.getBoundingClientRect(),x=r.left+r.width/2,y=r.top+r.height/2;for(let i=0;i<2;i++){ctx.beginPath();ctx.arc(x,y,21+i*13+Math.sin(t*1.4+i)*2,0,Math.PI*2);ctx.strokeStyle="rgba(211,204,186,"+(.12/(i+1))+")";ctx.lineWidth=.7;ctx.stroke()}}}
+}
+function placements(){
+ if(current==="home"){
+  if(!mobile)return [[.236,.505],[.112,.505],[.48,.48],[.77,.55],[.62,.67],[.236,.17],[.65,.40],[.82,.68],[.40,.66],[.935,.49],[.236,.84],[.71,.47]];
+  return [[.50,.425],[.13,.425],[.50,.62],[.48,.80],[.27,.68],[.50,.27],[.70,.73],[.58,.90],[.35,.55],[.75,.59],[.50,.34],[.23,.80]];
+ }
+ if(!mobile)return [[.40,.52],[.59,.43],[.76,.61],[.28,.30]];
+ return [[.50,.47],[.69,.40],[.55,.73],[.27,.62]];
+}
+function destinations(){return current==="home"?homeDest:pages[current].links}
+function placeNodes(){
+ if(!W||!H)return;layer.replaceChildren();
+ const pts=placements(),targets=destinations();
+ targets.forEach(function(dest,i){
+  const a=document.createElement("button");a.className="node";a.type="button";a.style.setProperty("--x",(pts[i][0]*100)+"%");a.style.setProperty("--y",(pts[i][1]*100)+"%");
+  a.style.setProperty("--col",palette[(i+(current==="home"?0:pages[current].index%6))%palette.length]);
+  a.style.setProperty("--dot",i===0?"7px":((i+1)%4===0?"4px":"5px"));
+  a.setAttribute("aria-label",dest[0]==="/"?("Open "+(dest.includes("atlas")||dest.includes("edition")||dest.includes("Digital_Edition")?"full Atlas":"KLAAT archive")):("Explore field "+dest));
+  a.innerHTML='<span class="ring"></span><span class="ring two"></span><span class="ink"></span>';
+  a.addEventListener("mouseenter",function(){hover=i;hint.classList.add("disappear")});a.addEventListener("mouseleave",function(){hover=-1});
+  a.addEventListener("focus",function(){hover=i});a.addEventListener("blur",function(){hover=-1});
+  a.addEventListener("click",function(){a.classList.add("tapped");if(dest[0]==="/"){location.href=dest;return}travel(dest)});
+  layer.appendChild(a)
+ })
+ pos.textContent=(current==="home"?"00":String(pages[current].index).padStart(2,"0"))+" / 24";
+ trail.replaceChildren();path.slice(-9).forEach(function(_,i,arr){let a=document.createElement("i");if(i===arr.length-1)a.className="latest";trail.appendChild(a)});
+ document.body.classList.toggle("is-home",current==="home");back.disabled=current==="home";document.title=current==="home"?"KLAAT — The Living Field":"KLAAT — Field "+String(pages[current].index).padStart(2,"0");
+}
+function travel(id,replace){
+ if(changing||!(id==="home"||pages[id]))return;
+ changing=true;hover=-1;veil.classList.add("on");setTimeout(function(){
+  if(replace){const at=path.lastIndexOf(id);path=at>=0?path.slice(0,at+1):["home",id]}else path.push(id);
+  current=id;if(id!=="home"){been.add(id);try{localStorage.setItem("klaat_field_visited",JSON.stringify(Array.from(been)))}catch(e){}}
+  if(!replace)history.pushState({field:id},"","#"+id);placeNodes();veil.classList.remove("on");setTimeout(function(){changing=false},400)
+ },reduceMotion?0:370)
+}
+function goBack(){
+ if(path.length<2){if(current!=="home")travel("home",true);return}
+ const prev=path[path.length-2];path.pop();travel(prev,true)
+}
+$("homeLink").addEventListener("click",function(e){e.preventDefault();if(current!=="home")travel("home");else history.replaceState({field:"home"},"","#home")});
+back.addEventListener("click",goBack);
+document.addEventListener("keydown",function(e){if(e.key==="Escape"||e.key==="Backspace"&&e.target.tagName!=="INPUT"){if(current!=="home"){e.preventDefault();goBack()}}});
+window.addEventListener("popstate",function(){const id=decodeURIComponent(location.hash.slice(1)||"home");if(id==="home"||pages[id])travel(id,true)});
+sound.addEventListener("click",async function(){try{if(audio.paused){await audio.play();sound.setAttribute("aria-pressed","true")}else{audio.pause();sound.setAttribute("aria-pressed","false")}}catch(e){sound.setAttribute("aria-pressed","false")}});
+audio.addEventListener("pause",function(){sound.setAttribute("aria-pressed","false")});audio.addEventListener("play",function(){sound.setAttribute("aria-pressed","true")});
+let last=0;function animate(ms){if(ms-last>(reduceMotion?240:30)){now=ms*.001;draw(now);last=ms}requestAnimationFrame(animate)}
+window.addEventListener("resize",size,{passive:true});size();
+const hash=decodeURIComponent(location.hash.slice(1));if(hash&&pages[hash]){current=hash;path=["home",hash];been.add(hash);placeNodes()}else if(!hash){history.replaceState({field:"home"},"","#home")}
+requestAnimationFrame(animate);
+})();
+</script>
+</body>
+</html>
