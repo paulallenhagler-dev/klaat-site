@@ -19,6 +19,16 @@
 *{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:var(--black);color:var(--bone)}
 body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
 #field{position:fixed;inset:0;width:100%;height:100%;display:block;touch-action:manipulation}
+#approvedPoster{position:fixed;margin:0;left:50%;top:50%;transform:translate(-50%,-50%);width:min(100vw,56.28dvh);aspect-ratio:941/1672;z-index:1;pointer-events:none;opacity:0;visibility:hidden;transition:opacity .48s ease}
+#approvedPoster img{display:block;width:100%;height:100%;object-fit:contain;user-select:none;-webkit-user-drag:none}
+body.has-approved #approvedPoster{opacity:1;visibility:visible}
+body.has-approved #fieldInfo{opacity:0!important;visibility:hidden}
+body.has-approved header:after{border-bottom-color:#aaa29415}
+body.has-approved .node.approved .ink{opacity:0}
+body.has-approved .node.approved:focus-visible .ink,body.has-approved .node.approved:hover .ink{opacity:.8}
+body.has-approved #grain{opacity:.035}
+@media(max-width:720px){body.has-approved .smallmark{opacity:0}body.has-approved header:after{opacity:0}body.has-approved #floor{border-top-color:#a49c8d24}}
+
 #grain{position:fixed;inset:0;pointer-events:none;z-index:2;opacity:.14;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 180 180' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.92' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='.12'/%3E%3C/svg%3E")}
 header{position:fixed;top:0;left:0;width:100%;z-index:12;display:flex;align-items:center;justify-content:space-between;padding:32px clamp(24px,4.3vw,75px) 18px;pointer-events:none}
 header:after{content:"";position:absolute;bottom:0;left:4.3vw;right:4.3vw;border-bottom:1px solid #a49c8d77}
@@ -94,6 +104,7 @@ header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:1
 </head>
 <body class="is-home">
 <canvas id="field" role="img" aria-label="An abstract interactive acoustic diagram: interrupted concentric rings and drifting contours. Explore the colored marks."></canvas>
+<figure id="approvedPoster" aria-hidden="true"><img id="approvedImage" alt="" decoding="async"></figure>
 <div id="grain" aria-hidden="true"></div>
 <header>
  <a class="smallmark" href="#home" id="homeLink" aria-label="Return to KLAAT home"><img class="logo" src="/assets/klaat-wordmark.png" alt="KLAAT" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'"><span class="fallback">KLΛΛT</span></a>
@@ -170,6 +181,29 @@ const meta={
  source:["METHOD / SOURCE","Every diagram begins as a question.","The artwork suggests a relationship; it does not establish a measurement."]
 };
 const pages={};defs.forEach(function(a,i){pages[a[0]]={index:i+1,mode:a[1],links:a[2]}});
+const approvedArt={
+ held:"01-held",division:"02-division",room:"03-room",breath:"04-breath",drift:"05-drift",
+ omission:"06-omission",harmonics:"07-harmonics",suspension:"08-suspension",threshold:"09-threshold",return:"10-return"
+};
+const approvedMarks={
+ held:[[.494,.356],[.192,.357],[.722,.240],[.500,.535]],
+ division:[[.459,.447],[.610,.302],[.169,.450],[.840,.375]],
+ room:[[.183,.430],[.643,.255],[.807,.429],[.491,.658]],
+ breath:[[.500,.140],[.342,.317],[.659,.337],[.307,.513]],
+ drift:[[.241,.195],[.509,.331],[.649,.552],[.838,.615]],
+ omission:[[.251,.450],[.518,.454],[.740,.449],[.588,.326]],
+ harmonics:[[.500,.628],[.502,.347],[.500,.461],[.129,.477]],
+ suspension:[[.500,.456],[.158,.226],[.841,.682],[.500,.172]],
+ threshold:[[.465,.382],[.157,.382],[.677,.525],[.712,.301]],
+ return:[[.500,.371],[.161,.399],[.254,.527],[.501,.561]]
+};
+function approvedBounds(){const aspect=941/1672,iw=Math.min(W,H*aspect),ih=iw/aspect;return {left:(W-iw)/2,top:(H-ih)/2,width:iw,height:ih}}
+function syncArtwork(){
+ const id=approvedArt[current],el=$("approvedImage");
+ document.body.classList.toggle("has-approved",!!id);
+ if(id){const src="/assets/fields/"+id+".webp";if(el.getAttribute("src")!==src)el.setAttribute("src",src)}
+ else el.removeAttribute("src");
+}
 const homeDest=["held","division","room","body","grammar","@audio","archive"];
 const audioModes=[
  {id:"01",rate:1,type:"allpass",freq:1100,wet:0,delay:.26,feedback:.10,name:"SOURCE"},
@@ -289,7 +323,7 @@ function roomArt(mode,index,t){
 }
 function draw(t){
  ctx.setTransform(dpr,0,0,dpr,0,0);ctx.fillStyle="#080808";ctx.fillRect(0,0,W,H);
- if(current==="home")drawHome(t);else{let s=pages[current];roomArt(s.mode,s.index,t)}
+ if(current==="home")drawHome(t);else if(!approvedArt[current]){let s=pages[current];roomArt(s.mode,s.index,t)}
  if(hover!==-1){let b=layer.children[hover];if(b){let r=b.getBoundingClientRect(),x=r.left+r.width/2,y=r.top+r.height/2;for(let i=0;i<2;i++){ctx.beginPath();ctx.arc(x,y,21+i*13+Math.sin(t*1.4+i)*2,0,Math.PI*2);ctx.strokeStyle="rgba(211,204,186,"+(.12/(i+1))+")";ctx.lineWidth=.7;ctx.stroke()}}}
 }
 function placements(){
@@ -297,6 +331,7 @@ function placements(){
   if(!mobile)return [[.236,.505],[.112,.505],[.53,.51],[.78,.60],[.65,.40],[.91,.52],[.37,.70]];
   return [[.5,.425],[.20,.45],[.76,.56],[.23,.70],[.75,.72],[.51,.68],[.50,.83]];
  }
+ if(approvedArt[current]){const r=approvedBounds();return approvedMarks[current].map(p=>[(r.left+p[0]*r.width)/W,(r.top+p[1]*r.height)/H])}
  if(!mobile)return [[.40,.52],[.59,.43],[.76,.61],[.28,.30]];
  return [[.50,.45],[.73,.42],[.70,.63],[.28,.62]];
 }
@@ -306,7 +341,7 @@ function placeNodes(){
  layer.replaceChildren();hover=-1;const pts=placements(),targets=destinations();
  targets.forEach(function(dest,i){
   const a=document.createElement("button"),action=dest==="@audio"?"audio":dest==="@read"||dest[0]==="/"?"read":dest==="@observe"?"observe":"portal";
-  a.className="node "+action;a.type="button";a.style.setProperty("--x",(pts[i][0]*100)+"%");a.style.setProperty("--y",(pts[i][1]*100)+"%");
+  a.className="node "+action+(approvedArt[current]?" approved":"");a.type="button";a.style.setProperty("--x",(pts[i][0]*100)+"%");a.style.setProperty("--y",(pts[i][1]*100)+"%");
   a.style.setProperty("--col",action==="audio"?C.teal:action==="read"?C.bone:action==="observe"?C.purple:i%3===0?C.red:C.rust);
   a.style.setProperty("--dot",i===0?"7px":(action==="audio"?"5.5px":"4.5px"));
   const targetName=meta[dest]?.[0]||dest;
@@ -326,7 +361,7 @@ function placeNodes(){
  });
  pos.textContent=(current==="home"?"00":String(pages[current].index).padStart(2,"0"))+" / 24";
  trail.replaceChildren();path.slice(-9).forEach(function(_,i,arr){let a=document.createElement("i");if(i===arr.length-1)a.className="latest";trail.appendChild(a)});
- document.body.classList.toggle("is-home",current==="home");back.disabled=current==="home";
+ syncArtwork();document.body.classList.toggle("is-home",current==="home");back.disabled=current==="home";
  const annotation=meta[current];$("fieldId").textContent=annotation?String(pages[current].index).padStart(2,"0")+" / "+annotation[0]:"";
  $("fieldCopy").textContent=annotation?annotation[1]:"";$("secondary").textContent="";$("secondary").classList.remove("shown");
  document.title=current==="home"?"KLAAT — The Living Field":"KLAAT — "+(annotation?.[0]||"Field");
