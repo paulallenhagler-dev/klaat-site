@@ -21,6 +21,12 @@ body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;-webkit-font-smooth
 #field{position:fixed;inset:0;width:100%;height:100%;display:block;touch-action:manipulation}
 #approvedPoster{position:fixed;margin:0;left:50%;top:50%;transform:translate(-50%,-50%);width:min(100vw,56.28dvh);aspect-ratio:941/1672;z-index:1;pointer-events:none;opacity:0;visibility:hidden;transition:opacity .48s ease}
 #approvedPoster img{display:block;width:100%;height:100%;object-fit:contain;user-select:none;-webkit-user-drag:none}
+#motionField{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;opacity:.85;mix-blend-mode:screen}
+#inscription{position:fixed;z-index:11;top:clamp(90px,12.5dvh,145px);left:50%;transform:translate(-50%,5px);max-width:min(84vw,480px);width:max-content;min-width:120px;padding:12px 22px 13px;box-sizing:border-box;background:rgba(8,8,8,.95);border-bottom:1px solid rgba(213,205,190,.28);font:italic clamp(12px,1.45vw,17px)/1.65 Georgia,serif;letter-spacing:.025em;color:#d9d0c2;text-align:center;opacity:0;visibility:hidden;pointer-events:none;transition:opacity .75s,transform .75s,visibility .75s}
+#inscription.visible{opacity:.95;visibility:visible;transform:translate(-50%,0)}
+@media(max-width:720px){#inscription{top:clamp(78px,12dvh,105px);max-width:84vw;padding:9px 14px;font-size:12px;line-height:1.5}}
+@media(prefers-reduced-motion:reduce){#motionField{display:none}}
+
 /* Correct a typesetting error in the approved Fieldwork plate without changing the original image. */
 #approvedPoster.art-fieldwork{container-type:inline-size}
 #approvedPoster.art-fieldwork::after{content:"PLATE XX / FIELDWORK";position:absolute;right:5.4%;top:3.66%;width:29.5%;height:1.65%;display:flex;align-items:center;justify-content:flex-end;padding-right:0.2%;background:#080808;color:#ded6c8;font:600 0.96cqw/1 Arial,Helvetica,sans-serif;letter-spacing:.24em;white-space:nowrap;pointer-events:none}
@@ -108,7 +114,7 @@ header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:1
 </head>
 <body class="is-home">
 <canvas id="field" role="img" aria-label="An abstract interactive acoustic diagram: interrupted concentric rings and drifting contours. Explore the colored marks."></canvas>
-<figure id="approvedPoster" aria-hidden="true"><img id="approvedImage" alt="" decoding="async"></figure>
+<figure id="approvedPoster" aria-hidden="true"><img id="approvedImage" alt="" decoding="async"><canvas id="motionField" width="941" height="1672"></canvas></figure>
 <div id="grain" aria-hidden="true"></div>
 <header>
  <a class="smallmark" href="#home" id="homeLink" aria-label="Return to KLAAT home"><img class="logo" src="/assets/klaat-wordmark.png" alt="KLAAT" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'"><span class="fallback">KLΛΛT</span></a>
@@ -116,7 +122,7 @@ header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:1
 </header>
 <div id="homeTitle" aria-hidden="true"><h1>KLΛΛT</h1><p>THE LIVING INTERVAL</p></div>
 <section id="fieldInfo" aria-live="polite" aria-atomic="true" aria-label="Field annotation"><span id="fieldId"></span><p id="fieldCopy"></p><small id="secondary"></small></section>
-<div id="audioLabel" aria-live="polite"></div>
+<div id="audioLabel" aria-live="polite"></div><output id="inscription" aria-live="polite" aria-atomic="true"></output>
 <div id="nodes" aria-label="Interactive field passages"></div>
 <div id="veil"></div>
 <footer id="floor">
@@ -129,7 +135,7 @@ header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:1
 (function(){
 "use strict";
 const $=function(id){return document.getElementById(id)};
-const cv=$("field"),ctx=cv.getContext("2d",{alpha:false}),layer=$("nodes"),veil=$("veil"),back=$("back"),pos=$("position"),trail=$("history"),hint=$("quiet"),sound=$("sound"),audio=$("sourceAudio");
+const cv=$("field"),ctx=cv.getContext("2d",{alpha:false}),motion=$("motionField"),mctx=motion.getContext("2d",{alpha:true}),layer=$("nodes"),veil=$("veil"),back=$("back"),pos=$("position"),trail=$("history"),hint=$("quiet"),sound=$("sound"),audio=$("sourceAudio");
 const C={bone:"#d3ccbd",red:"#e63a32",rust:"#be684a",teal:"#86aca6",purple:"#a78eab",dim:"#847e72",white:"#f1eadc"};
 const palette=[C.red,C.bone,C.teal,C.rust,C.white,C.purple];
 const defs=[
@@ -218,10 +224,136 @@ const approvedMarks={
  unseen:[[.552,.413],[.142,.269],[.151,.474],[.512,.143]],
  source:[[.499,.427],[.131,.380],[.116,.531],[.843,.426]]
 };
+
+/* A fine animated study drawn OVER the untouched approved plates. Each family has its own motion grammar.
+   Images remain the literal approved files; effects are deliberately restrained, local and non-destructive. */
+const grammar={
+ current:["held","breath","drift","harmonics","grain","trace","music","unseen","return"],
+ crossings:["room","interference","fieldwork"],
+ pendulum:["division","omission","prediction","interval","clock"],
+ skin:["body","suspension","threshold"],
+ diagram:["grammar","archive","source","circle"]
+};
+const gestures=[];
+let inscriptionTimer=0,artFrame=0;
+function resonanceAt(x,y,kind){
+ if(reduceMotion)return;
+ gestures.push({x:x*941,y:y*1672,start:performance.now(),kind:kind||"touch"});
+ if(gestures.length>12)gestures.shift();
+}
+function showInscription(value){
+ const e=$("inscription");clearTimeout(inscriptionTimer);
+ e.classList.remove("visible");e.textContent=value||"";
+ if(!value)return;
+ requestAnimationFrame(()=>e.classList.add("visible"));
+ inscriptionTimer=setTimeout(()=>e.classList.remove("visible"),7200);
+}
+function drawMotion(t){
+ if(!approvedArt[current])return;
+ mctx.clearRect(0,0,941,1672);
+ if(reduceMotion)return;
+ const p=pages[current],marks=approvedMarks[current],family=Object.keys(grammar).find(k=>grammar[k].includes(current))||"diagram";
+ const seed=p.index,energy=Math.min(.8,signalEnergy*2.0);
+ const X=941,Y=1672;
+ mctx.save();
+ mctx.lineWidth=1.15;
+ const alpha=.048+energy*.105;
+ const main=marks[0],x=main[0]*X,y=main[1]*Y;
+ function stroke(opacity){mctx.strokeStyle="rgba(236,227,208,"+opacity+")";mctx.stroke()}
+ if(family==="current"){
+   // Multiple independent phase-travelling strands, not a single static waveform.
+   // Envelope and origin are field-dependent so no two chambers reuse the exact motion.
+   const right=current==="unseen"?-1:1;
+   const span=seed%3===0?620:seed%3===1?740:530;
+   for(let line=0;line<10;line++){
+      const phase=line*.56+seed*.78,offset=(line-4.5)*5;
+      mctx.beginPath();
+      for(let j=0;j<=52;j++){
+         const u=j/52, xx=x+right*span*u;
+         const yy=y+offset*u+Math.sin(u*13-t*.53+phase)*Math.sin(Math.PI*u)*8.4+(Math.sin(u*21+t*.29+line*.8)*3)*u + energy*Math.sin(u*31+t*2+phase)*8;
+         if(!j)mctx.moveTo(xx,yy);else mctx.lineTo(xx,yy);
+      }
+      stroke(alpha*(.6+line/19));
+   }
+   if(current==="held"||current==="harmonics"||current==="music"){
+      for(let ring=0;ring<5;ring++){
+        const R=57+ring*30;
+        mctx.beginPath();
+        for(let k=0;k<=80;k++){
+          const a=k/80*Math.PI*1.82+.18;
+          const mod=Math.sin(a*(5+ring)+t*.65+ring*.4)*(.8+energy*7);
+          let px=x+Math.cos(a)*(R+mod),py=y+Math.sin(a)*(R+mod);
+          if(!k)mctx.moveTo(px,py);else mctx.lineTo(px,py);
+        }
+        stroke(alpha*(.55+ring*.04));
+      }
+   }
+ }else if(family==="crossings"){
+   const cx=seed%2?520:440,cy=680;
+   for(let side of [-1,1])for(let k=0;k<9;k++){
+      mctx.beginPath();
+      for(let j=0;j<=44;j++){
+         const u=j/44;
+         const xx=70+u*800, yy=cy+side*(k*14+34)+Math.sin(u*11+side*k*.53+seed+t*.43)*Math.sin(Math.PI*u)*18+energy*Math.sin(u*17-t+seed)*10;
+         if(!j)mctx.moveTo(xx,yy);else mctx.lineTo(xx,yy);
+      }
+      stroke(alpha*.65);
+   }
+ }else if(family==="pendulum"){
+   const bpm=seed%2?1.24:1.62;
+   for(let k=0;k<16;k++){
+     const xx=140+k*41,yy=565+(k%3)*5;
+     const intensity=Math.pow(Math.max(0,Math.cos((t*bpm-k*.37)*Math.PI)),12);
+     mctx.beginPath();mctx.moveTo(xx,yy-12-intensity*(24+energy*27));mctx.lineTo(xx,yy+12+intensity*22);
+     stroke((.025+intensity*.085)*(1+energy));
+   }
+ }else if(family==="skin"){
+   for(let k=0;k<13;k++){
+     const xx=240+k*30,mul=Math.sin(t*.37+k*.51+seed);
+     mctx.beginPath();
+     mctx.moveTo(xx,345);mctx.bezierCurveTo(xx+mul*11,525,xx-mul*13,740,xx+mul*10,910);
+     stroke(alpha*.67);
+   }
+ }else{
+   const cx=current==="circle"?420:480,cy=current==="archive"?710:675;
+   for(let k=0;k<7;k++){
+      const R=62+k*37,rotation=t*.025+seed*.04;
+      mctx.beginPath();
+      for(let a=0;a<=55;a++){
+         const angle=(a/55)*Math.PI*(current==="circle"?1.7:.95)+rotation;
+         const distort=2.8*Math.sin(7*angle-t*.55+k)+energy*7;
+         const xx=cx+(R+distort)*Math.cos(angle),yy=cy+(R*.52+distort)*Math.sin(angle);
+         if(!a)mctx.moveTo(xx,yy);else mctx.lineTo(xx,yy);
+      }
+      stroke(alpha*.53);
+   }
+ }
+ // A slowly breathing mark at a fixed point in the actual image, not a floating control.
+ if(signalOn){
+   const rr=14+energy*30+Math.sin(t*2.6+seed)*4;
+   mctx.beginPath();mctx.arc(x,y,rr,0,Math.PI*2);stroke(.07+energy*.17);
+ }
+ for(let i=gestures.length-1;i>=0;i--){
+    const e=gestures[i],age=performance.now()-e.start;
+    if(age>1800){gestures.splice(i,1);continue}
+    const q=age/1800,R=4+q*89,fade=(1-q)**2;
+    mctx.beginPath();mctx.arc(e.x,e.y,R,0,Math.PI*2);stroke(.30*fade);
+    mctx.beginPath();mctx.arc(e.x,e.y,R*.52,0,Math.PI*2);stroke(.13*fade);
+    if(e.kind==="audio"&&i%2===0){
+       for(let j=0;j<6;j++){
+         const a=j*2.4+seed*.1;
+         mctx.fillStyle="rgba(132,175,163,"+(.20*fade)+")";
+         mctx.beginPath();mctx.arc(e.x+Math.cos(a)*R*1.3,e.y+Math.sin(a)*R*.75,1.7,0,Math.PI*2);mctx.fill();
+       }
+    }
+ }
+ mctx.restore();
+}
 function approvedBounds(){const aspect=941/1672,iw=Math.min(W,H*aspect),ih=iw/aspect;return {left:(W-iw)/2,top:(H-ih)/2,width:iw,height:ih}}
 function syncArtwork(){
  const id=approvedArt[current],el=$("approvedImage");
  document.body.classList.toggle("has-approved",!!id);
+ if(!id){mctx.clearRect(0,0,941,1672);gestures.length=0}
  $("approvedPoster").classList.toggle("art-fieldwork",current==="fieldwork");
  if(id){const src="/assets/fields/"+id+".webp";if(el.getAttribute("src")!==src)el.setAttribute("src",src)}
  else el.removeAttribute("src");
@@ -374,16 +506,26 @@ function placeNodes(){
   a.addEventListener("focus",function(){hover=i});a.addEventListener("blur",function(){hover=-1});
   a.addEventListener("click",function(){
    a.classList.add("tapped");
-   if(action==="audio"){playVariation(Math.floor(Math.random()*audioModes.length));return}
+   if(action==="audio"){
+     const last=currentMode;let next=Math.floor(Math.random()*audioModes.length);
+     if(next===last)next=(next+1)%audioModes.length;
+     if(approvedArt[current])resonanceAt(approvedMarks[current][i][0],approvedMarks[current][i][1],"audio");
+     playVariation(next);return
+   }
    if(action==="read"){location.href=dest[0]==="/"?dest:"/edition.html";return}
-   if(action==="observe"){const e=$("secondary");e.textContent=meta[current]?.[2]||"";e.classList.add("shown");return}
+   if(action==="observe"){
+     showInscription(meta[current]?.[2]||"");
+     if(approvedArt[current])resonanceAt(approvedMarks[current][i][0],approvedMarks[current][i][1],"observe");
+     return
+   }
+   if(approvedArt[current])resonanceAt(approvedMarks[current][i][0],approvedMarks[current][i][1],"portal");
    travel(dest)
   });
   layer.appendChild(a)
  });
  pos.textContent=(current==="home"?"00":String(pages[current].index).padStart(2,"0"))+" / 24";
  trail.replaceChildren();path.slice(-9).forEach(function(_,i,arr){let a=document.createElement("i");if(i===arr.length-1)a.className="latest";trail.appendChild(a)});
- syncArtwork();document.body.classList.toggle("is-home",current==="home");back.disabled=current==="home";
+ showInscription("");syncArtwork();document.body.classList.toggle("is-home",current==="home");back.disabled=current==="home";
  const annotation=meta[current];$("fieldId").textContent=annotation?String(pages[current].index).padStart(2,"0")+" / "+annotation[0]:"";
  $("fieldCopy").textContent=annotation?annotation[1]:"";$("secondary").textContent="";$("secondary").classList.remove("shown");
  document.title=current==="home"?"KLAAT — The Living Field":"KLAAT — "+(annotation?.[0]||"Field");
@@ -408,7 +550,20 @@ window.addEventListener("popstate",function(){const id=decodeURIComponent(locati
 sound.addEventListener("click",function(){if(signalOn){stopAudio();return}let choice=Math.floor(Math.random()*audioModes.length);if(audioModes.length>1&&choice===currentMode)choice=(choice+1)%audioModes.length;playVariation(choice)});
 audio.addEventListener("pause",function(){if(signalOn)stopAudio()});
 audio.addEventListener("error",function(){$("audioLabel").textContent="AUDIO UNAVAILABLE";$("audioLabel").classList.add("active")});
-let last=0;function animate(ms){if(!document.hidden&&ms-last>(reduceMotion?250:mobile?36:30)){audioLevel();now=ms*.001;draw(now);last=ms}requestAnimationFrame(animate)}
+let last=0;function animate(ms){
+ if(!document.hidden&&ms-last>(reduceMotion?400:mobile?55:33)){
+  audioLevel();now=ms*.001;draw(now);
+  if(approvedArt[current])drawMotion(now);
+  last=ms
+ }
+ requestAnimationFrame(animate)
+}
+// Touching an empty part of the artwork also produces a trace; it does not activate audio.
+cv.addEventListener("pointerdown",function(e){
+ if(!approvedArt[current])return;
+ const b=approvedBounds(),x=(e.clientX-b.left)/b.width,y=(e.clientY-b.top)/b.height;
+ if(x>=0&&x<=1&&y>=.15&&y<=.73)resonanceAt(x,y,"touch");
+},{passive:true});
 window.addEventListener("resize",size,{passive:true});size();
 const hash=decodeURIComponent(location.hash.slice(1));if(hash&&pages[hash]){current=hash;path=["home",hash];been.add(hash);placeNodes()}else if(!hash){history.replaceState({field:"home"},"","#home")}
 requestAnimationFrame(animate);
