@@ -183,7 +183,10 @@ const meta={
 const pages={};defs.forEach(function(a,i){pages[a[0]]={index:i+1,mode:a[1],links:a[2]}});
 const approvedArt={
  held:"01-held",division:"02-division",room:"03-room",breath:"04-breath",drift:"05-drift",
- omission:"06-omission",harmonics:"07-harmonics",suspension:"08-suspension",threshold:"09-threshold",return:"10-return"
+ omission:"06-omission",harmonics:"07-harmonics",suspension:"08-suspension",threshold:"09-threshold",return:"10-return",
+ trace:"11-trace",interference:"12-interference",body:"13-body",prediction:"14-prediction",grain:"15-grain",
+ grammar:"16-grammar",circle:"17-circle",interval:"18-interval",clock:"19-clock",fieldwork:"20-fieldwork",
+ archive:"21-archive",music:"22-music",unseen:"23-unseen",source:"24-source"
 };
 const approvedMarks={
  held:[[.494,.356],[.192,.357],[.722,.240],[.500,.535]],
@@ -195,7 +198,21 @@ const approvedMarks={
  harmonics:[[.500,.628],[.502,.347],[.500,.461],[.129,.477]],
  suspension:[[.500,.456],[.158,.226],[.841,.682],[.500,.172]],
  threshold:[[.465,.382],[.157,.382],[.677,.525],[.712,.301]],
- return:[[.500,.371],[.161,.399],[.254,.527],[.501,.561]]
+ return:[[.500,.371],[.161,.399],[.254,.527],[.501,.561]],
+ trace:[[.123,.384],[.360,.290],[.568,.345],[.730,.548]],
+ interference:[[.307,.424],[.912,.424],[.720,.501],[.656,.571]],
+ body:[[.497,.303],[.504,.506],[.815,.301],[.225,.622]],
+ prediction:[[.752,.422],[.545,.285],[.391,.507],[.141,.423]],
+ grain:[[.075,.422],[.608,.427],[.412,.338],[.760,.320]],
+ grammar:[[.248,.416],[.675,.414],[.606,.334],[.816,.416]],
+ circle:[[.455,.410],[.129,.412],[.627,.263],[.321,.546]],
+ interval:[[.169,.282],[.169,.389],[.171,.487],[.169,.562]],
+ clock:[[.301,.276],[.675,.601],[.601,.300],[.904,.601]],
+ fieldwork:[[.166,.372],[.659,.374],[.363,.529],[.717,.491]],
+ archive:[[.499,.685],[.274,.527],[.642,.447],[.501,.149]],
+ music:[[.133,.427],[.423,.279],[.422,.526],[.669,.356]],
+ unseen:[[.552,.413],[.142,.269],[.151,.474],[.512,.143]],
+ source:[[.499,.427],[.131,.380],[.116,.531],[.843,.426]]
 };
 function approvedBounds(){const aspect=941/1672,iw=Math.min(W,H*aspect),ih=iw/aspect;return {left:(W-iw)/2,top:(H-ih)/2,width:iw,height:ih}}
 function syncArtwork(){
