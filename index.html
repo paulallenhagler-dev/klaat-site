@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="theme-color" content="#080808">
+<meta name="color-scheme" content="dark">
 <meta name="google-site-verification" content="di5E8o12Z2FR5N08ND5FIQakTfVSHUWSVBLpcym97TI">
 <title>KLAAT — The Living Field</title>
 <meta name="description" content="KLAAT. An evolving acoustic practice and visual field of drone, pulse, breath, and the listening mind. Explore the work and the complete Atlas of the Living Interval.">
@@ -38,6 +39,30 @@ header a,header button{pointer-events:auto}
 #homeTitle p{font-size:clamp(7px,.68vw,10px);letter-spacing:.66em;opacity:.78;padding-left:.66em;margin:0;white-space:nowrap}
 body:not(.is-home) #homeTitle{opacity:0;transform:translateY(-15px)}
 #nodes{position:fixed;inset:0;z-index:8;pointer-events:none}
+
+#fieldInfo{position:fixed;z-index:6;right:6.3%;top:57%;width:min(33vw,360px);pointer-events:none;opacity:0;transform:translateY(8px);transition:opacity .55s,transform .6s}
+body:not(.is-home) #fieldInfo{opacity:.9;transform:translateY(0)}
+#fieldId{font-size:9px;letter-spacing:.39em;color:#bcb2a2}
+#fieldCopy{font:clamp(13px,1.15vw,16px)/1.65 Georgia,serif;color:#dbd3c5;margin:12px 0 0;max-width:34ch}
+#secondary{font:10px/1.65 Georgia,serif;display:block;color:#9d968b;margin-top:12px;min-height:0;opacity:0;transition:opacity .45s}
+#secondary.shown{opacity:1}
+#audioLabel{position:fixed;z-index:11;top:97px;right:4.3vw;font-size:9px;letter-spacing:.25em;color:#86aca6;opacity:0;transition:opacity .4s;pointer-events:none;text-align:right;max-width:42vw;line-height:1.7}
+#audioLabel.active{opacity:.85}
+.node.audio{--col:#86aca6}.node.read{--col:#dbd3c5}.node.observe{--col:#a78eab}
+.node.audio.playing .ring{opacity:.64;transform:scale(1.1);animation:breathingRing 2.5s ease-in-out infinite}
+@keyframes breathingRing{50%{opacity:.17;transform:scale(1.7)}}
+.node .ink{box-shadow:0 0 2px #000,0 0 7px color-mix(in srgb,var(--col),transparent 75%)}
+.node:active .ring{opacity:.9;transform:scale(1.4)}
+@media(max-width:720px){
+ #fieldInfo{left:7%;right:6%;top:auto;bottom:11.5%;width:86%;max-width:370px}
+ #fieldId{font-size:8px;letter-spacing:.27em}
+ #fieldCopy{font-size:13px;line-height:1.48;margin:7px 0 0;max-width:43ch}
+ #secondary{font-size:10px;line-height:1.4;margin-top:6px}
+ #audioLabel{top:71px;right:20px;font-size:8px;max-width:60vw}
+ .node{width:50px;height:50px}
+}
+@media(max-height:650px) and (max-width:720px){#fieldInfo{bottom:12%;}#fieldCopy{font-size:11px}}
+
 .node{--col:var(--bone);pointer-events:auto;position:absolute;left:var(--x);top:var(--y);width:48px;height:48px;border:0;padding:0;appearance:none;background:transparent;transform:translate(-50%,-50%);border-radius:50%;cursor:crosshair;touch-action:manipulation}
 .node .ink{position:absolute;width:var(--dot,5px);height:var(--dot,5px);background:var(--col);border-radius:50%;left:50%;top:50%;transform:translate(-50%,-50%);box-shadow:0 0 4px #000;transition:transform .5s}
 .node .ring{position:absolute;inset:9px;border:1px solid var(--col);border-radius:50%;opacity:0;transform:scale(.35);transition:opacity .35s,transform .85s cubic-bezier(.11,.69,.11,1)}
@@ -72,9 +97,11 @@ header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:1
 <div id="grain" aria-hidden="true"></div>
 <header>
  <a class="smallmark" href="#home" id="homeLink" aria-label="Return to KLAAT home"><img class="logo" src="/assets/klaat-wordmark.png" alt="KLAAT" onerror="this.style.display='none';this.nextElementSibling.style.display='inline'"><span class="fallback">KLΛΛT</span></a>
- <div class="top-right"><a class="atlas" href="/edition.html" aria-label="Read the complete KLAAT Atlas, all 274 pages">ATLAS</a><button id="sound" aria-label="Play or pause the KLAAT audio excerpt" aria-pressed="false" title="Sound"></button></div>
+ <div class="top-right"><a class="atlas" href="/edition.html" aria-label="Read the complete KLAAT Atlas, all 274 pages">ATLAS</a><button id="sound" aria-label="Play a listening variation of the KLAAT recording, or pause" aria-pressed="false" title="Sound"></button></div>
 </header>
 <div id="homeTitle" aria-hidden="true"><h1>KLΛΛT</h1><p>THE LIVING INTERVAL</p></div>
+<section id="fieldInfo" aria-live="polite" aria-atomic="true" aria-label="Field annotation"><span id="fieldId"></span><p id="fieldCopy"></p><small id="secondary"></small></section>
+<div id="audioLabel" aria-live="polite"></div>
 <div id="nodes" aria-label="Interactive field passages"></div>
 <div id="veil"></div>
 <footer id="floor">
@@ -91,47 +118,120 @@ const cv=$("field"),ctx=cv.getContext("2d",{alpha:false}),layer=$("nodes"),veil=
 const C={bone:"#d3ccbd",red:"#e63a32",rust:"#be684a",teal:"#86aca6",purple:"#a78eab",dim:"#847e72",white:"#f1eadc"};
 const palette=[C.red,C.bone,C.teal,C.rust,C.white,C.purple];
 const defs=[
- ["held","arc",["breath","harmonics","drift","/atlas-extended.html"]],
- ["division","ticks",["omission","interval","prediction","music"]],
- ["room","double",["interference","body","grain","fieldwork"]],
- ["breath","veil",["grain","held","suspension","trace"]],
- ["drift","ribbon",["clock","threshold","return","grain"]],
- ["omission","ticks",["prediction","suspension","interval","division"]],
- ["harmonics","ribbon",["breath","circle","grain","music"]],
- ["suspension","axis",["omission","threshold","unseen","body"]],
- ["threshold","fracture",["return","suspension","archive","drift"]],
- ["return","echo",["trace","held","fieldwork","circle"]],
- ["trace","lattice",["unseen","grammar","archive","breath"]],
- ["interference","double",["room","circle","body","threshold"]],
- ["body","spiral",["room","music","clock","/research.html"]],
- ["prediction","lattice",["omission","division","interval","clock"]],
- ["grain","dust",["harmonics","breath","trace","unseen"]],
- ["grammar","glyph",["source","trace","circle","/atlas.html"]],
- ["circle","arc",["grammar","interference","return","/atlas.html"]],
- ["interval","ticks",["division","prediction","clock","suspension"]],
- ["clock","spiral",["interval","drift","return","source"]],
- ["fieldwork","double",["room","archive","music","/notes.html"]],
- ["archive","lattice",["source","grammar","fieldwork","/edition.html"]],
- ["music","ribbon",["grain","body","source","held"]],
- ["unseen","dust",["trace","breath","threshold","archive"]],
- ["source","glyph",["/edition.html","/atlas-extended.html","/research.html","/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Digital_Edition.pdf"]]
+ ["held","arc",["breath","grain","harmonics","@audio"]],
+ ["division","ticks",["interval","prediction","omission","@audio"]],
+ ["room","double",["interference","body","fieldwork","@audio"]],
+ ["breath","veil",["grain","room","held","@audio"]],
+ ["drift","ribbon",["return","grain","clock","@audio"]],
+ ["omission","ticks",["suspension","return","division","@audio"]],
+ ["harmonics","ribbon",["music","circle","fieldwork","@audio"]],
+ ["suspension","axis",["body","threshold","room","@observe"]],
+ ["threshold","fracture",["suspension","return","unseen","@observe"]],
+ ["return","echo",["trace","held","source","@audio"]],
+ ["trace","lattice",["unseen","archive","source","@observe"]],
+ ["interference","double",["circle","body","room","@observe"]],
+ ["body","spiral",["clock","room","unseen","@audio"]],
+ ["prediction","lattice",["omission","threshold","grammar","@observe"]],
+ ["grain","dust",["harmonics","drift","trace","@audio"]],
+ ["grammar","glyph",["trace","circle","source","@read"]],
+ ["circle","arc",["grammar","interference","held","@observe"]],
+ ["interval","ticks",["clock","prediction","division","@audio"]],
+ ["clock","spiral",["drift","interval","prediction","@observe"]],
+ ["fieldwork","double",["room","archive","music","@read"]],
+ ["archive","lattice",["source","grammar","fieldwork","@read"]],
+ ["music","ribbon",["held","division","source","@audio"]],
+ ["unseen","dust",["threshold","trace","archive","@observe"]],
+ ["source","glyph",["@read","/atlas-extended.html","/research.html","@audio"]]
 ];
-const pages={}; defs.forEach(function(a,i){pages[a[0]]={index:i+1,mode:a[1],links:a[2]}});
-const homeDest=["held","division","room","breath","harmonics","archive","grain","music","grammar","threshold","source","unseen"];
+const meta={
+ held:["CONTINUITY","A held sound is not a stationary event.","The drone changes internally even when its tonal center remains."],
+ division:["INTERRUPTION","One strike becomes an event. Two establish an interval.","An absent beat has meaning only when an expectation exists."],
+ room:["SPACE","The same sound changes as it crosses the room.","Reflections and surfaces alter what different listeners hear."],
+ breath:["AMASTACIA / BREATH","Continuity requires ongoing effort.","Breath shapes timbre and articulation, not just duration."],
+ drift:["CONTINUITY / CHANGE","A repeated reference can stay while its contents move.","Stable form does not imply identical experience."],
+ omission:["ANKORA / ABSENCE","A missing strike can be heard against an expectation.","Silence contains no hidden energy; anticipation gives it structure."],
+ harmonics:["AMASTACIA / SPECTRUM","One note contains shifting internal detail.","The vocal tract reshapes the relationships among harmonics."],
+ suspension:["ATTENTION / WAITING","A listener can anticipate something that never arrives.","Perception and acoustics are not the same description."],
+ threshold:["FORM / DEPARTURE","Change becomes noticeable against a learned reference.","An irregularity is not inherently meaningful."],
+ return:["RECOGNITION","The next repetition meets a different listener.","A return need not be a resolution."],
+ trace:["MEMORY","The event ends before its interpretation does.","Remembered duration need not match measured duration."],
+ interference:["SPACE / SUPERPOSITION","Two wavefields occupy one room.","An artistic diagram is not a pressure measurement."],
+ body:["PERCEPTION","Sensation is real; its cause remains a separate question.","Listening may involve hearing, touch, posture and expectation."],
+ prediction:["EXPECTATION","Prediction error requires prediction.","Surprise and uncertainty are different."],
+ grain:["TEXTURE","Small events live inside a continuous sound.","The shape of an attack matters as much as its timing."],
+ grammar:["NOTATION","Field. Strike. Drift. Return.","The marks describe relationships; they do not promise effects."],
+ circle:["RESONANCE / IMAGE","A drawn circle is a model, not a measurement.","Keep the artwork and the evidence distinct."],
+ interval:["ANKORA / DENSITY","More events do not necessarily mean a faster pulse.","The anchor and the density can vary independently."],
+ clock:["TIME","There is an event clock and a listener's clock.","Perceived time is not always measured time."],
+ fieldwork:["PRACTICE / ROOM","The room is an acoustic participant.","Actual measurements can test the artistic diagram."],
+ archive:["DOCUMENTED WORK","The Atlas holds the artistic and research record.","The book is available in full, beyond these fragments."],
+ music:["AMASTACIA + ANKORA","The drone continues. The drum interrupts.","This is one musical practice, not a set of magic frequencies."],
+ unseen:["UNFINISHED","The system must grow from the music.","The music owes the system nothing."],
+ source:["ATLAS / SOURCES","The complete work is outside this chamber.","Original reading, full research and source records remain accessible."]
+};
+const pages={};defs.forEach(function(a,i){pages[a[0]]={index:i+1,mode:a[1],links:a[2]}});
+const homeDest=["held","division","room","body","grammar","@audio","@read"];
+const audioModes=[
+ {id:"01",rate:1,type:"allpass",freq:1100,wet:0,delay:.26,feedback:.10,name:"SOURCE"},
+ {id:"02",rate:.97,type:"lowpass",freq:1050,wet:.085,delay:.32,feedback:.10,name:"VEILED"},
+ {id:"03",rate:1.02,type:"highpass",freq:75,wet:.18,delay:.39,feedback:.18,name:"REFLECTION"}
+];
+let audioGraph=null,signalEnergy=0,currentMode=-1,signalOn=false,activeSoundNode=null;
+function graph(){
+ if(audioGraph)return audioGraph;
+ const AC=window.AudioContext||window.webkitAudioContext;if(!AC)return null;
+ try{
+  const ac=new AC(),source=ac.createMediaElementSource(audio),filter=ac.createBiquadFilter(),dry=ac.createGain(),delay=ac.createDelay(2),wet=ac.createGain(),fb=ac.createGain(),analyser=ac.createAnalyser();
+  source.connect(filter);filter.connect(dry);dry.connect(analyser);
+  filter.connect(delay);delay.connect(wet);wet.connect(analyser);
+  delay.connect(fb);fb.connect(delay);analyser.connect(ac.destination);
+  analyser.fftSize=256;audioGraph={ac,filter,dry,delay,wet,fb,analyser,data:new Uint8Array(analyser.frequencyBinCount)};
+  return audioGraph;
+ }catch(e){return null}
+}
+async function playVariation(n){
+ const mode=audioModes[n%audioModes.length],g=graph();currentMode=n%audioModes.length;
+ if(g){
+  try{
+   await g.ac.resume();g.filter.type=mode.type;g.filter.frequency.setTargetAtTime(mode.freq,g.ac.currentTime,.11);
+   g.wet.gain.setTargetAtTime(mode.wet,g.ac.currentTime,.12);g.fb.gain.setTargetAtTime(mode.feedback,g.ac.currentTime,.1);
+   g.delay.delayTime.setTargetAtTime(mode.delay,g.ac.currentTime,.11);
+  }catch(e){}
+ }
+ audio.playbackRate=mode.rate;
+ try{
+  if(!audio.paused){audio.currentTime=0}
+  await audio.play();signalOn=true;
+  sound.setAttribute("aria-pressed","true");$("audioLabel").textContent="SOUND / "+mode.id+" / "+mode.name;$("audioLabel").classList.add("active");
+  if(activeSoundNode)activeSoundNode.classList.remove("playing");
+  const nodes=[...layer.querySelectorAll(".node.audio")];
+  if(nodes.length){activeSoundNode=nodes[0];activeSoundNode.classList.add("playing")}
+ }catch(e){signalOn=false;$("audioLabel").textContent="AUDIO UNAVAILABLE";$("audioLabel").classList.add("active")}
+}
+function stopAudio(){
+ audio.pause();signalOn=false;signalEnergy=0;sound.setAttribute("aria-pressed","false");$("audioLabel").classList.remove("active");
+ if(activeSoundNode)activeSoundNode.classList.remove("playing");activeSoundNode=null;
+}
+function audioLevel(){
+ if(!signalOn||!audioGraph)return signalEnergy*=.86;
+ const g=audioGraph;g.analyser.getByteFrequencyData(g.data);
+ let v=0;for(let i=1;i<50;i++)v+=g.data[i];v/=49*255;
+ return signalEnergy=signalEnergy*.80+Math.min(.75,v)*.20;
+}
 let W=0,H=0,dpr=1,mobile=false,now=0,frame=0,current="home",path=["home"],changing=false,hover=-1,ambient=false,lastPointer={x:0,y:0};
 let been=new Set();try{been=new Set(JSON.parse(localStorage.getItem("klaat_field_visited")||"[]"))}catch(e){}
 const reduceMotion=matchMedia("(prefers-reduced-motion: reduce)").matches;
-function size(){W=window.innerWidth;H=window.innerHeight;mobile=W<720;dpr=Math.min(devicePixelRatio||1,2);cv.width=Math.round(W*dpr);cv.height=Math.round(H*dpr);cv.style.width=W+"px";cv.style.height=H+"px";ctx.setTransform(dpr,0,0,dpr,0,0);placeNodes()}
+function size(){W=window.innerWidth;H=window.innerHeight;mobile=W<720;dpr=Math.min(devicePixelRatio||1,mobile?1.5:2);cv.width=Math.round(W*dpr);cv.height=Math.round(H*dpr);cv.style.width=W+"px";cv.style.height=H+"px";ctx.setTransform(dpr,0,0,dpr,0,0);placeNodes()}
 function linear(x1,y1,x2,y2,alpha){ctx.strokeStyle="rgba(218,211,195,"+alpha+")";ctx.lineWidth=.65;ctx.beginPath();ctx.moveTo(x1,y1);ctx.lineTo(x2,y2);ctx.stroke()}
-function pcurve(x,y,r,a,t,i){return r+1.2*Math.sin(a*8+t*.47+i*.43)+.55*Math.sin(a*18-t*.35+i*.28)}
+function pcurve(x,y,r,a,t,i){return r+(1.2+signalEnergy*8)*Math.sin(a*8+t*.47+i*.43)+(.55+signalEnergy*3)*Math.sin(a*18-t*.35+i*.28)}
 function rings(cx,cy,R,n,t,gap){
  const spread=R/(n+2);
- for(let i=1;i<=n;i++){const r=19+i*spread,alpha=.12+.32*(i/n);ctx.beginPath();for(let k=0;k<=198;k++){const a=gap+(Math.PI*2-gap*2)*k/198;const rr=pcurve(cx,cy,r,a,t,i);const x=cx+rr*Math.cos(a),y=cy+rr*Math.sin(a);if(k===0)ctx.moveTo(x,y);else ctx.lineTo(x,y)}ctx.strokeStyle="rgba(220,213,199,"+alpha+")";ctx.lineWidth=.6+(i%5===0?.14:0);ctx.stroke()}
+ for(let i=1;i<=n;i++){const r=19+i*spread,alpha=.12+.32*(i/n);ctx.beginPath();for(let k=0,steps=mobile?112:182;k<=steps;k++){const a=gap+(Math.PI*2-gap*2)*k/steps;const rr=pcurve(cx,cy,r,a,t,i);const x=cx+rr*Math.cos(a),y=cy+rr*Math.sin(a);if(k===0)ctx.moveTo(x,y);else ctx.lineTo(x,y)}ctx.strokeStyle="rgba(220,213,199,"+alpha+")";ctx.lineWidth=.6+(i%5===0?.14:0);ctx.stroke()}
 }
 function ribbon(x,y,length,n,t,amp){
  for(let i=0;i<n;i++){
   const q=i-(n-1)/2;ctx.beginPath();
-  for(let k=0;k<=94;k++){let s=k/94,z=s*length;let rise=Math.min(1,z/Math.max(80,length*.16));let dy=q*amp*rise+Math.sin(z*.013+i*.21+t*.42)*7*rise+Math.sin(z*.004-i*.34-t*.26)*7*rise;let xx=x+z;let yy=y+dy;if(k===0)ctx.moveTo(xx,yy);else ctx.lineTo(xx,yy)}
+  for(let k=0,steps=mobile?62:94;k<=steps;k++){let s=k/steps,z=s*length;let rise=Math.min(1,z/Math.max(80,length*.16));let dy=q*amp*rise+Math.sin(z*.013+i*.21+t*.42)*7*rise+Math.sin(z*.004-i*.34-t*.26)*7*rise;let xx=x+z;let yy=y+dy;if(k===0)ctx.moveTo(xx,yy);else ctx.lineTo(xx,yy)}
   ctx.strokeStyle="rgba(222,213,197,"+(.13+(1-Math.abs(q)/(n/2))*.26)+")";ctx.lineWidth=.65;ctx.stroke()
  }
 }
@@ -194,30 +294,43 @@ function draw(t){
 }
 function placements(){
  if(current==="home"){
-  if(!mobile)return [[.236,.505],[.112,.505],[.48,.48],[.77,.55],[.62,.67],[.236,.17],[.65,.40],[.82,.68],[.40,.66],[.935,.49],[.236,.84],[.71,.47]];
-  return [[.50,.425],[.13,.425],[.50,.62],[.48,.80],[.27,.68],[.50,.27],[.70,.73],[.58,.90],[.35,.55],[.75,.59],[.50,.34],[.23,.80]];
+  if(!mobile)return [[.236,.505],[.112,.505],[.53,.51],[.78,.60],[.65,.40],[.91,.52],[.37,.70]];
+  return [[.5,.425],[.20,.45],[.76,.56],[.23,.70],[.75,.72],[.51,.68],[.50,.83]];
  }
  if(!mobile)return [[.40,.52],[.59,.43],[.76,.61],[.28,.30]];
- return [[.50,.47],[.69,.40],[.55,.73],[.27,.62]];
+ return [[.50,.45],[.73,.42],[.70,.63],[.28,.62]];
 }
 function destinations(){return current==="home"?homeDest:pages[current].links}
 function placeNodes(){
- if(!W||!H)return;layer.replaceChildren();
- const pts=placements(),targets=destinations();
+ if(!W||!H)return;
+ layer.replaceChildren();hover=-1;const pts=placements(),targets=destinations();
  targets.forEach(function(dest,i){
-  const a=document.createElement("button");a.className="node";a.type="button";a.style.setProperty("--x",(pts[i][0]*100)+"%");a.style.setProperty("--y",(pts[i][1]*100)+"%");
-  a.style.setProperty("--col",palette[(i+(current==="home"?0:pages[current].index%6))%palette.length]);
-  a.style.setProperty("--dot",i===0?"7px":((i+1)%4===0?"4px":"5px"));
-  a.setAttribute("aria-label",dest[0]==="/"?("Open "+(dest.includes("atlas")||dest.includes("edition")||dest.includes("Digital_Edition")?"full Atlas":"KLAAT archive")):("Explore field "+dest));
+  const a=document.createElement("button"),action=dest==="@audio"?"audio":dest==="@read"||dest[0]==="/"?"read":dest==="@observe"?"observe":"portal";
+  a.className="node "+action;a.type="button";a.style.setProperty("--x",(pts[i][0]*100)+"%");a.style.setProperty("--y",(pts[i][1]*100)+"%");
+  a.style.setProperty("--col",action==="audio"?C.teal:action==="read"?C.bone:action==="observe"?C.purple:i%3===0?C.red:C.rust);
+  a.style.setProperty("--dot",i===0?"7px":(action==="audio"?"5.5px":"4.5px"));
+  const targetName=meta[dest]?.[0]||dest;
+  a.setAttribute("aria-label",action==="audio"?"Play a KLAAT sound variation":action==="read"?"Read the full Atlas":action==="observe"?"Reveal another observation":"Enter "+targetName);
+  a.title=action==="audio"?"SOUND":action==="read"?"ATLAS":action==="observe"?"OBSERVATION":targetName;
   a.innerHTML='<span class="ring"></span><span class="ring two"></span><span class="ink"></span>';
   a.addEventListener("mouseenter",function(){hover=i;hint.classList.add("disappear")});a.addEventListener("mouseleave",function(){hover=-1});
   a.addEventListener("focus",function(){hover=i});a.addEventListener("blur",function(){hover=-1});
-  a.addEventListener("click",function(){a.classList.add("tapped");if(dest[0]==="/"){location.href=dest;return}travel(dest)});
+  a.addEventListener("click",function(){
+   a.classList.add("tapped");
+   if(action==="audio"){playVariation(Math.floor(Math.random()*audioModes.length));return}
+   if(action==="read"){location.href=dest[0]==="/"?dest:"/edition.html";return}
+   if(action==="observe"){const e=$("secondary");e.textContent=meta[current]?.[2]||"";e.classList.add("shown");return}
+   travel(dest)
+  });
   layer.appendChild(a)
- })
+ });
  pos.textContent=(current==="home"?"00":String(pages[current].index).padStart(2,"0"))+" / 24";
  trail.replaceChildren();path.slice(-9).forEach(function(_,i,arr){let a=document.createElement("i");if(i===arr.length-1)a.className="latest";trail.appendChild(a)});
- document.body.classList.toggle("is-home",current==="home");back.disabled=current==="home";document.title=current==="home"?"KLAAT — The Living Field":"KLAAT — Field "+String(pages[current].index).padStart(2,"0");
+ document.body.classList.toggle("is-home",current==="home");back.disabled=current==="home";
+ const annotation=meta[current];$("fieldId").textContent=annotation?String(pages[current].index).padStart(2,"0")+" / "+annotation[0]:"";
+ $("fieldCopy").textContent=annotation?annotation[1]:"";$("secondary").textContent="";$("secondary").classList.remove("shown");
+ document.title=current==="home"?"KLAAT — The Living Field":"KLAAT — "+(annotation?.[0]||"Field");
+ if(signalOn){const a=layer.querySelector(".node.audio");if(a){activeSoundNode=a;a.classList.add("playing")}}
 }
 function travel(id,replace){
  if(changing||!(id==="home"||pages[id]))return;
@@ -235,9 +348,10 @@ $("homeLink").addEventListener("click",function(e){e.preventDefault();if(current
 back.addEventListener("click",goBack);
 document.addEventListener("keydown",function(e){if(e.key==="Escape"||e.key==="Backspace"&&e.target.tagName!=="INPUT"){if(current!=="home"){e.preventDefault();goBack()}}});
 window.addEventListener("popstate",function(){const id=decodeURIComponent(location.hash.slice(1)||"home");if(id==="home"||pages[id])travel(id,true)});
-sound.addEventListener("click",async function(){try{if(audio.paused){await audio.play();sound.setAttribute("aria-pressed","true")}else{audio.pause();sound.setAttribute("aria-pressed","false")}}catch(e){sound.setAttribute("aria-pressed","false")}});
-audio.addEventListener("pause",function(){sound.setAttribute("aria-pressed","false")});audio.addEventListener("play",function(){sound.setAttribute("aria-pressed","true")});
-let last=0;function animate(ms){if(ms-last>(reduceMotion?240:30)){now=ms*.001;draw(now);last=ms}requestAnimationFrame(animate)}
+sound.addEventListener("click",function(){if(signalOn){stopAudio();return}let choice=Math.floor(Math.random()*audioModes.length);if(audioModes.length>1&&choice===currentMode)choice=(choice+1)%audioModes.length;playVariation(choice)});
+audio.addEventListener("pause",function(){if(signalOn)stopAudio()});
+audio.addEventListener("error",function(){$("audioLabel").textContent="AUDIO UNAVAILABLE";$("audioLabel").classList.add("active")});
+let last=0;function animate(ms){if(!document.hidden&&ms-last>(reduceMotion?250:mobile?36:30)){audioLevel();now=ms*.001;draw(now);last=ms}requestAnimationFrame(animate)}
 window.addEventListener("resize",size,{passive:true});size();
 const hash=decodeURIComponent(location.hash.slice(1));if(hash&&pages[hash]){current=hash;path=["home",hash];been.add(hash);placeNodes()}else if(!hash){history.replaceState({field:"home"},"","#home")}
 requestAnimationFrame(animate);
