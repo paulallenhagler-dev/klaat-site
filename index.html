@@ -112,6 +112,14 @@ header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:1
 @media(max-width:350px){.node{width:44px;height:44px}}
 @media(prefers-reduced-motion:reduce){*{transition-duration:0s!important;animation:none!important}}
 </style>
+<!-- Google tag (gtag.js) — KLAAT website analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F3RFL7WKH3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-F3RFL7WKH3');
+</script>
 </head>
 <body class="is-home">
 <canvas id="field" role="img" aria-label="An abstract interactive acoustic diagram: interrupted concentric rings and drifting contours. Explore the colored marks."></canvas>
@@ -391,6 +399,7 @@ async function playVariation(n){
  try{
   if(!audio.paused){audio.currentTime=0}
   await audio.play();signalOn=true;
+  if(typeof window.gtag==="function")window.gtag("event","klaat_audio_play",{sound_variation:mode.id});
   sound.setAttribute("aria-pressed","true");$("audioLabel").textContent="SOUND / "+mode.id+" / "+mode.name;$("audioLabel").classList.add("active");
   if(activeSoundNode)activeSoundNode.classList.remove("playing");
   const nodes=[...layer.querySelectorAll(".node.audio")];
@@ -513,7 +522,7 @@ function placeNodes(){
      if(approvedArt[current])resonanceAt(approvedMarks[current][i][0],approvedMarks[current][i][1],"audio");
      playVariation(next);return
    }
-   if(action==="read"){location.href=dest[0]==="/"?dest:"/edition.html";return}
+   if(action==="read"){if(typeof window.gtag==="function")window.gtag("event","atlas_open",{from_portal:current});location.href=dest[0]==="/"?dest:"/edition.html";return}
    if(action==="observe"){
      showInscription(meta[current]?.[2]||"");
      if(approvedArt[current])resonanceAt(approvedMarks[current][i][0],approvedMarks[current][i][1],"observe");
@@ -534,6 +543,7 @@ function placeNodes(){
 }
 function travel(id,replace){
  if(changing||!(id==="home"||pages[id]))return;
+ if(!replace&&typeof window.gtag==="function")window.gtag("event","portal_enter",{portal_id:id,from_portal:current});
  changing=true;hover=-1;veil.classList.add("on");setTimeout(function(){
   if(replace){const at=path.lastIndexOf(id);path=at>=0?path.slice(0,at+1):["home",id]}else path.push(id);
   current=id;if(id!=="home"){been.add(id);try{localStorage.setItem("klaat_field_visited",JSON.stringify(Array.from(been)))}catch(e){}}
