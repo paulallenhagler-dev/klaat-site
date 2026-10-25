@@ -156,7 +156,7 @@ header{padding:18px 20px 12px}.logo{width:109px}
 <div id="nodes" aria-label="Interactive field passages"></div>
 <div id="veil"></div>
 <footer id="floor">
- <div class="floorleft"><button id="back" aria-label="Return to the previous field">↶</button><span id="position">00 / 24</span></div>
+ <div class="floorleft"><button id="back" aria-label="Return to the previous field">↶</button><span id="position">00 / 36</span></div>
  </footer>
 <div id="quiet" aria-hidden="true"></div>
 <!-- Prefer the new full-length performance assembled from the lossless AAC source.
@@ -165,11 +165,12 @@ header{padding:18px 20px 12px}.logo{width:109px}
  <source src="/assets/klaat-opening-performance.m4a" type="audio/mp4">
  <source src="/assets/klaat-ambient-loop-18s.mp3" type="audio/mpeg">
 </audio>
+<audio id="fragmentAudio" preload="none"></audio>
 <script>
 (function(){
 "use strict";
 const $=function(id){return document.getElementById(id)};
-const cv=$("field"),ctx=cv.getContext("2d",{alpha:false}),motion=$("motionField"),mctx=motion.getContext("2d",{alpha:true}),layer=$("nodes"),veil=$("veil"),back=$("back"),pos=$("position"),hint=$("quiet"),sound=$("sound"),audio=$("sourceAudio");
+const cv=$("field"),ctx=cv.getContext("2d",{alpha:false}),motion=$("motionField"),mctx=motion.getContext("2d",{alpha:true}),layer=$("nodes"),veil=$("veil"),back=$("back"),pos=$("position"),hint=$("quiet"),sound=$("sound"),audio=$("sourceAudio"),fragmentAudio=$("fragmentAudio");
 const C={bone:"#d3ccbd",red:"#e63a32",rust:"#be684a",teal:"#86aca6",purple:"#a78eab",dim:"#847e72",white:"#f1eadc"};
 const palette=[C.red,C.bone,C.teal,C.rust,C.white,C.purple];
 const defs=[
@@ -198,6 +199,23 @@ const defs=[
  ["unseen","dust",["threshold","trace","archive","@observe"]],
  ["source","glyph",["archive","fieldwork","grammar","@observe"]]
 ];
+// A second constellation. Each room is its own moving, hand-coded diagram,
+// not a duplicated image or a generic music visualizer.
+const hiddenFields=[
+ ["wake","wake",["held","underflow","swell","@fragment:02"]],
+ ["underflow","moire",["wake","drift","phasebreak","@fragment:03"]],
+ ["swell","rays",["harmonics","underflow","afterimage","@fragment:04"]],
+ ["phasebreak","moire",["division","splitfield","swell","@fragment:05"]],
+ ["splitfield","fracture2",["phasebreak","room","threshold","@fragment:06"]],
+ ["afterimage","dust2",["swell","memorywell","trace","@fragment:07"]],
+ ["memorywell","rays",["afterimage","archive","lowcurrent","@fragment:08"]],
+ ["lowcurrent","wake",["memorywell","breath","strata","@fragment:09"]],
+ ["strata","fracture2",["lowcurrent","interval","turnback","@fragment:10"]],
+ ["turnback","dust2",["strata","return","veins","@fragment:11"]],
+ ["veins","moire",["turnback","fieldwork","deepvoid","@fragment:12"]],
+ ["deepvoid","rays",["veins","unseen","wake","@fragment:13"]]
+];
+defs.push(...hiddenFields);
 const meta={
  held:["CONTINUITY","A held sound is not a stationary event.","The drone changes internally even when its tonal center remains."],
  division:["INTERRUPTION","One strike becomes an event. Two establish an interval.","An absent beat has meaning only when an expectation exists."],
@@ -222,9 +240,21 @@ const meta={
  archive:["RECORD / MEMORY","A field leaves traces in sound, image and notation.","An archive is a record of what happened, not a prescription for what comes next."],
  music:["AMASTACIA + ANKORA","The drone continues. The drum interrupts.","This is one musical practice, not a set of magic frequencies."],
  unseen:["UNFINISHED","The system must grow from the music.","The music owes the system nothing."],
- source:["METHOD / SOURCE","Every diagram begins as a question.","The artwork suggests a relationship; it does not establish a measurement."]
+ source:["METHOD / SOURCE","Every diagram begins as a question.","The artwork suggests a relationship; it does not establish a measurement."],
+ wake:["WAKE / ARRIVAL","A surface moves after the impact.","The source remains nearby, outside the frame."],
+ underflow:["UNDERFLOW","Sustained movement does not have to be seen.","Parallel currents cross without becoming one."],
+ swell:["SWELL","A gradual approach can feel like an event.","The edge of the gesture matters."],
+ phasebreak:["PHASE BREAK","Two patterns briefly fall out of step.","Misalignment creates another shape."],
+ splitfield:["SPLIT FIELD","One field has more than one center.","Follow the line where the surfaces separate."],
+ afterimage:["AFTERIMAGE","A shape keeps moving after it disappears.","What remains may not resemble the strike."],
+ memorywell:["MEMORY WELL","Several events collect in one place.","A trace is neither a replay nor an explanation."],
+ lowcurrent:["LOW CURRENT","Listen beneath the obvious contour.","Subtle movement is movement nonetheless."],
+ strata:["STRATA","Every repeated motion leaves another layer.","The stack is not a chronology."],
+ turnback:["TURNBACK","A path begins to fold over itself.","Repetition changes what it touches."],
+ veins:["VEINS","A narrow line can carry an entire field.","Follow the branches, not the center."],
+ deepvoid:["DEEP FIELD","The furthest sound is still connected.","There are no final chambers here."]
 };
-const pages={};defs.forEach(function(a,i){pages[a[0]]={index:i+1,mode:a[1],links:a[2]}});
+const pages={};defs.forEach(function(a,i){pages[a[0]]={index:i+1,mode:a[1],links:a[2]}});const totalFields=defs.length;
 const approvedArt={
  held:"01-held",division:"02-division",room:"03-room",breath:"04-breath",drift:"05-drift",
  omission:"06-omission",harmonics:"07-harmonics",suspension:"08-suspension",threshold:"09-threshold",return:"10-return",
@@ -392,7 +422,19 @@ function syncArtwork(){
  if(id){const src="/assets/fields/"+id+".webp";if(el.getAttribute("src")!==src)el.setAttribute("src",src)}
  else el.removeAttribute("src");
 }
-const homeDest=["held","division","room","body","grammar","@audio","archive"];
+const homeDest=["held","division","room","body","grammar","@audio","archive","wake","phasebreak","@fragment:01"];
+// These passages are physically cut from the original 03:01 recording; no synthesized material.
+const fragmentFiles=[
+ "01-arrival","02-ember","03-skin","04-first-pulse","05-current","06-fracture",
+ "07-drift","08-strike","09-undertone","10-return","11-suspension","12-texture",
+ "13-widening","14-tension","15-breath","16-split","17-grain","18-pressure",
+ "19-orbit","20-residue","21-crossing","22-dusk","23-echo","24-last-light"
+];
+const submergedGates={
+ held:"wake",room:"splitfield",drift:"underflow",harmonics:"swell",
+ trace:"afterimage",interference:"phasebreak",body:"memorywell",grain:"strata",
+ interval:"turnback",fieldwork:"veins",music:"lowcurrent",unseen:"deepvoid"
+};
 const audioModes=[
  {id:"01",rate:1,type:"allpass",freq:1100,wet:0,delay:.26,feedback:.10,name:"SOURCE"},
  {id:"02",rate:.97,type:"lowpass",freq:1050,wet:.085,delay:.32,feedback:.10,name:"VEILED"},
@@ -429,6 +471,7 @@ async function playVariation(n){
   await playback;signalOn=true;
   if(typeof window.gtag==="function")window.gtag("event","klaat_audio_play",{sound_variation:mode.id});
   sound.setAttribute("aria-pressed","true");$("audioLabel").textContent="";$("audioLabel").classList.remove("active");hint.classList.add("disappear");
+   audio.volume=fragmentPlaying?.19:1;
    sound.setAttribute("aria-label","Pause KLAAT performance");sound.title="Pause KLAAT performance";sound.querySelector(".soundText").textContent="PAUSE";
   if(activeSoundNode)activeSoundNode.classList.remove("playing");
   const nodes=[...layer.querySelectorAll(".node.audio")];
@@ -436,15 +479,62 @@ async function playVariation(n){
  }catch(e){signalOn=false;$("audioLabel").textContent="AUDIO UNAVAILABLE";$("audioLabel").classList.add("active");sound.setAttribute("aria-pressed","false");sound.setAttribute("aria-label","Play KLAAT performance");sound.title="Play KLAAT performance";sound.querySelector(".soundText").textContent="PLAY"}
 }
 function stopAudio(){
- audio.pause();signalOn=false;signalEnergy=0;sound.setAttribute("aria-pressed","false");$("audioLabel").classList.remove("active");
+ audio.pause();signalOn=false;signalEnergy=fragmentPlaying?signalEnergy:0;sound.setAttribute("aria-pressed","false");$("audioLabel").classList.remove("active");
  sound.setAttribute("aria-label","Play KLAAT performance");sound.title="Play KLAAT performance";sound.querySelector(".soundText").textContent="PLAY";
  if(activeSoundNode)activeSoundNode.classList.remove("playing");activeSoundNode=null;
 }
+// Short discovery passages are a separate, single-voice layer. The main
+// performance keeps its place and is quietly ducked while a fragment plays.
+let fragmentPlaying=false,fragmentIndex=-1,fragmentMark=null,fragmentGraph=null;
+function initFragmentGraph(){
+ if(fragmentGraph)return fragmentGraph;
+ const AC=window.AudioContext||window.webkitAudioContext;if(!AC)return null;
+ try{
+   const ac=new AC(),src=ac.createMediaElementSource(fragmentAudio),analyser=ac.createAnalyser();
+   analyser.fftSize=256;src.connect(analyser);analyser.connect(ac.destination);
+   fragmentGraph={ac,analyser,data:new Uint8Array(analyser.frequencyBinCount)};
+   return fragmentGraph;
+ }catch(e){return null}
+}
+function stopFragment(){
+ fragmentAudio.pause();fragmentPlaying=false;fragmentIndex=-1;
+ audio.volume=1;
+ if(fragmentMark)fragmentMark.classList.remove("playing");
+ fragmentMark=null;
+}
+function playFragment(n,mark){
+ const i=((n-1)%fragmentFiles.length+fragmentFiles.length)%fragmentFiles.length;
+ if(fragmentPlaying&&fragmentIndex===i){stopFragment();return}
+ if(fragmentPlaying)stopFragment();
+ fragmentIndex=i;fragmentMark=mark;fragmentPlaying=true;
+ fragmentAudio.src="/assets/klaat-fragments/"+fragmentFiles[i]+".m4a";
+ fragmentAudio.currentTime=0;
+ fragmentAudio.volume=.96;
+ if(signalOn)audio.volume=.19;
+ const fg=initFragmentGraph();
+ try{
+   const playback=fragmentAudio.play();
+   if(fg)fg.ac.resume().catch(()=>{});
+   playback.then(()=>{
+     if(fragmentPlaying&&fragmentIndex===i&&mark?.isConnected)mark.classList.add("playing");
+   }).catch(()=>stopFragment());
+   if(typeof window.gtag==="function")window.gtag("event","klaat_fragment_found",{fragment_number:i+1,field:current});
+ }catch(e){stopFragment()}
+}
+fragmentAudio.addEventListener("ended",stopFragment);
+fragmentAudio.addEventListener("error",function(){if(fragmentPlaying)stopFragment()});
 function audioLevel(){
- if(!signalOn||!audioGraph)return signalEnergy*=.86;
- const g=audioGraph;g.analyser.getByteFrequencyData(g.data);
- let v=0;for(let i=1;i<50;i++)v+=g.data[i];v/=49*255;
- return signalEnergy=signalEnergy*.80+Math.min(.75,v)*.20;
+ let v=0,n=0;
+ if(signalOn&&audioGraph){
+   const g=audioGraph;g.analyser.getByteFrequencyData(g.data);
+   for(let i=1;i<50;i++)v+=g.data[i];n+=49;
+ }
+ if(fragmentPlaying&&fragmentGraph){
+   const g=fragmentGraph;g.analyser.getByteFrequencyData(g.data);
+   for(let i=1;i<50;i++)v+=g.data[i]*.85;n+=49;
+ }
+ const energy=n?Math.min(.78,v/(n*255)):(fragmentPlaying?.12:0);
+ return signalEnergy=signalEnergy*.81+energy*.19;
 }
 let W=0,H=0,dpr=1,mobile=false,now=0,frame=0,current="home",path=["home"],changing=false,hover=-1,ambient=false,lastPointer={x:0,y:0};
 let been=new Set();try{been=new Set(JSON.parse(localStorage.getItem("klaat_field_visited")||"[]"))}catch(e){}
