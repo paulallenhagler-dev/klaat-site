@@ -143,8 +143,13 @@ header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:1
  <div class="floorleft"><button id="back" aria-label="Return to the previous field">↶</button><span id="position">00 / 24</span></div>
  <div id="history" aria-hidden="true"><i class="latest"></i></div>
 </footer>
-<div id="quiet" aria-hidden="true">· &nbsp; · &nbsp; ·</div>
-<audio id="sourceAudio" src="/assets/klaat-ambient-loop-18s.mp3" loop preload="none"></audio>
+<div id="quiet" aria-hidden="true">TOUCH THE FIELD TO HEAR</div>
+<!-- Prefer the new full-length performance when its optimized audio file is available.
+     Keep the previous recording as a working fallback in the meantime. -->
+<audio id="sourceAudio" loop preload="none">
+ <source src="/assets/klaat-opening-performance.mp3" type="audio/mpeg">
+ <source src="/assets/klaat-ambient-loop-18s.mp3" type="audio/mpeg">
+</audio>
 <script>
 (function(){
 "use strict";
@@ -395,7 +400,7 @@ async function playVariation(n){
  const mode=audioModes[n%audioModes.length],g=graph();currentMode=n%audioModes.length;
  if(g){
   try{
-   await g.ac.resume();g.filter.type=mode.type;g.filter.frequency.setTargetAtTime(mode.freq,g.ac.currentTime,.11);
+   g.filter.type=mode.type;g.filter.frequency.setTargetAtTime(mode.freq,g.ac.currentTime,.11);
    g.wet.gain.setTargetAtTime(mode.wet,g.ac.currentTime,.12);g.fb.gain.setTargetAtTime(mode.feedback,g.ac.currentTime,.1);
    g.delay.delayTime.setTargetAtTime(mode.delay,g.ac.currentTime,.11);
   }catch(e){}
@@ -403,9 +408,12 @@ async function playVariation(n){
  audio.playbackRate=mode.rate;
  try{
   if(!audio.paused){audio.currentTime=0}
-  await audio.play();signalOn=true;
+  // Request playback directly from the visitor's gesture, before awaiting anything.
+  const playback=audio.play();
+  if(g){try{await g.ac.resume()}catch(e){}}
+  await playback;signalOn=true;
   if(typeof window.gtag==="function")window.gtag("event","klaat_audio_play",{sound_variation:mode.id});
-  sound.setAttribute("aria-pressed","true");$("audioLabel").textContent="SOUND / "+mode.id+" / "+mode.name;$("audioLabel").classList.add("active");
+  sound.setAttribute("aria-pressed","true");$("audioLabel").textContent="SOUND / "+mode.id+" / "+mode.name;$("audioLabel").classList.add("active");hint.classList.add("disappear");
   if(activeSoundNode)activeSoundNode.classList.remove("playing");
   const nodes=[...layer.querySelectorAll(".node.audio")];
   if(nodes.length){activeSoundNode=nodes[0];activeSoundNode.classList.add("playing")}
@@ -577,7 +585,16 @@ window.addEventListener("popstate",function(e){
  }else path=id==="home"?["home"]:["home",id];
  travel(id,true)
 });
-sound.addEventListener("click",function(){if(signalOn){stopAudio();return}let choice=Math.floor(Math.random()*audioModes.length);if(audioModes.length>1&&choice===currentMode)choice=(choice+1)%audioModes.length;playVariation(choice)});
+sound.addEventListener("click",function(){if(signalOn){stopAudio();return}playVariation(0)});
+// Audible automatic playback is blocked on most mobile browsers.
+// Begin the source recording on the first touch of the interactive opening field.
+let entrySoundRequested=false;
+document.addEventListener("pointerdown",function(e){
+ if(entrySoundRequested||signalOn||current!=="home")return;
+ if(e.target.closest("a,#sound,#back"))return;
+ entrySoundRequested=true;
+ playVariation(0);
+},{passive:true,capture:true});
 audio.addEventListener("pause",function(){if(signalOn)stopAudio()});
 audio.addEventListener("error",function(){$("audioLabel").textContent="AUDIO UNAVAILABLE";$("audioLabel").classList.add("active")});
 let last=0;function animate(ms){
