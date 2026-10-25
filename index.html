@@ -70,6 +70,14 @@ body:not(.is-home) #fieldInfo{opacity:.9;transform:translateY(0)}
 .node.audio{--col:#86aca6}.node.read{--col:#dbd3c5}.node.observe{--col:#a78eab}
 .node.audio.playing .ring{opacity:.64;transform:scale(1.1);animation:breathingRing 2.5s ease-in-out infinite}
 .node.audio.playing .ink{animation:nodeGlow 3.1s ease-in-out infinite}
+.node.fragment{--col:#9f8277;z-index:1}
+.node.fragment .ink{width:4px;height:4px;opacity:.48;animation:fragmentGlint var(--pulse-time,9s) ease-in-out var(--pulse-offset,0s) infinite}
+.node.fragment .ring,.node.fragment .ring.two{opacity:0;animation:fragmentRipple var(--pulse-time,9s) ease-out var(--pulse-offset,0s) infinite}
+.node.fragment .ring.two{animation-delay:calc(var(--pulse-offset,0s) + 1.2s)}
+.node.fragment:hover .ink,.node.fragment:focus-visible .ink,.node.fragment.playing .ink{opacity:1;animation:none;transform:translate(-50%,-50%) scale(2);box-shadow:0 0 22px 7px var(--col)}
+.node.fragment.playing .ring{animation:breathingRing 2s ease-in-out infinite;opacity:.8}
+@keyframes fragmentGlint{0%,60%,100%{opacity:.22;transform:translate(-50%,-50%) scale(.8)}70%{opacity:.88;transform:translate(-50%,-50%) scale(1.55)}78%{opacity:.53;transform:translate(-50%,-50%) scale(1.08)}}
+@keyframes fragmentRipple{0%,65%{opacity:0;transform:scale(.3)}72%{opacity:.33;transform:scale(.82)}94%,100%{opacity:0;transform:scale(1.65)}}
 @keyframes breathingRing{50%{opacity:.17;transform:scale(1.7)}}
 .node .ink{box-shadow:0 0 2px #000,0 0 7px color-mix(in srgb,var(--col),transparent 75%)}
 .node:active .ring{opacity:.9;transform:scale(1.4)}
@@ -603,7 +611,92 @@ function roomArt(mode,index,t){
  if(mode==="dust"){rings(cx,cy,r*.58,11,t,.2);dust(t,260, mobile?W*.5:W*.56,cy,r*1.6,index);cross(cx,cy,4)}
  if(mode==="veil"){for(let i=-13;i<=13;i++){ctx.beginPath();for(let k=0;k<=90;k++){let q=k/90,y=H*(mobile?.26:.14)+q*H*.76,x=cx+i*4.4+Math.sin(q*12+t*.38+i*.17)*r*.24*q;if(k===0)ctx.moveTo(x,y);else ctx.lineTo(x,y)}ctx.strokeStyle="rgba(218,211,197,"+(.10+.21*(1-Math.abs(i)/14))+")";ctx.lineWidth=.7;ctx.stroke()}}
  if(mode==="glyph"){guide(cx,cy,r*.95);for(let i=0;i<4;i++){let x=cx+(i-1.5)*r*.75, y=cy+Math.sin(i*1.8)*r*.1;ctx.beginPath();ctx.arc(x,y,r*.23,.18+i*.2,Math.PI*1.78+i*.1);ctx.strokeStyle="rgba(219,211,196,.36)";ctx.lineWidth=.8;ctx.stroke();dot(x,y,2.4,i===0?C.red:C.bone,.87)}}
- if(mode!=="dust")dust(t,26, mobile?W*.5:W*.6,cy,r*1.7,index);
+ // Five distinct parametric studies: 12 new chambers, subtly different per seed.
+ // All drawn with bone-thin oscillatory linework in live Canvas.
+ if(mode==="wake"){
+   guide(cx,cy,r*.91);rings(cx,cy,r*.86,15,t+.17*index,.38);
+   const span=mobile?W*.47:W*.64,dir=index%2?-1:1;
+   for(let band=0;band<19;band++){
+     ctx.beginPath();
+     for(let j=0;j<=65;j++){
+       const u=j/65,x=cx+dir*span*u;
+       const env=Math.sin(Math.PI*u)*Math.pow(u,.42);
+       const y=cy+(band-9)*6.2*u+Math.sin(u*(13+index%4)+band*.28-t*.75)*env*(9+signalEnergy*19);
+       if(!j)ctx.moveTo(x,y);else ctx.lineTo(x,y);
+     }
+     ctx.strokeStyle="rgba(221,211,194,"+(.10+band*.009)+")";ctx.lineWidth=.68;ctx.stroke();
+   }
+   dot(cx,cy,3,C.rust,.95);
+ }
+ if(mode==="moire"){
+   const width=mobile?W*.68:W*.67,height=Math.min(H*.63,630);
+   const originX=mobile?W*.19:W*.13,originY=cy-height*.43;
+   for(let family=0;family<2;family++)for(let line=0;line<21;line++){
+     ctx.beginPath();
+     for(let j=0;j<=57;j++){
+       const q=j/57,x=originX+q*width;
+       const drift=Math.sin(q*(10+family*5)-t*.36+line*.31+index*.09)*7.5;
+       const lean=(family?-1:1)*q*(line-10)*4;
+       const y=originY+line*height/32+drift+lean+Math.sin(q*8+t*.23+line*.4)*4;
+       if(!j)ctx.moveTo(x,y);else ctx.lineTo(x,y);
+     }
+     ctx.strokeStyle="rgba(222,213,198,"+(.09+.11*Math.sin((line+family*8)*.24)**2)+")";
+     ctx.lineWidth=.65;ctx.stroke();
+   }
+   dot(originX+width*.55,cy,2.8,index%2?C.teal:C.rust,.87);
+ }
+ if(mode==="rays"){
+   const ox=mobile?W*.37:W*.29,oy=cy-.06*r,extent=mobile?W*.57:W*.64;
+   for(let j=0;j<24;j++){
+     ctx.beginPath();
+     const tilt=(j-12)*.095+Math.sin(index)*.06;
+     for(let k=0;k<=55;k++){
+       const q=k/55,v=q*extent,x=ox+v*Math.cos(tilt);
+       const y=oy+v*Math.sin(tilt)*.66+Math.sin(q*19-t*.53+j*.39)*q*(2+signalEnergy*10);
+       if(!k)ctx.moveTo(x,y);else ctx.lineTo(x,y);
+     }
+     ctx.strokeStyle="rgba(224,215,200,"+(.065+(24-Math.abs(j-12))/215)+")";
+     ctx.lineWidth=.68;ctx.stroke();
+   }
+   for(let k=0;k<9;k++){
+     const rr=18+k*17;
+     ctx.beginPath();ctx.ellipse(ox,oy,rr,rr*.8,.3,-Math.PI*.6+index*.04,Math.PI*.83+index*.04);
+     ctx.strokeStyle="rgba(218,205,188,"+(.3-k*.023)+")";ctx.lineWidth=.68;ctx.stroke();
+   }
+   dust(t,mobile?75:120,ox+extent*.55,cy,r*1.3,index);dot(ox,oy,3.4,C.red,.95);
+ }
+ if(mode==="fracture2"){
+   const left=mobile?W*.48:W*.39,rr=Math.min(r*.98,H*.28);
+   rings(left,cy,rr,17,t+.1*index,.58);
+   for(let strand=-14;strand<=14;strand++){
+     ctx.beginPath();const yy=cy+strand*rr*.085;
+     for(let j=0;j<=35;j++){
+       const u=j/35,xx=left+rr*(.18+u*(mobile?.91:2.1));
+       const y=yy+Math.sin(u*(9+index%5)-t*.67+strand*.27)*(3+10*u);
+       if(!j)ctx.moveTo(xx,y);else ctx.lineTo(xx,y);
+     }
+     ctx.strokeStyle="rgba(222,210,191,"+(.075+(14-Math.abs(strand))*.011)+")";
+     ctx.lineWidth=.66;ctx.stroke();
+   }
+   cross(left,cy,3.1);dust(t,70,left+r*.6,cy,r*1.25,index);
+ }
+ if(mode==="dust2"){
+   const ox=mobile?W*.48:W*.35,oy=cy-r*.1;
+   rings(ox,oy,r*.67,12,t+.13*index,.67);
+   dust(t,mobile?210:390,ox+(mobile?W*.10:W*.16),oy,r*2.4,index);
+   for(let curl=0;curl<4;curl++){
+     ctx.beginPath();
+     for(let j=0;j<=105;j++){
+       const a=j/105*Math.PI*2.25,rad=21+a*(7+curl*2.1);
+       const xx=ox+Math.cos(a+t*.08+curl*.7)*rad;
+       const yy=oy+Math.sin(a+t*.07+curl*.7)*rad*.65;
+       if(!j)ctx.moveTo(xx,yy);else ctx.lineTo(xx,yy);
+     }
+     ctx.strokeStyle="rgba(221,213,200,"+(.13+curl*.043)+")";ctx.lineWidth=.6;ctx.stroke();
+   }
+   dot(ox,oy,2.9,index%2?C.teal:C.rust,.93);
+ }
+ if(mode!=="dust"&&!["wake","moire","rays","fracture2","dust2"].includes(mode))dust(t,26,mobile?W*.5:W*.6,cy,r*1.7,index);
 }
 function draw(t){
  ctx.setTransform(dpr,0,0,dpr,0,0);ctx.fillStyle="#080808";ctx.fillRect(0,0,W,H);
