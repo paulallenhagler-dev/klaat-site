@@ -108,6 +108,24 @@ body:not(.is-home) #back{opacity:.8;pointer-events:auto}
 #veil.on{opacity:1}
 #quiet{position:fixed;bottom:76px;left:50%;transform:translateX(-50%);z-index:7;font-size:8px;letter-spacing:.35em;color:#c8c2b599;transition:opacity 1s;pointer-events:none}
 #quiet.disappear{opacity:0}
+/* An unmistakable, restrained opening listening control; no sound plays before a user gesture. */
+#entryAudio{position:fixed;z-index:12;left:50%;bottom:13%;transform:translateX(-50%);display:flex;align-items:center;gap:13px;min-height:60px;min-width:264px;padding:10px 20px 10px 13px;border:1px solid rgba(226,218,203,.43);border-left:2px solid var(--rust);border-radius:2px;background:rgba(8,8,8,.91);box-shadow:0 4px 35px rgba(0,0,0,.6);color:var(--bone);text-align:left;cursor:pointer;touch-action:manipulation;transition:opacity .36s,border-color .25s,background .25s,transform .36s;user-select:none}
+#entryAudio:hover,#entryAudio:focus-visible{background:rgba(23,22,21,.97);border-color:#c8c0b3}
+#entryAudio:focus-visible{outline:2px solid var(--teal);outline-offset:4px}
+#entryAudio .entryDisc{width:37px;height:37px;flex:0 0 37px;border-radius:50%;border:1px solid rgba(227,220,210,.55);display:grid;place-items:center;color:#e6ded0;font-size:16px;line-height:1;letter-spacing:0;text-indent:1px}
+#entryAudio[aria-pressed="true"] .entryDisc{border-color:#a6665c;color:var(--red)}
+#entryAudio .entryCopy{display:flex;flex-direction:column;gap:7px}
+#entryAudio .entryPrimary{font-size:11px;font-weight:600;letter-spacing:.26em;white-space:nowrap}
+#entryAudio .entrySecondary{font-size:8px;letter-spacing:.22em;color:#9eaaa5;white-space:nowrap}
+body:not(.is-home) #entryAudio{opacity:0;visibility:hidden;pointer-events:none;transform:translate(-50%,9px)}
+@media(max-width:720px){
+ #entryAudio{top:29.5%;bottom:auto;min-height:52px;min-width:244px;padding:8px 15px 8px 10px;gap:10px}
+ #entryAudio .entryDisc{width:32px;height:32px;flex-basis:32px;font-size:15px}
+ #entryAudio .entryPrimary{font-size:10px;letter-spacing:.23em}
+ #entryAudio .entrySecondary{font-size:7px}
+}
+@media(max-width:720px) and (max-height:650px){#entryAudio{top:29%;min-height:46px;padding-top:6px;padding-bottom:6px}}
+@media(prefers-reduced-motion:reduce){#entryAudio{transition:none}}
 .sr{position:absolute!important;width:1px!important;height:1px!important;overflow:hidden!important;clip:rect(0,0,0,0)!important;white-space:nowrap}
 @media(max-width:720px){
 header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:18px}.smallmark{font-size:12px}.logo{width:109px}
@@ -143,6 +161,7 @@ header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:1
  <div class="floorleft"><button id="back" aria-label="Return to the previous field">↶</button><span id="position">00 / 24</span></div>
  <div id="history" aria-hidden="true"><i class="latest"></i></div>
 </footer>
+<button id="entryAudio" type="button" aria-label="Play the three-minute KLAAT performance" aria-pressed="false"><span id="entryDisc" class="entryDisc" aria-hidden="true">▶</span><span class="entryCopy"><span id="entryPrimary" class="entryPrimary">PLAY THE PERFORMANCE</span><span class="entrySecondary">AMASTACIA + ANKORA · 03:01</span></span></button>
 <div id="quiet" aria-hidden="true">TOUCH THE FIELD TO HEAR</div>
 <!-- Prefer the new full-length performance assembled from the lossless AAC source.
      Keep the previous recording as a working fallback in the meantime. -->
@@ -154,7 +173,7 @@ header{padding:22px 20px 14px}header:after{left:20px;right:20px}.top-right{gap:1
 (function(){
 "use strict";
 const $=function(id){return document.getElementById(id)};
-const cv=$("field"),ctx=cv.getContext("2d",{alpha:false}),motion=$("motionField"),mctx=motion.getContext("2d",{alpha:true}),layer=$("nodes"),veil=$("veil"),back=$("back"),pos=$("position"),trail=$("history"),hint=$("quiet"),sound=$("sound"),audio=$("sourceAudio");
+const cv=$("field"),ctx=cv.getContext("2d",{alpha:false}),motion=$("motionField"),mctx=motion.getContext("2d",{alpha:true}),layer=$("nodes"),veil=$("veil"),back=$("back"),pos=$("position"),trail=$("history"),hint=$("quiet"),sound=$("sound"),audio=$("sourceAudio"),entryButton=$("entryAudio"),entryPrimary=$("entryPrimary"),entryDisc=$("entryDisc");
 const C={bone:"#d3ccbd",red:"#e63a32",rust:"#be684a",teal:"#86aca6",purple:"#a78eab",dim:"#847e72",white:"#f1eadc"};
 const palette=[C.red,C.bone,C.teal,C.rust,C.white,C.purple];
 const defs=[
@@ -414,13 +433,15 @@ async function playVariation(n){
   await playback;signalOn=true;
   if(typeof window.gtag==="function")window.gtag("event","klaat_audio_play",{sound_variation:mode.id});
   sound.setAttribute("aria-pressed","true");$("audioLabel").textContent="SOUND / "+mode.id+" / "+mode.name;$("audioLabel").classList.add("active");hint.classList.add("disappear");
+   entryButton.setAttribute("aria-pressed","true");entryButton.setAttribute("aria-label","Pause the KLAAT performance");entryPrimary.textContent="PAUSE THE PERFORMANCE";entryDisc.textContent="Ⅱ";
   if(activeSoundNode)activeSoundNode.classList.remove("playing");
   const nodes=[...layer.querySelectorAll(".node.audio")];
   if(nodes.length){activeSoundNode=nodes[0];activeSoundNode.classList.add("playing")}
- }catch(e){signalOn=false;$("audioLabel").textContent="AUDIO UNAVAILABLE";$("audioLabel").classList.add("active")}
+ }catch(e){signalOn=false;$("audioLabel").textContent="AUDIO UNAVAILABLE";$("audioLabel").classList.add("active");entryButton.setAttribute("aria-pressed","false");entryPrimary.textContent="PLAY THE PERFORMANCE";entryDisc.textContent="▶"}
 }
 function stopAudio(){
  audio.pause();signalOn=false;signalEnergy=0;sound.setAttribute("aria-pressed","false");$("audioLabel").classList.remove("active");
+ entryButton.setAttribute("aria-pressed","false");entryButton.setAttribute("aria-label","Play the three-minute KLAAT performance");entryPrimary.textContent="PLAY THE PERFORMANCE";entryDisc.textContent="▶";
  if(activeSoundNode)activeSoundNode.classList.remove("playing");activeSoundNode=null;
 }
 function audioLevel(){
@@ -586,12 +607,13 @@ window.addEventListener("popstate",function(e){
  travel(id,true)
 });
 sound.addEventListener("click",function(){if(signalOn){stopAudio();return}playVariation(0)});
+entryButton.addEventListener("click",function(){if(signalOn){stopAudio();return}playVariation(0)});
 // Audible automatic playback is blocked on most mobile browsers.
 // Begin the source recording on the first touch of the interactive opening field.
 let entrySoundRequested=false;
 document.addEventListener("pointerdown",function(e){
  if(entrySoundRequested||signalOn||current!=="home")return;
- if(e.target.closest("a,#sound,#back"))return;
+ if(e.target.closest("a,#sound,#back,#entryAudio"))return;
  entrySoundRequested=true;
  playVariation(0);
 },{passive:true,capture:true});
