@@ -1,0 +1,199 @@
+{
+  "source": "klaat-opening-performance.m4a",
+  "origin": "Extracts from Paul Hagler's live recording, not generated or synthesized music",
+  "processing": "Stereo AAC excerpts, individually faded 0.20s in and 0.38s out",
+  "clips": [
+    {
+      "id": 1,
+      "name": "arrival",
+      "from_seconds": 6.8,
+      "length_seconds": 4.6,
+      "file": "01-arrival.m4a",
+      "size_bytes": 74970
+    },
+    {
+      "id": 2,
+      "name": "ember",
+      "from_seconds": 13.1,
+      "length_seconds": 5.1,
+      "file": "02-ember.m4a",
+      "size_bytes": 83021
+    },
+    {
+      "id": 3,
+      "name": "skin",
+      "from_seconds": 20.2,
+      "length_seconds": 6.1,
+      "file": "03-skin.m4a",
+      "size_bytes": 99153
+    },
+    {
+      "id": 4,
+      "name": "first-pulse",
+      "from_seconds": 27.2,
+      "length_seconds": 5.5,
+      "file": "04-first-pulse.m4a",
+      "size_bytes": 89403
+    },
+    {
+      "id": 5,
+      "name": "current",
+      "from_seconds": 34.8,
+      "length_seconds": 7.4,
+      "file": "05-current.m4a",
+      "size_bytes": 120231
+    },
+    {
+      "id": 6,
+      "name": "fracture",
+      "from_seconds": 42.6,
+      "length_seconds": 4.2,
+      "file": "06-fracture.m4a",
+      "size_bytes": 68328
+    },
+    {
+      "id": 7,
+      "name": "drift",
+      "from_seconds": 49.0,
+      "length_seconds": 6.9,
+      "file": "07-drift.m4a",
+      "size_bytes": 112454
+    },
+    {
+      "id": 8,
+      "name": "strike",
+      "from_seconds": 57.0,
+      "length_seconds": 4.0,
+      "file": "08-strike.m4a",
+      "size_bytes": 65256
+    },
+    {
+      "id": 9,
+      "name": "undertone",
+      "from_seconds": 63.5,
+      "length_seconds": 7.3,
+      "file": "09-undertone.m4a",
+      "size_bytes": 118825
+    },
+    {
+      "id": 10,
+      "name": "return",
+      "from_seconds": 71.8,
+      "length_seconds": 5.1,
+      "file": "10-return.m4a",
+      "size_bytes": 83040
+    },
+    {
+      "id": 11,
+      "name": "suspension",
+      "from_seconds": 78.8,
+      "length_seconds": 6.8,
+      "file": "11-suspension.m4a",
+      "size_bytes": 110420
+    },
+    {
+      "id": 12,
+      "name": "texture",
+      "from_seconds": 86.1,
+      "length_seconds": 4.9,
+      "file": "12-texture.m4a",
+      "size_bytes": 79824
+    },
+    {
+      "id": 13,
+      "name": "widening",
+      "from_seconds": 92.0,
+      "length_seconds": 7.2,
+      "file": "13-widening.m4a",
+      "size_bytes": 117063
+    },
+    {
+      "id": 14,
+      "name": "tension",
+      "from_seconds": 100.2,
+      "length_seconds": 5.6,
+      "file": "14-tension.m4a",
+      "size_bytes": 91236
+    },
+    {
+      "id": 15,
+      "name": "breath",
+      "from_seconds": 107.8,
+      "length_seconds": 6.4,
+      "file": "15-breath.m4a",
+      "size_bytes": 104152
+    },
+    {
+      "id": 16,
+      "name": "split",
+      "from_seconds": 115.7,
+      "length_seconds": 5.1,
+      "file": "16-split.m4a",
+      "size_bytes": 83075
+    },
+    {
+      "id": 17,
+      "name": "grain",
+      "from_seconds": 121.9,
+      "length_seconds": 7.6,
+      "file": "17-grain.m4a",
+      "size_bytes": 123726
+    },
+    {
+      "id": 18,
+      "name": "pressure",
+      "from_seconds": 130.4,
+      "length_seconds": 5.8,
+      "file": "18-pressure.m4a",
+      "size_bytes": 94272
+    },
+    {
+      "id": 19,
+      "name": "orbit",
+      "from_seconds": 137.2,
+      "length_seconds": 7.0,
+      "file": "19-orbit.m4a",
+      "size_bytes": 113971
+    },
+    {
+      "id": 20,
+      "name": "residue",
+      "from_seconds": 145.2,
+      "length_seconds": 4.3,
+      "file": "20-residue.m4a",
+      "size_bytes": 70143
+    },
+    {
+      "id": 21,
+      "name": "crossing",
+      "from_seconds": 151.3,
+      "length_seconds": 7.8,
+      "file": "21-crossing.m4a",
+      "size_bytes": 126676
+    },
+    {
+      "id": 22,
+      "name": "dusk",
+      "from_seconds": 160.2,
+      "length_seconds": 4.6,
+      "file": "22-dusk.m4a",
+      "size_bytes": 74920
+    },
+    {
+      "id": 23,
+      "name": "echo",
+      "from_seconds": 166.2,
+      "length_seconds": 6.7,
+      "file": "23-echo.m4a",
+      "size_bytes": 108938
+    },
+    {
+      "id": 24,
+      "name": "last-light",
+      "from_seconds": 173.5,
+      "length_seconds": 5.3,
+      "file": "24-last-light.m4a",
+      "size_bytes": 86230
+    }
+  ]
+}
