@@ -705,27 +705,51 @@ function draw(t){
 }
 function placements(){
  if(current==="home"){
-  if(!mobile)return [[.236,.505],[.112,.505],[.53,.51],[.78,.60],[.65,.40],[.91,.52],[.37,.70]];
-  return [[.5,.425],[.20,.45],[.76,.56],[.23,.70],[.75,.72],[.51,.68],[.50,.83]];
+   if(!mobile)return [[.236,.505],[.112,.505],[.53,.51],[.78,.60],[.65,.40],[.91,.52],[.37,.70],[.34,.255],[.78,.26],[.79,.82]];
+   return [[.50,.425],[.20,.45],[.76,.56],[.23,.70],[.75,.72],[.51,.68],[.50,.83],[.21,.26],[.77,.30],[.83,.86]];
  }
- if(approvedArt[current]){const r=approvedBounds();return approvedMarks[current].map(p=>[(r.left+p[0]*r.width)/W,(r.top+p[1]*r.height)/H])}
- if(!mobile)return [[.40,.52],[.59,.43],[.76,.61],[.28,.30]];
- return [[.50,.45],[.73,.42],[.70,.63],[.28,.62]];
+ if(approvedArt[current]){
+   const bounds=approvedBounds(),pts=approvedMarks[current].slice();
+   // Two extra marks occupy intentional negative space on each original plate.
+   const extra=pages[current].index%2===0?[[.78,.76],[.20,.18]]:[[.20,.77],[.80,.17]];
+   pts.push(...extra);
+   return pts.map(p=>[(bounds.left+p[0]*bounds.width)/W,(bounds.top+p[1]*bounds.height)/H]);
+ }
+ // New live-drawn chambers have their own constellation placement.
+ if(!mobile)return [[.28,.40],[.71,.33],[.69,.64],[.25,.70],[.84,.79],[.48,.21]];
+ return [[.22,.35],[.79,.33],[.76,.56],[.22,.65],[.51,.76],[.50,.18]];
 }
-function destinations(){return current==="home"?homeDest:pages[current].links}
+function destinations(){
+ if(current==="home")return homeDest;
+ const links=pages[current].links.slice();
+ if(pages[current].index<=24){
+   if(submergedGates[current])links.push(submergedGates[current]);
+   links.push("@fragment:"+String((pages[current].index+5)%24+1).padStart(2,"0"));
+ }else if(pages[current].index%2===0){
+   links.push("@fragment:"+String((pages[current].index+7)%24+1).padStart(2,"0"));
+ }
+ return links;
+}
+function markResonance(index,kind,points){
+ if(!approvedArt[current])return;
+ const m=approvedMarks[current][index];
+ if(m){resonanceAt(m[0],m[1],kind);return}
+ const bounds=approvedBounds(),p=points[index];
+ resonanceAt((p[0]*W-bounds.left)/bounds.width,(p[1]*H-bounds.top)/bounds.height,kind);
+}
 function placeNodes(){
  if(!W||!H)return;
  layer.replaceChildren();hover=-1;const pts=placements(),targets=destinations();
  targets.forEach(function(dest,i){
-  const a=document.createElement("button"),action=dest==="@audio"?"audio":dest==="@read"||dest[0]==="/"?"read":dest==="@observe"?"observe":"portal";
+  const a=document.createElement("button"),action=dest.startsWith("@fragment:")?"fragment":dest==="@audio"?"audio":dest==="@read"||dest[0]==="/"?"read":dest==="@observe"?"observe":"portal";
   a.className="node "+action+(approvedArt[current]?" approved":"");a.type="button";a.style.setProperty("--x",(pts[i][0]*100)+"%");a.style.setProperty("--y",(pts[i][1]*100)+"%");
-  a.style.setProperty("--col",action==="audio"?C.teal:action==="read"?C.bone:action==="observe"?C.purple:i%3===0?C.red:C.rust);
+  a.style.setProperty("--col",action==="fragment"?(i%2?C.teal:C.rust):action==="audio"?C.teal:action==="read"?C.bone:action==="observe"?C.purple:i%3===0?C.red:C.rust);
   a.style.setProperty("--dot",i===0?"7px":(action==="audio"?"5.5px":"4.5px"));
    a.style.setProperty("--pulse-time",(5.2+(i*7%6)*.31+(current==="home"?.0:.32))+"s");
    a.style.setProperty("--pulse-offset",(-i*.83-(i%3)*.26)+"s");
   const targetName=meta[dest]?.[0]||dest;
-  a.setAttribute("aria-label",action==="audio"?"Play a KLAAT sound variation":action==="read"?"Read the full Atlas":action==="observe"?"Reveal another observation":"Enter "+targetName);
-  a.title=action==="audio"?"SOUND":action==="read"?"ATLAS":action==="observe"?"OBSERVATION":targetName;
+  a.setAttribute("aria-label",action==="fragment"?"Play a hidden KLAAT sound fragment":action==="audio"?"Play a KLAAT sound variation":action==="read"?"Read the full Atlas":action==="observe"?"Reveal another observation":"Enter "+targetName);
+  a.title=action==="fragment"?"∿":action==="audio"?"SOUND":action==="read"?"ATLAS":action==="observe"?"OBSERVATION":targetName;
   a.innerHTML='<span class="ring"></span><span class="ring two"></span><span class="ink"></span>';
   a.addEventListener("mouseenter",function(){hover=i;hint.classList.add("disappear")});a.addEventListener("mouseleave",function(){hover=-1});
   a.addEventListener("focus",function(){hover=i});a.addEventListener("blur",function(){hover=-1});
@@ -734,21 +758,26 @@ function placeNodes(){
    if(action==="audio"){
      const last=currentMode;let next=Math.floor(Math.random()*audioModes.length);
      if(next===last)next=(next+1)%audioModes.length;
-     if(approvedArt[current])resonanceAt(approvedMarks[current][i][0],approvedMarks[current][i][1],"audio");
+     markResonance(i,"audio",pts);
      playVariation(next);return
+   }
+   if(action==="fragment"){
+     markResonance(i,"audio",pts);
+     playFragment(parseInt(dest.split(":")[1],10),a);
+     return;
    }
    if(action==="read"){if(typeof window.gtag==="function")window.gtag("event","atlas_open",{from_portal:current});location.href=dest[0]==="/"?dest:"/edition.html";return}
    if(action==="observe"){
      showInscription(meta[current]?.[2]||"");
-     if(approvedArt[current])resonanceAt(approvedMarks[current][i][0],approvedMarks[current][i][1],"observe");
+     markResonance(i,"observe",pts);
      return
    }
-   if(approvedArt[current])resonanceAt(approvedMarks[current][i][0],approvedMarks[current][i][1],"portal");
+   markResonance(i,"portal",pts);
    travel(dest)
   });
   layer.appendChild(a)
  });
- pos.textContent=(current==="home"?"00":String(pages[current].index).padStart(2,"0"))+" / 24";
+ pos.textContent=(current==="home"?"00":String(pages[current].index).padStart(2,"0"))+" / "+totalFields;
  
  showInscription("");syncArtwork();document.body.classList.toggle("is-home",current==="home");back.disabled=current==="home";
  const annotation=meta[current];$("fieldId").textContent=annotation?String(pages[current].index).padStart(2,"0")+" / "+annotation[0]:"";
@@ -793,7 +822,7 @@ sound.addEventListener("click",function(){if(signalOn){stopAudio();return}playVa
 let entrySoundRequested=false;
 document.addEventListener("pointerdown",function(e){
  if(entrySoundRequested||signalOn||current!=="home")return;
- if(e.target.closest("a,#sound,#back"))return;
+ if(e.target.closest("a,#sound,#back,.node.fragment"))return;
  entrySoundRequested=true;
  playVariation(0);
 },{passive:true,capture:true});
