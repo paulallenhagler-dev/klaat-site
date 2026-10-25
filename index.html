@@ -6,11 +6,16 @@
 <meta name="theme-color" content="#080808">
 <meta name="color-scheme" content="dark">
 <meta name="google-site-verification" content="di5E8o12Z2FR5N08ND5FIQakTfVSHUWSVBLpcym97TI">
-<title>KLAAT — The Living Field</title>
+<title>KLAAT - Resonant Art</title>
+<link rel="icon" type="image/png" sizes="96x96" href="https://raw.githubusercontent.com/paulallenhagler-dev/klaat-site/main/favicon.png">
+<link rel="shortcut icon" href="https://raw.githubusercontent.com/paulallenhagler-dev/klaat-site/main/favicon.png">
+<link rel="apple-touch-icon" sizes="96x96" href="https://raw.githubusercontent.com/paulallenhagler-dev/klaat-site/main/favicon.png">
+<meta name="application-name" content="KLAAT">
+
 <meta name="description" content="KLAAT. An evolving acoustic practice and visual field of drone, pulse, breath, and the listening mind. Explore the work and the complete Atlas of the Living Interval.">
 <link rel="canonical" href="https://klaat.org/">
 <meta property="og:type" content="website">
-<meta property="og:title" content="KLAAT — The Living Field">
+<meta property="og:title" content="KLAAT - Resonant Art">
 <meta property="og:description" content="An evolving practice in sound, art, research and perception.">
 <meta property="og:url" content="https://klaat.org/">
 <meta property="og:image" content="https://klaat.org/assets/klaat-hero.png">
@@ -538,7 +543,7 @@ function placeNodes(){
  showInscription("");syncArtwork();document.body.classList.toggle("is-home",current==="home");back.disabled=current==="home";
  const annotation=meta[current];$("fieldId").textContent=annotation?String(pages[current].index).padStart(2,"0")+" / "+annotation[0]:"";
  $("fieldCopy").textContent=annotation?annotation[1]:"";$("secondary").textContent="";$("secondary").classList.remove("shown");
- document.title=current==="home"?"KLAAT — The Living Field":"KLAAT — "+(annotation?.[0]||"Field");
+ document.title=current==="home"?"KLAAT - Resonant Art":"KLAAT - Resonant Art | "+(annotation?.[0]||"Field");
  if(signalOn){const a=layer.querySelector(".node.audio");if(a){activeSoundNode=a;a.classList.add("playing")}}
 }
 function travel(id,replace){
