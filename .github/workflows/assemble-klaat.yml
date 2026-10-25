@@ -1,0 +1,33 @@
+name: Assemble KLAAT performance audio
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/assemble-klaat.yml'
+      - 'public/assets/klaat-opening/part-*.bin'
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Verify and assemble original AAC audio without transcoding
+        run: |
+          cat public/assets/klaat-opening/part-*.bin > public/assets/klaat-opening-performance.m4a
+          test "$(wc -c < public/assets/klaat-opening-performance.m4a)" -eq 4391888
+          file public/assets/klaat-opening-performance.m4a
+      - name: Commit assembled performance as a playable asset
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/assets/klaat-opening-performance.m4a
+          git diff --cached --quiet && exit 0
+          git commit -m "Assemble full KLAAT opening performance recording"
+          git push origin HEAD:main
