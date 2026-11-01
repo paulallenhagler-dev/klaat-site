@@ -3,119 +3,382 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#0a0a0c">
-<meta name="description" content="KLAAT: Atlas of the Living Interval — a 274-page artist–research book of drone, pulse, breath, resonance, repetition, and the listening mind. Enter the illustrated atlas and the full research.">
+<meta name="theme-color" content="#090a0c">
+<meta name="color-scheme" content="dark">
+<meta name="description" content="KLAAT: Atlas of the Living Interval, Book I — A Resonance Ritual. The official 18-leaf illustrated artistic manifesto by Paul Hagler, 2026.">
+<meta name="author" content="Paul Hagler">
 <link rel="canonical" href="https://klaat.org/edition.html">
-<meta property="og:type" content="book"><meta property="og:site_name" content="KLAAT"><meta property="og:url" content="https://klaat.org/edition.html">
-<meta property="og:title" content="Atlas of the Living Interval — KLAAT">
-<meta property="og:description" content="The first digital edition. An illustrated field book exploring the distance between what sound does and what listening makes of it.">
-<meta property="og:image" content="https://klaat.org/assets/klaat-hero.png">
-<title>KLAAT — Atlas of the Living Interval / 2026 Edition</title>
+<link rel="icon" href="/favicon.png" type="image/png">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="KLAAT">
+<meta property="og:title" content="Atlas of the Living Interval — Book I / KLAAT">
+<meta property="og:description" content="A resonance ritual. Eighteen leaves on continuity, interruption, effort, and the architecture of listening. The definitive artistic manuscript of KLAAT.">
+<meta property="og:url" content="https://klaat.org/edition.html">
+<meta property="og:image" content="https://klaat.org/assets/fields/17-circle.webp">
+<meta name="twitter:card" content="summary_large_image">
+<title>KLAAT — Atlas of the Living Interval / Book I</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&display=swap" rel="stylesheet">
 <style>
-:root{--void:#0a0a0c;--bone:#e8e2d6;--blue:#15323f;--purple:#3b1e5a;--teal:#88a8a4;--faded:#b7b1a5;--ember:#bb1e1e}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--void);color:var(--bone);font-family:"EB Garamond",Georgia,serif;-webkit-font-smoothing:antialiased}
-a{color:inherit}a:focus-visible{outline:2px solid #a6c2bb;outline-offset:5px}.mono,.small{font-family:"DM Mono",monospace;font-weight:400;text-transform:uppercase;letter-spacing:.16em}
-.small{font-size:10px;line-height:1.9;color:#b2aeaa}
-nav{display:flex;align-items:center;justify-content:space-between;gap:30px;padding:24px clamp(22px,5vw,74px);border-bottom:1px solid #e8e2d620;position:relative;z-index:5}
-nav a{text-decoration:none}nav .brand{font:500 15px "DM Mono",monospace;letter-spacing:.28em}
-nav .return{font:10px "DM Mono",monospace;letter-spacing:.12em;color:#c5c2bc}
-.announcement{font:10px "DM Mono",monospace;letter-spacing:.19em;line-height:1.8;color:#aaa79d}
-.hero{min-height:min(900px,92svh);position:relative;isolation:isolate;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;overflow:hidden;padding:110px 22px 115px;background:radial-gradient(ellipse at 51% 52%,#12232d70 0%,#0a0a0c 52%),radial-gradient(ellipse at 47% 45%,#3b1e5a28,transparent 67%)}
-.hero:after{content:"";pointer-events:none;position:absolute;inset:0;border-top:1px solid #ffffff0e;background:linear-gradient(0deg,#0a0a0c 0,transparent 19%,transparent 85%,#0a0a0c 100%);z-index:-1}
-.diagram{position:absolute;inset:0;margin:auto;max-width:1100px;width:min(118vw,1100px);height:100%;pointer-events:none;opacity:.71;z-index:-1}
-.diagram path,.diagram ellipse{fill:none;stroke-width:.53;vector-effect:non-scaling-stroke}.diagram .r{stroke:#d3cab8}.diagram .w{stroke:#567783}.diagram .t{stroke:#ad9da3}
-.hero .kicker{font:10px "DM Mono",monospace;letter-spacing:.29em;color:#bcbbb2;text-transform:uppercase;margin:0 0 33px}
-h1{font-size:clamp(65px,9.2vw,142px);line-height:.88;font-weight:400;letter-spacing:-.045em;margin:0;max-width:1000px;text-shadow:0 1px 30px #0a0a0c}
-h1 em{font-weight:400}h1 .last{display:block;font-size:clamp(55px,8.5vw,130px);margin-top:9px}
-.deck{max-width:530px;font-size:clamp(21px,2.1vw,28px);line-height:1.35;color:#d8d2c6;margin:45px auto 29px;text-shadow:0 1px 10px #0a0a0c}
-.edition-label{font:10px "DM Mono",monospace;letter-spacing:.19em;color:#999b97;text-transform:uppercase;margin:0 0 30px}
-.actions{display:flex;gap:14px;align-items:stretch;justify-content:center;flex-wrap:wrap;margin-top:12px}
-.button{min-height:53px;display:inline-flex;justify-content:center;align-items:center;padding:16px 21px;border:1px solid #e8e2d666;background:#e8e2d60c;text-decoration:none;font:10px "DM Mono",monospace;letter-spacing:.14em;text-transform:uppercase;transition:background .25s,border .25s}
-.button.primary{background:#e8e2d6;color:#0a0a0c;border-color:#e8e2d6}.button:hover{background:#15323fb3;border-color:#e8e2d6;color:#e8e2d6}
-.statement{max-width:730px;margin:0 auto;padding:125px 26px 120px;text-align:left}
-.statement .topline{margin-bottom:35px}
-.statement p{font-size:clamp(26px,3.15vw,43px);line-height:1.28;margin:0 0 30px}
-.statement .note{font-size:19px;line-height:1.7;color:#b8b4ac;max-width:625px}
-.rule{height:1px;background:linear-gradient(90deg,transparent,#e8e2d63f,transparent);max-width:1000px;margin:auto}
-.entries{max-width:1080px;margin:auto;padding:95px 26px 130px}
-.entries>h2{font:400 clamp(37px,5vw,64px)/1.08 "EB Garamond",Georgia,serif;margin:10px 0 60px;letter-spacing:-.025em}
-.entry{display:grid;grid-template-columns:minmax(200px,.9fr) minmax(320px,1.1fr);gap:40px;align-items:start;padding:36px 0 43px;border-top:1px solid #e8e2d636}
-.entry h3{font-weight:400;font-size:clamp(28px,4vw,49px);line-height:1.07;margin:9px 0 0}
-.entry .detail p{font-size:20px;line-height:1.6;margin:0 0 22px;color:#c9c6be}
-.entry .detail a{font:11px "DM Mono",monospace;letter-spacing:.12em;text-decoration:none;padding-bottom:7px;border-bottom:1px solid #b4c5bc9c;display:inline-block}
-.entry .detail a:hover{color:white}
-.end{max-width:860px;margin:auto;text-align:center;padding:125px 22px 150px}
-.end p{font-size:clamp(27px,4vw,51px);line-height:1.2;margin:26px auto;font-style:italic;max-width:730px}
-footer{border-top:1px solid #e8e2d629;padding:24px clamp(22px,5vw,74px);display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap;font:10px "DM Mono",monospace;letter-spacing:.1em;color:#aaa79d}
-footer a{text-decoration:none}
-@media(max-width:700px){nav{gap:10px}.return{max-width:170px;text-align:right}.hero{min-height:760px;padding-top:80px;padding-bottom:85px}.diagram{width:180vw;left:-40vw;max-width:none}.deck{margin-top:38px}.statement{padding:90px 27px}.entries{padding-top:72px;padding-bottom:70px}.entry{grid-template-columns:1fr;gap:18px}.entries>h2{margin-bottom:30px}.end{padding:90px 22px}}
-@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
-
-.downloads{max-width:1080px;margin:auto;padding:108px 26px 108px;border-top:1px solid #e8e2d63b}
-.downloads h2{font-weight:400;font-size:clamp(40px,5.3vw,68px);line-height:1.05;margin:18px 0 19px;letter-spacing:-.025em}
-.downloads>p{color:#bfbab0;font-size:20px;line-height:1.6;margin:0 0 42px;max-width:680px}
-.download-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px}
-.download-card{display:flex;flex-direction:column;text-decoration:none;border:1px solid #e8e2d650;padding:34px 29px 32px;min-height:225px;transition:border-color .2s,background .2s;background:linear-gradient(125deg,#15323f32,transparent 70%)}
-.download-card:hover{border-color:#e8e2d6;background:#15323f6a}
-.download-card strong{font:400 clamp(30px,3.4vw,44px)/1.15 "EB Garamond",Georgia,serif;margin:24px 0 13px}
-.download-card span{font:10px/1.65 "DM Mono",monospace;letter-spacing:.14em;color:#b7bbb7}
-.download-card .arrow{align-self:flex-end;font-size:20px;font-family:"DM Mono",monospace}
-@media(max-width:700px){.downloads{padding:76px 26px}.download-grid{grid-template-columns:1fr}.download-card{min-height:185px}}
+:root{color-scheme:dark;--void:#090a0c;--ink:#eee8dc;--soft:#c7c0b5;--muted:#948f87;--line:#e8e2d62b;--teal:#91aaa4;--rust:#a97d66;--violet:#978396}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:70px}
+body{margin:0;color:var(--ink);background:var(--void);font-family:"EB Garamond",Georgia,serif;-webkit-font-smoothing:antialiased}
+body:before{content:"";position:fixed;inset:0;pointer-events:none;opacity:.105;z-index:20;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 160 160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)' opacity='.19'/%3E%3C/svg%3E")}
+::selection{color:#fff;background:#394b4b}
+a{color:inherit}a:focus-visible{outline:2px solid var(--teal);outline-offset:5px}
+.mono,.eyebrow,.progress,.nav-name,.toc-group-title,.toc a,.plate figcaption,.leaf-bottom,.hero-side,.footnote,footer,.hero-cta,.toplink{font-family:"DM Mono",Consolas,monospace;text-transform:uppercase;letter-spacing:.14em}
+.sitebar{position:relative;z-index:12;display:flex;align-items:center;justify-content:space-between;padding:21px clamp(24px,4.8vw,85px);border-bottom:1px solid var(--line);gap:25px}
+.sitebar a{text-decoration:none}.sitebar .brand{font:500 19px "DM Mono",monospace;letter-spacing:.3em}.navlinks{display:flex;align-items:center;gap:clamp(15px,3vw,45px);font:10px "DM Mono",monospace;letter-spacing:.13em;color:var(--soft)}.navlinks a:hover{color:#fff}
+.progress{height:2px;position:fixed;top:0;left:0;right:0;z-index:50;transform-origin:left;transform:scaleX(0);background:var(--teal)}
+.hero{position:relative;min-height:min(900px,91svh);display:grid;grid-template-columns:minmax(0,1.08fr) minmax(320px,.92fr);overflow:hidden;border-bottom:1px solid var(--line);isolation:isolate}
+.hero-art{position:relative;min-height:660px;background:radial-gradient(ellipse at 45% 48%,#10232880,transparent 60%)}
+.hero-art:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,transparent 55%,var(--void) 100%),linear-gradient(0deg,var(--void),transparent 23%,transparent 76%,var(--void))}
+.hero-art img{width:100%;height:100%;position:absolute;inset:0;object-fit:contain;opacity:.8;filter:contrast(1.03)}
+.hero-content{position:relative;z-index:1;display:flex;flex-direction:column;justify-content:center;padding:70px clamp(32px,5vw,90px) 85px 0;max-width:860px}
+.eyebrow{color:var(--teal);font-size:10px;line-height:1.8}
+.hero h1{font-weight:400;font-size:clamp(68px,6.7vw,125px);line-height:.91;letter-spacing:-.045em;margin:32px 0 36px}
+.hero h1 em{font-weight:400;display:block;margin-top:8px}
+.hero-deck{font-size:clamp(24px,2.15vw,32px);line-height:1.37;color:#d0c8bc;max-width:550px;margin:0 0 42px}
+.hero-cta{align-self:start;text-decoration:none;border-bottom:1px solid var(--teal);padding:0 0 12px;font-size:11px;line-height:2;transition:color .2s}
+.hero-cta:hover{color:var(--teal)}.hero-cta span{margin-left:24px;font-size:15px}
+.hero-side{position:absolute;right:35px;bottom:30px;writing-mode:vertical-rl;font-size:9px;color:var(--muted)}
+.statement{padding:clamp(100px,13vw,190px) 26px;max-width:960px;margin:0 auto;text-align:center}
+.statement h2{font-weight:400;font-size:clamp(12px,1vw,14px);font-family:"DM Mono",monospace;letter-spacing:.24em;color:var(--teal);margin:0 0 55px}
+.statement p{font-size:clamp(24px,3.08vw,45px);line-height:1.37;letter-spacing:-.015em;margin:0 auto 32px;max-width:850px}
+.statement p:last-child{color:var(--soft)}
+.statement .rule{display:block;height:90px;width:1px;background:linear-gradient(var(--teal),transparent);margin:64px auto 0}
+.contents{padding:90px clamp(24px,8vw,130px) 130px;background:linear-gradient(160deg,#0d1013 0%,#08090b 100%);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.contents-inner{max-width:1150px;margin:auto;display:grid;grid-template-columns:minmax(190px,.75fr) minmax(0,1.25fr);gap:clamp(45px,8vw,150px)}
+.contents-heading{position:sticky;top:80px;align-self:start}
+.contents-heading h2{font:400 clamp(50px,5.2vw,84px)/.99 "EB Garamond",Georgia,serif;letter-spacing:-.04em;margin:24px 0}
+.contents-heading p{font-size:18px;color:var(--soft);max-width:24ch;line-height:1.5;margin:26px 0}
+.contents-heading .small-rule{height:1px;width:80px;background:var(--teal);margin:30px 0}
+.toc-group{margin:0 0 40px}.toc-group-title{font-size:9px;color:var(--teal);padding:0 0 20px}
+.toc a{display:grid;grid-template-columns:42px 1fr 17px;gap:12px;align-items:start;text-decoration:none;border-top:1px solid var(--line);padding:14px 0 16px;font-size:11px;line-height:1.5;transition:color .2s,padding-left .2s}
+.toc a:hover{padding-left:9px;color:#fff}.toc-n{color:var(--muted)}.toc-title{letter-spacing:.11em}.toc-arrow{color:var(--teal)}
+.leaf{scroll-margin-top:35px;min-height:94svh;max-width:1660px;margin:0 auto;padding:clamp(65px,7.5vw,135px) clamp(24px,5.2vw,100px);display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);align-items:center;column-gap:clamp(38px,7vw,130px);border-bottom:1px solid var(--line);position:relative}
+.leaf:before{content:"";position:absolute;top:0;left:clamp(24px,5.2vw,100px);width:90px;height:1px;background:var(--teal);opacity:.6}
+.leaf.reversed{grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr)}
+.leaf.reversed .leaf-art{order:2}
+.leaf.reversed .leaf-word{order:1}
+.leaf-art{position:relative;min-width:0}
+.plate{margin:0 auto;max-width:610px;position:relative}
+.plate a{display:block;position:relative;text-decoration:none}
+.plate img{width:100%;height:min(74svh,770px);object-fit:contain;display:block;filter:brightness(.96) contrast(1.05);transition:filter .4s,transform .7s;user-select:none}
+.plate a:hover img{filter:brightness(1.12) contrast(1.05);transform:scale(1.014)}
+.plate figcaption{margin-top:15px;padding-top:10px;border-top:1px solid var(--line);display:flex;justify-content:space-between;gap:15px;color:var(--muted);font-size:9px;line-height:1.8}
+.leaf-word{width:100%;max-width:630px;margin:auto}
+.leaf-head{display:flex;justify-content:space-between;align-items:center;gap:22px;padding-bottom:30px}
+.tiny-axis{color:var(--rust);font-size:16px}
+.leaf h2{font-size:clamp(43px,4.35vw,80px);line-height:1.03;font-weight:400;letter-spacing:-.025em;margin:0 0 43px;text-wrap:balance}
+.leaf h2 .roman{display:block;font:10px "DM Mono",monospace;letter-spacing:.22em;margin-bottom:15px;color:var(--rust)}
+.leaf-copy{max-width:59ch}
+.leaf-copy p{font-size:clamp(19px,1.66vw,24px);line-height:1.61;margin:0 0 25px;color:var(--soft);text-wrap:pretty}
+.leaf-copy p:first-child{color:var(--ink)}
+.leaf-copy p:last-child{margin-bottom:0}
+.leaf-copy p:only-child{color:var(--ink)}
+.leaf-bottom{margin-top:57px;padding-top:21px;border-top:1px solid var(--line);color:var(--muted);display:flex;justify-content:space-between;font-size:9px;line-height:1.6;gap:20px}
+.leaf-bottom a{text-decoration:none;color:var(--teal)}
+.last-leaf{border-bottom:0}
+.last-leaf .leaf-copy p:last-child{font-style:italic;font-size:clamp(25px,2.5vw,40px);line-height:1.3;color:#efe9dc;margin-top:30px}
+.coda{padding:110px 26px 135px;text-align:center;border-top:1px solid var(--line);background:radial-gradient(circle at 50% 40%,#17303025,transparent 55%)}
+.coda .hairline{display:block;width:1px;height:100px;background:linear-gradient(transparent,var(--teal),transparent);margin:0 auto 55px}
+.coda p{font:10px "DM Mono",monospace;letter-spacing:.25em;color:var(--teal);margin:0 0 27px}
+.coda h2{font:400 clamp(37px,5vw,77px)/1.1 "EB Garamond",Georgia,serif;letter-spacing:-.025em;margin:0 0 36px}
+.coda a{font:10px "DM Mono",monospace;letter-spacing:.16em;color:var(--soft);text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:9px}
+footer{display:flex;justify-content:space-between;gap:20px;padding:26px clamp(24px,4.8vw,85px);font-size:10px;border-top:1px solid var(--line);color:var(--muted);line-height:1.8;flex-wrap:wrap}
+footer a{text-decoration:none;color:var(--soft)}
+@media(max-width:980px){
+.hero{grid-template-columns:1fr;min-height:0}.hero-art{position:absolute;inset:0;min-height:auto;opacity:.35}.hero-art:after{background:linear-gradient(90deg,#090a0cd6,#090a0c55),linear-gradient(0deg,#090a0c 0%,transparent 28%,transparent 70%,#090a0c)}.hero-content{min-height:77svh;padding:110px 7vw 90px;max-width:850px}.hero h1{font-size:clamp(64px,12vw,110px)}.hero-side{right:15px}
+.contents-inner{grid-template-columns:1fr;gap:40px}.contents-heading{position:static}.contents-heading p{max-width:50ch}
+.leaf,.leaf.reversed{grid-template-columns:1fr;gap:35px;min-height:0;padding-top:70px;padding-bottom:100px}
+.leaf .leaf-art,.leaf.reversed .leaf-art{order:0}.leaf .leaf-word,.leaf.reversed .leaf-word{order:1}
+.plate{max-width:550px}.plate img{height:min(68svh,670px)}
+.leaf-word{max-width:700px}.leaf h2{font-size:clamp(43px,7vw,67px)}
+}
+@media(max-width:570px){
+.sitebar{padding:19px 21px}.sitebar .brand{font-size:17px}.navlinks{gap:14px;font-size:9px}
+.hero-content{min-height:75svh;padding:90px 25px 70px}.hero h1{font-size:clamp(53px,13vw,78px)}.hero-deck{font-size:23px}
+.statement{padding:90px 26px}.statement p{font-size:26px}
+.contents{padding:80px 24px}.contents-heading h2{font-size:60px}
+.leaf,.leaf.reversed{padding:62px 25px 85px;gap:30px}
+.plate img{height:min(58svh,530px)}
+.plate figcaption{font-size:7px}.leaf h2{font-size:clamp(41px,9vw,58px);margin-bottom:29px}.leaf-copy p{font-size:20px;line-height:1.58}
+.leaf-bottom{margin-top:38px}.coda{padding:75px 22px 100px}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important}}
+@media print{body{color:#111;background:#fff}body:before,.sitebar,.progress,.hero-side,.hero-cta,.leaf-bottom,.coda,footer{display:none!important}.hero,.contents,.leaf{break-after:page;min-height:0;page-break-after:always;padding:25px;display:block}.hero-art{display:none}.leaf-art{max-width:45%;float:left;margin:0 35px 20px 0}.plate img{height:400px}.leaf-copy p{color:#111}.leaf h2{color:#111}}
 </style>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-F3RFL7WKH3"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-F3RFL7WKH3')</script>
 </head>
 <body>
-<nav aria-label="Site navigation"><a class="brand" href="/">KLAAT</a><span class="announcement">AN ARCHAEOSONIC FIELD BOOK · 2026</span><a class="return" href="/">RETURN TO THE PORTAL ↗</a></nav>
-<main>
+<div class="progress" id="reading-progress" aria-hidden="true"></div>
+<header class="sitebar"><a class="brand" href="/" aria-label="KLAAT home">KLAAT</a><nav class="navlinks" aria-label="Main navigation"><a href="/">LISTEN</a><a href="#contents">INDEX</a><a href="/research.html">RESEARCH</a></nav></header>
+<main id="top">
 <section class="hero" aria-labelledby="book-title">
-<svg class="diagram" viewBox="0 0 1100 850" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
-<g class="r" opacity=".5">
-<ellipse cx="550" cy="398" rx="230" ry="230"/><ellipse cx="550" cy="398" rx="247" ry="247"/><ellipse cx="550" cy="398" rx="266" ry="266"/><ellipse cx="550" cy="398" rx="283" ry="283"/><ellipse cx="550" cy="398" rx="301" ry="301"/><ellipse cx="550" cy="398" rx="316" ry="316"/><ellipse cx="550" cy="398" rx="330" ry="330"/>
-</g><g class="w" opacity=".73">
-<path d="M0 420 C130 420 145 395 205 395 S280 445 347 424 S450 390 550 420 S700 452 780 400 S945 420 1100 420"/>
-<path d="M0 435 C130 435 145 399 205 416 S280 467 347 433 S450 406 550 435 S700 470 780 418 S945 440 1100 435"/>
-<path d="M0 405 C130 405 145 386 205 386 S280 423 347 409 S450 374 550 405 S700 424 780 385 S945 405 1100 405"/>
-<path d="M0 452 C125 450 200 421 280 459 S395 480 520 452 S620 402 735 452 S915 477 1100 452"/>
-</g><g class="t" opacity=".28"><path d="M120 398H980" stroke-dasharray="2 9"/><path d="M550 47V749" stroke-dasharray="2 9"/></g>
-</svg>
-<div class="kicker">KLAAT / THE ATLAS / DIGITAL EDITION I</div>
-<h1 id="book-title">Atlas of the<br><em class="last">Living Interval</em></h1>
-<p class="deck">An illustrated inquiry into the sound that continues, the strike that divides it, and the mind that learns to wait.</p>
-<p class="edition-label">PAUL HAGLER · 2026 · 274-PAGE DIGITAL EDITION</p>
-<div class="actions">
-<a class="button primary" href="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Digital_Edition.pdf" type="application/pdf" download>DOWNLOAD THE COMPLETE BOOK · PDF ↓</a>
-<a class="button" href="/read.html">READ THE COMPLETE EDITION ONLINE ↗</a>
-</div>
+<div class="hero-art" aria-hidden="true"><img src="/assets/fields/17-circle.webp" alt="" width="941" height="1672" fetchpriority="high"></div>
+<div class="hero-content"><span class="eyebrow">THE OFFICIAL ARTIST'S ATLAS &nbsp; / &nbsp; BOOK I · 2026</span><h1 id="book-title">Atlas of the <em>Living Interval</em></h1><p class="hero-deck">A resonance ritual.<br>Continuity. Interruption. The labor of remaining.</p><a class="hero-cta" href="#practice">ENTER THE WORK <span aria-hidden="true">↘</span></a></div>
+<span class="hero-side">KLAAT / PAUL HAGLER / MMXXVI</span>
 </section>
-<section class="statement"><div class="small topline">00 / THE SOUND CAME FIRST</div>
-<p>Before there was an atlas, there was a breath held against a hollow column of agave.</p>
-<p>A drum entered. One strike divided the sound into a before and an after. Another strike made the interval imaginable.</p>
-<p>With the third, the ear could begin waiting for the fourth.</p>
-<p class="note">The Atlas begins in music and moves through acoustics, perception, body, memory and the stubborn difference between what an instrument produces and what a listener experiences. It is an art book with a research foundation—not a claim that one pitch, one rhythm, or one technique has universal power.</p>
+<section class="statement" id="practice"><h2>THE PRACTICE</h2><p>KLAAT is a resonance ritual built from two simultaneous acoustic acts: a sound sustained by breath and a sound returned by the hand. The Drone and the Pulse are not layers assembled afterward. They meet in the same room, in the same present tense, through the effort of one body.</p>
+<p>The instruments may be organic or industrial. The relationship remains: continuity and interruption, held against one another until listening itself begins to change shape. KLAAT seeks a condition of absorbed, altered stillness—not by escaping physical sensation, but by sustaining it through effort. It is an account of an acoustic practice: what it asks of the performer, what it offers the listener, and what happens in the interval between them.</p><span class="rule" aria-hidden="true"></span></section>
+<nav class="contents" id="contents" aria-label="Table of contents"><div class="contents-inner"><div class="contents-heading"><span class="eyebrow">ATLAS / 18 LEAVES</span><h2>The field<br><i>of the work.</i></h2><div class="small-rule"></div><p>Read continuously or enter at any leaf. Every plate belongs to the same acoustic architecture.</p></div><div class="toc"><div class="toc-group"><div class="toc-group-title">I / THE ELEMENTS</div><a href="#leaf-01"><span class="toc-n">01</span><span class="toc-title">THE LIVING INTERVAL</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-02"><span class="toc-n">02</span><span class="toc-title">THE DRONE</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-03"><span class="toc-n">03</span><span class="toc-title">THE PULSE</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-04"><span class="toc-n">04</span><span class="toc-title">CIRCULAR BREATH</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-05"><span class="toc-n">05</span><span class="toc-title">MATERIAL DUALITY: UNEARTHED / POST-COLLAPSE</span><span class="toc-arrow" aria-hidden="true">↗</span></a></div>
+<div class="toc-group"><div class="toc-group-title">II / THE FOUR PHASES</div><a href="#leaf-06"><span class="toc-n">06</span><span class="toc-title">GROUND ANCHOR / PHASE I</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-07"><span class="toc-n">07</span><span class="toc-title">THRESHOLD GATE / PHASE II</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-08"><span class="toc-n">08</span><span class="toc-title">RISING PULSE / PHASE III</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-09"><span class="toc-n">09</span><span class="toc-title">RETURN PATH / PHASE IV</span><span class="toc-arrow" aria-hidden="true">↗</span></a></div>
+<div class="toc-group"><div class="toc-group-title">III / THE ACOUSTIC FIELD</div><a href="#leaf-10"><span class="toc-n">10</span><span class="toc-title">SPECTRAL ARCHITECTURE</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-11"><span class="toc-n">11</span><span class="toc-title">PERCEPTUAL SUBDIVISION</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-12"><span class="toc-n">12</span><span class="toc-title">PHASE DISPLACEMENT</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-13"><span class="toc-n">13</span><span class="toc-title">ACOUSTIC PRESSURE / WEIGHTLESSNESS</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-14"><span class="toc-n">14</span><span class="toc-title">THE ROOM AS INSTRUMENT</span><span class="toc-arrow" aria-hidden="true">↗</span></a></div>
+<div class="toc-group"><div class="toc-group-title">IV / THE REMAINDER</div><a href="#leaf-15"><span class="toc-n">15</span><span class="toc-title">ABSENCE OF DIGITAL MEMORY</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-16"><span class="toc-n">16</span><span class="toc-title">SYMBOLIC SCORING</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-17"><span class="toc-n">17</span><span class="toc-title">MICRO-VARIATION</span><span class="toc-arrow" aria-hidden="true">↗</span></a><a href="#leaf-18"><span class="toc-n">18</span><span class="toc-title">THE SILENT INTERVAL</span><span class="toc-arrow" aria-hidden="true">↗</span></a></div></div></div></nav>
+<section id="leaf-01" class="leaf  " aria-labelledby="title-0">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/18-interval.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for THE LIVING INTERVAL in a new tab"><img src="/assets/fields/18-interval.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying THE LIVING INTERVAL" loading="eager" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 01</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 01 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-0"><span class="roman">I.</span> THE LIVING INTERVAL</h2>
+    <div class="leaf-copy"><p>KLAAT begins with two opposing gestures: one that sustains, and one that interrupts. The Drone carries time without dividing it. The Pulse enters and gives duration an edge. A strike turns a continuous field into a before and an after; another teaches the listener that something may return. The two do not decorate one another. Each changes the meaning of the other.</p>
+<p>Between them is the Living Interval—a held relationship of persistence against interruption, expectation against arrival, pressure against release. The music happens not on either side of this relationship, but inside it.</p>
+<p>Nothing in this architecture exists apart from the body making it. There is no stored breath beneath the sound, no mechanical past to support the present. The instrument resists; the hand hesitates; the lungs must be replenished. These conditions give the work its consequence.</p>
+<p>When the breath fails, the architecture collapses.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
 </section>
-<div class="rule" role="presentation"></div>
-<section class="downloads" id="downloads" aria-labelledby="download-heading">
-<div class="small">THE BOOK / TAKE IT WITH YOU</div>
-<h2 id="download-heading">The digital edition.</h2>
-<p>Two ways to keep the complete work. The fixed-layout PDF preserves the artwork and composition of the 274-page edition. The reflowable EPUB adapts the text to your reading device and includes the principal illustrated plates.</p>
-<div class="download-grid">
-<a class="download-card" href="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Digital_Edition.pdf" type="application/pdf" download aria-label="Download KLAAT Atlas 2026 full digital edition PDF">
-<span>01 / THE ORIGINAL LAYOUT · 274 PAGES</span><strong>Download the Atlas<br><em>PDF Edition</em></strong><span>FIXED LAYOUT · 1.5 MB</span><span class="arrow" aria-hidden="true">↘</span>
-</a>
-<a class="download-card" href="/downloads/KLAAT_Atlas_of_the_Living_Interval_2026_Reader.epub" type="application/epub+zip" download aria-label="Download KLAAT Atlas 2026 reflowable EPUB">
-<span>02 / THE PORTABLE READING EDITION</span><strong>Read the Atlas<br><em>EPUB Edition</em></strong><span>REFLOWABLE TEXT · 395 KB</span><span class="arrow" aria-hidden="true">↘</span>
-</a>
-</div>
+<section id="leaf-02" class="leaf reversed " aria-labelledby="title-1">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/01-held.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for THE DRONE in a new tab"><img src="/assets/fields/01-held.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying THE DRONE" loading="eager" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 02</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 02 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-1"><span class="roman">II.</span> THE DRONE</h2>
+    <div class="leaf-copy"><p>The Drone is the act of remaining. In the C-sharp agave column, a fundamental holds its place while the sound above it refuses to settle. The lips sustain the vibration; the mouth, tongue, and throat reshape its harmonics. A tone can grow brighter, rougher, narrower, or more open without abandoning its center. Movement does not always require a destination.</p>
+<p>At first the Drone seems singular. Stay with it and its interior becomes audible: a softened edge, an overtone emerging, the brief grain of a difficult breath. This is the changing life of a resonant bore, made expressive through attention and physical control. It is no background for the drum; it carries its own tension, rhythm, and vulnerability, altering the character of a moment while the Pulse stays exactly where it is.</p>
+<p>To hold a note is not to stop moving. It is to discover how much movement can exist without departure.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
 </section>
-<section class="entries" aria-labelledby="contents">
-<div class="small">THE THREE GATES</div><h2 id="contents">Enter by any path.</h2>
-<div class="entry"><div><div class="small">01 / THE ARTIST'S FIELD</div><h3>Book I<br><em>The Living Interval</em></h3></div><div class="detail"><p>Thirty-one illustrated leaves. Sound as place, interruption as event, attention as a journey. Begin here to encounter the language and imagery of KLAAT before reading its explanations.</p><a href="/read.html">READ BOOK I AS PUBLISHED ↗</a></div></div>
-<div class="entry"><div><div class="small">02 / THE CONTINUOUS WORK</div><h3>The Full<br><em>Atlas</em></h3></div><div class="detail"><p>Read the authoritative 274-page illustrated edition online, including the revised opening, all ten schematic fields, the 28-chapter scientific work, and bibliography. Choose the original page layout or a reflowable reading companion.</p><a href="/read.html">READ THE COMPLETE 2026 ATLAS ↗</a></div></div>
-<div class="entry"><div><div class="small">03 / THE DOCUMENTED FIELD</div><h3>Research &amp;<br><em>Sources</em></h3></div><div class="detail"><p>Explore the acoustics, auditory neuroscience, bodily perception, rhythmic prediction, methodological limitations and unresolved questions supporting the artistic work.</p><a href="/research.html">EXPLORE THE SCIENTIFIC FOUNDATION ↗</a></div></div>
+<section id="leaf-03" class="leaf  " aria-labelledby="title-2">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/02-division.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for THE PULSE in a new tab"><img src="/assets/fields/02-division.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying THE PULSE" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 03</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 03 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-2"><span class="roman">III.</span> THE PULSE</h2>
+    <div class="leaf-copy"><p>The elk-hide membrane receives the hand and answers with attack, weight, and decay. Each strike disappears almost as soon as it arrives, and repetition gives those disappearances a history. Once an interval becomes familiar, the next arrival becomes imaginable; an accent, a delay, or an omitted strike can change the weight of the entire pattern.</p>
+<p>KLAAT does not ask the drum for display. Its power comes from restraint—leaving the surrounding time exposed so that density and variation answer strictly to the larger architecture. The space between strikes is never empty: the previous strike has made a claim upon it, and the next may answer or refuse. The Drone sustains a place; the Pulse reveals that the place has a history.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
 </section>
-<div class="rule" role="presentation"></div>
-<section class="end"><div class="small">AN UNFINISHED RETURN</div><p>The sound came first.<br>It should always be permitted the last word.</p><div class="small">EXPERIENCE-LED CREATION · SCIENCE-INFORMED REFINEMENT</div></section>
+<section id="leaf-04" class="leaf reversed " aria-labelledby="title-3">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/04-breath.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for CIRCULAR BREATH in a new tab"><img src="/assets/fields/04-breath.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying CIRCULAR BREATH" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 04</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 04 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-3"><span class="roman">IV.</span> CIRCULAR BREATH</h2>
+    <div class="leaf-copy"><p>Continuity is not given to KLAAT; it is made, and made again. Circular breathing allows the column of sound to continue while the body takes in air. The cheeks become a temporary reservoir; the nose finds its opening; pressure shifts between one source of breath and another. The apparent stillness of the Drone depends upon a succession of small, exacting movements negotiated against fatigue, concentration, and the resistance of the bore.</p>
+<p>Even the most controlled line carries traces of the person maintaining it. The breath is not an effect added to the music; it is the condition of the music's existence.</p>
+<p>An unbroken tone is not the absence of effort. It is effort made continuous.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-05" class="leaf  " aria-labelledby="title-4">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/24-source.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for MATERIAL DUALITY: UNEARTHED / POST-COLLAPSE in a new tab"><img src="/assets/fields/24-source.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying MATERIAL DUALITY: UNEARTHED / POST-COLLAPSE" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 05</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 05 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-4"><span class="roman">V.</span> MATERIAL DUALITY: UNEARTHED / POST-COLLAPSE</h2>
+    <div class="leaf-copy"><p>KLAAT operates across two physical systems. The organic rig joins a long agave drone column to a handmade elk-hide frame drum. Its surfaces carry the irregularities of plant fiber and skin—objects shaped by weather, tension, and wear. The industrial rig joins a PVC bore to a sixteen-inch synthetic drumhead. Its surfaces belong to the hardware aisle: functional, replaceable, and stripped of the romance of natural materials.</p>
+<p>The two systems speak with different voices, yet neither holds a more authentic version of the work. Neither is the imitation. What survives the change of material is the encounter between air and impact, duration and interruption, a body and its resistance. KLAAT does not locate meaning in the purity of an object; it asks what can be forced through it.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-06" class="leaf reversed " aria-labelledby="title-5">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/14-prediction.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for GROUND ANCHOR / PHASE I in a new tab"><img src="/assets/fields/14-prediction.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying GROUND ANCHOR / PHASE I" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 06</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 06 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-5"><span class="roman">VI.</span> GROUND ANCHOR / PHASE I</h2>
+    <div class="leaf-copy"><p>Before a change can matter, something must be allowed to remain. Ground Anchor begins with the bare relationship: a Drone held in place, a Pulse returning at a measured interval. The first task is to establish an acoustic field in which small differences can later be felt.</p>
+<p>The performer learns the room through its response, while the listener encounters the sound without being hurried toward a climax. An anchor is not a constraint; it is a point of orientation. Without it, departure is merely motion. With it, departure acquires weight.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-07" class="leaf  " aria-labelledby="title-6">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/09-threshold.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for THRESHOLD GATE / PHASE II in a new tab"><img src="/assets/fields/09-threshold.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying THRESHOLD GATE / PHASE II" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 07</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 07 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-6"><span class="roman">VII.</span> THRESHOLD GATE / PHASE II</h2>
+    <div class="leaf-copy"><p>The threshold opens when a familiar relationship ceases to feel secure. The Drone begins to reveal new regions of its spectrum: a vowel shifts, the tongue changes position, a higher harmonic cuts above the held fundamental. The Pulse alters an accent, leans slightly away from the breath, or opens a wider gap in the measure.</p>
+<p>The physical adjustments are small, drawing their force from the patience with which the earlier state was held. What would pass unnoticed in a crowded arrangement registers as a structural shift against a restrained field—the instant when repetition stops feeling like sameness.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-08" class="leaf reversed " aria-labelledby="title-7">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/13-body.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for RISING PULSE / PHASE III in a new tab"><img src="/assets/fields/13-body.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying RISING PULSE / PHASE III" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 08</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 08 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-7"><span class="roman">VIII.</span> RISING PULSE / PHASE III</h2>
+    <div class="leaf-copy"><p>Activation without acceleration. Rising Pulse does not depend on a faster clock; it builds through strike weight, closer articulations, breath pressure, vocal resonance, and a denser weave of overtones. The underlying interval remains intact while the space inside it grows increasingly occupied.</p>
+<p>Instead of rushing forward, the work deepens its hold on the present. The body must sustain the Drone and drive the Pulse while their intersection demands greater physical load—sound close enough to feel insistent, repetition heavy enough to become a physical condition.</p>
+<p>The pressure rises, but the center does not move.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-09" class="leaf  " aria-labelledby="title-8">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/10-return.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for RETURN PATH / PHASE IV in a new tab"><img src="/assets/fields/10-return.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying RETURN PATH / PHASE IV" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 09</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 09 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-8"><span class="roman">IX.</span> RETURN PATH / PHASE IV</h2>
+    <div class="leaf-copy"><p>Density falls away. The Drone releases its harsher edges and crowded overtones; the Pulse gives back the space it had occupied. What remains approaches the bare simplicity of Ground Anchor: breath, strike, interval.</p>
+<p>Returning to the opening state after extended duration exposes a structural question: is this the same sound heard at the beginning, or has time altered the relationship between instrument and ear? The ritual does not close by reaching somewhere else. It closes by finding its beginning newly exposed.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-10" class="leaf reversed " aria-labelledby="title-9">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/07-harmonics.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for SPECTRAL ARCHITECTURE in a new tab"><img src="/assets/fields/07-harmonics.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying SPECTRAL ARCHITECTURE" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 10</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 10 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-9"><span class="roman">X.</span> SPECTRAL ARCHITECTURE</h2>
+    <div class="leaf-copy"><p>KLAAT builds its harmony vertically. Rather than traveling through a sequence of chords, the Drone holds a tonal center while the emphasis among its harmonics changes. The vocal tract acts as a variable resonant chamber: adjustments in its shape bring certain overtones forward while others recede. A high, singing overtone can seem to pull away from the lower sound that sustains it, though both arise from the same act of breath.</p>
+<p>Whether sounded through the C-sharp agave column or the industrial bore, the principle holds: the fundamental is not a point on which the music stands. It is a space through which the music travels.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-11" class="leaf  " aria-labelledby="title-10">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/12-interference.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for PERCEPTUAL SUBDIVISION in a new tab"><img src="/assets/fields/12-interference.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying PERCEPTUAL SUBDIVISION" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 11</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 11 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-10"><span class="roman">XI.</span> PERCEPTUAL SUBDIVISION</h2>
+    <div class="leaf-copy"><p>A recurring drum strike gives time a distinct edge, while the breath introduces internal articulations within and around that recurrence. Their interplay can suggest smaller subdivisions, phantom pulses, and overlapping groupings that neither hand nor mouth states outright.</p>
+<p>The listener does not merely receive the pattern. Listening supplies another layer of structure: one ear may hear a second rhythm where another hears only the two actions that produced it. KLAAT holds those actions in a relationship precise enough to invite expectation, yet open enough to be heard differently.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-12" class="leaf reversed " aria-labelledby="title-11">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/19-clock.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for PHASE DISPLACEMENT in a new tab"><img src="/assets/fields/19-clock.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying PHASE DISPLACEMENT" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 12</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 12 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-11"><span class="roman">XII.</span> PHASE DISPLACEMENT</h2>
+    <div class="leaf-copy"><p>The Drone and the Pulse share a body, but they do not share a single clock. A breath articulation can arrive just ahead of a strike, fall behind it, or cross it so closely that the two events momentarily fuse. Small displacements in timing can create audible friction—a sense of leaning, dragging, catching, and release inside the grid.</p>
+<p>This is a physical negotiation between mouth and hand, where each action carries its own resistance. When the two align, their lock is felt because separation was possible; when they pull apart, the tension holds because a shared center remains in reach.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-13" class="leaf  " aria-labelledby="title-12">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/08-suspension.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for ACOUSTIC PRESSURE / WEIGHTLESSNESS in a new tab"><img src="/assets/fields/08-suspension.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying ACOUSTIC PRESSURE / WEIGHTLESSNESS" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 13</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 13 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-12"><span class="roman">XIII.</span> ACOUSTIC PRESSURE / WEIGHTLESSNESS</h2>
+    <div class="leaf-copy"><p>KLAAT is not designed to make the body disappear. It seeks stillness through physical contact rather than escape: the persistence of low-frequency pressure, the recurring weight of a struck surface, the audible effort of breath. The ritual is grounded, insistent, and often abrasive. Rather than asking the world to recede into soft focus, it asks how close the present can come before it turns unfamiliar.</p>
+<p>You do not float away from the room; you are pinned into the center of it. The stillness KLAAT pursues is not the absence of force, but an encounter with force that no longer needs to take you elsewhere.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-14" class="leaf reversed " aria-labelledby="title-13">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/03-room.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for THE ROOM AS INSTRUMENT in a new tab"><img src="/assets/fields/03-room.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying THE ROOM AS INSTRUMENT" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 14</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 14 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-13"><span class="roman">XIV.</span> THE ROOM AS INSTRUMENT</h2>
+    <div class="leaf-copy"><p>The walls return part of the Drone; the floor and ceiling answer the transient of the drum. Room dimensions alter the balance of direct sound and reflection, causing certain frequencies to pool in corners while others cancel out. The same gesture feels dry and exposed in one space, immense in another.</p>
+<p>The architecture enters the work without asking permission. Breath pressure, bell angle, physical placement, and strike velocity become ways of playing the room back—testing its limits until the enclosure itself becomes an extension of the instrument's bore.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-15" class="leaf  " aria-labelledby="title-14">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/21-archive.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for ABSENCE OF DIGITAL MEMORY in a new tab"><img src="/assets/fields/21-archive.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying ABSENCE OF DIGITAL MEMORY" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 15</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 15 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-14"><span class="roman">XV.</span> ABSENCE OF DIGITAL MEMORY</h2>
+    <div class="leaf-copy"><p>In KLAAT, the foundation is never a recording of a moment that has already passed. There is no digital loop repeating an earlier breath so the body can step away from the labor. Drone and Pulse must coexist in the present tense, each renewed by the next cycle of air or strike of the hand. If the player loses the line, the line is gone.</p>
+<p>This constraint makes duration directly accountable to human stamina. The sound cannot outlast its maker's attention by continuing on its own.</p>
+<p>A recording may preserve the event afterward. It cannot do the breathing during it.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-16" class="leaf reversed " aria-labelledby="title-15">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/16-grammar.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for SYMBOLIC SCORING in a new tab"><img src="/assets/fields/16-grammar.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying SYMBOLIC SCORING" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 16</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 16 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-15"><span class="roman">XVI.</span> SYMBOLIC SCORING</h2>
+    <div class="leaf-copy"><p>A KLAAT score is a map of structural relationships rather than a transcript for identical repetition. Its lines, nodes, fields, and thresholds chart proportional duration, breath density, strike weight, overtone regions, and the transition points where one phase gives way to another. Together, these plates form the visual system of Archaeosonic Diagrammatics.</p>
+<p>A diagram cannot anticipate a room's resonant peak or a hand's fatigue; it preserves an architectural intention clearly enough for that intention to be tested under live conditions. Where conventional notation can record pitches and durations, this language asks what tension was held—and what broke it.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-17" class="leaf  " aria-labelledby="title-16">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/15-grain.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for MICRO-VARIATION in a new tab"><img src="/assets/fields/15-grain.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying MICRO-VARIATION" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 17</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 17 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-16"><span class="roman">XVII.</span> MICRO-VARIATION</h2>
+    <div class="leaf-copy"><p>No two returns are exact. The bore warms with moisture; the mouth grows dry; the hide slackens or tightens with the room's humidity; the player's muscles fatigue. In music built from minimal means, these shifts have nowhere to hide.</p>
+<p>Strict discipline matters because it makes the smallest deviation legible. This is the divide between repetition and mechanical duplication: the form returns, but the physical event cannot be retrieved. Every cycle carries the accumulated wear of the cycles before it.</p>
+<p>Imperfection is not an error in the architecture. It is the grain of the material.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section id="leaf-18" class="leaf reversed last-leaf" aria-labelledby="title-17">
+  <div class="leaf-art">
+    <figure class="plate"><a href="/assets/fields/23-unseen.webp" target="_blank" rel="noopener" aria-label="Open conceptual diagram for THE SILENT INTERVAL in a new tab"><img src="/assets/fields/23-unseen.webp" alt="Archaeosonic Diagrammatics: conceptual field drawing accompanying THE SILENT INTERVAL" loading="lazy" decoding="async" width="941" height="1672"></a>
+    <figcaption><span>ATLAS / PLATE 18</span><span>ARCHAEOSONIC DIAGRAMMATICS</span></figcaption></figure>
+  </div>
+  <div class="leaf-word">
+    <div class="leaf-head"><span class="eyebrow">BOOK I / LEAF 18 OF 18</span><span class="tiny-axis" aria-hidden="true">✳</span></div>
+    <h2 id="title-17"><span class="roman">XVIII.</span> THE SILENT INTERVAL</h2>
+    <div class="leaf-copy"><p>The final breath stops. The last strike decays into the reflections of the walls and the listener's expectation of a pulse that no longer arrives.</p>
+<p>Silence does not erase what preceded it. A recurring strike has taught the ear to wait; a continuous drone has made its sudden absence physical. This is the final movement of KLAAT, though no instrument performs it. The Living Interval began between a sound that held and a sound that returned; it ends at the threshold between what has vanished and what is still anticipated.</p>
+<p>The instruments fall silent. The interval remains open.</p></div>
+    <div class="leaf-bottom"><span>KLAAT / THE LIVING INTERVAL</span><a href="#contents">INDEX ↑</a></div>
+  </div>
+</section>
+<section class="coda" aria-label="End of Book I"><span class="hairline"></span><p>BOOK I / ENDS</p><h2>The work remains<br><i>in the room.</i></h2><a href="#top">RETURN TO THE BEGINNING ↑</a></section>
 </main>
-<footer><span>© 2026 KLAAT / PAUL HAGLER</span><span><a href="/notes.html">FIELD NOTES ↗</a> &nbsp; · &nbsp; <a href="/about.html">ORIGINS ↗</a></span></footer>
+<footer><span>KLAAT / ATLAS OF THE LIVING INTERVAL · BOOK I</span><span>PAUL HAGLER / 2026</span><a href="/research.html">RESEARCH ARCHIVE ↗</a></footer>
+<script>
+(function(){
+ const p=document.getElementById('reading-progress');let busy=false;
+ function update(){const max=document.documentElement.scrollHeight-innerHeight;const v=max>0?Math.min(1,scrollY/max):0;p.style.transform='scaleX('+v+')';busy=false}
+ addEventListener('scroll',()=>{if(!busy){busy=true;requestAnimationFrame(update)}},{passive:true});
+ addEventListener('resize',update,{passive:true});update();
+})();
+</script>
 </body></html>
