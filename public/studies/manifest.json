@@ -1,0 +1,1322 @@
+{
+  "through": 164,
+  "compiled": "2026-11-10",
+  "sourceCorpora": [
+    "https://docs.google.com/document/d/1QFl3wnJ4iBkD_4hhCorhmj5qtm583Q-nVMeYXoE1C4U/edit",
+    "https://docs.google.com/document/d/1yGI75GAsLdwmzD6eTR9J6KidkclpNg83OKGjS1JjSk4/edit"
+  ],
+  "studies": [
+    {
+      "n": 1,
+      "title": "RESONANCE IS NOT “FREQUENCY MAGIC”",
+      "category": "Acoustics & Space",
+      "reconstruction": true,
+      "words": 176,
+      "url": "/studies/001.html"
+    },
+    {
+      "n": 2,
+      "title": "HOW THE BODY ACTUALLY FEELS VIBRATION",
+      "category": "Body & Performance",
+      "reconstruction": true,
+      "words": 168,
+      "url": "/studies/002.html"
+    },
+    {
+      "n": 3,
+      "title": "WHY LOW FREQUENCIES FEEL PHYSICAL",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 167,
+      "url": "/studies/003.html"
+    },
+    {
+      "n": 4,
+      "title": "BEATS, PULSATION & AMPLITUDE MODULATION",
+      "category": "Pulse & Rhythm",
+      "reconstruction": true,
+      "words": 163,
+      "url": "/studies/004.html"
+    },
+    {
+      "n": 5,
+      "title": "RHYTHMIC ENTRAINMENT, PREDICTION & TRANCE",
+      "category": "Listening & Perception",
+      "reconstruction": true,
+      "words": 168,
+      "url": "/studies/005.html"
+    },
+    {
+      "n": 6,
+      "title": "BREATH IS A BRIDGE TO THE AUTONOMIC NERVOUS SYSTEM",
+      "category": "Drone & Breath",
+      "reconstruction": true,
+      "words": 157,
+      "url": "/studies/006.html"
+    },
+    {
+      "n": 7,
+      "title": "SILENCE IS AN ACTIVE STIMULUS",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 156,
+      "url": "/studies/007.html"
+    },
+    {
+      "n": 8,
+      "title": "THE ROOM IS PART OF THE INSTRUMENT",
+      "category": "Acoustics & Space",
+      "reconstruction": true,
+      "words": 144,
+      "url": "/studies/008.html"
+    },
+    {
+      "n": 9,
+      "title": "WHEN SOUND BECOMES TOUCH",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 147,
+      "url": "/studies/009.html"
+    },
+    {
+      "n": 10,
+      "title": "ROUGHNESS, DISSONANCE & SPECTRAL TENSION",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 135,
+      "url": "/studies/010.html"
+    },
+    {
+      "n": 11,
+      "title": "WHY YOU CAN FEEL A BEAT THAT ISN’T IN THE DRUM",
+      "category": "Pulse & Rhythm",
+      "reconstruction": true,
+      "words": 149,
+      "url": "/studies/011.html"
+    },
+    {
+      "n": 12,
+      "title": "BONE CONDUCTION & PERFORMER VS RECEIVER",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 158,
+      "url": "/studies/012.html"
+    },
+    {
+      "n": 13,
+      "title": "MECHANICAL COUPLING: FLOOR AS PART OF SOUND",
+      "category": "Acoustics & Space",
+      "reconstruction": true,
+      "words": 151,
+      "url": "/studies/013.html"
+    },
+    {
+      "n": 14,
+      "title": "WHY REPETITION CAN ALTER TIME PERCEPTION",
+      "category": "Listening & Perception",
+      "reconstruction": true,
+      "words": 141,
+      "url": "/studies/014.html"
+    },
+    {
+      "n": 15,
+      "title": "HABITUATION: CONSTANT INTENSITY STOPS FEELING INTENSE",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 131,
+      "url": "/studies/015.html"
+    },
+    {
+      "n": 16,
+      "title": "MISSING BEAT: PREDICTION ERROR WITHOUT SOUND",
+      "category": "Listening & Perception",
+      "reconstruction": true,
+      "words": 184,
+      "url": "/studies/016.html"
+    },
+    {
+      "n": 17,
+      "title": "ORIENTING RESPONSE: CHANGE DETECTION",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 157,
+      "url": "/studies/017.html"
+    },
+    {
+      "n": 18,
+      "title": "INTEROCEPTION: SAME SOUND, DIFFERENT INTERNAL EXPERIENCE",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 159,
+      "url": "/studies/018.html"
+    },
+    {
+      "n": 19,
+      "title": "RESPIRATORY ENTRAINMENT: CAN DRONE CHANGE BREATHING?",
+      "category": "Drone & Breath",
+      "reconstruction": true,
+      "words": 145,
+      "url": "/studies/019.html"
+    },
+    {
+      "n": 20,
+      "title": "RESPIRATORY SINUS ARRHYTHMIA",
+      "category": "Pulse & Rhythm",
+      "reconstruction": true,
+      "words": 145,
+      "url": "/studies/020.html"
+    },
+    {
+      "n": 21,
+      "title": "BEAT PERCEPTION ≠ ACOUSTIC FREQUENCY",
+      "category": "Listening & Perception",
+      "reconstruction": true,
+      "words": 155,
+      "url": "/studies/021.html"
+    },
+    {
+      "n": 22,
+      "title": "AUDITORY MASKING",
+      "category": "Body & Performance",
+      "reconstruction": true,
+      "words": 134,
+      "url": "/studies/022.html"
+    },
+    {
+      "n": 23,
+      "title": "ROUGHNESS: WHY SOME SOUNDS FEEL PHYSICALLY URGENT",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 131,
+      "url": "/studies/023.html"
+    },
+    {
+      "n": 24,
+      "title": "BONE CONDUCTION: KLAAT HEARD THROUGH MORE THAN EARS",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 125,
+      "url": "/studies/024.html"
+    },
+    {
+      "n": 25,
+      "title": "TACTILE MASKING",
+      "category": "Body & Performance",
+      "reconstruction": true,
+      "words": 120,
+      "url": "/studies/025.html"
+    },
+    {
+      "n": 26,
+      "title": "CROSSMODAL INTEGRATION",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 142,
+      "url": "/studies/026.html"
+    },
+    {
+      "n": 27,
+      "title": "RESONANT MODES: WHY THE ROOM HAS PREFERRED FREQUENCIES",
+      "category": "Acoustics & Space",
+      "reconstruction": true,
+      "words": 115,
+      "url": "/studies/027.html"
+    },
+    {
+      "n": 28,
+      "title": "RESONANCE VS FORCED VIBRATION",
+      "category": "Body & Performance",
+      "reconstruction": true,
+      "words": 147,
+      "url": "/studies/028.html"
+    },
+    {
+      "n": 29,
+      "title": "AUDITORY ADAPTATION: CONTINUOUS DRONE CAN CHANGE WITHOUT CHANGING",
+      "category": "Drone & Breath",
+      "reconstruction": true,
+      "words": 132,
+      "url": "/studies/029.html"
+    },
+    {
+      "n": 30,
+      "title": "ATTACK TRANSIENTS",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 113,
+      "url": "/studies/030.html"
+    },
+    {
+      "n": 31,
+      "title": "ORIENTING RESPONSE REVISITED",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 149,
+      "url": "/studies/031.html"
+    },
+    {
+      "n": 32,
+      "title": "RESPIRATORY ENTRAINMENT DEEPER",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 146,
+      "url": "/studies/032.html"
+    },
+    {
+      "n": 33,
+      "title": "Evidence boundary",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 157,
+      "url": "/studies/033.html"
+    },
+    {
+      "n": 34,
+      "title": "INTEROCEPTION DEEPER",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 132,
+      "url": "/studies/034.html"
+    },
+    {
+      "n": 35,
+      "title": "VIBROTACTILE THRESHOLDS",
+      "category": "Body & Performance",
+      "reconstruction": true,
+      "words": 150,
+      "url": "/studies/035.html"
+    },
+    {
+      "n": 36,
+      "title": "TEMPORAL BINDING: HEARD + FELT DRUM AS ONE EVENT",
+      "category": "Pulse & Rhythm",
+      "reconstruction": true,
+      "words": 155,
+      "url": "/studies/036.html"
+    },
+    {
+      "n": 37,
+      "title": "RHYTHMIC PREDICTION & NEURAL ENTRAINMENT",
+      "category": "Listening & Perception",
+      "reconstruction": true,
+      "words": 142,
+      "url": "/studies/037.html"
+    },
+    {
+      "n": 38,
+      "title": "TEMPORAL EXPECTATION IN THE BODY",
+      "category": "Listening & Perception",
+      "reconstruction": true,
+      "words": 150,
+      "url": "/studies/038.html"
+    },
+    {
+      "n": 39,
+      "title": "STARTLE REFLEX VS RHYTHMIC ANTICIPATION",
+      "category": "Pulse & Rhythm",
+      "reconstruction": true,
+      "words": 141,
+      "url": "/studies/039.html"
+    },
+    {
+      "n": 40,
+      "title": "SENSORY ADAPTATION & CONTRAST: REMOVING SOUND CAN FEEL LIKE ADDING",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 156,
+      "url": "/studies/040.html"
+    },
+    {
+      "n": 41,
+      "title": "AUDITORY MASKING: AMASTACIA CAN MAKE SOUNDS DISAPPEAR",
+      "category": "Drone & Breath",
+      "reconstruction": true,
+      "words": 129,
+      "url": "/studies/041.html"
+    },
+    {
+      "n": 42,
+      "title": "COMBINATION TONES & NONLINEAR HEARING",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 160,
+      "url": "/studies/042.html"
+    },
+    {
+      "n": 43,
+      "title": "ROUGHNESS & SENSORY DISSONANCE: WHEN SOUND BECOMES PHYSICALLY GRAINY",
+      "category": "Evidence & Method",
+      "reconstruction": true,
+      "words": 184,
+      "url": "/studies/043.html"
+    },
+    {
+      "n": 44,
+      "title": "AUDITORY SCENE ANALYSIS: HOW THE BRAIN DECIDES WHETHER AMASTACIA AND ANKORA ARE TWO INSTRUMENTS—OR ONE SOUNDING ORGANISM",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1607,
+      "url": "/studies/044.html"
+    },
+    {
+      "n": 45,
+      "title": "REVERBERATION TIME & TEMPORAL SMEARING: WHEN THE ROOM STARTS PLAYING ANKORA",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1682,
+      "url": "/studies/045.html"
+    },
+    {
+      "n": 46,
+      "title": "MECHANICAL COUPLING: WHY “FEELING THE BASS” IS NOT ONE PHENOMENON",
+      "category": "Acoustics & Space",
+      "reconstruction": false,
+      "words": 1814,
+      "url": "/studies/046.html"
+    },
+    {
+      "n": 47,
+      "title": "SOUND EXPOSURE & HEARING CONSERVATION: INTENSITY IS A DOSE, NOT A MOMENT",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 1615,
+      "url": "/studies/047.html"
+    },
+    {
+      "n": 48,
+      "title": "REPRODUCIBLE ACOUSTIC MAPPING: WHEN A KLAAT MEASUREMENT BECOMES EVIDENCE",
+      "category": "Acoustics & Space",
+      "reconstruction": false,
+      "words": 1377,
+      "url": "/studies/048.html"
+    },
+    {
+      "n": 49,
+      "title": "AUDIO–TACTILE COHERENCE: WHY KLAAT MAY BE FELT MOST STRONGLY WHEN SOUND AND VIBRATION AGREE IN TIME",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 1709,
+      "url": "/studies/049.html"
+    },
+    {
+      "n": 50,
+      "title": "THE BODY–SURFACE INTERFACE: WHY THE FLOOR IS NOT THE STIMULUS",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 1949,
+      "url": "/studies/050.html"
+    },
+    {
+      "n": 51,
+      "title": "THE STABLE STIMULUS PARADOX: How KLAAT Can Change Without Getting Louder, Faster, or Stronger",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 2631,
+      "url": "/studies/051.html"
+    },
+    {
+      "n": 52,
+      "title": "Ankora Feel Stronger by Giving the Pulse Somewhere to Land",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1608,
+      "url": "/studies/052.html"
+    },
+    {
+      "n": 53,
+      "title": "THE PREDICTION BUDGET: How KLAAT Can Escalate Without Becoming Louder, Denser, or Random",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 1706,
+      "url": "/studies/053.html"
+    },
+    {
+      "n": 54,
+      "title": "THE THRESHOLD GATE AS MODEL UPDATE: When a Change Becomes a New State",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 1807,
+      "url": "/studies/054.html"
+    },
+    {
+      "n": 55,
+      "title": "THE DIVISION OF LABOR: Hearing Carries the Clock, Touch Gives the Pulse a Body",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 2119,
+      "url": "/studies/055.html"
+    },
+    {
+      "n": 56,
+      "title": "CROSSMODAL CAUSAL COHERENCE: When Heard Ankora and Felt Ankora Become One Event",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 2361,
+      "url": "/studies/056.html"
+    },
+    {
+      "n": 57,
+      "title": "THE SECOND CLOCK: Why KLAAT’s Body Response May Follow Phrases and Boundaries More Than 137 BPM",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 2448,
+      "url": "/studies/057.html"
+    },
+    {
+      "n": 58,
+      "title": "THE MEASUREMENT INSTRUMENT IS PART OF THE RITUAL: A Canonical Acquisition Standard for KLAAT",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 1152,
+      "url": "/studies/058.html"
+    },
+    {
+      "n": 59,
+      "title": "THE PHANTOM PATH: Tactile Trajectory, Sensory Saltation, and the Difference Between Vibration Traveling and Vibration Seeming to Travel",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 1240,
+      "url": "/studies/059.html"
+    },
+    {
+      "n": 60,
+      "title": "THE BODY IS PART OF THE INSTRUMENT: Biodynamic Multi-Interface Coupling and Why Seat + Feet + Back Do Not Simply Add",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 2253,
+      "url": "/studies/060.html"
+    },
+    {
+      "n": 61,
+      "title": "THE ROOM IS NOT ONE ROOM: Spatial Resonance Fields, Listener Zones, and the Venue as a Distributed Instrument",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 1128,
+      "url": "/studies/061.html"
+    },
+    {
+      "n": 62,
+      "title": "THE FREQUENCY GATE: Whole-Body Motion, Cutaneous Vibration, and Why KLAAT Needs Two Somatic Regimes",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 2952,
+      "url": "/studies/062.html"
+    },
+    {
+      "n": 63,
+      "title": "THE INTERNAL CLOCK: Spontaneous Motor Tempo, Ankora’s ~137 BPM, and Why One Pulse Cannot Be “Natural” for Everyone",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 2352,
+      "url": "/studies/063.html"
+    },
+    {
+      "n": 64,
+      "title": "Temporal Grammar for Amastacia and Ankora",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 3119,
+      "url": "/studies/064.html"
+    },
+    {
+      "n": 65,
+      "title": "THE ARCHITECTURE MUST SURVIVE BLIND: Long-Form State Trajectories and Testing Whether KLAAT’s Four Phases Are Actually Perceptible",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 2831,
+      "url": "/studies/065.html"
+    },
+    {
+      "n": 66,
+      "title": "THE MINIMUM STATE VECTOR: Finding the Few Variables That Actually Make KLAAT Change State",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3006,
+      "url": "/studies/066.html"
+    },
+    {
+      "n": 67,
+      "title": "TWO SPEEDS: Event Urgency, Perceived Beat, and the Subdivision Paradox",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 2970,
+      "url": "/studies/067.html"
+    },
+    {
+      "n": 68,
+      "title": "THE BODY IS NOT A MIXER",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 3323,
+      "url": "/studies/068.html"
+    },
+    {
+      "n": 69,
+      "title": "THE BODY MAP IS NOT AN ACCELEROMETER",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 3215,
+      "url": "/studies/069.html"
+    },
+    {
+      "n": 70,
+      "title": "THE STRIKE THAT NEVER CAME: Temporal Expectation, Omission, and the Difference Between Bodily Anticipation and Physical Impact",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 3203,
+      "url": "/studies/070.html"
+    },
+    {
+      "n": 71,
+      "title": "THE THREE CAUSES OF A STRONG MOMENT",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3268,
+      "url": "/studies/071.html"
+    },
+    {
+      "n": 72,
+      "title": "THE PERFORMANCE IS NOT THE CLIP",
+      "category": "Drone & Breath",
+      "reconstruction": false,
+      "words": 3415,
+      "url": "/studies/072.html"
+    },
+    {
+      "n": 73,
+      "title": "THE BOUNDARY IS NOT THE SCORE",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3208,
+      "url": "/studies/073.html"
+    },
+    {
+      "n": 74,
+      "title": "THE CLOCK CHANGES THE RULES",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3411,
+      "url": "/studies/074.html"
+    },
+    {
+      "n": 75,
+      "title": "THE TIMESTAMP IS NOT THE EVENT",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3796,
+      "url": "/studies/075.html"
+    },
+    {
+      "n": 76,
+      "title": "THE REFERENCE IS A DISTRIBUTION",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3209,
+      "url": "/studies/076.html"
+    },
+    {
+      "n": 77,
+      "title": "THE ANCHOR MUST SURVIVE THE STORM",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3318,
+      "url": "/studies/077.html"
+    },
+    {
+      "n": 78,
+      "title": "ONE DRUM IS NOT NECESSARILY ONE LAYER",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 3781,
+      "url": "/studies/078.html"
+    },
+    {
+      "n": 79,
+      "title": "THE PLAYER IS NOT THE LISTENER",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 3967,
+      "url": "/studies/079.html"
+    },
+    {
+      "n": 80,
+      "title": "THE THIRD PARTICIPANT IS THE PLAYBACK SYSTEM",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 3923,
+      "url": "/studies/080.html"
+    },
+    {
+      "n": 81,
+      "title": "THE ENERGY IN THE EDGES",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3882,
+      "url": "/studies/081.html"
+    },
+    {
+      "n": 82,
+      "title": "THE BREATH THAT DOES NOT BREAK",
+      "category": "Drone & Breath",
+      "reconstruction": false,
+      "words": 3839,
+      "url": "/studies/082.html"
+    },
+    {
+      "n": 83,
+      "title": "THE SOUND THAT CONTINUES WHEN THE SIGNAL DOES NOT",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3793,
+      "url": "/studies/083.html"
+    },
+    {
+      "n": 84,
+      "title": "THE FAMILIAR SOUND THAT STAYS ALIVE",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 4420,
+      "url": "/studies/084.html"
+    },
+    {
+      "n": 85,
+      "title": "THE MIND CAN WANDER WITHOUT LEAVING THE MUSIC",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 4194,
+      "url": "/studies/085.html"
+    },
+    {
+      "n": 86,
+      "title": "THE PULSE IS NOT THE PASSAGE OF TIME",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 3862,
+      "url": "/studies/086.html"
+    },
+    {
+      "n": 87,
+      "title": "THE CHAPTERS NO ONE COMPOSED",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 4370,
+      "url": "/studies/087.html"
+    },
+    {
+      "n": 88,
+      "title": "AFTER THE CHANGE, WHAT DOES THE EAR EXPECT?",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 3880,
+      "url": "/studies/088.html"
+    },
+    {
+      "n": 89,
+      "title": "THE PULSE BETWEEN THE INSTRUMENTS",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 3963,
+      "url": "/studies/089.html"
+    },
+    {
+      "n": 90,
+      "title": "WHEN TWO INSTRUMENTS BECOME ONE EVENT",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 4046,
+      "url": "/studies/090.html"
+    },
+    {
+      "n": 91,
+      "title": "THE HUMAN SPACE BETWEEN THE STRIKES",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 4072,
+      "url": "/studies/091.html"
+    },
+    {
+      "n": 92,
+      "title": "THE BASS THE BODY RECEIVES",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 4038,
+      "url": "/studies/092.html"
+    },
+    {
+      "n": 93,
+      "title": "THE LOW NOTE THAT SURVIVES WITHOUT BASS",
+      "category": "Acoustics & Space",
+      "reconstruction": false,
+      "words": 3582,
+      "url": "/studies/093.html"
+    },
+    {
+      "n": 94,
+      "title": "THE SOUND THAT NEITHER MICROPHONE HEARD",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 3994,
+      "url": "/studies/094.html"
+    },
+    {
+      "n": 95,
+      "title": "THE SAME PERFORMANCE, DIFFERENT EARS",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3549,
+      "url": "/studies/095.html"
+    },
+    {
+      "n": 96,
+      "title": "THE STRIKE THE EYE CAN HEAR",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 3192,
+      "url": "/studies/096.html"
+    },
+    {
+      "n": 97,
+      "title": "THE PERFORMANCE THAT MEMORY REBUILDS",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 3320,
+      "url": "/studies/097.html"
+    },
+    {
+      "n": 98,
+      "title": "THE DRUM THAT RADIATES IN TWO DIRECTIONS",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 3770,
+      "url": "/studies/098.html"
+    },
+    {
+      "n": 99,
+      "title": "THE SKIN THAT RISES WITHOUT BEING SHAKEN",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 3590,
+      "url": "/studies/099.html"
+    },
+    {
+      "n": 100,
+      "title": "THE MUSIC THAT CONTINUES AFTER THE ROOM GOES QUIET",
+      "category": "Acoustics & Space",
+      "reconstruction": false,
+      "words": 3560,
+      "url": "/studies/100.html"
+    },
+    {
+      "n": 101,
+      "title": "THE BREATH CHANGEOVER THAT NEED NOT BREAK THE DRONE",
+      "category": "Drone & Breath",
+      "reconstruction": false,
+      "words": 3689,
+      "url": "/studies/101.html"
+    },
+    {
+      "n": 102,
+      "title": "THE MEMORY THAT WAS NEVER IN THE MUSIC",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 2882,
+      "url": "/studies/102.html"
+    },
+    {
+      "n": 103,
+      "title": "THE WALK THAT DOES NOT HAVE TO FIND THE BEAT",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 3489,
+      "url": "/studies/103.html"
+    },
+    {
+      "n": 104,
+      "title": "THE PATTERN THAT FINDS ITS WAY BACK",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3588,
+      "url": "/studies/104.html"
+    },
+    {
+      "n": 105,
+      "title": "WHEN THE SOUND SEEMS TO COME CLOSER",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3869,
+      "url": "/studies/105.html"
+    },
+    {
+      "n": 106,
+      "title": "THE SOUND THAT INTERRUPTS WITHOUT ASKING FOR ATTENTION",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 3766,
+      "url": "/studies/106.html"
+    },
+    {
+      "n": 107,
+      "title": "THE SOUND BEHIND CLOSED EYES",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3732,
+      "url": "/studies/107.html"
+    },
+    {
+      "n": 108,
+      "title": "THE CHANGE THAT WAS THERE ALL ALONG",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3741,
+      "url": "/studies/108.html"
+    },
+    {
+      "n": 109,
+      "title": "THE INSTRUMENT BIGGER THAN ITS BODY",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 3769,
+      "url": "/studies/109.html"
+    },
+    {
+      "n": 110,
+      "title": "THE DISTANCE THE EAR INVENTS",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 4009,
+      "url": "/studies/110.html"
+    },
+    {
+      "n": 111,
+      "title": "THE HEIGHT THE SOUND NEVER OCCUPIED",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3522,
+      "url": "/studies/111.html"
+    },
+    {
+      "n": 112,
+      "title": "THE STRIKE THE CAMERA CANNOT TIME",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 3975,
+      "url": "/studies/112.html"
+    },
+    {
+      "n": 113,
+      "title": "THE SOUNDTRACK THAT CANNOT DRIVE FOR YOU",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3962,
+      "url": "/studies/113.html"
+    },
+    {
+      "n": 114,
+      "title": "THE FREQUENCY THAT THE SKIN DID NOT HEAR",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 3915,
+      "url": "/studies/114.html"
+    },
+    {
+      "n": 115,
+      "title": "THE PITCH THAT MOVED WHILE THE NOTE STOOD STILL",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3432,
+      "url": "/studies/115.html"
+    },
+    {
+      "n": 116,
+      "title": "THE BREATH THAT MOVES THE HAND",
+      "category": "Drone & Breath",
+      "reconstruction": false,
+      "words": 3752,
+      "url": "/studies/116.html"
+    },
+    {
+      "n": 117,
+      "title": "THE SKIN THAT DOES NOT HOLD STILL",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 3734,
+      "url": "/studies/117.html"
+    },
+    {
+      "n": 118,
+      "title": "FIVE CLIPS, ONE NIGHT",
+      "category": "Drone & Breath",
+      "reconstruction": false,
+      "words": 3530,
+      "url": "/studies/118.html"
+    },
+    {
+      "n": 119,
+      "title": "THE STRIKE BEFORE THE SOUND",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 2995,
+      "url": "/studies/119.html"
+    },
+    {
+      "n": 120,
+      "title": "THE SKILL THAT CHANGED WHILE THE INSTRUMENTS WERE QUIET",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3810,
+      "url": "/studies/120.html"
+    },
+    {
+      "n": 121,
+      "title": "THE STEREO THAT CROSSES THE SKULL",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 3961,
+      "url": "/studies/121.html"
+    },
+    {
+      "n": 122,
+      "title": "THE SOUND THE HAND MAY TURN UP",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3673,
+      "url": "/studies/122.html"
+    },
+    {
+      "n": 123,
+      "title": "THE PULSE THAT THE PICTURE INVENTED",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 3893,
+      "url": "/studies/123.html"
+    },
+    {
+      "n": 124,
+      "title": "THE SOUND IS NOT THE FINGER",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3773,
+      "url": "/studies/124.html"
+    },
+    {
+      "n": 125,
+      "title": "WHEN EIGHT VOICES BECOME A CLAIM",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3774,
+      "url": "/studies/125.html"
+    },
+    {
+      "n": 126,
+      "title": "THE SOUND WITHOUT A WORD",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3754,
+      "url": "/studies/126.html"
+    },
+    {
+      "n": 127,
+      "title": "THE EAR IS FAST; THE SCENE IS SLOW",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3809,
+      "url": "/studies/127.html"
+    },
+    {
+      "n": 128,
+      "title": "THE TWO LOOPS THAT NEVER AGREED",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3612,
+      "url": "/studies/128.html"
+    },
+    {
+      "n": 129,
+      "title": "THE SOUND THAT NEVER ENTERED THE LOOP",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3666,
+      "url": "/studies/129.html"
+    },
+    {
+      "n": 130,
+      "title": "THE EFFORT THAT IS NOT YET FATIGUE",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 3551,
+      "url": "/studies/130.html"
+    },
+    {
+      "n": 131,
+      "title": "THE RECORDING WAS IDENTICAL; THE EXPERIMENT WAS NOT",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 3819,
+      "url": "/studies/131.html"
+    },
+    {
+      "n": 132,
+      "title": "THE PLANT IS NOT THE PIPE",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 4421,
+      "url": "/studies/132.html"
+    },
+    {
+      "n": 133,
+      "title": "THE PERFORMANCE YOU CAN REHEARSE WITHOUT PLAYING",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3622,
+      "url": "/studies/133.html"
+    },
+    {
+      "n": 134,
+      "title": "THE WORK AND THE FEELING PART COMPANY",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 4160,
+      "url": "/studies/134.html"
+    },
+    {
+      "n": 135,
+      "title": "THE DRONE DID NOT GET LOUDER, BUT THE LISTENER FELT MORE ENERGY",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 3798,
+      "url": "/studies/135.html"
+    },
+    {
+      "n": 136,
+      "title": "THE ECHO THAT JOINS THE PERFORMANCE",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3675,
+      "url": "/studies/136.html"
+    },
+    {
+      "n": 137,
+      "title": "THE DRUM SOUND IS NOT A FINGERPRINT",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 3258,
+      "url": "/studies/137.html"
+    },
+    {
+      "n": 138,
+      "title": "THE AVERAGE LISTENER WHO NEVER EXISTED",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 3448,
+      "url": "/studies/138.html"
+    },
+    {
+      "n": 139,
+      "title": "THE RESPONSE THAT CROSSED TIME ZERO",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3479,
+      "url": "/studies/139.html"
+    },
+    {
+      "n": 140,
+      "title": "THE PATTERN THAT APPEARED AFTER THE SEARCH",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 3842,
+      "url": "/studies/140.html"
+    },
+    {
+      "n": 141,
+      "title": "THE SIGNATURE THAT SURVIVES A DIFFERENT INSTRUMENT",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 4665,
+      "url": "/studies/141.html"
+    },
+    {
+      "n": 142,
+      "title": "THE MOMENT THAT REFUSED TO BE A MISTAKE",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 5710,
+      "url": "/studies/142.html"
+    },
+    {
+      "n": 143,
+      "title": "THE DRUMBEAT THE RECORDING LOST",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 4861,
+      "url": "/studies/143.html"
+    },
+    {
+      "n": 144,
+      "title": "THE HEADSET THAT TURNED MUSIC INTO A CALL",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 5232,
+      "url": "/studies/144.html"
+    },
+    {
+      "n": 145,
+      "title": "The Second Listener Who Was the First",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 2181,
+      "url": "/studies/145.html"
+    },
+    {
+      "n": 146,
+      "title": "The Strike That the Eye Heard",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1811,
+      "url": "/studies/146.html"
+    },
+    {
+      "n": 147,
+      "title": "THE BODY HEARS A DIFFERENT MIX",
+      "category": "Body & Performance",
+      "reconstruction": false,
+      "words": 1468,
+      "url": "/studies/147.html"
+    },
+    {
+      "n": 148,
+      "title": "THE CLOCKS THAT INVENTED A RHYTHMIC SHIFT",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1991,
+      "url": "/studies/148.html"
+    },
+    {
+      "n": 149,
+      "title": "THE NOTE THAT THE DRUM NEVER PROMISED",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1780,
+      "url": "/studies/149.html"
+    },
+    {
+      "n": 150,
+      "title": "THE RHYTHM THAT LOOKED ERRATIC ONLY FROM FAR AWAY",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1946,
+      "url": "/studies/150.html"
+    },
+    {
+      "n": 151,
+      "title": "The Bass That a Sound Meter Hid",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1660,
+      "url": "/studies/151.html"
+    },
+    {
+      "n": 152,
+      "title": "THE DRONE THE HEARING AID MAY REWRITE",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 1695,
+      "url": "/studies/152.html"
+    },
+    {
+      "n": 153,
+      "title": "THE PULSE INSIDE THE DRONE",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1836,
+      "url": "/studies/153.html"
+    },
+    {
+      "n": 154,
+      "title": "THE MUSIC THAT DOES NOT DEMAND THE ROOM",
+      "category": "Acoustics & Space",
+      "reconstruction": false,
+      "words": 1522,
+      "url": "/studies/154.html"
+    },
+    {
+      "n": 155,
+      "title": "THE AVERAGE THAT ERASED THE DRUM",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1736,
+      "url": "/studies/155.html"
+    },
+    {
+      "n": 156,
+      "title": "THE PEAK BETWEEN THE SAMPLES",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 1571,
+      "url": "/studies/156.html"
+    },
+    {
+      "n": 157,
+      "title": "The Two Instruments That the Algorithm Made Opposites",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 1847,
+      "url": "/studies/157.html"
+    },
+    {
+      "n": 158,
+      "title": "THE LISTENER WHO CHANGED BEFORE THE SOUND DID",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 1495,
+      "url": "/studies/158.html"
+    },
+    {
+      "n": 159,
+      "title": "THE GROOVE THAT CHANGES WHEN YOU LISTEN FOR THE DRONE",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 1438,
+      "url": "/studies/159.html"
+    },
+    {
+      "n": 160,
+      "title": "THE BASS THAT DISAPPEARS WHEN STEREO BECOMES MONO",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 1140,
+      "url": "/studies/160.html"
+    },
+    {
+      "n": 161,
+      "title": "THE SEAL THAT MOVES WITH THE MUSIC",
+      "category": "Evidence & Method",
+      "reconstruction": false,
+      "words": 1421,
+      "url": "/studies/161.html"
+    },
+    {
+      "n": 162,
+      "title": "THE HEARTBEAT THAT THE ELECTRODE INVENTED",
+      "category": "Pulse & Rhythm",
+      "reconstruction": false,
+      "words": 1674,
+      "url": "/studies/162.html"
+    },
+    {
+      "n": 163,
+      "title": "THE DRONE THAT THE MICROPHONE THOUGHT WAS NOISE",
+      "category": "Recording & Playback",
+      "reconstruction": false,
+      "words": 1504,
+      "url": "/studies/163.html"
+    },
+    {
+      "n": 164,
+      "title": "THE MOMENT THE LISTENER MARKED WAS NOT THE MOMENT THE AUDIO PLAYED",
+      "category": "Listening & Perception",
+      "reconstruction": false,
+      "words": 1964,
+      "url": "/studies/164.html"
+    }
+  ]
+}
