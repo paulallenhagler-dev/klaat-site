@@ -1,0 +1,351 @@
+KLAAT RESONANCE RESEARCH — SESSION 142
+THE MOMENT THAT REFUSED TO BE A MISTAKE
+How an unintended breath seam or drum strike can become a recovery, a new direction, or nothing a listener notices
+
+
+Published: 2026-11-01, 19:12 CST (America/Chicago)
+Research principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+Status: evidence synthesis and prospective KLAAT measurement framework; NO KLAAT audio or listener data analyzed.
+
+
+1. THE QUESTION THAT A SCORE CANNOT ANSWER
+
+
+Imagine an ordinary KLAAT improvisation. Amastacia sustains its C#-centered low drone. Ankora contributes a pulse that may be insistent, loose, sparse, or in the process of becoming something else. During a simultaneous breath handoff and drum gesture, the drone briefly fractures. Perhaps a strike lands harder than intended. Perhaps Paul instinctively follows that accident, allowing the noisy seam to become the beginning of a different texture. Or perhaps he simply continues and the listener never notices anything unusual.
+
+
+What happened? A technical mistake? A musical transition? A brief failure followed by a successful recovery? A salient sound that the listener enjoys? These are not interchangeable descriptions. The same audible event can have different meanings at different levels of the process.
+
+
+This session investigates the difference between a performer's intended action, an acoustic deviation, a corrective movement, and the listener's experience. The specific research advance is not another attempt to count wrong notes in free improvisation. It is a way to study how the *consequences* of an unintended event unfold without assuming that the event spoiled the music.
+
+
+This matters for technique. Paul wants circular breathing, rhythmic transitions, and simultaneous Amastacia–Ankora coordination to become more fluent. He does not want his music governed by a score, fixed meter, or instructions to avoid expressive roughness. A useful scientific account must make room for both realities: a gesture can be technically difficult and artistically worthwhile.
+
+
+2. FOUR QUESTIONS HIDDEN INSIDE THE WORD 'ERROR'
+
+
+An error in a scored piano study usually means a deviation from a known sequence: a substitution, omission, or extra note. The reference is externally available. KLAAT has no equivalent reference for a freely unfolding performance. It would be scientifically invalid to define every off-grid Ankora hit, every breath noise, or every change of drone pitch as an error merely because it differs from a simplified model.
+
+
+A more appropriate account distinguishes four questions. First, did the sound differ from Paul's immediate intention? Second, did the motor system detect or correct that difference? Third, did the acoustic event interrupt a pattern that a listener had formed? Fourth, did the event affect absorption, enjoyment, movement, energy, or another listener experience? An affirmative answer to one question does not determine the others.
+
+
+These levels require different evidence. Immediate performer recollection may indicate intention and felt recovery. A recording can reveal a dropout, strike, timing change, or acoustic continuation, but not intention. Video can show a visible adjustment, not the internal reason for it. A listener's report can establish what was noticed and how it felt, not whether the performer made a mistake. EEG could reveal correlates of performance monitoring in an appropriate experiment, but no such recording exists for KLAAT and the mere presence of a neural signal would not settle the aesthetic question.
+
+
+The distinction is especially important when Paul experiences flow. Flow is a performer-side subjective state. A moment of intense self-monitoring might occur inside an otherwise fluent take; a listener might find that same moment exciting. Neither observation cancels the other.
+
+
+3. A QUANTITATIVE WARNING FROM MORE THAN 90,000 PIANO NOTES
+
+
+Bruno Repp's 1996 study, 'The Art of Inaccuracy: Why Pianists' Errors Are Difficult to Hear,' analyzed a MIDI database containing more than 90,000 notes from ten graduate pianists playing four scored pieces three times. In a separate error-detection experiment, eight pianists collectively detected only 38% of objectively registered pitch errors in the selected test material. Nearly all registered errors occurred in nonmelodic voices, often inside chords; many wrong notes were contextually appropriate.
+
+
+This is a striking separation between score-defined error and perceptual salience. A departure from the written score can be real and still fail to announce itself as a mistake. The study does not establish that KLAAT listeners will miss 62% of technical failures. Its music, instruments, participants, and scoring procedure were entirely different. Indeed, KLAAT lacks the written reference that made those errors objectively countable in the first place.
+
+
+What transfers is a methodological lesson: detection depends on musical context, acoustic prominence, prior expectation, and what the listener knows to listen for. A faint breath seam inside a dense Ankora passage and an abrupt drone disappearance during sparse playing could be equally unintended yet unequally noticeable. Even if noticed, the latter might be heard as an expressive pause rather than a defect.
+
+
+A listener who reports 'the music opened up there' may be describing the same time window that Paul remembers as an awkward transition. The two accounts are not logically inconsistent. They answer different questions.
+
+
+4. ERROR LIKELIHOOD IS NOT UNIFORM ACROSS MUSICAL STRUCTURE
+
+
+Gingras, Palmer, Schubert, and McAdams (2016) studied performance errors in organ music. Eight players recorded interpretations of two short Baroque pieces with different textures; a further sixteen performed a Bach fugue. Error distribution depended on which voice was emphasized, on texture, and on musical salience. In the fugue, errors were less frequent in recurring motives and outer voices than in some other locations. Error patterns were more consistent within performers than between them across repeated recordings.
+
+
+The study involved written organ repertoire, not spontaneous didgeridoo and frame drum. It nevertheless challenges the assumption that all moments in a musical performance are equally vulnerable or equally perceptible. What is foregrounded matters.
+
+
+For KLAAT, the relevant question is not which note belongs to a melody. It is which acoustic layer is foregrounded at a particular moment. Sometimes Ankora's attacks may dominate attention; at other moments the drone's harmonic surface may be the listener's main reference. A subtle handoff disturbance might disappear perceptually when the drum is salient, but become a defining event when the drum falls quiet. That is a plausible auditory-attention hypothesis, not a demonstrated KLAAT result.
+
+
+The artist's internal importance ranking can also differ from the listener's. A tiny mechanical correction that feels momentous to Paul may be nearly invisible to someone hearing only the recording. Conversely, a barely noticed physical gesture may generate a conspicuous sound. We should not use performer embarrassment as a substitute for measured listener impact.
+
+
+5. THE MOTOR SYSTEM MAY KNOW SOMETHING BEFORE THE SOUND
+
+
+An especially interesting body of music-performance research finds changes preceding overt errors. Maidhof and colleagues (2009) recorded EEG while expert pianists played bimanual scales and patterns. Differences in event-related potentials appeared approximately 100 milliseconds before an erroneous note's onset; erroneous keystrokes also tended to be delayed and pressed more slowly. This is evidence of anticipatory performance-monitoring processes under the study conditions, not evidence that every impending musical mistake is consciously recognized.
+
+
+Palmer, Mathias, and Anderson (2012) likewise examined pianists' correct notes, wrong pitches, and partial errors—actions with the intended pitch but altered force or duration. Wrong events tended to be slower and softer, while preceding events sometimes had intermediate properties. The authors interpreted this as compatible with partially active competing action plans.
+
+
+For KLAAT, these results offer a more nuanced possibility than 'the brain notices a wrong sound and then fixes it.' Coordination may begin to change before an audible seam. A difficult nasal inhalation, mouth-pressure handoff, or Ankora gesture may affect the timing or force of neighboring actions. However, an audio waveform alone cannot reveal an error-related potential, a motor command, or an unconscious conflict. It can only describe the sound that emerged.
+
+
+This distinction protects the music from overinterpretation. An apparently expressive anticipation before a drum hit might be deliberate, a biomechanical consequence, or an unrecognized adjustment. Until independent evidence separates those possibilities, it should be described as timing, not diagnosed as an error.
+
+
+6. TWO ERRORS CAN PRODUCE OPPOSITE RECOVERY PATTERNS
+
+
+Paas, Novembre, Lappe, and Keller (2021) studied forty-eight skilled pianists working in twenty-four pairs on coordinated piano material. Their principal result is unusually relevant to the idea of recovery: extra-note errors and wrong-note substitutions did not behave alike. Extra notes were typically rapid slips followed by rapid correction, while wrong-note substitutions were more often left uncorrected and followed by slowing. The study's neural responses also differed by error type.
+
+
+In the reported analysis, extra-note events often occupied a small part of the interval that would otherwise have contained one correct note. The authors reported a mean 27.61-ms interval ending at the extra note and a mean 123.05-ms interval ending at the following note; the summed interval was about 150.65 ms, compared with about 164.14 ms for correct-note intervals in that analysis. These are not general human reaction times, and they are certainly not KLAAT strike-spacing targets. They illustrate that a motor slip can be incorporated into an ongoing sequence without a long pause.
+
+
+The same paper found a different pattern for wrong-note substitutions: slowing after the error. One could describe this as a change in the local recovery trajectory rather than merely a tally of wrong events. Crucially, even in a scored task, the motor response to a deviation is not one universal 'error signature.'
+
+
+KLAAT's improvised events are more ambiguous still. If Paul momentarily loses drone pressure but immediately produces a grainy, compelling continuation, the acoustic sequence may remain artistically coherent. If he attempts to force the original tone back, the effort could be audible or not. If he intentionally changes direction, a score-based correction model has no legitimate target. We should distinguish physical continuity, intended continuity, and perceived continuity.
+
+
+7. ERROR SEVERITY IS NOT A BINARY PROPERTY
+
+
+Albrecht and Bellebaum (2023) compared small and large piano errors in experiments involving experienced pianists playing and watching performance. Their EEG results differentiated small from large errors in the performers' own error-related negativity, whereas the corresponding observer component did not show the same separation. The authors interpreted the difference cautiously in relation to action monitoring and the demands for adaptation.
+
+
+The finding should not be recast as a universal neural scale of musical badness. The tasks were deliberately designed to produce piano errors of different size. The relevant insight is narrower: the performer and the observer can process the magnitude of a deviation differently, even when both are dealing with the same musical event.
+
+
+For KLAAT, a 'large' acoustic discontinuity need not be a large artistic failure. A sudden cessation of Amastacia might be the most consequential audible change in a passage, yet could be a deliberate withdrawal. Conversely, a tiny unintentional lip-pressure instability might feel technically important to Paul while being unnoticeable in the mix. Severity must therefore be defined with respect to an explicit outcome: motor control, acoustic change, listener salience, or aesthetic evaluation.
+
+
+One tempting but unsupported shortcut would be to equate large spectral flux with a serious technical error. Spectral flux measures change between adjacent spectral representations; it has no access to the artist's intention. An intentional burst of breath noise can score high. A technically frustrating adjustment might score low. The number is useful only after its question is specified.
+
+
+8. THE AUDIENCE MAY REACT TO THE PERFORMER'S REACTION
+
+
+A 2017 experiment by George Waddell and Aaron Williamon, 'Eye of the Beholder,' examined how visual information changes judgments of music performance. The researchers randomly assigned 105 participants—53 musicians and 52 nonmusicians—to one of five videos. The variants included a conspicuous, several-second stop-and-resumption error, the same error paired with a frustrated facial expression, a frustrated expression without an audible error, and stage-entrance differences. This was a deliberately severe disruption, not an isolated wrong note.
+
+
+The audible error alone produced a temporary drop in continuous ratings among musically trained participants. The combination of audible error and frustrated expression produced a more persistent negative evaluation; the facial expression alone did not have the same effect. The study's final 7-point quality rating averaged 3.90 in the combined error-plus-facial-reaction condition versus 4.86 in the standard condition. These are experimental group means in a specific video judgment task, not estimates of how KLAAT audiences would react.
+
+
+The result makes an important distinction: a listener can respond to the *social presentation of an error* as well as to its sound. An artist's visible frustration can change what an event seems to mean. The research does not imply that Paul should conceal genuine emotion, maintain a stage persona, or pretend every action was planned. It simply warns us that a live or video response is a compound of sound, gesture, expectation, and performer behavior.
+
+
+KLAAT's visual world—two physically distinctive acoustic instruments, breath, hand motion, and archaeological diagrammatic imagery—makes this particularly relevant. An audio-only listener and a video viewer are not receiving the same evidence. A meaningful future comparison must identify which artistic experience is being tested, rather than treating visual context as contamination by default.
+
+
+9. PERCEIVING AN ERROR IS NOT THE SAME AS DISLIKING IT
+
+
+Bin, Morreale, Bryan-Kinns, and McPherson (2017) studied audience responses to electronic musical instrument performances using real-time and retrospective methods. They collected 58 paired sets of moment-by-moment indications and post-performance responses. The central result was that marking a perceived error in real time did not automatically translate into reported non-enjoyment. Immediate and retrospective reports also did not always agree.
+
+
+This is not a controlled study of KLAAT, acoustic ritual music, or didgeridoo. Its value lies in separating two outcomes often collapsed into one: recognition that something went wrong and the degree to which the experience was enjoyable. A sound can be surprising, irregular, or even recognized as a mistake without ruining a performance.
+
+
+That separation is especially important in a music practice built from roughness, physical effort, breath texture, repetition, and sudden shifts. If a listener says, 'That sounded like he almost lost it, and then it got interesting,' the scientifically useful observation is not just the word 'almost.' It is the entire response, including the changed engagement afterward.
+
+
+At the same time, the opposite is possible. A listener may find an unintended seam distracting, or may experience discomfort during a noisy transition. The research should preserve negative, neutral, and positive outcomes. It should not romanticize every accident as creativity, nor turn a single enthusiastic comment into evidence that roughness causes trance.
+
+
+10. WHY THE MOMENT AFTER THE EVENT MATTERS
+
+
+Many analyses focus on the exact time of an attack or dropout. Yet the response to that event may be more informative than the event alone. In a scored sequence, an error may lead to a correction, slowing, resumption, or further errors. In improvisation, the possibilities include continuing unchanged, attempting a technical repair, repeating the unexpected sound, shifting attention to the other instrument, or developing a new phrase from the accident.
+
+
+These are descriptive categories, not a mandatory performance menu. They can be recognized retrospectively in some recordings but not always inferred confidently. For example, if a sudden noisy Amastacia event is followed by a series of similar articulations, an analyst might describe 'motif recurrence' or 'texture continuation.' It would be an unsupported leap to conclude that the first event was an error deliberately transformed into a motif unless Paul independently remembers that intention.
+
+
+The temporal scale is also variable. A motor correction may unfold within tens of milliseconds in laboratory piano tasks; an artistic reorientation may unfold over several seconds or much longer. There is no reason to assign KLAAT a universal recovery window. Its drone may continue while the drum reorganizes, or the drum may remain stable while the drone shifts. The two instruments make a single global 'performance recovered' timestamp particularly questionable.
+
+
+This leads to a more useful research target: after an independently identified difficult moment, what actually happens to the sound, and what does the performer or listener report about that continuation? The word 'after' must be interpreted relative to the evidence available, not treated as proof of causality.
+
+
+11. THE THREE-STREAM RECOVERY MAP
+
+
+For future KLAAT recordings, a practical analytic model is to preserve three separate timelines. The performer stream records immediate remembered intention, difficulty, and whether a moment felt repaired, followed, ignored, or unresolved. The acoustic stream records observable events—drone continuity, attack pattern, noisy articulation, dynamic change, or other features that can be measured with known uncertainty. The listener stream records what independent listeners noticed, how they described it, and whether their absorption or activation changed.
+
+
+These streams may align, but they need not. A performer-identified difficulty with no conspicuous acoustic change is still useful technical information. A strong acoustic event that Paul did not regard as a difficulty can still be a listener landmark. A listener-identified 'mistake' that was fully intentional is evidence about expectation, not an objective failure of execution.
+
+
+An honest analysis should include the possibility of disagreement. For instance, a listener may infer a 'stumble' from an intentional withdrawal of the drone. If Paul later explains that the withdrawal was deliberate, the listener's report does not become invalid; it becomes evidence of how the event was interpreted before that explanation. Likewise, if Paul recalls a lapse that listeners find musically compelling, their experience is not corrected away by his private memory.
+
+
+The map also avoids a dangerous feedback loop. If Paul listens back and retroactively decides a surprising passage was intentional because it sounds good, that may be a genuine reinterpretation, but it is not evidence of what he intended at the time. This is why the existing KLS-001 protocol requires a brief performer report before playback. The order is not bureaucratic: it protects two distinct forms of evidence.
+
+
+12. THE CAPTURE CHAIN CAN FABRICATE OR HIDE A 'MISTAKE'
+
+
+An apparent drone dropout on a phone recording may reflect a real interruption of Amastacia, but it can also reflect microphone movement, transient masking by Ankora, automatic gain control, noise suppression, an overloaded input, a room null, or an export artifact. Sessions 129, 131, 136, and 137 already establish why recording provenance matters; this session applies that principle to error attribution.
+
+
+The relevant chain is PERFORMED ACTION -> RADIATED SOUND -> ROOM/MICROPHONE -> RECORDED FILE -> PLAYBACK -> LISTENER. An interruption heard at the last stage is not automatically an interruption of the first stage. If Ankora masks the drone for 100 milliseconds, the drone might remain physically continuous while becoming temporarily inaudible. Conversely, a steady-looking waveform could conceal a short loss of one harmonic or a brief breath articulation that Paul found difficult.
+
+
+A phone video may help distinguish hand movement from audio artifacts, but its audio and image streams can be offset, compressed, or temporally sampled too coarsely to reveal a fast correction. The correct response is to state the measurement limit, not to manufacture an exact motor timeline from an approximate video frame.
+
+
+A scientifically useful archive therefore keeps the untouched source, a record of capture conditions, and any processed derivative separately. The purpose is not to make the performance sterile. It is to prevent technical artifacts from being mistaken for evidence about Paul's coordination.
+
+
+13. AN IMPROVISATION CAN CHANGE COURSE WITHOUT 'RECOVERING'
+
+
+The language of recovery quietly assumes that the performer is returning to a prior target. In a scored passage that assumption may be justified. In a spontaneous piece it often is not. A sound can depart from what Paul expected and open a direction that was unavailable a moment earlier. If he follows it, the performance may not return to its previous state at all.
+
+
+Calling this 'successful error recovery' can therefore be as misleading as calling it 'failure.' We may instead need a neutral term: *post-event continuation*. It describes what happens without deciding whether the event was intentional, mistaken, creative, or regretted. More specific labels can be added only when supported by performer testimony or a defined technical criterion.
+
+
+There is a crucial distinction between the capacity to recover technically and the artistic decision to continue differently. Greater circular-breathing fluency may expand Paul's options when pressure falters. It does not require him to conceal the falter. Improved Ankora control may allow cleaner attacks when desired. It does not require him to suppress rough attacks that fit the sound. Technique is a larger set of available actions, not an obligation to choose the tidiest one.
+
+
+The scientific study of spontaneous music must respect this asymmetry: we can investigate whether a physical action became easier without declaring that the resulting art is better. A technical exercise may have a correct answer; an improvisation need not.
+
+
+14. A FALSE SHORTCUT: COUNT THE STUMBLES, RANK THE TAKES
+
+
+Suppose two KLAAT takes each last ten minutes. In Take A, Paul recalls four moments of difficult breath coordination; in Take B, only one. It is tempting to call B the better performance. But those counts are not automatically comparable. A may contain more demanding playing, more spontaneous risk, longer high-density passages, or more candid self-reporting. B may be quieter, shorter in effective active playing, or simply easier. The listener could prefer either.
+
+
+The same problem arises if an algorithm counts acoustic interruptions. A ten-minute take with twelve deliberate breath-noise gestures might score as 'less continuous' than a ten-minute take with two unintentional failures. Without a validated intent label, the algorithm would confuse style with control.
+
+
+A more defensible approach distinguishes technical opportunity, event, and outcome. For example, one might count clearly self-reported unwanted drone losses only when Paul explicitly intended continuity, while separately recording how many challenging breath handoffs occurred. Even then, the denominator may be uncertain and the report subjective. These are preliminary measures of a specific skill, not a universal performance-quality scale.
+
+
+The existing KLS-001 pilot should not be expanded into a punitive audit. Twelve authentic takes over at least four days are intended to preserve natural variation. The strongest data may include imperfect, awkward, surprising, and exhilarating performances. Removing them would distort both technical and listener analyses.
+
+
+15. PERFORMER FLOW AND LISTENER ABSORPTION MAY DIVERGE
+
+
+The new distinction helps explain why Paul's trance-like flow and a listener's absorption cannot be assumed to match. During an intense performance, an unexpected physical event may briefly pull his attention toward mechanics. The listener may not hear it. Alternatively, a listener may hear a dramatic change that intensifies engagement precisely when Paul feels he lost the thread. A technically easy take might feel effortless to Paul yet be uneventful to a listener.
+
+
+No primary study cited here directly tests this performer–listener relationship in KLAAT. It remains a plausible, measurable question. What can be said is that error monitoring, audible salience, visible reaction, and enjoyment have been shown to diverge in other music contexts. These divergences are sufficient reason not to treat 'flawless execution' as a proxy for trance, groove, or artistic value.
+
+
+The distinction also applies to KLAAT as an energizing daily-life soundtrack. Someone walking or working may not attend to every transition, while someone listening with eyes closed may notice tiny details. A sound that feels like an interruption in focused listening might function as a useful attentional landmark during everyday activity. Those are context-dependent hypotheses, not effects established by the present research.
+
+
+If KLAAT eventually produces reliable listener activation or absorption, the evidence will need to come from actual listener responses to actual recordings under documented conditions. It will not come from counting Paul's private errors, from EEG results obtained in piano laboratories, or from declaring roughness inherently therapeutic.
+
+
+16. AVOID THE OTHER EXTREME: EVERY ACCIDENT IS NOT ARTISTICALLY GOOD
+
+
+There is a romantic temptation to say that all mistakes are gifts. That claim is no more scientific than saying all deviations are failures. Some unintended events genuinely limit expression. A difficult breath handoff can interrupt a desired drone; a missed hand position can make an intended Ankora attack impossible; fatigue can narrow available options. Technical improvement may make those events less frequent or easier to navigate.
+
+
+But the value of a particular event depends on context and intention. A rough attack may be unwanted today and desirable tomorrow. A short silence may be an involuntary interruption in one take and an effective withdrawal in another. Scientific analysis can document differences and test listener responses; it cannot declare a universal aesthetic rule.
+
+
+The 2017 audience studies are useful here because they do not support a simplistic relationship between detection and dislike. The 2017 visual-cue experiment also warns that the performer's visible interpretation can change audience judgment. These findings do not guarantee that a KLAAT audience will welcome irregularity. They show why the relationship must be measured rather than assumed.
+
+
+The appropriate attitude is neither perfectionism nor accident worship. It is curiosity about what actually happened, what Paul wanted, what the recording contains, and what someone else experienced.
+
+
+17. HOW THIS ADVANCES THE KLAAT RESEARCH PROGRAM
+
+
+Earlier sessions established several necessary pieces. Session 101 treated circular-breath handoffs as physical events, not mystical continuity. Session 116 examined respiratory and hand coordination. Session 124 distinguished attention strategies and performance accuracy in scored music, while cautioning against turning KLAAT into a score. Session 130 separated effort from fatigability. Session 137 showed that a drum recording does not uniquely reveal the physical cause of a timbral change. Session 141 asked whether a personal signature survives across instrument pairings.
+
+
+The present session adds a different research unit: the *event and its continuation*, interpreted across performer, acoustic, and listener evidence. It does not repeat a generic 'errors happen' lesson. It asks whether a perceived disruption is technically unintended, acoustically conspicuous, followed by correction or redirection, and meaningful to a listener. These questions can be answered separately and sometimes contradicted by the data.
+
+
+This is also a safeguard against the topic-exhaustion problem. After more than 140 sessions, the next advance cannot merely be another general explanation of how rhythm or resonance works. We need KLAAT-specific questions that can eventually be resolved by recordings and honest listener reports. Error-to-continuation mapping is one such question, and it directly serves the technique Paul wants to develop.
+
+
+No new phase architecture, required BPM, looping method, or compositional instruction follows. The Ground Anchor, Threshold Gate, Rising Pulse, and Return Path vocabulary remains an artistic map, not an error-scoring template.
+
+
+18. A POSSIBLE KLAAT-SPECIFIC DATA STRUCTURE
+
+
+If the first twelve-take baseline eventually exists, it would be possible to annotate only moments that Paul spontaneously remembers as technically difficult, plus independently identified listener landmarks. There is no need to tag every second of a performance. A lightweight event record could contain: take ID; approximate event window; whether the note was written before or after replay; Paul's immediate description of intended action; reported difficulty; any observed acoustic change; a neutral description of what followed; whether a listener independently marked the region; and the listener's exact words.
+
+
+Crucially, an event would not need an 'error' label at all. One can write 'brief drone amplitude drop, then noisy sustained continuation' without asserting what caused it. If Paul independently recalls 'I lost pressure and then followed the rasp,' that testimony adds a performer-side interpretation. If a listener independently says 'that was the strongest moment,' the record preserves both views. It should not convert their agreement or disagreement into a diagnosis of the listener's nervous system.
+
+
+Selection bias remains a serious concern. If analysts choose only passages Paul calls successful recoveries and then ask listeners whether they liked them, the sample will not represent all difficult moments. If listeners are shown a highlighted timestamp and told a mistake occurred, their response is no longer an unprompted first impression. The existing protocol's open-first rule and Session 140's discovery-versus-confirmation distinction are essential.
+
+
+A small pilot should be described honestly: a way to discover whether the annotation categories are usable, not a proof of population-level effects. The correct unit of independence depends on whether observations come from the same take, listener, recording day, or performance; adjacent events are not necessarily independent replicates.
+
+
+19. EVIDENCE STATUS: WHAT CAN BE CLAIMED NOW
+
+
+ESTABLISHED IN OTHER MUSIC TASKS. Score-defined pitch errors can be difficult to hear: Repp's 1996 study found only 38% collective detection by eight pianist listeners in a specific experiment. Error frequency and salience vary with musical texture and emphasis (Gingras et al., 2016). Piano action-monitoring signals can precede wrong notes (Maidhof et al., 2009). Different error types can have different motor and neural trajectories (Paas et al., 2021). Observer and performer error-severity signals can differ (Albrecht and Bellebaum, 2023). Visual frustration can alter evaluation of an audible error (Platz et al., 2017). Perceived errors and reported enjoyment can diverge (Bin et al., 2017).
+
+
+CONTEXT-DEPENDENT. These findings depend on scored versus improvised music, instrument, tempo, task, error definition, listener expertise, visual context, performance pressure, and analysis method. The percentages and neural latencies are not transferable KLAAT constants. Audience judgments in electronic music or piano videos cannot predict the response to a ritual drone-and-drum performance.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT. Some performer-identified technical difficulties may leave no listener-salient trace; some acoustically conspicuous events may be intentional; some unintended seams may become musically meaningful through the continuation that follows. Listener absorption or energy may relate more strongly to an event's subsequent development than to the event alone. These are hypotheses, not findings.
+
+
+SPECULATIVE. Improved technical fluency could increase Paul's ability to choose among immediate correction, continued roughness, or a spontaneous new direction. A listener may experience certain unexpected continuations as heightened vitality. Neither proposition has been tested in KLAAT.
+
+
+UNSUPPORTED. KLAAT's roughness has demonstrated neural, autonomic, trance-inducing, or therapeutic effects; every error is beneficial; fewer technical difficulties necessarily yield better music; a spectral peak or timing anomaly proves a motor mistake; Paul's flow automatically transfers to listeners; a specific C# frequency has a unique neurological effect. No KLAAT audio, listener ratings, physiological signals, or performance-monitoring EEG were available for this session.
+
+
+20. THE DURABLE RULE
+
+
+Do not collapse INTENTION, ACTION, SOUND, RECOVERY, and LISTENER EXPERIENCE into one verdict. A technical deviation requires a relevant intention or constraint; an acoustic event requires measurement; a correction requires evidence of the response; a listener effect requires listener data. An improvisation can contain a genuine motor slip and a compelling artistic development without contradiction.
+
+
+This rule has a practical consequence for the entire project. The aim of technical refinement is to give Paul more freedom in the moment, not to produce a clinically tidy recording. The aim of listener research is to discover what people actually experience, not to teach them which passages were mistakes. The aim of the acoustic analysis is to describe what happened, not to appoint the waveform as judge of the artist.
+
+
+21. ONE OPTIONAL, LOW-PRESSURE OBSERVATION
+
+
+After an ordinary, unscored KLAAT take, and *before* listening back, write one sentence only if a particular moment felt technically unexpected: 'I meant to ___; what happened felt like ___; I then ___.' Do not stop playing to make the note and do not hunt for mistakes. Later, if the recording is available, locate that moment and describe the sound neutrally without deciding whether it was good or bad. Keep the two descriptions separate. This is a private technique observation, not a new performance requirement or a listener experiment.
+
+
+The music remains free. The research follows it.
+
+
+PRIMARY RESEARCH AND SOURCE NOTES (checked 2026-11-01)
+
+
+1. Repp BH (1996). 'The Art of Inaccuracy: Why Pianists' Errors Are Difficult to Hear.' Music Perception 14(2):161–183. DOI 10.2307/40285716. https://doi.org/10.2307/40285716 . More than 90,000 MIDI notes; ten graduate pianists; four pieces played three times; eight pianists in an error-detection experiment collectively detected 38% of registered pitch errors. Scored piano, not improvisational KLAAT.
+
+
+2. Gingras B, Palmer C, Schubert PN, McAdams S (2016). 'Influence of melodic emphasis, texture, salience, and performer individuality on performance errors.' Psychology of Music 44(4):847–863. DOI 10.1177/0305735615594491. https://doi.org/10.1177/0305735615594491 . Eight organists for two pieces; sixteen for fugue; error distributions differed by structure and salience.
+
+
+3. Maidhof C, Rieger M, Prinz W, Koelsch S (2009). 'Nobody is perfect: ERP effects prior to performance errors in musicians indicate fast monitoring processes.' PLOS ONE 4:e5032. DOI 10.1371/journal.pone.0005032. https://doi.org/10.1371/journal.pone.0005032 . Piano EEG differences appeared about 100 ms before erroneous note onset; not a KLAAT neural measurement.
+
+
+4. Palmer C, Mathias B, Anderson M (2012). 'Sensorimotor mechanisms in music performance: actions that go partially wrong.' Ann NY Acad Sci 1252:185–191. DOI 10.1111/j.1749-6632.2011.06427.x. https://pubmed.ncbi.nlm.nih.gov/22524358/ . Correct, wrong-pitch, and partial-error piano actions differed in duration and intensity; causal mechanism inferred cautiously.
+
+
+5. Paas A, Novembre G, Lappe C, Keller PE (2021). 'Not all errors are alike: modulation of error-related neural responses in musical joint action.' Social Cognitive and Affective Neuroscience 16:512–524. DOI 10.1093/scan/nsab019. https://pmc.ncbi.nlm.nih.gov/articles/PMC8094995/ . Forty-eight pianists in twenty-four pairs; extra notes versus wrong substitutions showed distinct correction, timing, and EEG patterns. Error-type subgroup analyses used fewer participants and should not be generalized as universal motor signatures.
+
+
+6. Albrecht C, Bellebaum C (2023). 'Slip or fallacy? Effects of error severity on own and observed pitch error processing in pianists.' Cognitive, Affective, & Behavioral Neuroscience 23:1076–1094. DOI 10.3758/s13415-023-01097-1. https://link.springer.com/article/10.3758/s13415-023-01097-1 . Performer versus observer ERP responses to induced piano errors differed in severity sensitivity; not a measure of aesthetic value.
+
+
+7. Waddell G, Williamon A (2017). 'Eye of the Beholder: Stage Entrance Behavior and Facial Expression Affect Continuous Quality Ratings in Music Performance.' Frontiers in Psychology 8:513. DOI 10.3389/fpsyg.2017.00513. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00513/full . N=105; five video conditions; the combined audible-error/frustrated-expression condition affected final quality more persistently than audible error alone. Video judgment task, not KLAAT.
+
+
+8. Bin A, Morreale F, Bryan-Kinns N, McPherson A (2017). 'In-the-moment and Beyond: Combining Post-hoc and Real-Time Data for the Study of Audience Perception of Electronic Music Performance.' INTERACT 2017. https://ualresearchonline.arts.ac.uk/id/eprint/23487/ . Fifty-eight paired momentary/retrospective datasets; perceived error not equivalent to non-enjoyment. Electronic music performance, not acoustic KLAAT.
+
+
+INTERNAL PROVENANCE / NOVELTY GATE
+
+
+Connected Google Drive Master Instructions, Curriculum Index, Research Ledger, original Session Corpus and Session Corpus Volume II were consulted. Canonical ChatGPT Library Published Studies were checked through Session 141. Hourly Research notes newer than Session 141 were read through 18:23 CST: headphone crossfeed, listening clock time, network-delivery version split, anticipatory diaphragm postural recruitment, and within-day warm-up/fatigue. None addressed the performer-intention / post-event-continuation / listener-error-salience distinction developed here. Earlier Session 124 treated external attention and scored-piano error counts; Session 130 treated effort versus fatigue; Session 137 treated drum-sound inverse inference; Session 141 treated cross-rig identity. Their topics are related but not duplicates. No original KLAAT audio or listener data were available. Prior hourly notes remain untouched as provenance.
+
+
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+END OF SESSION 142

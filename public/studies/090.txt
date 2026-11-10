@@ -1,0 +1,258 @@
+KLAAT RESONANCE RESEARCH — SESSION 90
+WHEN TWO INSTRUMENTS BECOME ONE EVENT
+Auditory grouping, perceptual timing, and the living relationship between Amastacia and Ankora
+Published: October 15, 2026, 3:15 PM CDT
+
+
+GOVERNING PRINCIPLE: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+Research status: evidence synthesis and proposed observations; no KLAAT-specific listener outcomes claimed.
+Continuity: follows Session 89, “The Pulse Between the Instruments.” The newest available Hourly Research note in ChatGPT Library is October 5, 2026, 6:33 PM CDT; hourly provenance is preserved unchanged.
+
+
+THE CENTRAL DISCOVERY
+
+
+Two instruments can remain physically distinct while their sounds sometimes form a single perceptual event. The reverse can also happen: two sounds arriving almost together may remain perceptually separate. And a listener may experience an entire performance as one coherent world while still hearing its constituent instruments clearly.
+
+
+For KLAAT, this is a deeper question than whether Ankora's pulse is easy to follow or whether her rhythm creates an urge to move. Amastacia's C# agave drone is sustained, breath-shaped, and harmonically active. Ankora's elk-hide drum is punctuated, resonant, and temporally explicit. At some moments the instruments may feel like two voices in conversation. At others, an Ankora strike and an Amastacia breath articulation may feel like a single, weighty event. Over longer periods, the entire performance may feel unified even though every sound remains individually recognizable.
+
+
+Those are different kinds of unity. The evidence strongly supports auditory grouping as a real perceptual process, but it does not show that any particular KLAAT passage has produced fusion, trance, or bodily activation. The research challenge is to distinguish what the recording contains from how listeners organize it, without asking Paul to manufacture synchrony or compose according to a theory.
+
+
+GOVERNING PROPOSITION: TWO SOUND SOURCES DO NOT NECESSARILY MEAN TWO PERCEPTUAL EVENTS. ONE PERCEPTUAL EVENT DOES NOT MEAN ONE PHYSICAL SOURCE. AND A COHERENT MUSICAL WORLD DOES NOT PROVE A SPECIAL NEURAL STATE.
+
+
+1. FOUR SCALES OF “TOGETHER”
+
+
+The word “together” can describe at least four separate things. Acoustic co-occurrence means that two physical sounds overlap in time; it can be measured from a sufficiently informative recording. Event binding means a listener experiences two contributions as one auditory occurrence, such as a sharp impact with a surrounding tonal swell. Stream organization means the listener follows one or more continuing auditory sources over seconds or minutes. Artistic unity means the performance is experienced as one compelling musical environment. The fourth can occur without the second: Amastacia and Ankora can be unmistakably distinct yet belong to one KLAAT world.
+
+
+There is also a fifth, easily confused observation: Paul's own sense of coordinated flow. Because he is creating the sounds with his body, breath, hands, and attention, his feeling that the instruments are inseparable is valuable as performer testimony. It is not direct evidence that a passive listener perceptually fuses the sounds. Likewise, a listener's “it all became one” description does not tell us whether the person heard a single event, stopped tracking the sources, or simply became deeply absorbed in the whole performance.
+
+
+A future KLAAT study should not collapse these observations into one fusion score. A recording can show two overlapping acoustic events. A listener can say whether those events felt like one or two. Neither measurement alone identifies a neural mechanism or a physiological effect.
+
+
+2. WHAT THE EAR USES TO ORGANIZE A SCENE
+
+
+Auditory scene analysis concerns how the hearing system organizes complex sound into perceptual objects and streams. Several cues matter. Components that begin together can be grouped; components whose loudness changes together can seem related; harmonic components can be heard as belonging to one pitched source; similar timbres can favor grouping; and spatial separation or markedly different attack characteristics can favor segregation. Attention and listening history also influence the outcome.
+
+
+These are tendencies, not an additive recipe with guaranteed results. Amastacia's own harmonics may be grouped into one recognizable drone because they share a harmonic structure and many temporal changes. Ankora's membrane attack and subsequent decay may be heard as one drum event despite their changing spectrum. But Amastacia and Ankora are acoustically dissimilar: a continuously sounding aerophone and a struck membrane do not automatically form a single source just because they occupy the same room.
+
+
+A useful distinction is common onset versus common change. Ankora can strike while Amastacia is already sounding; there is no shared beginning of the drone. Yet an Amastacia breath accent or sudden overtone emphasis may occur near the strike. The resulting pair could acquire a shared event quality even while the long-running drone and the drum remain identifiable as separate streams. The exact outcome depends on acoustic detail and the listener.
+
+
+3. TEMPORAL COHERENCE: AN EXPERIMENTAL FOUNDATION
+
+
+Elhilali, Ma, Micheyl, Oxenham, and Shamma (2009) investigated the perceptual organization of complex auditory scenes using controlled sound sequences. Their behavioral and neural experiments showed that components separated in frequency can become grouped when their temporal patterns are coherent. The paper proposed that correlated changes over time help the auditory system bind sound features into streams [S1].
+
+
+The important result is not that everything happening on a beat becomes one source. It is that relationships across time can sometimes overcome separation in frequency. A listener may group distant spectral components when they change in a coordinated way. This offers a scientifically grounded question for KLAAT: might coincident Amastacia articulations and Ankora attacks make some moments feel more unified than other moments with comparable loudness and density?
+
+
+The limitation is decisive. The 2009 experiments used deliberately controlled stimuli designed to isolate auditory grouping. KLAAT is a complex natural performance with reverberation, overlapping transients, harmonic drift, and listeners who may bring strong artistic expectations. Temporal coherence is one candidate cue among several, not a validated KLAAT mechanism.
+
+
+4. HARMONICITY CAN COMPETE WITH TIMING
+
+
+Micheyl, Kreft, Shamma, and Oxenham (2013) compared temporal coherence and harmonicity in concurrent auditory stream formation. Participants discriminated frequency shifts in target tones embedded in multitone backgrounds. Temporal incoherence helped listeners segregate the target. But departures from harmonic relationships could also facilitate segregation, even when target and background were temporally coherent [S2].
+
+
+That is a valuable counterweight to any oversimplified “synchronize everything and it will fuse” theory. Different cues can point in different directions. Amastacia's pitched harmonic drone and Ankora's broadband or inharmonic membrane sound are not equivalent to two harmonic partials of one instrument. Even when their accents coincide, their spectral identities may help a listener maintain two distinct source representations.
+
+
+The more productive hypothesis is therefore not permanent fusion. It is flexible grouping: listeners may shift between attending to Ankora's strikes, Amastacia's changing interior, and the relationship between them. That flexibility could be artistically powerful without requiring either instrument to surrender its identity.
+
+
+5. TIMBRE IS NOT JUST COLOR; IT HELPS DEFINE WHO IS PLAYING
+
+
+Iverson's 1995 experiments used orchestral instrument tones matched for pitch and loudness. Listeners judged whether interleaved sounds formed separate streams and attempted to recognize melodies carried by particular timbres. Both spectral differences and dynamic properties such as attack duration and spectral change affected segregation [S3].
+
+
+The direct KLAAT implication is that Amastacia's breathy, harmonic continuity and Ankora's rapid attack plus resonant tail provide strong identity cues. Their contrasting timbres may help listeners track both sources even during dense overlap. Yet a particularly sharp Amastacia articulation might temporarily resemble an event more than a background drone. Conversely, Ankora's lingering resonance can momentarily resemble a sustained field rather than a discrete strike.
+
+
+This is one reason the phrase “drone and pulse” remains useful as artistic language but should not be treated as a complete acoustic classification. Each instrument contains both sustained and changing information. Both can carry rhythm. Both can generate texture. Their roles can change spontaneously within a take.
+
+
+6. THE 2026 FINDING: WHERE IS THE COMBINED EVENT IN TIME?
+
+
+A newly published study by Danielsen, London, Langerød, and Câmara (June 16, 2026) investigated the perceptual centers, or P-centers, of compound musical sounds [S4]. The acoustic beginning of a sound and the moment listeners perceive it to occur are not always identical. Depending on attack shape, the perceived timing of an event may fall after its first measurable onset.
+
+
+Across two experiments, listeners aligned a click probe with paired instrumental sounds whose relative onsets were shifted over a range from -80 to +80 milliseconds. Asynchrony generally moved the perceived center of the combined sound later. Fast-attack instruments such as kick drums exerted a strong pull on the compound event's perceived timing. Fast–slow pairs largely retained one perceived center anchored by the fast attack. When two fast-attack sounds were separated by at least approximately 40 milliseconds between their individual perceptual centers, the researchers found evidence of two perceived events.
+
+
+This is the most immediately relevant quantitative finding in this session. It also requires careful restraint. Forty milliseconds was a result for particular fast–fast pairings and the tested stimuli; it is NOT a universal fusion threshold, a target offset for KLAAT, or an instruction to synchronize Paul's hands and breath to the millisecond. Fast–slow pairs behaved differently. The study concerned compound musical sounds, not a continuous didgeridoo drone with free frame-drum improvisation. A listener could perceive one joint impact while still hearing two instruments over the surrounding passage.
+
+
+The deeper lesson is that the waveform's first visible transient is not necessarily the perceptual beat location. A slow swelling Amastacia gesture may reach its most salient moment after its initial acoustic change. An Ankora strike may provide the perceptual timing anchor for the combined event. Without listening tests, we cannot know which moment listeners actually experience as the event's center.
+
+
+7. A SECOND 2026 STUDY SHOWS WHY “TINY TIMING DIFFERENCES” NEED CONTEXT
+
+
+Câmara and colleagues (2026) tested just-noticeable timing deviations in a funk-like multi-instrument groove with guitar, bass, kick, snare, and hi-hat [S5]. Sixty-four participants—32 musicians and 32 nonmusicians—completed adaptive detection tasks. Tested asynchrony manipulations ranged from approximately 1 to 100 milliseconds; swing manipulations covered a similarly fine range.
+
+
+Detection thresholds varied with instrument and expertise. Percussion shifts were easier to notice than shifts in the bass or guitar. In the published results, percussion asynchrony thresholds were approximately 19–24 milliseconds, while bass/guitar thresholds were around 31–35 milliseconds. Musicians tended to be more sensitive than nonmusicians. Late displacements were generally harder to detect than early ones. Pupil changes tracked manipulation magnitude, but pupil response is not a direct measure of musical pleasure, bodily movement, or trance.
+
+
+These findings complement the compound-event study but answer a different question. A just-noticeable difference asks whether a listener can detect a timing alteration under a particular task. A P-center task asks where a combined event seems to occur. A KLAAT listener's experience of one versus two sources is yet another outcome. Do not equate detection threshold, perceptual fusion threshold, groove optimum, or artistic quality.
+
+
+KLAAT's instruments and listening contexts are unlike a simulated funk rhythm section. There is no scientifically justified millisecond target for Amastacia–Ankora coordination. Technical fluency may help Paul execute what he instinctively hears, but science does not need to become his conductor.
+
+
+8. ATTENTION CAN CHANGE THE APPARENT SCENE
+
+
+O'Sullivan and colleagues (2015) measured EEG responses to temporal coherence in stochastic auditory figures [S6]. They observed coherence-related neural responses even during passive listening, approximately 115–185 milliseconds after stimulus events, with larger and longer-lasting responses during active listening, extending to approximately 265 milliseconds. These windows refer to stimulus-evoked neural response timing, not rhythmic frequencies and not a listener entering a 115–265 millisecond “state.”
+
+
+Billig and Carlyon (2016) also found that auditory streaming judgments were influenced by frequency separation, elapsed exposure, and attentional conditions [S7]. Some stream formation occurred without continuous focused attention, but attention affected how the scene was subsequently heard. Their experiments showed that subjective reports and objective discrimination measures can converge without being identical.
+
+
+This matters because KLAAT is intended for more than one listening mode. A person listening closely in a dark room may alternate between tracking Amastacia and Ankora. A person drawing, cleaning, walking, or working may treat the whole recording as an energizing background environment. Neither listening mode is inherently superior. The same acoustics may be organized differently depending on attention, familiarity, and purpose.
+
+
+None of these EEG findings shows that KLAAT causes trance, theta synchronization, or altered consciousness. Auditory grouping and altered awareness are separate research questions.
+
+
+9. THE DIFFERENCE BETWEEN SOURCE FUSION AND MUSICAL COHERENCE
+
+
+There is a particularly important artistic safeguard here. “One sound” can mean that a listener no longer distinguishes the two instruments. But “one world” can mean that the instruments remain distinctly recognizable while contributing to a larger, stable identity. KLAAT's ancient/ritual/archaeosonic aesthetic may depend on the second phenomenon at least as much as the first.
+
+
+Imagine an authentic passage in which Amastacia holds a dense, roughened drone and Ankora repeats a resonant pulse. The listener may hear two sources with no difficulty. Yet the ongoing relationship may become so familiar that the performance feels like a single organism. That artistic impression does not require literal auditory source fusion. It might arise from temporal predictability, stable timbral identities, expectation, memory, bodily engagement, and emotional association working together.
+
+
+Now imagine another naturally occurring moment in which an Amastacia overtone burst and an Ankora strike coincide. The listener may experience a single emphatic event while continuing to hear two separate streams before and after it. That would be event binding without permanent source fusion. The distinction helps KLAAT retain complexity: the listener's experience can be unified at one scale and differentiated at another.
+
+
+10. WHAT A RECORDING CAN ACTUALLY TELL US
+
+
+A sufficiently clean recording can show approximate attack times, changing spectral energy, envelope correlations, relative intensity, reverberation, and possible co-occurring Amastacia and Ankora gestures. With isolated microphone channels or a synchronized performance video, attribution is more reliable. A single mixed track makes source-specific claims harder, especially because an Ankora strike may mask an Amastacia articulation and because room reflections can create secondary peaks.
+
+
+A spectrogram can show correlated energy changes across frequency bands. That does not prove the listener heard one object. Cross-correlation can show statistical alignment of acoustic envelopes. It does not prove intentional coordination, neural synchrony, or bodily activation. A 40-millisecond measured offset cannot be interpreted using a generic perceptual threshold without considering the two actual sounds and playback conditions.
+
+
+For the September 66-second KLAAT reference, the provisional Ankora pulse around 137 BPM corresponds to about 438 milliseconds between beats. A 20- or 40-millisecond offset is much smaller than that beat interval. This calculation illustrates different temporal scales; it does not establish that the recording contains those offsets or that the pulse remains fixed. The original file would need to be analyzed before making any KLAAT-specific acoustic measurement claim.
+
+
+Recording fidelity remains relevant. Compression, microphone distance, reverberation, headphone spatial presentation, and low-frequency roll-off can alter attack clarity and relative source prominence. A phone speaker might preserve Ankora's sharp onset but reduce its resonant weight, while emphasizing Amastacia's higher harmonics relative to her fundamental. These changes could affect grouping. The playback system is a condition of the listener experiment, not a neutral window onto the original room.
+
+
+11. CONTRADICTIONS AND OPEN QUESTIONS
+
+
+The literature does not support a single rule in which synchronous sounds always fuse. Temporal coherence promotes grouping in some controlled conditions, while inharmonicity, timbral contrast, spatial cues, and attention can favor separation. A sharp event can anchor a compound sound's timing without eliminating the perceptual identity of a slow sound beside it. Detecting a tiny offset does not mean the offset will reduce enjoyment. And the ability to distinguish two sources does not mean the overall performance lacks unity.
+
+
+Several questions now deserve KLAAT-specific attention. Does Amastacia's articulation sometimes act as a second temporal layer, or is it heard mainly as internal motion within the drone? Do listeners experience more unified events when Ankora attacks coincide with a marked change in Amastacia, compared with similar strikes during an unchanging drone? Does increased absorption correspond to stronger fusion, or to the opposite—greater awareness of subtle details within each instrument? Do attentive and everyday-background listeners differ in their source grouping? Does familiarity make it easier to separate the instruments or easier to experience their relationship as one world?
+
+
+None of these questions presupposes a desirable outcome. Stronger source separation could be musically rewarding. Greater unity could be rewarding. A listener might alternate between the two during a single recording. We should not label one as superior before collecting responses.
+
+
+12. EVIDENCE CLASSIFICATION
+
+
+ESTABLISHED EVIDENCE — Human auditory perception organizes sounds using multiple acoustic and contextual cues. Temporal coherence can facilitate grouping across separated frequency components. Harmonic relationships and timbral characteristics can favor segregation or grouping. Attack shape influences the perceived timing of musical events. In controlled 2026 experiments, compound fast–slow sounds often retained a perceptual timing center anchored by the fast-attack component, while some fast–fast pairs showed event separation at tested asynchronies of at least approximately 40 ms. In a separate 2026 experiment with 64 participants, detectability of microrhythmic shifts depended on instrument and musical expertise.
+
+
+SUPPORTED BUT CONTEXT-DEPENDENT — The strength of temporal grouping depends on spectral relationship, timbre, attack envelope, context, attention, task, playback, and listener. Controlled timing thresholds do not transfer directly to continuous didgeridoo and frame-drum improvisation. EEG correlates of coherence processing establish neural responsiveness to experimental stimuli, not listener absorption or trance. Subjective source-unity reports can be influenced by question wording.
+
+
+PLAUSIBLE AND TESTABLE KLAAT HYPOTHESES — Some naturally co-occurring Amastacia articulations and Ankora strikes may be heard as unified compound events. The instruments may remain distinct perceptual streams while the performance is experienced as a coherent whole. Ankora's sharp attacks may anchor perceived event timing when accompanied by slower Amastacia changes. Listeners may differ in grouping across attentive versus background listening, repeated exposures, and playback systems. Perceived unity may relate to absorption or felt energy, but the sign and strength of that relationship are unknown.
+
+
+SPECULATION — KLAAT's distinctive impression of a living archaeosonic environment may emerge partly from flexible alternation between two clearly identifiable presences and moments when their contributions feel inseparable. Paul's improvised coordination may produce compelling relationships precisely because it is embodied rather than scored. These are artistic-perceptual possibilities, not experimentally supported explanations of KLAAT's effect.
+
+
+UNSUPPORTED CLAIMS — That Amastacia and Ankora have demonstrated neural fusion, that 40 ms is a universal perceptual binding threshold, that tighter synchronization always produces more groove or trance, that a shared acoustic envelope proves a shared neural representation, that the C# drone or 137 BPM uniquely alters consciousness, that pupil dilation establishes bodily activation, or that a listener's feeling of “one organism” proves a therapeutic or physiological mechanism.
+
+
+13. METHODOLOGY ADVANCEMENT: THE FOUR-LEVEL UNITY GATE
+
+
+Future KLAAT analyses should separate: (A) measurable acoustic overlap and co-modulation; (B) perceived compound-event unity at a particular moment; (C) longer-term source tracking—one stream, two streams, or attention shifting between them; and (D) overall artistic coherence, absorption, and felt energy. These levels should not be combined into a single explanatory claim. Keep performer experience as a fifth, separately reported perspective.
+
+
+This gate complements Session 87's Listener-Defined Chapter Gate, Session 88's Before/Change/After Gate, and Session 89's Four-Outcome Motor Gate. It prevents a common category error: treating acoustically correlated events as proof of a listener's perceptual fusion, then treating that supposed fusion as proof of a bodily or neural state.
+
+
+The practical sequence is straightforward. Collect spontaneous listener descriptions before introducing the word “fusion.” When a listener identifies a striking moment, ask what they actually heard, rather than telling them the instruments combined. Only afterward inspect the relevant passage for co-occurring attacks, spectral changes, and recording limitations. If comparing conditions later, preserve the same source material and carefully document any edits or playback changes. Never replace authentic KLAAT listening with an artificial demonstration and claim it represents the original experience.
+
+
+14. TECHNIQUE WITHOUT PRESCRIPTION
+
+
+This research offers a useful reason to improve Paul's fluency while preserving spontaneous playing. More reliable circular breathing can make Amastacia responsive without unwanted interruptions; clearer control of tongue and vocal-tract articulations can expand the range of naturally occurring acoustic gestures. Greater independence between Ankora's hand patterns and Amastacia's breath can allow simultaneous activity without Paul consciously counting every event. Comfortable transitions can make improvisation easier to sustain.
+
+
+These are capabilities, not requirements for the sound. Nothing in the research says Paul should force his breath accents to coincide with Ankora's strikes, eliminate loose timing, impose a meter, or maximize source fusion. A deliberately rough or imperfect gesture may be integral to KLAAT's identity. The value of technical development is that it increases the choices available inside the moment, including the choice to do nothing planned.
+
+
+15. KRX-090 — ONE EVENT OR TWO VOICES?
+
+
+One optional, low-pressure listener observation: choose an authentic, unedited 60–120-second KLAAT passage containing both Amastacia and Ankora, preferably one with a naturally noticeable breath accent or harmonic change near a drum strike. Invite three to six listeners to hear it once through the same playback setup at a comfortable level. Do not mention fusion, synchrony, or trance beforehand. Ask only: “What stood out, and how did the two sounds relate to each other?”
+
+
+If listeners spontaneously identify a moment of unusual unity, replay that short moment and ask whether they heard one event, two separate events, or two distinct instruments that simply worked together. Allow “not sure” and mixed answers. If the original recording permits, examine the relevant acoustic changes afterward. Do not change the take or seek a target millisecond offset. Record listening conditions and whether each listener already knows KLAAT. This is exploratory observation, not a controlled causal test; even strong agreement among six people would be a lead for future testing, not proof of a mechanism.
+
+
+THE DECISIVE QUESTION: WHEN AMASTACIA'S BREATH AND ANKORA'S STRIKE SEEM TO BECOME ONE, DID THE EAR BIND A MOMENT, DID THE MIND RECOGNIZE A RELATIONSHIP, OR DID THE WHOLE PERFORMANCE SIMPLY FEEL ALIVE?
+
+
+RESEARCH DIRECTION
+
+
+Session 90 advances the inquiry from Session 89's motor invitation to the auditory organization that may precede it. The strongest next step is to apply the four-level distinction to actual KLAAT listening, with enough acoustic detail to test what coincided and enough independent listener testimony to learn what was experienced. Later research can ask whether momentary unity, source clarity, or flexible alternation better predicts enjoyment, activation, and absorption. The answer may differ between live listening, full-range playback, and an everyday soundtrack.
+
+
+KLAAT remains a personal, improvised world. The research follows the sound; it does not govern the sound.
+
+
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+PRIMARY RESEARCH REFERENCES
+
+
+[S1] Elhilali M, Ma L, Micheyl C, Oxenham AJ, Shamma SA (2009). Temporal coherence in the perceptual organization and cortical representation of auditory scenes. Neuron 61:317–329. DOI: 10.1016/j.neuron.2008.12.005. https://pubmed.ncbi.nlm.nih.gov/19186172/
+[S2] Micheyl C, Kreft H, Shamma S, Oxenham AJ (2013). Temporal coherence versus harmonicity in auditory stream formation. J Acoust Soc Am 133:EL188–EL194. DOI: 10.1121/1.4789866. https://pubmed.ncbi.nlm.nih.gov/23464127/
+[S3] Iverson P (1995). Auditory stream segregation by musical timbre: effects of static and dynamic acoustic attributes. J Exp Psychol Hum Percept Perform 21:751–763. DOI: 10.1037/0096-1523.21.4.751. https://pubmed.ncbi.nlm.nih.gov/7643047/
+[S4] Danielsen A, London J, Langerød MT, Câmara GS (2026). All About That Bass Drum? Asynchrony Effects on the Perceived Timing of Compound Musical Sounds. Ann N Y Acad Sci 1560:e70306. Published June 16, 2026. DOI: 10.1111/nyas.70306. https://nyaspubs.onlinelibrary.wiley.com/doi/abs/10.1111/nyas.70306
+[S5] Câmara GS, Spiech C, Solli S, et al. (2026). Just noticeable difference thresholds of asynchrony and non-isochrony in a multi-instrumental groove-based context. J Acoust Soc Am 159:4668–4688. N=64 (32 musicians, 32 nonmusicians). DOI: 10.1121/10.0043887. https://pubmed.ncbi.nlm.nih.gov/42201766/
+[S6] O'Sullivan JA, Shamma SA, Lalor EC (2015). Evidence for neural computations of temporal coherence in an auditory scene and their enhancement during active listening. J Neurosci 35:7256–7263. DOI: 10.1523/JNEUROSCI.4973-14.2015. https://pubmed.ncbi.nlm.nih.gov/25948273/
+[S7] Billig AJ, Carlyon RP (2016). Automaticity and primacy of auditory streaming: Concurrent subjective and objective measures. J Exp Psychol Hum Percept Perform 42:339–353. DOI: 10.1037/xhp0000146. https://pubmed.ncbi.nlm.nih.gov/26414168/
+
+
+PROVENANCE AND RESTRICTIONS
+
+
+Checked connected KLAAT Master Instructions, Curriculum Index, Research Ledger, Session Corpus and ChatGPT Library Hourly Research folder. No new hourly files were available after 2026-10-05 18:33 CDT. The Session 89 canonical study was confirmed in ChatGPT Library before assigning number 90. This study does not contain new measurements of the 66-second reference audio, direct listener responses, or claims of experimentally demonstrated KLAAT effects. Earlier incomplete Google Drive Corpus mirror entries remain separate curation items. No hourly note has been edited.
+
+
+
+
+
+
+================ KLAAT SESSION 91 ================

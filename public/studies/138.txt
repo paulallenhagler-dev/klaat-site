@@ -1,0 +1,234 @@
+KLAAT RESONANCE RESEARCH — SESSION 138
+THE AVERAGE LISTENER WHO NEVER EXISTED
+When unequal audiences reverse the apparent effect of an authentic improvisation
+Published: 2026-10-31, 15:13 CDT (America/Chicago)
+
+
+GOVERNING PRINCIPLE
+Experience-led creation. Science-informed refinement.
+
+
+CENTRAL QUESTION
+
+
+Suppose two authentic, unedited KLAAT improvisations are heard by volunteers. One take features the dense, urgent interaction of Amastacia's C# agave drone and Ankora's elk-hide pulse; the other is more spacious. Without imposing any form on either performance, listeners report how absorbed, energized, moved, or physically engaged they felt. The first set of average ratings seems to say that the spacious take was more energizing. But what if that result reverses when we compare people who actually heard both takes, or people with similar prior familiarity? Did the music change, or did the population represented by each average change?
+
+
+This session investigates a statistical reversal known as Simpson's paradox. It is not a technique for manufacturing stronger listener effects. It is a safeguard against falsely attributing an effect to the music, and against allowing a misleading number to govern a spontaneous artistic practice.
+
+
+1. WHY THIS IS THE NEXT UNRESOLVED QUESTION
+
+
+The most recent published sessions isolated the physical sources of sound: Session 132 considered Amastacia's material versus its acoustics; 135 separated texture, loudness and perceived energy; 136 examined delayed feedback; and 137 showed why Ankora's recorded spectrum cannot uniquely identify how it was struck. Session 118 had already warned that clips nested within one performance are not independent performances. Session 131 established that identical audio files do not guarantee equivalent playback experiences. None of those is the same as the present question: can a perfectly accurate calculation of listener averages point in the opposite direction from every meaningful within-group comparison?
+
+
+The October 31, 10:18 CDT hourly note developed the precise mathematical counterexample and checked the published corpus, index and ledger for a dedicated aggregation-reversal treatment. Other hourly work on recruitment self-selection, dropout, ordinal ratings, and independent listener coding provides relevant context, but not this particular inversion. The latest hourly notes through 14:16 CDT were also inspected: they address, separately, tinnitus residual inhibition, barometric pressure, transcription integrity, and video-light artifacts. This session advances the listener-study inference problem rather than repeating any of those topics. Session 138 is sequential after the verified published Session 137; no Session 138 was present in the connected corpus, index or ledger when checked.
+
+
+The practical stakes are unusually high for KLAAT. Paul has a substantial archive of personal phone recordings, but not yet a controlled corpus of listener responses. His own deep flow while playing is real as his experience, yet it does not demonstrate that passive listeners enter trance or share his bodily state. A small pilot can begin to describe what listeners actually report. It can also produce confident-looking, false rankings if its denominators are not preserved.
+
+
+2. THE REVERSAL, WITHOUT STATISTICAL JARGON
+
+
+Imagine a completely hypothetical pilot with two natural takes, A and B, and a 0–10 self-report item labeled 'How energized did you feel?' The following numbers are invented solely to demonstrate arithmetic. They are NOT KLAAT listener data.
+
+
+                          TAKE A               TAKE B
+Already familiar         2 ratings, mean 9     8 ratings, mean 8
+Unfamiliar               8 ratings, mean 4     2 ratings, mean 3
+
+
+Within the already-familiar subgroup, A exceeds B by one point. Within the unfamiliar subgroup, A also exceeds B by one point. Yet the pooled averages are:
+
+
+A = (2 × 9 + 8 × 4) / 10 = 5.0
+B = (8 × 8 + 2 × 3) / 10 = 7.0
+
+
+The pooled difference B minus A is +2.0. Within each subgroup the difference B minus A is −1.0. Every subgroup comparison points toward A; the unstratified average points toward B. No arithmetic error occurred. The samples have different mixtures of people: A's average is dominated by unfamiliar listeners and B's by familiar listeners. The averages answer different questions because the populations they summarize are different.
+
+
+These are twenty ratings, not necessarily twenty independent individuals. If the same participant rated several excerpts, their observations remain linked. That dependence is an additional issue, not the cause of this illustrative reversal. The means assume the numerical response categories are treated as roughly equally spaced for descriptive arithmetic; this may not capture the lived meaning of the ratings.
+
+
+The exact pooled result is an identity: for take t and subgroup g, mean(t) = sum_g [n(t,g) × mean(t,g)] / sum_g n(t,g). Changing n(t,g) changes the weights. If the subgroup means differ strongly, the weights can dominate the pooled direction. Simpson's paradox names the striking case in which aggregate and subgroup associations point in opposite directions.
+
+
+3. WHAT THE PRIMARY LITERATURE ACTUALLY ESTABLISHES
+
+
+Edward H. Simpson's 1951 paper, 'The Interpretation of Interaction in Contingency Tables,' formalized the problem for categorical data. It does not claim that all subgroup analyses are superior or that averages should never be reported. It shows that interpreting aggregated associations requires attention to the structure of the underlying data. Source: DOI 10.1111/j.2517-6161.1951.tb00088.x.
+
+
+Kievit, Frankenhuis, Waldorp and Borsboom (2013), in Frontiers in Psychology 4:513, examined reversals across psychological subfields, including cognition, clinical psychology, personality, education and neuroscience. Their central methodological warning is that between-person, within-group and within-person relationships can differ. They advocate inspecting individual-level patterns and aligning the level of inference with the question being asked. This is a methodological paper with examples and simulations, not an experiment showing that KLAAT listeners reverse their ratings. Source: DOI 10.3389/fpsyg.2013.00513.
+
+
+Hernán, Clayton and Keiding (2011), International Journal of Epidemiology 40:780–785, explain why an apparent paradox often disappears once the relevant causal question is made explicit. They distinguish confounding from non-collapsibility and warn against interpreting a table stripped of its subject-matter context. This matters because a descriptive pooled difference and a causal effect of a musical feature are not interchangeable. Source: DOI 10.1093/ije/dyr041.
+
+
+An adjacent empirical music-measurement result provides a further caution. Schubert's repeated-measures study of continuous valence/arousal ratings for four musical pieces reported nontrivial response-orientation times and test–retest variability; the abstract reports about 80% of responses reliable in both test and retest under its criterion. That study does NOT establish a Simpson reversal, nor is its 80% a reliability figure for KLAAT. It illustrates that subjective music-response measurements themselves depend on timing and task design. Source: DOI 10.1177/0305735611430079.
+
+
+The strength of evidence here is unusually clear but also narrow. The mathematical possibility of reversal is certain under the stated numbers. The empirical prevalence and magnitude of such reversals in a future KLAAT pilot are unknown. No amount of mathematical certainty converts hypothetical data into evidence of KLAAT-induced absorption, autonomic change or trance.
+
+
+4. WHICH 'AVERAGE LISTENER' ARE WE TALKING ABOUT?
+
+
+A small KLAAT pilot might involve eight to fifteen volunteers, with four to six authentic takes selected from a larger set of original recordings. Those figures are protocol intentions, not achieved sample sizes. Some people may have heard drones for years; others may have never encountered a didgeridoo. Some may use good headphones; others a phone speaker. Some might be walking, resting, or concentrating on a task. Some may stop early. Others may skip a take. If every take is not heard by the same people under comparably documented conditions, its average describes a different combination of listeners and contexts.
+
+
+Three legitimate questions can coexist:
+
+
+DESCRIPTIVE AUDIENCE QUESTION: Among the people who actually rated Take A, what did they report? A pooled average or distribution can answer this, but only for that observed group.
+
+
+MATCHED-LISTENER QUESTION: Among people who heard both A and B, did their responses differ, and in which direction? Within-person differences answer this more directly, while remaining vulnerable to order, carryover, expectancy and missingness.
+
+
+GENERALIZATION QUESTION: How would an appropriately defined population of potential listeners respond to A versus B? A convenience sample of friends does not establish this, however carefully the spreadsheet is built.
+
+
+These are not three competing ways of computing the same truth. They are different estimands: different target quantities. If the claim is 'the listeners in this pilot gave B a higher pooled score,' the aggregate may be accurate. If the claim is 'B is more energizing than A for an individual listener,' that aggregate may be uninformative or even directionally misleading. If the claim is 'Ankora's faster attacks caused greater activation,' neither comparison alone identifies the cause, because authentic improvisations vary in many acoustic properties simultaneously.
+
+
+5. THE SPECIAL VALUE AND LIMITS OF PAIRED LISTENING
+
+
+A straightforward protection is to let willing participants hear both authentic takes and record each person's response to each. The useful unit is then a participant-level pair. For listener i, define d_i = rating(B,i) − rating(A,i). A descriptive table can report how many d_i values are positive, zero, or negative; their median and range; and the original ratings. A scatterplot of A against B, or a simple paired line display, makes heterogeneity visible.
+
+
+If the same ten people complete both takes, the unequal-familiarity composition in the invented example cannot arise between those two complete paired sets: each participant contributes once to each. But a paired design is not magic. If only six of ten complete B, or if the listeners who quit are those finding B overwhelming, the complete-case comparison may select a particular type of person. A listener who hears A first may be more familiar with the sonic vocabulary by B, or fatigued by the time B starts. Headphone changes, interruptions and social pressure can still matter.
+
+
+Order balancing—some participants hear A then B, others B then A—can help diagnose order effects in a future design. It is not a requirement to arrange Paul's music into fixed phases or durations. The takes remain untouched; the study changes only how listeners encounter them. At very small sample sizes, even a balanced order does not make a pilot statistically powerful or population-representative.
+
+
+An especially useful output may be that responses vary in both directions. Suppose three people find A more absorbing, four prefer B for daily energy, and two feel little difference. That is not a failed experiment. It is an honest map of diverse experiences. For KLAAT, whose identity includes both immersive stillness and active everyday listening, heterogeneity may be a central artistic fact rather than noise to be averaged away.
+
+
+6. MISSING RATINGS ARE INFORMATION, NOT ZEROES
+
+
+An absent rating is not the same as '0,' 'no bodily sensation,' 'I disliked it,' or 'I fell into trance.' It is missing. A participant might skip a recording because their phone failed, they were interrupted, the clip was too intense, or they simply forgot. These explanations have different consequences. Treating missing ratings as zeros systematically changes the score. Ignoring them without examining who is missing can also bias a comparison.
+
+
+A minimal listener-by-take matrix should therefore retain one row for every intended exposure, not merely every completed rating. Useful fields include anonymized listener ID, original take ID, presentation order, whether playback began, whether it finished, rating present/missing, reason for interruption if volunteered, approximate playback path, and prior familiarity if the person chooses to report it. Do not turn this into intrusive surveillance: record only what is necessary and consented to understand the observation.
+
+
+When a person voluntarily says 'I stopped because it was irritating,' that report is evidence of their experience. It is not a score of zero energy. When another says 'I was energized and replayed it,' that is also evidence of their experience, not a physiological measurement. The act of completing a clip may itself be related to the response of interest. This is why the earlier hourly work on informative dropout matters to the present reversal.
+
+
+7. DO NOT MIX DIFFERENT OUTCOMES INTO ONE MAGIC SCORE
+
+
+KLAAT's research interests include perceived absorption, activation, groove, bodily sensation, pleasantness, attention, time distortion and perhaps observable movement. These are not synonyms. A listener can feel physically energized and emotionally unsettled. Another can feel deeply absorbed but not inclined to move. A third can enjoy the texture while reporting no special body sensation. Combining all of these into a single 'resonance score' would require evidence that the scale measures a coherent construct and has a justified interpretation.
+
+
+The Simpson issue can arise separately for every outcome. If one group tends to report high absorption and another tends to report high bodily activation, changing the mix of groups can change both aggregate ratings in different ways. A purportedly strong 'trance effect' might then be an artifact of which listeners were asked which questions. It would be particularly irresponsible to promote a listener's self-report as a measured neural state.
+
+
+The safest first analyses preserve exact open-ended descriptions alongside separate, plainly labeled items. 'Felt a pressure in my chest' is a subjective bodily report; it does not establish measured chest vibration. 'Lost track of time' is a time-perception report; it does not establish a clinical altered state. 'Wanted to move' is a motor urge, not a record of actual movement. 'More energized' is not proof of increased heart rate, sympathetic activity or improved exercise performance. If physiological sensors are later used, their signals and artifacts require their own independent analysis.
+
+
+8. CAN WE CORRECT THE AVERAGE?
+
+
+Sometimes. If the research question and target population are specified, a comparison can standardize subgroup weights. In the invented example, assigning equal weight to familiar and unfamiliar subgroups gives A = (9+4)/2 = 6.5 and B = (8+3)/2 = 5.5. That adjusted comparison favors A by one point, consistent with both subgroup differences. But why equal weights? A real audience might be 90% unfamiliar, or the study may target repeat listeners. A different scientifically justified target mix produces a different summary.
+
+
+Adjustment does not create missing observations. If only two unfamiliar listeners heard B, the estimate for that subgroup is fragile. If familiarity was self-reported after the experience, it may have been influenced by the experience. If the comparison is between different natural takes, musical features such as attack density, spectral roughness, dynamics and duration may covary. No reweighting method can isolate the causal effect of one feature without appropriate design and assumptions. In tiny pilots, elaborate regression or hierarchical modeling can look more authoritative than the evidence permits.
+
+
+The practical rule is not 'always stratify until the result you want appears.' It is: state the question, show the observed coverage, preserve subgroup and paired results where meaningful, and acknowledge when different summaries answer different questions. Do not choose a statistic because it flatters the work. An exploratory study should be allowed to disagree with its creator's hopes.
+
+
+9. WHAT A NEGATIVE OR CONTRADICTORY RESULT WOULD MEAN
+
+
+Suppose authentic KLAAT clips receive no consistent energy advantage across listeners. That would not disprove Paul's own flow, or the value of KLAAT as music, or the possibility that a particular listener might experience strong absorption. It would limit the claim that the chosen recordings produce a reliable general listener effect under the tested conditions. If the aggregate score favors one take but most paired listeners favor the other, that would be an inference problem to explain, not a signal to rewrite the music.
+
+
+Conversely, if many independent listeners describe similar physical sensations, that is meaningful descriptive convergence. It is still not proof of a unique neurological mechanism. A controlled comparison, measured sound, credible physiological instruments and careful sampling would be needed to establish further claims. Strong qualitative evidence and a null physiological result can coexist. So can compelling acoustic regularities and highly variable subjective responses.
+
+
+10. KLAAT-SPECIFIC ANALYSIS STANDARD
+
+
+A future KLS-001 report should be capable of making four transparent statements before any general conclusion:
+
+
+First: exactly which authentic take each participant heard, including the original unedited recording identifier and delivery context.
+
+
+Second: how many distinct listeners contributed to each reported statistic, how many completed both compared takes, and which responses were missing.
+
+
+Third: whether the aggregate direction agrees with the paired direction and with any predeclared, interpretable subgroup descriptions. If not, report the disagreement without suppressing it.
+
+
+Fourth: which outcome was actually measured: a waveform feature, a self-report, an observed behavior, or a physiological response. Do not use one as shorthand for another.
+
+
+If no paired comparison is available, say so. If there are too few participants for a useful subgroup estimate, show the raw counts and avoid an inflated claim. If a participant's open-ended account does not match their numerical rating, preserve both rather than 'correcting' their experience. The art remains the original improvisation; the analysis is a record of how particular people encountered it.
+
+
+11. EVIDENCE GRADING AND OPEN QUESTIONS
+
+
+ESTABLISHED: A pooled mean is weighted by the composition of the observed sample; changes in those weights can reverse the sign of subgroup comparisons. Paired observations and subgroup summaries target different questions. Missingness is not equivalent to a negative response. These are mathematical and methodological claims, not KLAAT findings.
+
+
+CONTEXT-DEPENDENT: Whether an aggregate reversal actually occurs depends on subgroup response differences, take exposure counts, order, missingness and how groups are defined. Which summary is scientifically useful depends on the target question. Rating scales, playback differences and sample recruitment affect interpretation.
+
+
+PLAUSIBLE, TESTABLE KLAAT HYPOTHESES: Prior familiarity with sustained drones or harsh timbres might correlate with reported enjoyment or activation; a person's absorption and bodily activation might diverge; paired comparisons might differ from unpaired averages if participation is unbalanced. None has been tested with a KLAAT listener dataset.
+
+
+SPECULATION: Different listener communities may value different authentic moments of KLAAT, and apparent disagreement might reveal meaningful modes of engagement rather than a single ranking. This is a research direction, not a demonstrated audience taxonomy.
+
+
+UNSUPPORTED: KLAAT reliably induces trance, alters brain rhythms, produces therapeutic effects, universally energizes listeners, or has an optimal pulse rate; a numerical rating establishes autonomic activation; an aggregate preference proves that a particular acoustic variable caused it; a convenient subgroup correction automatically recovers a true causal effect. There are no KLAAT-specific listener observations or neurophysiological measures in this session.
+
+
+12. THE ARTISTIC CONSEQUENCE
+
+
+KLAAT is not trying to win a rating contest between two pieces of audio. Its strength lies in the continuing relationship between Amastacia's breathing harmonic field, Ankora's physical pulse, and the instinctive decisions of a performer who can lose himself in the act. Research should make that encounter more legible, not turn the music into a set of optimization targets.
+
+
+The paradox gives a useful artistic safeguard: a crowd average can describe a crowd without describing a single person in it. The 'average listener' is a calculation, not someone who actually sat in the room. If KLAAT becomes a soundtrack for walking, working, driving attention safely, making art, or entering concentrated stillness, those contexts may draw different people and different reports. Their diversity should not be erased to produce a dramatic headline about universal activation.
+
+
+A scientifically honest result can be compelling precisely because it is specific: 'These four listeners reported heightened bodily energy during this passage; two others described irritation; the playback conditions differed; we cannot yet identify the cause.' Such a sentence is less marketable than 'KLAAT induces trance,' but it is far more useful for building a legitimate body of work.
+
+
+OPTIONAL KRX-138 — THE REVERSAL CHECK, WITHOUT A PERFORMANCE TASK
+
+
+At some convenient time, without recording anything new, enter the invented four-cell example from Section 2 into a simple spreadsheet. Confirm the within-group differences (A ahead by 1 in both) and pooled means (A 5, B 7). Then add empty columns labeled listener_id, take_id, heard/completed, rating, and order for possible future real responses. There is no need to recruit anyone now, score a performance, change a tempo, or select 'better' music. The exercise simply tests that the future analysis will not mistake a change in listeners for a change in KLAAT.
+
+
+PRIMARY SOURCES AND PROVENANCE (VERIFIED 2026-10-31)
+
+
+[1] Simpson EH (1951). The Interpretation of Interaction in Contingency Tables. Journal of the Royal Statistical Society, Series B 13(2):238–241. DOI 10.1111/j.2517-6161.1951.tb00088.x. https://doi.org/10.1111/j.2517-6161.1951.tb00088.x
+
+
+[2] Kievit RA, Frankenhuis WE, Waldorp LJ, Borsboom D (2013). Simpson's paradox in psychological science: a practical guide. Frontiers in Psychology 4:513. DOI 10.3389/fpsyg.2013.00513. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2013.00513/full
+
+
+[3] Hernán MA, Clayton D, Keiding N (2011). The Simpson's paradox unraveled. International Journal of Epidemiology 40(3):780–785. DOI 10.1093/ije/dyr041. https://doi.org/10.1093/ije/dyr041
+
+
+[4] Schubert E (2013; first online 2012). Reliability issues regarding the beginning, middle and end of continuous emotion ratings to music. Psychology of Music 41(3). DOI 10.1177/0305735611430079. https://doi.org/10.1177/0305735611430079
+
+
+[5] Internal: canonical Library Hourly Research note KLAAT_hourly_2026-10-31_1018_CDT.txt (aggregation reversal); notes from 11:17, 12:14, 13:16 and 14:16 inspected for novelty. Connected Google Drive KLAAT Master Instructions, Curriculum Index, Research Ledger and Session Corpus Volumes I and II consulted. Earlier relevant published sessions 118, 131, 135 and 137 and hourly work on selection, dropout and ordinal ratings considered. No original KLAAT audio, new participant responses, or clinical/physiological data analyzed. Hourly notes remain untouched.
+
+
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+END OF SESSION 138

@@ -1,0 +1,421 @@
+KLAAT RESONANCE RESEARCH — SESSION 69
+THE BODY MAP IS NOT AN ACCELEROMETER
+Auditory Embodiment, Somatic Attribution, and the Difference Between Feeling Music and Receiving Vibration
+
+
+Published: 2026-10-08 15:13 CDT
+Sequential position: 69
+Provenance: KLAAT Master Instructions; Curriculum Index, Research Ledger, and Session Corpus through Session 68; Hourly Research notes through 2026-10-05 18:33 CDT (none newer found). Session 68 established the Multi-Input Validity Gate. This session advances its unresolved perceptual question, rather than claiming new hourly evidence.
+
+
+CENTRAL PROPOSITION
+
+
+A LISTENER CAN REPORT A POWERFUL BODILY MUSICAL EXPERIENCE WITHOUT THAT REPORT ESTABLISHING A STRONG MECHANICAL VIBRATION PATHWAY THROUGH THE SEAT, FLOOR, OR BACK.
+
+
+This does not mean the experience is imagined, false, or physiologically irrelevant. It means a bodily report and a mechanical accelerometer reading answer different questions. KLAAT must learn to distinguish them before using the language of resonance, bodily impact, and activation.
+
+
+1. THE NEXT GAP AFTER SESSION 68
+
+
+Session 68 warned against adding seat, foot, and back accelerations as though they represented one bodily dose. It proposed checking whether actual live KLAAT even creates reliably measurable contact vibration. The next question is logically prior to claims of somatic causation: what if the listener reports that Ankora is “in the chest” or that Amastacia “fills the body,” yet contact sensors show no substantial change? That is not necessarily a contradiction. It is a clue that several kinds of embodied musical experience have been conflated.
+
+
+2. FOUR DISTINCT MEANINGS OF “I FELT IT”
+
+
+MECHANICAL CONTACT SENSATION — cutaneous or whole-body responses associated with physical vibration at a contact surface.
+
+
+AIRBORNE AUDITORY EXPERIENCE — sound heard through the auditory system, including low-frequency weight, loudness, timbre, and temporal pattern.
+
+
+INTEROCEPTIVE / AFFECTIVE EXPERIENCE — felt changes in bodily state, tension, breathing, warmth, arousal, chills, or emotion that may accompany music.
+
+
+MOTOR / PREDICTIVE EXPERIENCE — urge to move, internally continued pulse, readiness for an expected strike, or an embodied sense of temporal direction.
+
+
+These categories may overlap. They are not mutually exclusive and cannot be cleanly assigned from a single self-report. But they must not be merged into one “vibration” variable.
+
+
+3. WHAT THE 2024 BODY-MAP STUDY ACTUALLY SHOWS
+
+
+Putkinen and colleagues (2024) asked Western and East Asian participants to mark regions of the body where they felt music-related changes. Across 903 Western and 1,035 East Asian participants, bodily sensation maps varied with musical emotional qualities and showed meaningful cross-cultural similarities. Acoustic and structural musical features were associated with emotion ratings and mapped bodily sensations.
+
+
+That is substantial evidence that people organize music-related experiences spatially in the body. It is NOT a demonstration that the marked body regions were physically vibrated, nor that accelerometers at those sites would reproduce the maps. A body-map response is a report of experience.
+
+
+4. THE CRUCIAL MEASUREMENT ERROR
+
+
+Imagine a participant shades their chest on a silhouette after a strong Ankora passage. We could label that “chest activation,” but the label does not specify a mechanism.
+
+
+It might refer to perceived pressure, an emotional surge, an urge to breathe or move, muscle tension, a remembered bodily association, or an actual tactile sensation. Even a participant who says “vibration” may be describing low-frequency auditory weight metaphorically.
+
+
+KLAAT should never treat body-map shading as a proxy for local acceleration or tissue displacement.
+
+
+5. PHYSICAL ABSENCE IS NOT PROOF OF PERCEPTUAL ABSENCE
+
+
+Suppose a chair accelerometer registers no signal distinguishable from the noise floor during Amastacia. That result constrains one mechanical explanation: detectable chair motion at that sensor location and frequency range. It does not rule out airborne sound reaching the ears, tiny unmeasured motions, bone-conducted pathways, changes in breathing, affect, or movement expectation.
+
+
+The scientifically correct statement is narrow: “We did not detect a reliable change in this contact-motion channel under these conditions.”
+
+
+Do not convert that into “the body received no physical stimulus” or “the bodily experience was purely psychological.”
+
+
+6. AUDIO–TACTILE INTERACTION IS REAL, BUT CONDITIONAL
+
+
+Controlled studies have shown that auditory and tactile inputs can influence one another. For example, Wilson, Reed, and Braida (2009) found that synchronous auditory and fingertip vibrotactile pulses improved detection relative to unimodal conditions in their tested paradigm. Verma, Aker, and Marozeau (2023) found that vibrotactile temporal characteristics altered auditory timbre judgments in a controlled experiment.
+
+
+These findings support multisensory interaction as a possible mechanism. They do not show that ordinary KLAAT necessarily supplies a strong tactile signal or that multisensory enhancement explains any particular report.
+
+
+7. ATTENTION CAN CHANGE THE BODY STORY
+
+
+Merrill, Omigie, and Wald-Fuhrmann (2020) compared music-listening tasks in which participants evaluated emotion expressed by the music or emotion felt personally. They found task-related differences in psychophysiological response. The implication for KLAAT is methodological: asking listeners to monitor their bodies can change their experience and potentially their physiology.
+
+
+A continuous “where do you feel it?” prompt may not merely measure embodiment. It may actively redirect attention toward bodily signals. This is a potential measurement intervention.
+
+
+8. PERFORMANCE CONTEXT IS ANOTHER INPUT
+
+
+Krahé, Hahn, and Whitney (2015) experimentally combined congruent and incongruent performance visuals with music. Visual information about a performer's movements affected emotional judgments. A live Amastacia/Ankora performance therefore cannot automatically be equated with an audio-only recording.
+
+
+Seeing breath, effort, the elk-hide drum, and the didgeridoo can influence what a listener expects and feels. That does not make live experience less genuine. It means KLAAT must separate acoustic delivery from visible and contextual cues when making causal claims.
+
+
+9. PHYSIOLOGICAL CHANGES ARE POSSIBLE, BUT NOT ASSURED
+
+
+Musical chills provide a useful example. Controlled research has found that certain music manipulations reduce reported chills and can affect skin conductance responses. Yet subjective chills, goosebumps, skin conductance, and other autonomic measures do not map one-to-one.
+
+
+KLAAT's aim is activation, not sedation. But “activation” needs operational definitions: self-rated intensity, desire to move, heart-rate change, electrodermal activity, or something else? None is automatically proof of benefit or a special resonance state.
+
+
+10. THE SOMATIC ATTRIBUTION GATE
+
+
+Session 69 introduces a methodological gate: SOMATIC ATTRIBUTION.
+
+
+For every claim about bodily impact, ask four questions:
+
+
+WHAT WAS REPORTED? (vibration, pressure, warmth, urge to move, emotional surge, chills, chest location, etc.)
+
+
+WHAT WAS PHYSICALLY MEASURED? (airborne spectrum/level, seat/floor acceleration, body motion, or nothing)
+
+
+WHAT WAS THE CONTEXT? (live/recorded, visual access, posture, prior explanation, room position, familiarity, attention task)
+
+
+WHAT CAUSAL INFERENCE IS WARRANTED? (association, moderation, or an experimentally isolated effect)
+
+
+This gate prevents a compelling description from becoming an unsupported mechanism.
+
+
+11. AMASTACIA: THE FIELD CAN BE FELT WITHOUT BEING A CHAIR SHAKER
+
+
+Amastacia's C# agave didgeridoo supplies a sustained, harmonically structured, breath-shaped acoustic Field. Listeners may describe fullness, pressure, enclosure, chest sensation, or bodily stillness. Some of those reports may be related to audible spectrum and level, some to expectation or emotional response, and some to measurable structure-borne motion in particular rooms.
+
+
+Until the actual pathway is measured, KLAAT should call these reports “bodily experience associated with Amastacia,” not “Amastacia physically vibrating the chest.”
+
+
+12. ANKORA: THE STRIKE CAN REACH THE BODY THROUGH EXPECTATION
+
+
+Ankora's elk-hide strikes provide transients, a recurring clock, and moments where a learned strike can be withheld. A listener may feel a strong bodily pull just before an expected event. If the event is omitted, the sense of anticipation can remain even when no strike occurs.
+
+
+That makes a clean experimental possibility: bodily impact need not peak at the moment of greatest acoustic energy. But it remains a KLAAT hypothesis; the missing-beat response must be measured, not presumed.
+
+
+13. GROUND ANCHOR — BASELINE WITHOUT FORCING A BODY NARRATIVE
+
+
+Ground Anchor should establish Amastacia's Field while obtaining a neutral listener baseline. Ask broad, non-leading questions such as “What changed during this passage?” before showing a body silhouette or naming vibration. The research must not plant a chest-resonance story that the participant then repeats.
+
+
+Measure the airborne Field and any contact motion separately. If listeners report bodily locations, record their own descriptions and confidence without reinterpreting them as physical sensor readings.
+
+
+14. THRESHOLD GATE — EVENT ARRIVAL VERSUS SOMATIC ATTRIBUTION
+
+
+When Ankora enters, distinguish three times: first physical strike, first reliably detectable contact-motion event, and first reported change in bodily state. These times may coincide or differ.
+
+
+A listener's Gate may be primarily temporal (the clock becomes legible), primarily auditory (new transient texture), tactile (a physically received impact), or affective. The evidence should decide rather than the phase label.
+
+
+15. RISING PULSE — ACTIVATION WITHOUT MAXIMUM MECHANICAL ENERGY
+
+
+As Ankora increases Surface Pressure around a stable Scaffold, the urge to move and subjective intensity may increase. If those ratings rise while contact acceleration remains unchanged or below reliable detection, the result would motivate an auditory/predictive explanation. It would not prove which cognitive or neural mechanism caused the effect.
+
+
+Compare ratings with both sound features and mechanical channels. Preserve SPL as a competitor. Do not reward the more elaborate interpretation automatically.
+
+
+16. RETURN PATH — WHEN THE EVENT ENDS BUT THE FEELING CONTINUES
+
+
+Return Path withdraws Ankora's Surface and Clock, leaving Amastacia and eventually silence. Ask whether the listener still expects a pulse, still feels a bodily afterstate, or still experiences a particular body region as salient.
+
+
+A lingering sensation may reflect attention, affect, motor prediction, actual room decay, or multiple factors. Its persistence does not demonstrate continuing mechanical vibration, a physiological reset, or a therapeutic release.
+
+
+17. TWO KINDS OF BODY MAP
+
+
+KLAAT should preserve two spatial descriptions that are explicitly NOT interchangeable:
+
+
+PHYSICAL EXPOSURE MAP — measured sound pressure and/or contact acceleration by position, axis, frequency, and time.
+
+
+REPORTED BODY MAP — listener-indicated locations and qualities of subjective bodily experience.
+
+
+Comparing the two can be informative. But correlation does not establish that local physical vibration caused the marked sensation, and lack of correlation does not make the reported sensation invalid.
+
+
+18. A THIRD MAP MAY BE NECESSARY
+
+
+For experiments that include video or visible live performance, preserve a CONTEXT / ATTENTION MAP: what the listener could see, what they were told, what they were asked to attend to, and whether they were already familiar with KLAAT.
+
+
+This is not a claim that expectation explains everything. It is a control against falsely attributing all changes to sound or vibration.
+
+
+19. INDIVIDUAL DIFFERENCES ARE SIGNAL, NOT NOISE
+
+
+Listeners differ in musical familiarity, tactile thresholds, movement habits, attention, emotional response, and use of metaphor. A participant who reports “pressure in my sternum” may not mean the same thing as another participant who reports “vibration in my sternum.”
+
+
+Keep within-listener comparisons primary. Use exact descriptions before reducing them to rating scales. Only build a group-average body map after checking whether categories were understood consistently.
+
+
+20. ESTABLISHED EVIDENCE
+
+
+ESTABLISHED — People report spatially organized bodily sensations while listening to music, and group-level patterns can vary systematically with musical/emotional features; the 2024 cross-cultural body-map study supports this.
+
+
+ESTABLISHED — Auditory and vibrotactile stimuli can interact perceptually under controlled timing and stimulus conditions.
+
+
+ESTABLISHED — Music-listening task instructions and visual performance cues can alter emotional or psychophysiological responses.
+
+
+ESTABLISHED — Music-induced chills can be accompanied by measurable physiological changes in some experimental settings; subjective and physiological measures are not interchangeable.
+
+
+ESTABLISHED — Accelerometers measure motion at their mounting points, not the semantic meaning of a listener's reported bodily sensation.
+
+
+21. CONTEXT-DEPENDENT EVIDENCE
+
+
+CONTEXT-DEPENDENT — The 2024 body maps are subjective reports, not maps of mechanical contact stimulation; their group-level regularities do not predict an individual KLAAT listener.
+
+
+CONTEXT-DEPENDENT — Fingertip audio–tactile experiments cannot directly quantify whole-body effects in a live venue.
+
+
+CONTEXT-DEPENDENT — Headphone playback, speakers, and live acoustic performance differ in spectrum, spatial cues, visuals, and possibly low-level bone/contact pathways.
+
+
+CONTEXT-DEPENDENT — Asking for a body map during a performance may change attention and immersion.
+
+
+CONTEXT-DEPENDENT — An accelerometer null depends on sensor bandwidth, calibration, location, mounting, and noise floor; it does not prove literal absence of mechanical energy.
+
+
+22. PLAUSIBLE / TESTABLE HYPOTHESES
+
+
+PLAUSIBLE/TESTABLE — Listeners can report localized bodily salience during recorded KLAAT even when seat/floor acceleration is not reliably detected above baseline.
+
+
+PLAUSIBLE/TESTABLE — Bodily reports vary with Ankora Surface Pressure and predictive structure after accounting for acoustic level.
+
+
+PLAUSIBLE/TESTABLE — Visual access to Paul's breath/striking movements changes the timing or intensity of bodily reports for the same recorded sound.
+
+
+PLAUSIBLE/TESTABLE — Neutral versus body-focused reporting tasks yield different body-map intensity or distribution.
+
+
+PLAUSIBLE/TESTABLE — Some listeners show correspondence between measured contact-motion events and tactile reports; others show bodily salience that is better associated with auditory or contextual variables.
+
+
+PLAUSIBLE/TESTABLE — Return Path preserves subjective pulse/bodily afterstate after the measured Ankora event stream ends.
+
+
+23. SPECULATION
+
+
+SPECULATION — KLAAT's strongest sense of bodily presence may often come from a combination of auditory weight, temporal prediction, attention, and emotion rather than unusually strong mechanical contact vibration.
+
+
+SPECULATION — Amastacia's sustained Field may give a sense of bodily space while Ankora organizes the body's anticipated motion within that space.
+
+
+SPECULATION — A future KLAAT body-map vocabulary may identify repeatable experience profiles without implying fixed organ frequencies or localized physical stimulation.
+
+
+SPECULATION — Some of KLAAT's strongest activation-per-dB moments may occur when predictive structure, rather than physical amplitude, is maximal.
+
+
+24. UNSUPPORTED CLAIMS
+
+
+UNSUPPORTED — A shaded chest or abdomen proves those tissues were mechanically resonating with Amastacia.
+
+
+UNSUPPORTED — A listener reporting vibration proves that the floor, seat, or body experienced high-amplitude structure-borne vibration.
+
+
+UNSUPPORTED — A sensor showing little contact motion proves the experience was “only imagined.”
+
+
+UNSUPPORTED — Auditory–tactile integration studies prove KLAAT causes multisensory fusion.
+
+
+UNSUPPORTED — Bodily chills, pressure, or emotional intensity prove trance, trauma release, healing, vagal reset, or therapeutic activation.
+
+
+UNSUPPORTED — A body map can be read as a map of specific organ stimulation or neural activation.
+
+
+UNSUPPORTED — Visual/context effects invalidate the authenticity of a live musical experience.
+
+
+25. METHODOLOGY UPDATE — SOMATIC ATTRIBUTION GATE
+
+
+Add four separate evidence columns to KRX: (1) PHYSICAL EXPOSURE, (2) REPORTED BODILY QUALITY/LOCATION, (3) CONTEXT/ATTENTION, and (4) CAUSAL INFERENCE LEVEL.
+
+
+Keep the provisional KSV-0.1 = [FIELD, CLOCK, SURFACE, WITHDRAWAL] unchanged. Bodily salience remains an OUTCOME; contact motion remains an exposure/diagnostic; visual access and task framing are moderators. Do not promote any of them into a compositional state variable without replicated incremental value.
+
+
+Permanent rules:
+
+
+A BODY MAP IS NOT AN ACCELEROMETER MAP.
+
+
+A NULL SENSOR CHANNEL IS A LIMITED PHYSICAL RESULT, NOT A VERDICT ON EXPERIENCE.
+
+
+ASK WHAT THE LISTENER FELT BEFORE TELLING THEM WHAT THEY SHOULD FEEL.
+
+
+SEPARATE ACOUSTIC, MECHANICAL, CONTEXTUAL, AND PERCEPTUAL TIMELINES.
+
+
+A PHYSIOLOGICAL CORRELATE IS NOT A THERAPEUTIC OUTCOME.
+
+
+26. CORE KLAAT — NO ADDED PERFORMANCE INSTRUMENT
+
+
+Amastacia remains the Drone / continuous Field; Ankora remains the Pulse / discrete Event. Breath, repetition, silence, duration, room, and the listener's body remain the performance's real materials. Microphones, accelerometers, video and body silhouettes are tools for investigating the human-played event, not additional musical voices. The aim remains activation rather than sedation, but the kind and evidence of activation must be stated precisely.
+
+
+27. KRX-069 — THE SOMATIC ATTRIBUTION CROSSOVER TEST
+
+
+GOAL: Test whether KLAAT-related bodily reports require reliably measurable support vibration and how those reports change with presentation context and attention.
+
+
+PREPARATION: Record one human-performed, four-phase Amastacia + Ankora excerpt (about 8–12 minutes), preserving Ground Anchor, Threshold Gate, Rising Pulse, and Return Path. Measure the actual Ankora timing and audio level; do not synthesize a replacement performance. Choose comfortable safe playback levels.
+
+
+CONDITION A — AUDIO-FOCUSED PLAYBACK: Present the same recording over calibrated, comfortable headphones in a quiet setting with ordinary seating. Monitor seat/floor acceleration where feasible. Ask for broad musical-change reports first; only afterward ask about bodily sensations.
+
+
+CONDITION B — BODY-FOCUSED PLAYBACK: Present the identical recording and level under comparable conditions, but ask listeners to track bodily location and quality. Counterbalance A/B order across listeners, include a rest interval, and acknowledge that repeating the excerpt introduces familiarity/adaptation.
+
+
+CONDITION C — OPTIONAL VISUAL CONTEXT: On a separate block, show a synchronized video of Paul's actual performance while using the same recorded audio and level. Compare with audio-only playback. This isolates visual access more cleanly than comparing live performance against headphones, though display conditions and expectancy still matter.
+
+
+MEASURES: Preserve synchronized audio level/spectrum; contact-sensor noise floor and any detected motion; listener's own words; post-excerpt body silhouette; distinct ratings of vibration, pressure/fullness, warmth, chills, urge to move, emotional intensity, and activation; selected perceived phase transitions; prior familiarity; and task/order.
+
+
+CONTROL: Avoid labeling a passage as “healing,” “resonance in the chest,” or “trance-inducing.” Don't tell listeners the predicted bodily location. If using headphones, do not claim that all mechanical stimulation has been eliminated. Do not introduce additional vibration devices to make a desired effect appear.
+
+
+ANALYSIS: Compare within-listener A vs B, then audio-only vs optional audiovisual presentation. Separate the proportion reporting bodily changes from the intensity and location of those changes. Examine whether reports cluster near Ankora entry, high Surface Pressure, earned omissions, and Return Path, while checking actual acoustic level and contact motion. Treat any associations as preliminary unless they replicate in new listeners/excerpts.
+
+
+DECISION RULE: If listeners repeatedly report meaningful bodily experience under conditions with no reliably detected support-motion change, retain AUDITORY/CONTEXTUAL EMBODIMENT as an explanatory research path and stop equating bodily salience with contact acceleration. If bodily reports are consistently strongest where contact vibration is measurable, test that pathway directly in a later controlled experiment. If task framing changes reports, preserve attention as a moderator rather than calling one condition more “real.”
+
+
+THE DECISIVE QUESTION:
+
+
+WHEN PEOPLE SAY THAT AMASTACIA AND ANKORA ARE “IN THE BODY,” HOW MUCH OF THAT REPORT TRACKS MEASURABLE CONTACT MOTION, HOW MUCH TRACKS THE SOUND'S TEMPORAL/ACOUSTIC STRUCTURE, AND HOW MUCH CHANGES WITH ATTENTION AND PERFORMANCE CONTEXT?
+
+
+A single pilot will not identify every mechanism. It will tell KLAAT which explanations deserve more rigorous testing and which claims must remain off-limits.
+
+
+PRIMARY SOURCES / LINKS
+
+
+Putkinen V, Zhou X, Gan X, Yang L, Becker B, Sams M, Nummenmaa L. Bodily maps of musical sensations across cultures. PNAS. 2024;121(5):e2308859121. DOI: 10.1073/pnas.2308859121. https://pubmed.ncbi.nlm.nih.gov/38271338/
+
+
+Wilson EC, Reed CM, Braida LD. Integration of auditory and vibrotactile stimuli: effects of phase and stimulus-onset asynchrony. JASA. 2009. DOI: 10.1121/1.3204305. https://pubmed.ncbi.nlm.nih.gov/19813808/
+
+
+Verma T, Aker SC, Marozeau J. Effect of Vibrotactile Stimulation on Auditory Timbre Perception for Normal-Hearing Listeners and Cochlear-Implant Users. Trends in Hearing. 2023. DOI: 10.1177/23312165221138390. https://journals.sagepub.com/doi/abs/10.1177/23312165221138390
+
+
+Merrill J, Omigie D, Wald-Fuhrmann M. Locus of emotion influences psychophysiological reactions to music. PLOS ONE. 2020. DOI: 10.1371/journal.pone.0237641. https://doi.org/10.1371/journal.pone.0237641
+
+
+Krahé C, Hahn U, Whitney K. Is seeing (musical) believing? The eye versus the ear in emotional responses to music. Psychology of Music. 2015;43(1):140–148. DOI: 10.1177/0305735613498920. https://livrepository.liverpool.ac.uk/3038480/
+
+
+Bannister S. Suppressing the Chills: Effects of Musical Manipulation on the Chills Response. Frontiers in Psychology. 2018. DOI: 10.3389/fpsyg.2018.02046. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02046/full
+
+
+INTERNAL PROVENANCE
+KLAAT Session 68 — Multi-Input Validity Gate; Session 61 — spatial audience field; Session 62 — frequency-range gate; Session 63 — listener temporal baseline; Session 64 — predictive temporal grammar; Session 65 — blind architecture; Session 66 — KSV-0.1; Session 67 — two-speed gate. Hourly Research latest note: 2026-10-05 18:33 CDT. No newer hourly note found at publication.
+
+
+NEXT UNRESOLVED DIRECTION
+If somatic reports persist without detected support motion, test auditory structure, context and listener differences in a factorial design that can separate sound-level effects from expectation. If contact motion appears predictive, test its incremental effect with actual physical isolation and matched auditory exposure. Either direction should feed the KLAAT Somatic Attribution protocol without expanding the core instrumentation.
+
+
+END OF SESSION 69

@@ -1,0 +1,296 @@
+KLAAT RESONANCE RESEARCH — SESSION 85
+THE MIND CAN WANDER WITHOUT LEAVING THE MUSIC
+Musical absorption, inner imagery, and task focus are not one attentional state
+Published: 2026-10-13, evening (America/Chicago)
+Guiding principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+CENTRAL FINDING
+
+
+KLAAT does not need to hold every listener's attention in the same way to matter. A person sitting with Amastacia and Ankora may attend closely to each sound, become absorbed in images and thoughts stimulated by the sound, or drift into unrelated concerns. A person using the same recording while drawing, walking, or doing routine work may experience the music as a source of energy without treating it as the focus of attention. These are not interchangeable experiences. Nor does every departure from conscious attention to the music mean the listener is bored or disconnected.
+
+
+The strongest unresolved direction after Session 84 is not another prescription for managing repetition. It is a measurement problem with direct artistic consequences: when listeners say KLAAT was immersive, energizing, distracting, or transporting, WHERE WAS THEIR ATTENTION? Existing primary research reveals an instructive apparent contradiction. Preferred background music can reduce off-task mind-wandering during simple vigilance work, while ambient concerts can provoke abundant internally generated imagery and wandering thoughts. The difference may reflect the task, the meaning of "wandering," the music, the audience, and the measurement—not a contradiction that needs to be flattened into one rule.
+
+
+GOVERNING PROPOSITION: THE LISTENER MAY BE WITH THE MUSIC WITHOUT CONTINUOUSLY THINKING ABOUT THE MUSIC.
+
+
+1. WHY THIS IS THE NEXT QUESTION
+
+
+Session 79 separated Paul's performer flow from a listener's experience. Sessions 80–83 separated recorded signal, playback, breath mechanics, and perceived continuity. Session 84 distinguished repeated exposure, habituation, appreciat
+
+
+ion, and everyday listening. Together they make one assumption untenable: attention can no longer be represented as a single quantity that simply rises when KLAAT is working and falls when it is not.
+
+
+Imagine two genuine reports from the same 12-minute take. Listener A says, "I heard every change in the drone and lost track of everything else." Listener B says, "I saw a strange landscape, thought about my life, and barely remember individual drum strikes." Both might report profound absorption. Listener C says, "I got through a dull task and felt more awake." Listener D says, "The drum pulled me away from a difficult paragraph." The music has not necessarily changed. The attentional situation has.
+
+
+The research should classify these experiences before it ranks them. It should not instruct Paul to play more smoothly, add novelty, maintain an ideal BPM, or arrange a mandatory journey. The sound already exists as an evolving, spontaneous practice. We are learning to describe what listeners do with it.
+
+
+2. FOUR DIFFERENT ATTENTIONAL OUTCOMES
+
+
+FOCUSED MUSICAL ATTENTION: A listener deliberately follows Amastacia's breath, harmonic movement, Ankora's attack spacing, and the relationship between the two. They may be analytical or intensely receptive.
+
+
+MUSIC-EVOKED INNER EXPERIENCE: A listener follows images, memories, emotions, bodily impressions, or imaginative scenes prompted by the music. Attention may alternate between the acoustic world and the inner world. This is not necessarily disengagement.
+
+
+TASK-FOCUSED BACKGROUND LISTENING: A listener performs another activity and uses KLAAT as a preferred acoustic context. The listener may hear little consciously yet experience changes in mood, arousal, or task engagement. Such changes must be measured, not assumed.
+
+
+UNRELATED DISTRACTION: Attention moves toward worries, planning, unrelated thoughts, noises, or competing demands in ways the listener did not want. This can coexist with music playing and even with positive judgments about the music.
+
+
+These are working categories, not mutually exclusive neurological compartments. People can switch rapidly or inhabit mixed states. A single post-listening question—"Were you absorbed?"—cannot tell them apart.
+
+
+3. THE MOST KLAAT-ADJACENT LIVE STUDY
+
+
+Deil and colleagues studied 43 respondents after two experimental/ambient concerts at Berlin's CTM Festival: 21 attended a Deathprod performance and 22 attended Jacob Kirkegaard. This is unusually relevant because one concert featured approximately 50 minutes of continuous drone, low bass, silence, and forceful sound interruptions. It is closer in listening ecology to KLAAT than a typical 20-second pop-music excerpt, although it remains electronically produced and contextually different from an agave didgeridoo and elk-hide drum.
+
+
+The study found that 83% of respondents to a GENERAL question reported regular-to-very-regular mind-wandering during live music events. This figure must not be misreported as 83% of people mind-wandering during the specific CTM performance. For the concert itself, the mean visual-imagery rating was 5.00 on a seven-point scale (n=40); the mean music-focused-thought rating was 4.69 (n=42); and the mean unrelated-thought rating was 4.52 (n=42). These descriptive differences were not statistically significant. Reported spontaneous mind-wandering exceeded deliberate mind-wandering. In the subset with before/after mood data, inspiration increased and stress/nervousness decreased.
+
+
+Crucial limitations: 13 of the 43 questionnaires were incomplete; the survey was retrospective; the two concerts differed; the venue was a former crematorium with atmospheric lighting; some sound content was dark or disturbing; attendees were self-selected. The authors' operational definition grouped visual imagery with mind-wandering. Thus, the data support the coexistence of ambient-music listening and inner mentation, not a causal claim that drone sound improves mental health or induces trance. [S1]
+
+
+For KLAAT, the most useful lesson is methodological: a listener who sees an inner landscape may be participating in the experience rather than failing to pay attention. We should ask WHAT the mind was doing and whether that experience was welcomed.
+
+
+4. THE APPARENT OPPOSITE: MUSIC THAT KEEPS PEOPLE ON TASK
+
+
+Kiss and Linnell (2024) ran two online experiments in which participants who normally used background music for attention-demanding activities performed a vigilance task at home. The comparisons were self-chosen background music versus relative silence, and self-chosen music plus environmental noise versus noise alone. Across the experiments, music was associated with fewer self-reported mind-wandering states and more task-focused states, faster reaction times, and increases in positive mood and subjective arousal. External distraction also increased in some analyses. The researchers' mediation models were consistent with mood and arousal contributing to the attentional changes, but statistical mediation alone does not prove the biological pathway. [S2]
+
+
+This is not evidence that KLAAT will improve office performance. Participants selected music they already preferred; the task was simple vigilance, not reading or writing; and participants were accustomed to music during such tasks. Still, it supplies an important possibility for KLAAT's daily-life identity: an enjoyable, energizing sonic environment may reduce one kind of unhelpful drift during monotonous work even while drawing some attention toward itself.
+
+
+A related 2024 experiment by Kiss, Szikora, and Linnell tested 39 students using a vigilance task and pupillometry. Preferred music increased a pupil-based measure associated with arousal, and arousal statistically mediated the shift toward task focus. Pupil size is not a direct meter of dopamine, autonomic benefit, or KLAAT-induced activation. It is a physiological index influenced by many factors, including light and cognitive effort. Nevertheless, the study adds an objective measure to the self-report evidence. [S3]
+
+
+5. HOW BOTH FINDINGS CAN BE TRUE
+
+
+The two experimental settings ask different questions. During an ambient concert, there may be no external task from which thought can wander. Music-evoked images may be an intended or welcome part of listening. During a vigilance test, thoughts unrelated to the required task are scored as off-task, whether or not they are pleasant. An inner image during a KLAAT concert and a wandering thought during a reaction-time task can therefore be categorized differently even if both arise during music.
+
+
+The measurement methods also differ. The ambient-concert study asked people afterward to reconstruct an experience. The vigilance experiments interrupted work with thought probes and classified current attentional states. Retrospective reports can overrepresent memorable images and salient emotional moments; frequent probes can disrupt the very absorption one hopes to measure. Neither method is universally superior.
+
+
+This is a generalizable methodological warning: A MEASURE OF TASK FOCUS IS NOT A MEASURE OF MUSICAL ABSORPTION, AND A MEASURE OF MUSICAL IMAGERY IS NOT A MEASURE OF TASK FAILURE.
+
+
+6. INNER IMAGERY IS NOT A NEUROLOGICAL DIAGNOSIS
+
+
+In a 2021 ten-day experience-sampling study, Taruffi collected smartphone reports from 26 participants during personal music listening and other everyday activities. The music playlist had been selected to elicit positive, relaxing emotions. Music-evoked emotions predicted the valence of participants' thoughts, while several characteristics of mind-wandering resembled non-music contexts. This is useful ecological evidence that the emotional tone of a musical context can relate to thought content. It does not establish that music caused every thought or that KLAAT will evoke positive imagery. [S4]
+
+
+A 2019 experiment by Koelsch and colleagues presented heroic- and sad-sounding music to 62 people. Thought probes showed that music category was associated with the emotional content of spontaneous thoughts: heroic music tended to elicit more empowering, motivating content, and sad music calmer or more demotivating content. These are context- and stimulus-specific associations. KLAAT's ritual/archaeosonic aesthetic should not be labeled "heroic" or "sad" simply to borrow the results. [S5]
+
+
+A listener might report desert imagery, a sense of an ancient site, movement through darkness, a memory, or nothing visual at all. The report is valid as a subjective experience. It is not evidence of shared visions, externally transmitted symbols, or a specific brainwave frequency.
+
+
+7. AN IMPORTANT THIRD POSSIBILITY: ABSORPTION MAY HELP SOME ACTIONS
+
+
+A 2021 study titled "Manual motor reaction while being absorbed into popular music" compared a simple visual choice-reaction task with listening to music at tempos spanning roughly 80–140 BPM. Across three experiments, associations between reported musical absorption or flow and reaction speed varied by experimental context. In two settings, greater absorption was associated with slightly faster manual reactions; in a third, flow rather than absorption alone predicted the effect. Tempo itself did not reliably predict reaction time. [S6]
+
+
+This is not proof that immersion boosts all performance. It challenges a simplistic assumption that attention directed toward music must always subtract from action. Depending on task and listener, music may coexist with—or interfere with—ongoing activity. The effect sizes and task specificity matter more than any general "flow enhancement" slogan.
+
+
+For KLAAT, the provisional 137-BPM calibration cannot be promoted into a performance prescription or productivity target. The actual spontaneous beat, its subdivisions, and the listener's perceived meter vary; the study did not test KLAAT.
+
+
+8. THE COUNTEREVIDENCE: MUSIC CAN BE A REAL DISTRACTION
+
+
+A 2023 experiment series by Souza and Barbosa compared silence, instrumental lo-fi music, and music with lyrics during verbal memory, visual memory, reading comprehension, and arithmetic tasks. Lyrical music impaired several memory and reading outcomes, with effects around d=-0.3 in reported comparisons; instrumental music did not credibly help or harm the tested performance measures. Participants sometimes felt the instrumental music was beneficial despite no credible objective advantage. [S7]
+
+
+Four self-paced reading experiments published in 2024 similarly found that lyrical music often slowed reading, whereas matched instrumental versions had little or sometimes slightly beneficial effects on reading time. [S8]
+
+
+KLAAT contains no lyrics in the conventional sense, which may avoid one source of verbal competition. But this does NOT establish that its rough breath textures, dynamic frame-drum strikes, or low-frequency drone are cognitively neutral. Instrumental does not mean nondistracting; loudness, novelty, preference, task difficulty, and listener differences remain relevant.
+
+
+An important artistic consequence follows: the same passage that is thrilling during intentional listening could interrupt a complex writing task. That is not an artistic defect. A powerful sound can command attention; a person trying to read may prefer a less salient environment. KLAAT can be both an immersive artwork and an energizing soundtrack without guaranteeing universal compatibility with every activity.
+
+
+9. WHAT AMASTACIA CONTRIBUTES TO THESE ATTENTIONAL PATHS
+
+
+Amastacia's sustained C# drone supplies a persistent acoustic object. Her breath-shaped amplitude, harmonic emphasis, buzz, noise, and subtle fluctuations can support several listening modes. In focused listening, those details may become objects of attention. In imaginative listening, the same sound may become an atmospheric foundation for internally generated scenes. In everyday activity, the drone may form a stable auditory backdrop, but an unusually conspicuous harmonic gesture may pull attention away from a task.
+
+
+Nothing in this reasoning requires the drone to be acoustically uniform. Its human irregularities may be important. Nor does it require the listener to identify the C# pitch. We still lack a measured Amastacia fundamental/octave and a controlled demonstration of any pitch-specific effect. The claim concerns a recognizable, continuous sound source, not a privileged frequency.
+
+
+Circular breathing adds another distinction. Paul's physical inhalation, the audible transition, and a listener's respiratory response were separated in Session 82. The current session adds a fourth: the listener's ATTENTIONAL interpretation of the breath. A barely audible transition might be ignored, detected as a fascinating detail, or interpreted as part of a living presence. None of those reports directly measures respiratory coupling.
+
+
+10. WHAT ANKORA CONTRIBUTES
+
+
+Ankora's elk-hide attacks supply discrete temporal events, accents, decays, and physical-sounding impact. Repetition may make her pattern predictable; subdivisions and microtiming may remain interesting without altering the underlying pulse. For an attentive listener, those events may organize expectation. For someone drawing or walking, the pulse may provide a sense of momentum. For someone trying to read difficult prose, a strong strike may become an involuntary attentional capture.
+
+
+We should not assume the same strike creates the same attentional event across listeners. Loudness, playback, room response, familiarity, current task, and personal preference all matter. Sessions 77–78 asked whether Ankora's Clock remains recoverable under increasing activity. Session 85 asks a different question: what does the listener DO with a recoverable Clock? Track it consciously, move with it, let it recede, or use it as a background context?
+
+
+11. THE RELATIONSHIP BETWEEN THE TWO INSTRUMENTS
+
+
+Amastacia and Ankora create an unusual combination of sustained and punctuated sound. That relationship may permit attention to move among scales: a slowly evolving harmonic field, a recurrent pulse, an individual attack, a breath change, or an imagined environment spanning minutes. This is a plausible account of why the same take can sustain different forms of engagement. It has not been measured in KLAAT.
+
+
+The hypothesis is not that a listener's brain becomes locked to a universal frequency. Acoustic pulse rates, spectral modulation, neural activity, subjective urgency, and motor impulses are different observables. The present research focuses on reported attention and behavior. Any neural explanation would require additional instruments and appropriate controls.
+
+
+12. HOW THE FOUR-PHASE VOCABULARY CAN HELP WITHOUT BECOMING A SCORE
+
+
+Ground Anchor, Threshold Gate, Rising Pulse, and Return Path remain useful names for naturally occurring aspects of the experience, but they are not compulsory sections.
+
+
+A passage retrospectively described as Ground Anchor may support acoustic orientation, daydreaming, or close attention to Amastacia. A naturally emerging Threshold Gate may coincide with Ankora becoming perceptually salient, but listeners may notice it at different moments. A Rising Pulse may increase alertness, invite movement, or distract from an external task; those are competing outcomes to observe. A Return Path may release attention back to the room, allow an inner image to continue, or simply mark the end of a musical gesture.
+
+
+If a recording never fits those categories, do not force it into them. The artistic world is older and larger than the vocabulary. The research must be able to discover a different attentional trajectory.
+
+
+13. WHY WE SHOULD NOT INTERRUPT EVERYONE WITH QUESTIONS
+
+
+The most direct way to measure attentional state is to ask at unpredictable times: "What were you just attending to?" But probes interrupt listening. A person who might otherwise drift into a rich, uninterrupted inner experience may become self-conscious and analytical after the first beep. Conversely, waiting until the end introduces recall bias. There is no cost-free measurement.
+
+
+For an initial KLAAT pilot, prioritize the actual experience. Use an uninterrupted first listen and an immediate, neutral report. Only on a separate hearing, and only if desired, introduce occasional thought probes. Do not compare the two as though probing itself has no effect. A KLAAT research design must protect the very phenomenon it seeks to understand.
+
+
+14. THE ATTENTIONAL ECOLOGY MODEL
+
+
+The proposed model has three independent axes:
+
+
+A. TARGET OF ATTENTION — sound itself / music-evoked imagery and thought / an external task / unrelated distractions.
+B. QUALITY OF EXPERIENCE — welcome and engaging / neutral / intrusive or unpleasant.
+C. FUNCTIONAL CONTEXT — focused listening / creative activity / routine activity / demanding cognitive work / movement or exercise.
+
+
+These axes are descriptive. They are not a new compositional state vector and not a validated psychometric scale. A listener can move between categories; multiple categories may apply simultaneously. The model exists to prevent misleading statements such as "mind-wandering means failure" or "more absorption means better concentration."
+
+
+The provisional KSV-0.1 variables (Field Stability, Clock Strength, Surface Pressure, Withdrawal) can remain retrospective acoustic/perceptual descriptors when useful. They do not substitute for the listener's own account and they are not directions to compose.
+
+
+15. ESTABLISHED EVIDENCE
+
+
+Controlled studies show that music can alter reported thought content, attentional state, mood, and certain task outcomes in defined contexts. In ambient concerts, respondents frequently report visual imagery and mind-wandering; in preferred-background-music vigilance experiments, music can coincide with less task-unrelated wandering and more task focus. Pupillometry adds evidence of changes in a physiological correlate of arousal during preferred background music. Some instrumental music conditions produce little measurable cognitive effect, while lyrics can interfere with language and memory tasks. These findings are real but narrower than the statement "music increases focus" or "music causes trance."
+
+
+16. CONTEXT-DEPENDENT EVIDENCE
+
+
+The apparent direction of the effect depends on whether attention is directed toward the music, an external task, or inner imagery; whether music is preferred; whether listeners are accustomed to background music; the demands of the task; the acoustic stimulus; the social and visual environment; and the measurement technique. An ambient concert in a former crematorium, a home vigilance test, and an unedited KLAAT recording played while drawing are not interchangeable experiments.
+
+
+The findings also depend on how researchers define mind-wandering. Treating music-related imagery as wandering can make an immersive concert appear attentionally unfocused even when listeners consider the experience successful. Counting task-unrelated thoughts during a vigilance task answers a different question.
+
+
+17. PLAUSIBLE AND TESTABLE KLAAT HYPOTHESES
+
+
+H1. During uninterrupted focused KLAAT listening, some listeners may report high absorption with frequent music-evoked imagery rather than continuous attention to individual sounds.
+
+
+H2. The same unedited recording may reduce unwanted mind-wandering during a low-demand, repetitive activity for some listeners, while offering no benefit or becoming distracting during difficult reading or writing.
+
+
+H3. Ankora's perceptually salient attacks may increase felt energy but also cause momentary task distraction; these two effects may coexist.
+
+
+H4. Amastacia's sustained, breath-shaped Field may support a sense of continuity across shifts between musical attention and inner imagery, but this does not imply physiological synchronization.
+
+
+H5. Familiarity may change the distribution of attention over repeated listens: early attention may favor gross pulse and drone identity, while later attention may notice microtiming and breath grain or drift into richer imagery. This extends Session 84 but requires actual listener reports.
+
+
+H6. A listener may value KLAAT differently in focused listening and daily-life listening without changing their overall liking of the music. No KLAAT-specific data currently establish any of these hypotheses.
+
+
+18. SPECULATION
+
+
+KLAAT's distinctive atmosphere may invite a form of "anchored wandering": the listener's imagination ranges widely while Amastacia and Ankora remain a stable reference point. That phrase is an artistic research label, not an accepted neurological category. The ancient/ritual/archaeosonic identity might bias the content of imagery, especially when visuals or project descriptions are supplied. A future blinded comparison of audio-only listening versus audio plus visual identity could examine this. For now, these are possibilities, not facts.
+
+
+19. UNSUPPORTED CLAIMS
+
+
+It would be unsupported to claim that KLAAT suppresses the default-mode network, induces theta, reliably produces trance, treats anxiety, improves work productivity, raises dopamine, regulates breathing, or causes specific visions. A pupil-based arousal result from other music is not a KLAAT biomarker. A vivid inner image is not evidence of a shared external event. A listener's sense of bodily energy is not proof of tissue resonance. Neither C# nor approximately 137 BPM has demonstrated special therapeutic status. A quiet listener may be intensely involved, distracted, sleepy, or merely still; appearance alone cannot distinguish those states.
+
+
+20. THE CONTRADICTION WORTH KEEPING
+
+
+The most important scientific result is not a single directional effect. Ambient music can accompany wandering thoughts that feel integral to the experience; preferred background music can help some people maintain attention to a boring external task; and other background music can interfere with difficult cognitive work. These are not mutually exclusive. They describe different uses of music, different listeners, and different outcomes. KLAAT should not optimize for one by sacrificing the others before it has listener data.
+
+
+21. METHODOLOGY UPDATE — THE ATTENTIONAL-TARGET GATE
+
+
+Before a future KLAAT report says "absorption increased" or "focus improved," it must name the target: focus on sound, internally generated imagery, or an external activity. It must distinguish enjoyment from task accuracy, felt activation from physiological arousal, spontaneous imagery from unwanted distraction, and reported trance-like experience from neural evidence. Preserve the unedited take and playback metadata. Ask neutral questions before offering categories. Record whether the listener knew the KLAAT aesthetic beforehand. Keep Paul free to play instinctively.
+
+
+A useful evidence ladder is: (1) authentic sound recorded; (2) listener describes experience; (3) repeated listeners show a reproducible pattern; (4) a comparison condition tests an alternative explanation; (5) physiological or neural mechanisms are investigated separately if warranted. Jumping from (2) to (5) would overstate the science.
+
+
+22. RESEARCH PRIORITY
+
+
+The program's current bottleneck is no longer lack of plausible mechanisms. It is lack of paired KLAAT-specific sound and listener observations. The strongest near-term work is to identify one genuine, unedited 8–15-minute recording, preserve its capture chain, and ask a small group what happens during uninterrupted listening. Their actual language should shape the next questions. The 66-second September recording remains useful for calibration but is too short to represent many long-form attentional transitions.
+
+
+The available ChatGPT Library Hourly Research folder was checked before this session. Its newest listed note remains October 5, 2026 at 18:33 CDT; no new hourly notes were found since Session 84. All hourly notes remain untouched. The Master Instructions, Curriculum Index, Research Ledger and Session Corpus through Session 84 were consulted. Previously queued incomplete Session 80 and 82 Corpus mirroring are separate provenance issues; they do not justify delaying new canonical publication.
+
+
+23. ONE OPTIONAL KLAAT OBSERVATION — KRX-085, WHERE DID YOUR MIND GO?
+
+
+Choose one authentic, unedited KLAAT recording of about 8–15 minutes with Amastacia and Ankora. Do not play differently or add an arrangement for the experiment. Invite three to six willing listeners. Each hears the recording once, uninterrupted, at a comfortable level, preferably without prior explanation of what they "should" experience. Immediately afterward, ask only: "What happened for you while you listened?" and "Where did your attention go?" Then, if they wish, invite them to mark which experiences occurred: attention to sound; images or memories connected to sound; unrelated thoughts; felt energy or urge to move; boredom or discomfort; and any mixture. Ask which experiences they welcomed. Do not require a single category.
+
+
+For people who already use music during ordinary activity, a separate optional note can record whether they would choose this exact take for drawing, walking, routine work, focused listening, or none of these. Do not ask anyone to drive while participating in an attention experiment. Do not claim performance improvement without a task measure. A three-to-six-person sample is exploratory, not representative. Retrospective reporting misses moment-to-moment transitions, but it protects uninterrupted listening. If a second hearing later includes thought probes, record that the measurement method changed.
+
+
+DECISIVE QUESTION: WHEN KLAAT OPENS A SPACE FOR THE MIND, DOES THE LISTENER STAY WITH THE SOUND, TRAVEL THROUGH IT, USE IT TO ACT, OR LEAVE IT—AND WHICH OF THOSE EXPERIENCES DO THEY ACTUALLY VALUE?
+
+
+PRIMARY RESEARCH SOURCES AND PROVENANCE
+
+
+[S1] Deil, J., et al. (online 2022; journal 2023). Mind-wandering during contemporary live music: An exploratory study. Musicae Scientiae 27(3). n=43, two ambient concerts. DOI 10.1177/10298649221103210. https://doi.org/10.1177/10298649221103210
+[S2] Kiss, L., & Linnell, K. J. (2024). The role of mood and arousal in the effect of background music on attentional state and performance during a sustained attention task. Scientific Reports 14:9485. Two home-based online experiments. DOI 10.1038/s41598-024-60218-z. https://doi.org/10.1038/s41598-024-60218-z (Reference-URL correction May 13 2024, DOI 10.1038/s41598-024-61470-z.)
+[S3] Kiss, L., Szikora, B., & Linnell, K. J. (2024). Music in the eye of the beholder: a pupillometric study on preferred background music, attentional state, and arousal. Psychological Research 88:1616–1628. n=39. DOI 10.1007/s00426-024-01963-8. https://doi.org/10.1007/s00426-024-01963-8
+[S4] Taruffi, L. (2021). Mind-Wandering during Personal Music Listening in Everyday Life: Music-Evoked Emotions Predict Thought Valence. IJERPH 18(23):12321. n=26, 10 days. DOI 10.3390/ijerph182312321. https://doi.org/10.3390/ijerph182312321
+[S5] Koelsch, S., et al. (2019). Heroic music stimulates empowering thoughts during mind-wandering. Scientific Reports 9:10317. n=62. DOI 10.1038/s41598-019-46266-w. https://doi.org/10.1038/s41598-019-46266-w
+[S6] Manual motor reaction while being absorbed into popular music (2021). Three experiments, visual choice-reaction tasks and music tempo conditions. PubMed PMID 33636569. https://pubmed.ncbi.nlm.nih.gov/33636569/
+[S7] Souza, A. S., & Barbosa, L. C. L. (2023). Should We Turn off the Music? Music with Lyrics Interferes with Cognitive Tasks. Journal of Cognition 6(1):24. DOI 10.5334/joc.273. https://doi.org/10.5334/joc.273
+[S8] What makes background music distracting? Investigating the role of song lyrics using self-paced reading (2024). Journal of Cognitive Psychology. DOI 10.1080/20445911.2023.2209346. https://doi.org/10.1080/20445911.2023.2209346
+
+
+END OF SESSION 85

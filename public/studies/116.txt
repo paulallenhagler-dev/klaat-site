@@ -1,0 +1,214 @@
+KLAAT RESONANCE RESEARCH — SESSION 116
+THE BREATH THAT MOVES THE HAND
+Respiration, self-initiated movement, and the hidden timing relationships of an improvised drone-and-drum performance
+Published: October 24, 2026 — 08:17 CDT (America/Chicago)
+Governing principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+RESEARCH QUESTION
+
+
+When Paul plays Amastacia and Ankora together, is breathing only the energy supply for the drone, or can the respiratory cycle also subtly influence when the hand chooses to strike? And if breath and striking are coupled, would that necessarily mean Paul is consciously coordinating them, that his pulse is constrained by respiration, or that a listener's breathing follows the same pattern?
+
+
+This session addresses a specific missing distinction in KLAAT: the breath of the PERFORMER can be part of the motor timing system, even when no breath-driven compositional plan exists. That possibility is different from a listener entraining to a beat, a performer learning circular breathing, or a microphone detecting audible breath noise. It is an invitation to understand an existing improvised action, not an instruction to make one.
+
+
+THE NOVELTY GATE
+
+
+The connected Curriculum Index, Research Ledger, Master Instructions, and Session Corpus Volume II were consulted through Session 115; the ChatGPT Library Curation Queue was empty at the beginning of this run. Hourly notes created since Session 115 (October 23, 20:18 through October 24, 07:20 CDT) were checked. Their recent subjects include spectral-context contrast, music-practice schedules, listener early tapping, harmonic-source segregation, Korean ritual individuality, packet-loss concealment, hearing-aid direct/processed interference, and automatic beat-tracker priors. None investigates the phase relationship between Paul's own respiration and the initiation of his Ankora gestures.
+
+
+Session 101 concerns circular-breathing airflow transfer and audible drone continuity; Session 82 concerns breathing continuity and the listener's respiratory independence; Session 57 concerns listener physiology on slower timescales; Session 91 concerns microtiming; Session 79 distinguishes performer flow from listener state. Older hourly notes on respiration concern listener breathing, dual-task automatization, or sound-monitoring feedback. The distinctive problem here is the motor coupling of breath and hand in the SAME performer, with the additional complication that circular breathing separates nasal airflow from the outward flow that maintains the drone. No prior KLAAT study has established this relationship empirically.
+
+
+1. TWO INSTRUMENTS, MORE THAN TWO MOVING SYSTEMS
+
+
+Amastacia sounds because Paul's lips, oral cavity, vocal tract, air supply, and the resonant agave tube interact. Ankora sounds because a hand or implement excites an elk-hide membrane whose motion and radiation depend on strike position, force, contact time, and the room. Both actions are supported by posture and ongoing bodily regulation. The performance is not two isolated mechanisms operating inside a passive body.
+
+
+The tempting oversimplification is to treat Ankora as a clock that the hands control, and Amastacia as a note that the lungs sustain. In practice, the hand, breathing muscles, lips, jaw, trunk, and auditory feedback all operate together. That does not make every rhythmic variation a breath effect. It means respiration is one candidate influence among several on naturally occurring motor decisions.
+
+
+A breath cycle has phases and transitions: inspiration, expiration, sometimes a pause, and in didgeridoo playing the more complex changeover during circular breathing. A strike is an event. These are not the same kind of signal. To ask whether they interact, we must record both independently and establish which particular respiratory variable is relevant. A phone video containing a drum sound and a continuous drone is insufficient to identify the timing of the diaphragm, nasal inspiration, cheek compression, or the exact onset of a strike.
+
+
+2. THE SURPRISING VOLUNTARY-ACTION FINDING
+
+
+Park and colleagues (2020) asked participants to initiate button presses at self-chosen times while respiration and EEG were measured [1]. In one experiment, 20 people made irregular self-paced presses approximately every 8–12 seconds; their mean interval was 11.20 +/- 2.30 seconds. Presses occurred preferentially late in expiration: 19 of 20 participants had mean press phases within the expiratory half of the cycle, and the reported phase-shift permutation test gave p = .0009. Eighteen of the 20 reported no awareness of or strategy involving breath–press coordination.
+
+
+In a second, 32-person voluntary-action task, 30 of 32 participants' mean press phases lay within expiration, again with p = .0009. In a comparison involving externally triggered button presses, respiratory-phase coupling was not significant (p = .32). The study also found respiratory-phase modulation of the EEG readiness potential, a movement-related slow voltage. It did not show that every voluntary movement is triggered by breathing or that the readiness potential measures free will. The paper itself acknowledges that the physiological interpretation of that potential remains debated.
+
+
+This matters because a spontaneous drum strike may be initiated differently from a reaction to an external click. Paul's Ankora playing is not a sequence of isolated button presses, but it does involve freely chosen gestures. A possible respiratory bias need not be conscious. The evidence supports looking for the possibility, not presuming that it exists in KLAAT.
+
+
+3. A 2026 EXTENSION—AND A USEFUL MEASUREMENT WARNING
+
+
+Shibata and Ohira (2026) extended the voluntary-action question beyond one finger movement [2]. Thirty-two adults performed key presses and releases, plus spontaneous elbow flexion and extension. In the Libet-clock analysis, four participants were excluded under the stated behavioral criteria, leaving 28. Across conditions, the authors observed an overall preference for initiating voluntary actions during exhalation. Their state-based comparisons found an exhalation excess over each participant's respiratory-time baseline for self-chosen key presses (t[27] = 3.35, p = .005, d = .63) and releases (t[27] = 3.13, p = .008, d = .59). They did not find robust systematic cardiac-phase coupling.
+
+
+An especially important detail: the average expiratory portion of the cycle lasted longer than inspiration (2.173 versus 1.781 seconds). Simply counting more events during expiration would therefore be misleading: more clock time is available there. The researchers used baseline state proportions and phase-shifted surrogate data to address this problem. They also found that the nasal thermal-airflow signal lagged the respiratory-belt signal by an average of 382.5 milliseconds, with substantial variability. That is not a universal sensor delay; it is a warning that even laboratory respiratory channels can disagree in timing.
+
+
+A future KLAAT recording with a nasal sensor must not align Ankora hits to an uncorrected airflow trace and then declare millisecond-level physiological causality. For context, 382.5 ms is almost the duration of one 157-BPM quarter-note beat, and close to the approximately 438-ms interval associated with a nominal 137-BPM pulse. This comparison illustrates a measurement-scale problem, NOT a measured KLAAT delay or an instruction to play at either tempo.
+
+
+4. THE MUSICIAN STUDY: BREATH AND METER CAN CO-VARY
+
+
+A small experiment by Ebert and colleagues (2002) is particularly relevant because it studied musicians rather than generic laboratory button presses [3]. Six pianists performed the same simple finger exercise at a self-chosen comfortable rate, but with five different notated meters: 3/4, 4/4, 5/4, 6/4, and 7/4. Finger onsets were measured with a recording piano, and nasal respiration with a thermistor.
+
+
+The finger-beat rate remained approximately 3 Hz across trials. Yet the implied metrical grouping rate differed, and the breathing rate during playing averaged 0.38 Hz versus 0.22 Hz at rest (reported p < .05). Ratios of local meter rate to breathing rate tended to cluster near integer relationships; some intervals showed relatively stable phase relations between inspiration and the metrical onset.
+
+
+This does not prove that meter forces breathing to synchronize. The sample was only six; the task used written piano exercises; and a grouping ratio is not evidence of permanent phase locking. But it demonstrates an intriguing possibility: the organization of musical action may be related to respiratory timing even when the rate of individual finger events is largely unchanged.
+
+
+That is a potentially important distinction for Ankora. A sequence of hand strikes may contain recurring groups, accents, and phrases without a deliberate count. If Paul's breathing changes across such a phrase, the event rate, accent grouping, and breath cycle should not be collapsed into one 'BPM.' Nor should an analyst retrospectively label any near-integer ratio a meaningful musical mechanism; chance relationships are common when multiple candidate subdivisions are searched.
+
+
+5. RESPIRATION MAY AFFECT THE HAND DIFFERENTLY DEPENDING ON THE TASK
+
+
+Rassler (2000) studied precision finger flexion and extension in two experiments [4]. Fifteen volunteers performed tracking tasks, while 14 performed spontaneous movements of predefined amplitude. Tracking accuracy showed respiratory-phase effects that differed for flexion and extension. The largest errors occurred near the end of expiration for flexion and near the end of inspiration for extension. Spontaneous flexions tended to begin around breathing-phase transitions, while spontaneous extensions tended to begin in early expiration (12.5–37.5% of expiratory time).
+
+
+A critical point is that the preferred spontaneous movement phases were not necessarily the phases of greatest tracking precision. A body can prefer to initiate a gesture at one phase without that phase maximizing accuracy in a different task. This is precisely why 'strike on the exhale for better timing' would be an unjustified lesson for KLAAT.
+
+
+Li, Park, and Borg (2012) tested 13 adults squeezing in response to visual cues while breathing was deliberately paced at 0.6 Hz, during breath holding, or at rest [5]. Reaction times became slower specifically during the expiratory phase of the paced-breathing condition; breath holding shortened reaction time under the tested conditions. Their interpretation emphasized the added demands of voluntary paced breathing. This differs from Park's self-chosen action initiation and shows that task design changes the direction of apparent benefit.
+
+
+In a larger discrete-movement experiment, Buchanan and Janelle (2021) tested 47 people performing a memory-guided pinch-force pulse under slow, normal, and fast metronome-paced breathing [6]. Faster breathing shortened reaction and movement time but did not differentially improve accuracy or trial-to-trial variability; it also raised reported arousal, hindrance, and dyspnea. 'Faster action' was not equivalent to 'better action.' These controlled tasks cannot predict how naturally coordinated didgeridoo and frame-drum performance will feel or sound.
+
+
+6. A REAL CONTRADICTION: INSPIRATION CAN HELP ONE TASK, EXPIRATION ANOTHER
+
+
+Li and colleagues (2024) examined rhythmic isometric handgrip exercise [7]. Eleven participants performed randomized trials with no specified breath coupling, inspiration-linked grips, or expiration-linked grips. Normalized time to exhaustion was 1.27 +/- 0.23 in the inspiration-coupled condition, compared with 0.82 +/- 0.18 for expiration coupling and 0.91 +/- 0.18 without coupling (reported p < .001). A separate 10-person electrically stimulated movement experiment examined respiratory-phase effects on finger force.
+
+
+This finding does not refute the voluntary-action studies. The endpoint was endurance during a repetitive force task, not the moment of self-initiated action or the expressiveness of a drum strike. It does refute any universal statement that exhalation is always the optimal phase for all manual movement. Likewise, a separate 14-person maximal finger-force study by Li and Laskin (2006) reported approximately 10% greater peak flexor force in forced expiration than forced inspiration [8]. Force, endurance, initiation timing, accuracy, and artistic fluency are different outcomes. Different respiratory manipulations can produce different effects.
+
+
+The research therefore points to a FAMILY of respiration–motor interactions, not a single technique to impose on Paul. In one setting exhalation is associated with self-initiated movement; in another, inhalation-coupled repetitive grip lasts longer; in another, fast breathing speeds a response without improving accuracy. Treating all three as a recipe for more powerful drumming would erase the very differences the experiments establish.
+
+
+7. CIRCULAR BREATHING MAKES THE PHYSIOLOGY MORE INTERESTING—AND HARDER TO MEASURE
+
+
+Ordinary inspiration and expiration are not sufficient descriptions of didgeridoo technique. During circular breathing, a player can maintain outward flow through the lips using pressurized air in the mouth while inhaling through the nose. The acoustic drone may remain nearly continuous while the lungs, nasal passages, cheeks, tongue, soft palate, and lips briefly perform different jobs. The 2015 imaging study discussed in Session 101 is relevant to that two-pump transfer [9], but it did not investigate Ankora or any KLAAT performance.
+
+
+This creates at least four separate clocks or event streams: (A) nasal inhalation and exhalation; (B) thoracic/abdominal breathing movement; (C) oral-pressure or mouth-reservoir changeovers that support the drone; and (D) Ankora strike onsets and groupings. The first two are not guaranteed to share an identical phase trace during circular breathing; the third is a technique event rather than an ordinary respiratory-cycle boundary; the fourth is a musical action, not a breath sensor.
+
+
+An analyst listening to a continuous C#-centered drone cannot reconstruct all four clocks. Breath noise may be masked, lip-buzz strength may fluctuate for unrelated reasons, and a phone's automatic gain control can reshape the audible envelope. Even if a visible chest movement is detected in a video, frame rate, camera angle, clothing, posture, and delayed acoustic arrival limit inference. A 'smooth drone' is evidence about delivered acoustic continuity, not evidence that nasal inspiration never occurred.
+
+
+There is also a direction-of-causation problem. Breath might influence the hand; the hand or torso movement might perturb breathing; a phrase-level musical decision might organize both; or the same auditory feedback and bodily effort might affect both simultaneously. Correlation between two traces cannot choose among these explanations by itself.
+
+
+8. WHAT WOULD COUNT AS AN ACTUAL KLAAT FINDING?
+
+
+A modest, valid first result might be: 'In three naturally improvised takes, the probability of Ankora phrase-initiation strikes was higher during a particular measured respiratory state than expected from the amount of time spent in that state, after accounting for autocorrelation and uncertainty.' That would be a behavioral/acoustic observation in one performer. It would not show that respiration caused the musical decision, improved the performance, or entrained the listener.
+
+
+A different, equally informative result might be: 'No reproducible breath-phase preference was found; apparent relationships disappeared after correcting for unequal inhale/exhale durations and chance alignment.' This would weaken the simple coupling hypothesis for those recordings, not invalidate the music or prove that respiration has no motor role.
+
+
+A third result could be that changes in breath state align with phrase boundaries but not with individual drum hits. That would suggest a slower relationship between respiration and grouping, not a one-breath-per-beat mechanism. A fourth could be that some naturally occurring circular-breathing handoffs coincide with drum accent changes. This might reflect shared motor effort, an artistic gesture, or mere coincidence; repeated evidence and better sensors would be needed to distinguish them.
+
+
+The design must also protect the distinction between a performed strike and a listener's chosen beat. A beat-tracking algorithm's single smooth BPM curve is not ground truth for the hand. The October 24, 07:20 hourly note makes this exact point about machine tempo priors. If the analysis begins by forcing every Ankora event onto an inferred grid, it may erase the timing variation that could reveal—or refute—breath-related organization.
+
+
+9. HOW TO AVOID FINDING A PATTERN THAT ISN'T THERE
+
+
+A rigorous future analysis should first preserve the unedited recording and its capture metadata. Annotate audible Ankora impacts, uncertainties, and likely phrase beginnings without looking at the breath channel. Record respiration on an independent synchronized channel if and when a comfortable, nonintrusive setup becomes available. Mark obvious circular-breathing changeovers separately from ordinary breathing phase.
+
+
+Then compare observed strike timing with a null model that preserves the number of strikes, local rate changes, the duration of inhalation and exhalation, and the serial dependence of the performance. A simple shuffled timestamp model that destroys every rhythm in the data is too easy to beat. Time-shifting one continuous trace relative to the other by sufficiently large offsets can be a useful surrogate, but the shift range must avoid trivial overlap and account for nonstationary sections. Report sensitivity to different onset and phase definitions, not one attractive p-value.
+
+
+In addition, avoid searching every possible strike category, accent, metrical level, breath landmark, lag, and window until a significant association appears. Such flexibility produces false discoveries. A small preregistered set of questions—for example, phrase-start strikes versus all strikes, nasal inspiration onset versus ordinary expiration, and one or two lag windows—is more interpretable. Since Paul's improvisations are not identical, comparisons across takes should describe heterogeneity rather than forcing a universal motor law.
+
+
+Finally, distinguish the natural performance from an instrumented diagnostic session. A chest belt, nasal cannula, mouth-pressure sensor, camera, or visible timing display might change Paul's attention and technique. It may be better to establish acoustic descriptions from old phone recordings first, then add only a comfortable measurement channel in a separate rehearsal. If the equipment changes the playing, that change is itself a result about measurement reactivity.
+
+
+10. THE PERFORMER IS NOT THE LISTENER
+
+
+This study has no direct evidence that a listener's breathing follows Paul's breathing. A relationship between Paul's respiratory phase and Ankora timing would be a within-performer motor association. A listener's urge to move, perceived activation, deep absorption, and breathing pattern are different outcomes with different causal pathways. Neither an expiratory bias nor an EEG readiness-potential effect in button-press studies establishes KLAAT-induced trance or neural entrainment.
+
+
+It is also possible that a musically compelling passage has no strong measurable breath–hand coupling at all. Spontaneous artistry does not require the body to obey a simple oscillator. Conversely, discovering some coupling would not make the performance less spontaneous. An unnoticed physiological influence and a freely improvised gesture can coexist.
+
+
+The artistic value of this finding is not a new instruction to play during exhalation. It is a more respectful model of technique: the body may contribute timing relationships that Paul does not consciously specify, while Paul retains the authority to decide what feels alive, fluid, and expressive. Science can describe a constraint, affordance, or interaction without turning it into a rule.
+
+
+11. EVIDENCE TIERS AND CLAIM BOUNDARIES
+
+
+ESTABLISHED OUTSIDE KLAAT. Controlled studies report respiratory-phase associations with voluntary action initiation [1,2], respiration-related variation in finger precision and movement timing [4,5], and altered breathing during notated piano performance [3]. Some experiments measured EEG readiness potentials [1]. These are real measured effects in their respective tasks.
+
+
+CONTEXT-DEPENDENT OR CONTRADICTORY. Self-initiated actions and externally triggered responses differ [1]. Finger flexion and extension differ [4]. Voluntary paced breathing can slow a response during expiration [5], while fast breathing can shorten discrete movement time without improving accuracy [6]. Inspiration-linked handgrip endurance can exceed expiration-linked endurance [7], although forced expiration may increase maximal finger flexor force [8]. No single optimal breath phase follows.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT. Natural Ankora phrase starts, accents, or handoff-adjacent gestures might show nonrandom timing relative to independently measured nasal, thoracic, or oral-reservoir events. The effect may be weak, intermittent, absent, or dependent on which movement is counted. The distinction among those outcomes can be tested without writing a score.
+
+
+SPECULATION. The living impression of Amastacia and Ankora may partly reflect breath–hand coordination that develops through practice and bodily familiarity without becoming an explicit mental counting system. This is a conceptual possibility, not a demonstrated motor mechanism or a listener effect.
+
+
+UNSUPPORTED. 'Paul always strikes on exhalation'; 'circular breathing entrains Ankora'; '137 or 184 BPM is biologically privileged'; 'breath-phase alignment causes trance'; 'a performer EEG signature is transmitted to an audience'; 'inhalation or exhalation is universally better for drumming'; 'a phone recording alone reveals diaphragmatic phase'; 'any detected integer breath–beat ratio proves causation'; or 'the research requires a new KLAAT performance structure.'
+
+
+12. THE RESEARCH DIRECTION THAT OPENS NEXT
+
+
+There is a productive sequence here. First, use Paul's existing videos to characterize the audible hand and drone without guessing hidden physiology. Second, if he later wants a comfortable technique-focused rehearsal, measure breathing independently and compare it with a small number of naturally occurring hand events. Third, only if a reproducible performer relationship appears, ask whether any audible signature survives ordinary playback. Fourth, separately ask listeners what they actually experience. Each step answers a different question.
+
+
+The larger contribution is to prevent a seductive but false shortcut: breath-to-hand association is not the same as hand-to-listener synchronization, and neither is a neurological trance state. Yet there is something genuinely intriguing about the possibility that spontaneous drumming and breath-driven drone production share subtle timing tendencies without any composed instruction. That is precisely the kind of phenomenon KLAAT can explore while remaining itself.
+
+
+OPTIONAL KRX-116 — THE UNFORCED HANDOFF OBSERVATION
+
+
+Choose one existing, unedited 2–5-minute phone video when convenient. Listen normally and note only a few clearly audible Ankora phrase beginnings and any unmistakable Amastacia breath-handoff sounds; leave uncertain events unmarked. Do not attempt to infer hidden inhalations or calculate a respiratory phase from the phone audio. If the two kinds of event sometimes appear close together, simply record the approximate timestamps and the uncertainty. If they do not, record that too. No playing change, special sensor, prescribed tempo, audience test, or score is required. The immediate goal is to see whether a future properly synchronized breathing measurement would be worth attempting.
+
+
+PRIMARY RESEARCH AND TECHNICAL SOURCES
+
+
+[1] Park H-D, Barnoud C, Trang H, Kannape OA, Schaller K, Blanke O (2020). Breathing is coupled with voluntary action and the cortical readiness potential. Nature Communications 11:289. DOI 10.1038/s41467-019-13967-9. https://www.nature.com/articles/s41467-019-13967-9
+[2] Shibata H, Ohira H (2026). Respiratory and Cardiac Phase Coupling With Voluntary Actions Across Motor Tasks. Psychophysiology 63(2):e70264. DOI 10.1111/psyp.70264. https://onlinelibrary.wiley.com/doi/10.1111/psyp.70264
+[3] Ebert D, Hefter H, Binkofski F, Freund H-J (2002). Coordination between breathing and mental grouping of pianistic finger movements. Perceptual and Motor Skills 95:339–353. DOI 10.2466/pms.2002.95.2.339. https://pubmed.ncbi.nlm.nih.gov/12434824/
+[4] Rassler B (2000). Mutual nervous influences between breathing and precision finger movements. European Journal of Applied Physiology 81:479–485. DOI 10.1007/s004210050071. https://pubmed.ncbi.nlm.nih.gov/10774871/
+[5] Li S, Park W-H, Borg A (2012). Phase-dependent respiratory-motor interactions in reaction time tasks during rhythmic voluntary breathing. Motor Control 16:493–505. DOI 10.1123/mcj.16.4.493. https://pmc.ncbi.nlm.nih.gov/articles/PMC3545405/
+[6] Buchanan TL, Janelle CM (2021). Fast breathing facilitates reaction time and movement time of a memory-guided force pulse. Human Movement Science 76:102762. DOI 10.1016/j.humov.2021.102762. https://pubmed.ncbi.nlm.nih.gov/33524929/
+[7] Li Z, Li W, Lin P-J, Jia T, Ji L, Li C (2024). Motor–Respiratory Coupling Improves Endurance Performance during Rhythmic Isometric Handgrip Exercise. Medicine & Science in Sports & Exercise 56:536–544. DOI 10.1249/MSS.0000000000003329. https://pubmed.ncbi.nlm.nih.gov/37882076/
+[8] Li S, Laskin JJ (2006). Influences of ventilation on maximal isometric force of the finger flexors. Muscle & Nerve 34:651–655. DOI 10.1002/mus.20592. https://onlinelibrary.wiley.com/doi/10.1002/mus.20592
+[9] Peng et al. (2015). Imaging study of circular-breathing vocal-tract coordination, as critically discussed and cited in KLAAT Session 101. DOI 10.1002/lary.24928. https://doi.org/10.1002/lary.24928
+
+
+SOURCE AND PROVENANCE NOTE
+
+
+Primary full texts or publisher/PubMed abstracts were checked October 24, 2026. Quantitative findings refer to the named experimental samples and tasks, not KLAAT. The connected Master Instructions, Curriculum Index, Research Ledger, Session Corpus Volume II, canonical Session 115, and hourly Library notes created through October 24 at 07:20 CDT were consulted. This is a literature-grounded methodological synthesis. No KLAAT performance recording, independent breath trace, listener response, EEG, autonomic measure, or actual instrument sound spectrum was analyzed for this session. All hourly research notes remain preserved as provenance.
+
+
+END OF SESSION 116

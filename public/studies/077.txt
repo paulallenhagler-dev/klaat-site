@@ -1,0 +1,166 @@
+KLAAT RESONANCE RESEARCH — SESSION 77
+THE ANCHOR MUST SURVIVE THE STORM
+Rhythmic Layers, Recoverable Meter, and the Activation–Absorption Crossover
+Published: October 11, 2026, 8:11 AM CDT
+Evidence status: synthesis and experimental design; no new KLAAT listener results claimed.
+
+
+RESEARCH DIRECTOR'S NOTE
+This session follows Sessions 66–67 (stable Clock versus increasing Surface), 70–71 (prediction, attention, repetition), 73–76 (ecological transfer, event ontology, annotation reliability). It returns to the central artistic objective—activation without losing immersion—because the literature on rhythmic layers supplies a new constraint that the previous measurement sessions did not resolve. The connected Master Instructions, Curriculum Index, Research Ledger, and Session Corpus were consulted. The Library Hourly Research folder was checked: its newest visible file is dated October 5, 2026, 6:33 PM CDT; no notes newer than Session 76 were present. No KLAAT audio, annotator results, or listener ratings were available for this session. Earlier hourly notes remain provenance, not newly generated evidence.
+
+
+CENTRAL PROPOSITION
+THE OBJECTIVE IS NOT TO MAKE ANKORA BUSIER. IT IS TO MAKE THE SURFACE MORE URGENT WHILE THE LISTENER CAN STILL FIND THE CLOCK—AND TO TEST WHETHER THAT COMBINATION PRESERVES ABSORPTION.
+
+
+1. THE UNRESOLVED QUESTION
+KLAAT has proposed that a predictable rhythmic Scaffold can support an increasingly active Surface. This could create an experience of activation rather than sedation without sacrificing the inwardly held, continuous quality of the performance. Yet the program has repeatedly treated three different outcomes as though they naturally travel together: an urge to move, subjective activation, and absorption. They may diverge. A listener can feel energized but distracted; deeply absorbed but calm; or rhythmically engaged without any desire to move. The next experiment must allow all three possibilities.
+
+
+2. WHY THIS TOPIC IS NOW MORE THAN A REPEAT
+Sessions 66 and 67 separated event density from perceived beat speed. Session 71 separated prediction, attention, and repetition. Sessions 73–76 developed the measurement infrastructure. The new advance here is a constraint from a 2025 primary study: the effect of syncopation on pleasurable urge to move changes with the number and roles of rhythmic layers. KLAAT uses a continuous didgeridoo and one frame drum, not a conventional bass-drum/snare/hi-hat arrangement. We cannot simply import a groove curve from multi-layer drum kits and declare that Ankora's subdivisions will produce it.
+
+
+3. THE 2025 RHYTHMIC-LAYER RESULT
+Seeberg, Matthews, Højlund, Vuust, and Petersen (2025) studied pleasurable urge to move to music (PLUMM) in two online studies (n=108 and n=46). They varied syncopation and the instrumentation/layering of drum patterns. The familiar preference for intermediate syncopation was strongest in the fuller bass-drum, snare, and hi-hat arrangements; in some single-instrument conditions the curve became nearly flat. Adding a timekeeping hi-hat could strengthen PLUMM ratings. The authors argue that rhythmic layers, timbre, and metrical roles interact. This is an empirical finding for their particular synthetic drum patterns, not proof that KLAAT needs a hi-hat, an extra instrument, or a fixed meter.
+
+
+4. THE IMPORTANT 2014 RESULT—AND ITS LIMIT
+Witek and colleagues (2014) found an inverted-U relationship between syncopation and reported pleasure/urge to move in funk drum breaks, with medium syncopation often rated highest. It is tempting to convert that into a universal KLAAT formula: add moderate syncopation to Ankora and activation follows. That would be an overreach. The stimulus material, participants, instrumentation, and response measures differ. Furthermore, syncopation and subdivision are not interchangeable. Regular sixteenth-note subdivisions can increase event count while leaving metrical expectation intact; a single accent displaced away from an expected strong beat can alter that expectation without greatly increasing density.
+
+
+5. A USEFUL COUNTEREXAMPLE FROM 2023
+Céspedes-Guevara and Witek (2023) asked 76 participants to listen to drum breaks with differing syncopation while tapping along or remaining still. They did not find a simple affective advantage for instructed movement. The predicted relationships among syncopation, pleasantness, relaxation, and wakefulness were only partly supported. Their results caution against treating movement instruction, ease of synchronization, pleasure, and activation as one variable. For KLAAT, 'I wanted to move' is not a validated proxy for 'I became more activated,' and neither is a direct measure of absorption.
+
+
+6. FLOW IS NOT AUTOMATICALLY ABSORPTION
+Bernardi, Bellemare-Pepin, and Peretz (2018) reported increased flow during spontaneous dancing to groovy music relative to still listening and movement imitation without music. That is valuable evidence that music-plus-spontaneous movement can change reported flow in a particular experimental context. It does not establish that still, eyes-closed KLAAT listeners will experience the same state. KLAAT should use the modest operational term 'reported absorption': sustained attention to the musical experience, reduced distraction, and perceived continuity. Flow, trance, dissociation, and EEG entrainment must not be treated as synonyms for that rating.
+
+
+7. THE THREE OUTPUTS
+Define URGENCY as the felt forward pressure or immediacy of the music. Define ACTIVATION as the listener's self-reported energized or alert quality; physiological activation would require separate validated measures. Define ABSORPTION as the reported continuity and depth of attention to the experience. A fourth variable, CLOCK RECOVERABILITY, describes whether the listener can infer and maintain a stable beat or metrical level. These are separate outcomes. The central KLAAT hypothesis predicts an interesting joint pattern, not an inevitable correlation.
+
+
+8. THE DIFFERENCE BETWEEN A SCAFFOLD AND A TIMEKEEPER
+A hi-hat can provide a repeated, relatively independent timekeeping layer while other drum voices syncopate. Ankora is a single frame drum. Her low accents, rim-area attacks, subdivisions, and timbral differences can create perceptually distinguishable layers, but they share one performer and one physical instrument. They can compete for attention, and maintaining a stable primary beat while filling its intervals may be mechanically difficult. Calling the accents a 'Scaffold' does not prove listeners hear them as such. Clock recoverability must be tested, not presumed.
+
+
+9. AMASTACIA IS NOT A HI-HAT
+Amastacia's C# agave didgeridoo provides continuous harmonic and breath-shaped structure, not a metronomic high-frequency tick. Her sustained Field might help listeners maintain continuity while Ankora grows denser. Or changes in her breath, timbre, and intensity might compete with Ankora's metrical cues. The first possibility is a compositional hypothesis. The second is an equally credible alternative. We should not assign Amastacia a beat-preserving function solely because her sound is continuous.
+
+
+10. CLOCK STRENGTH MUST BE MANIPULABLE
+A 'strong Clock' condition requires Ankora's primary beats to remain audible, temporally regular enough to anticipate, and distinguishable from subdivisions. A 'weak Clock' condition might distribute accents more evenly or obscure the strong beats, while retaining approximately the same overall intended tempo. The latter condition is not necessarily aesthetically inferior. It serves as a controlled contrast to determine whether beat recoverability moderates the effects of density. Because changing accents also changes spectral content and loudness, each condition must be documented acoustically.
+
+
+11. SURFACE DENSITY MUST BE MEASURED, NOT NAMED
+'Rising Pulse' can involve more strikes per unit time, shorter inter-onset intervals, stronger syncopation, more frequent accent changes, or greater attack force. These are different interventions. For the primary test, choose one: regular subdivisions that increase event count while retaining nominal Scaffold BPM. Hold syncopation relatively constant. Only after that effect is measured should accent displacement and omission be added as separate experiments. Otherwise any result becomes uninterpretable.
+
+
+12. WHY MORE DENSITY MAY BREAK THE EXPERIENCE
+Dense strikes may increase urgency but also compete with the listener's internal beat, mask Amastacia's spectral details, change average level, or demand active counting. At a sufficiently high density, listeners may switch metrical level, lose the primary beat, or attend to the surface rather than the larger journey. Another listener may become more absorbed because the density provides a predictable temporal texture. Both directions are testable. There is no scientifically established 'ideal KLAAT density.'
+
+
+13. THE TWO-SPEED CORRECTION REMAINS
+Session 67 showed why the physical event rate and perceived beat tempo must be kept separate. At a provisional 137 BPM, the intended beat interval is approximately 438 ms. Adding subdivisions does not itself change that interval. Some subdivision contexts can even lengthen perceived beat intervals. The experiment should ask separately: How busy did the passage feel? How urgent? How fast did the underlying beat seem? Which beat did the listener tap? Treat half-time (~68.5 BPM) as a valid interpretation rather than a mistake.
+
+
+14. ACOUSTIC LEVEL IS A REAL CONFOUND
+Adding strikes can increase total sound energy even when individual strike force is unchanged. Reducing each strike's force to match average level can change attack timbre and tactile reception. A nominally equal-loudness comparison is not physically identical. Record the tradeoff: calibrated LAeq where available, transient peaks, strike counts, relative levels, and subjective loudness. Do not optimize perceived activation by raising exposure. KLAAT's earlier hearing-conservation rules still apply.
+
+
+15. PERFORMANCE HUMANNESS IS NOT NOISE TO ERASE
+KLAAT's breath and hand timing are integral to its character. The primary experiment should use human-performed takes, not a quantized loop masquerading as Ankora. However, human timing variability must be recorded. A useful design includes multiple naturally performed versions of each condition so that one unusually strong or weak take does not determine the result. A mechanically precise control could be informative later, but would answer a different question.
+
+
+16. GROUND ANCHOR — CONTINUITY BEFORE THE CLOCK
+Ground Anchor establishes Amastacia's Field. It is not an absence of temporal organization: breath and spectral change can still create phrases. Its role in this test is to establish an initial listening context without a discrete Ankora Scaffold. Record Amastacia's major gestures, and avoid suggesting that listeners should feel calm or activated. The Field should be stable enough that the later Clock transition is interpretable, while preserving natural breath-led performance.
+
+
+17. THRESHOLD GATE — CLOCK ACQUISITION
+Ankora begins with sparse, recognizable attacks. The first strike is a physical onset; Clock acquisition is a perceptual process that may require several repetitions. Before increasing density, allow enough cycles for a beat to become recoverable. In the strong-Clock version, preserve clear primary accents. In the weak-Clock version, retain a plausible but less obvious metrical structure. Do not define Clock strength by Paul's intention alone. A separate beat-tapping or beat-identification task is needed to check the manipulation.
+
+
+18. RISING PULSE — THE CRITICAL CROSSOVER
+Here is the central test: increase regular subdivision density while the intended Scaffold tempo remains approximately stable. Compare strong and weak Clock conditions. The key predicted interaction is not 'dense is better.' It is that dense Surface activity might increase urgency while preserving absorption specifically when listeners can recover the Clock. If dense/weak-Clock material produces equal or greater absorption, the hypothesis needs revision. If density raises urgency but lowers absorption even with a strong Clock, KLAAT must decide whether that tradeoff is artistically acceptable rather than pretending it did not occur.
+
+
+19. RETURN PATH — REMOVING SURFACE BEFORE SCAFFOLD
+Reduce subdivisions first while keeping the primary Clock briefly intact. Then allow the Clock itself to recede, leaving Amastacia. This sequence separates withdrawal of surface activity from withdrawal of temporal orientation. Ask whether the listener experiences a return of spaciousness, a release of urgency, or loss of engagement. The sequence may also reveal whether the previously learned Clock persists after Ankora's last strike. That persistence is perceptual, not evidence of ongoing mechanical impact.
+
+
+20. WHAT THE STATE VECTOR CAN AND CANNOT CLAIM
+KSV-0.1 remains [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL]. Session 77 does not add a fifth dimension. Instead, it specifies an interaction: CLOCK STRENGTH × SURFACE PRESSURE may predict the combination of urgency and absorption. The vector is still a proposed compositional/measurement framework. It has not been validated by KLAAT participant data. A model that fails to predict listener reports should be simplified, not protected by more evocative language.
+
+
+21. ESTABLISHED EVIDENCE
+ESTABLISHED — In tested drum-break stimuli, moderate syncopation can produce stronger pleasure and urge-to-move ratings than low or high syncopation (Witek et al., 2014).
+ESTABLISHED — The relationship between syncopation and pleasurable urge to move depends on rhythmic layers and their roles; single-layer versions need not show the same inverted-U curve as fuller arrangements (Seeberg et al., 2025).
+ESTABLISHED — In one controlled study, instructed foot tapping did not reliably increase reported pleasantness, relaxation, or wakefulness relative to remaining still (Céspedes-Guevara & Witek, 2023).
+ESTABLISHED — Spontaneous dancing to groovy excerpts increased reported flow relative to relevant control conditions in one 40-person experiment (Bernardi et al., 2018).
+ESTABLISHED — A physical strike count, a perceived beat, an urge to move, and a reported affective state are distinct measurements.
+
+
+22. CONTEXT-DEPENDENT EVIDENCE
+CONTEXT-DEPENDENT — Most groove studies used Western drum-kit stimuli, often programmed, not a live didgeridoo and frame drum.
+CONTEXT-DEPENDENT — PLUMM is not identical to KLAAT activation or absorption.
+CONTEXT-DEPENDENT — A bass drum and hi-hat can clarify metrical roles in one arrangement; Amastacia cannot be assumed to provide the same cues.
+CONTEXT-DEPENDENT — Listeners may adopt different metrical levels, including half-time, even when the intended tempo is unchanged.
+CONTEXT-DEPENDENT — Repeated listening, familiarity, performer visibility, and instruction to tap can change reports.
+CONTEXT-DEPENDENT — Equal average acoustic level does not guarantee equal transient energy, spectral balance, or tactile sensation.
+
+
+23. PLAUSIBLE AND TESTABLE HYPOTHESES
+PLAUSIBLE/TESTABLE — Increasing regular Ankora subdivisions raises reported urgency more consistently than it raises perceived underlying beat speed.
+PLAUSIBLE/TESTABLE — The urgency increase can occur without a comparable decrease in absorption when Clock recoverability remains high.
+PLAUSIBLE/TESTABLE — Weakening primary metrical cues makes a density increase more likely to disrupt beat confidence and reported continuity.
+PLAUSIBLE/TESTABLE — Amastacia's stable Field moderates the perceived transition, but its effect may be weaker than Ankora's own accents.
+PLAUSIBLE/TESTABLE — The density–absorption relationship varies by listener preference, familiarity, and chosen metrical level.
+PLAUSIBLE/TESTABLE — Returning to a sparse but recoverable Clock before its final withdrawal produces a different Return Path than abruptly stopping dense drumming.
+
+
+24. SPECULATION
+SPECULATION — KLAAT may create a distinctive 'pressurized continuity': increasing rhythmic urgency inside a perceptually stable world.
+SPECULATION — A single frame drum can function as several perceptual layers through differentiated strike placement and accent hierarchy without requiring another instrument.
+SPECULATION — The strongest activation may occur before maximum density, when prediction remains easy enough to sustain immersion.
+SPECULATION — A future notation system could describe a density trajectory relative to Clock recoverability rather than prescribing a fixed BPM or number of strokes.
+
+
+25. UNSUPPORTED CLAIMS
+UNSUPPORTED — A particular Ankora density or 137 BPM is biologically optimal.
+UNSUPPORTED — More subdivisions necessarily induce trance, theta EEG, vagal effects, or therapeutic activation.
+UNSUPPORTED — Moderate syncopation is universally most pleasurable in all music traditions and contexts.
+UNSUPPORTED — Flow ratings during dancing prove absorption in motionless KLAAT listening.
+UNSUPPORTED — A continuous C# drone automatically stabilizes the listener's beat.
+UNSUPPORTED — A stronger urge to move proves stronger autonomic activation.
+UNSUPPORTED — A small positive pilot validates the four-phase architecture or KSV-0.1.
+UNSUPPORTED — A listener's reported bodily intensity proves structure-borne vibration.
+
+
+26. METHODOLOGY UPDATE — THE ACTIVATION–ABSORPTION CROSSOVER GATE
+KLAAT adds a gate before treating Rising Pulse as an effective activation method. The study must separately preserve (a) delivered event density, (b) measured beat/accent organization, (c) listener Clock recoverability, (d) urgency, (e) activation, (f) absorption, and (g) perceived loudness. It must use the Event-Ontology and Reference-Distribution gates from Sessions 75–76, retain raw timing annotations, and avoid inferring a neural mechanism from subjective ratings. The primary interaction to examine is CLOCK RECOVERABILITY × SURFACE DENSITY, with independently performed takes and a held-out replication when feasible. If density improves urgency but damages absorption, report the tradeoff. Do not collapse the outcomes into one favorable score. The permanent rule is: AN INCREASE IN URGENCY IS NOT A SUCCESSFUL KLAAT RISING PULSE UNLESS WE ALSO KNOW WHAT HAPPENED TO ABSORPTION.
+
+
+27. PRACTICAL KLAAT EXPERIMENT — KRX-077: THE RECOVERABLE-CLOCK CROSSOVER
+OBJECTIVE: Test whether increasing Ankora subdivisions raises urgency while preserving listener-reported absorption preferentially when the primary Clock remains recoverable.
+MATERIAL: Paul records naturally performed 60–90-second excerpts built around the same approximate tempo, using Amastacia and Ankora only. Each excerpt includes a short Ground Anchor, Threshold Gate, Rising Pulse manipulation, and Return Path. Make at least two independent takes per condition, on different passes rather than copies of one loop. Use a comfortable, documented listening level. Do not claim to have analyzed the September reference audio unless its bytes are available.
+FOUR CONDITIONS: A = strong Clock + sparse regular Surface; B = strong Clock + dense regular subdivisions; C = weak Clock + sparse regular Surface; D = weak Clock + dense regular subdivisions. The weak-Clock manipulation uses less distinct primary accents, not a secretly faster beat. Keep Amastacia's Field relatively stable across primary comparisons; document unavoidable changes. Use no added percussion, synthetic timekeeper, or AI-generated audio. This is a 2×2 design, not four unrelated songs.
+PRE-REGISTRATION: Before collecting ratings, freeze the event dictionary, the intended beat and accent scheme, the density counts, the primary outcome (change in urgency B–A versus D–C), and the key absorption comparison. Define what would count as a practically meaningful loss of absorption before inspecting data; a pilot may only estimate this margin, not prove formal non-inferiority.
+LISTENERS: Begin with 8–12 consenting volunteers as a feasibility pilot. Randomize/counterbalance condition order; include rest periods. Avoid instructing listeners to count beats during the main experience. Do not reveal the intended four-phase structure or the hypothesis.
+MEASURES: After each excerpt, first collect a neutral one-sentence description. Then use separate 0–10 scales for urgency, energized/alert feeling, absorbed/undistracted attention, continuity, desire to move, perceived loudness, and effort required to follow the rhythm. In a separate replay/task, ask for beat tapping or metrical-level identification to check Clock recoverability. Document half-time interpretations rather than calling them errors. Record event counts, onset intervals, accents, recording geometry, and available level/peak metrics. Do not ask about trance or healing.
+ANALYSIS: For each listener calculate dense-minus-sparse contrasts within strong and weak Clock conditions; examine the difference between these contrasts, with individual trajectories and uncertainty, not just averages. Report whether urgency and absorption move together, diverge, or show heterogeneous responses. Analyze beat-confidence data separately. Use independent takes as replication units; do not count repeated windows of one take as independent performances. Treat this pilot as descriptive, not definitive.
+DECISION: If B raises urgency relative to A while absorption remains broadly stable, and D raises urgency with a larger absorption loss, prioritize a recoverable Scaffold during Rising Pulse. If both dense conditions disrupt absorption, reduce density or change attack organization. If neither raises urgency, test accent displacement as a separate intervention. If effects depend on loudness or one unusually strong take, do not promote the mechanism. If outcomes differ across listeners, investigate individual meter and preference before declaring a universal composition rule.
+DECISIVE QUESTION: CAN ANKORA MAKE THE SURFACE FEEL MORE URGENT WHILE THE LISTENER REMAINS ABSORBED—AND IS A RECOVERABLE CLOCK THE CONDITION THAT MAKES THAT POSSIBLE?
+
+
+PRIMARY RESEARCH REFERENCES
+1. Seeberg AB, Matthews TE, Højlund A, Vuust P, Petersen B (2025). Beyond syncopation: The number of rhythmic layers shapes the pleasurable urge to move to music. Cognition 262:106178. DOI 10.1016/j.cognition.2025.106178. https://doi.org/10.1016/j.cognition.2025.106178
+2. Witek MAG, Clarke EF, Wallentin M, Kringelbach ML, Vuust P (2014). Syncopation, Body-Movement and Pleasure in Groove Music. PLoS ONE 9:e94446. DOI 10.1371/journal.pone.0094446. https://doi.org/10.1371/journal.pone.0094446
+3. Céspedes-Guevara J, Witek MAG (2023). Syncopation levels, but not movement, are associated with pleasantness while listening to rhythmic music. Psychology of Music 51:1627–1637. DOI 10.1177/03057356231153062. https://doi.org/10.1177/03057356231153062
+4. Bernardi NF, Bellemare-Pepin A, Peretz I (2018). Dancing to 'groovy' music enhances the experience of flow. Annals of the New York Academy of Sciences 1423:415–426. DOI 10.1111/nyas.13644. https://doi.org/10.1111/nyas.13644
+5. Prior KLAAT curriculum: Sessions 66–67, 70–71, 73–76; KSV-0.1 and Event-Ontology/Reference-Distribution Gates (internal project documents).
+
+
+CONTINUITY AND NEXT DIRECTION
+Session 77 deliberately reopens the core compositional question with a sharper causal test rather than extending annotation methodology indefinitely. The bottleneck remains the same: KLAAT-specific evidence requires actual human-performed audio and listener data. The next research direction is to create a compact, reusable recording/annotation/rating package for KRX-077, or, once data exist, test whether the recoverable-clock interaction survives independent performances and neutral listening. Keep all previous hourly research files intact. The canonical Library text copy precedes any Google Drive mirroring.
+END OF SESSION 77

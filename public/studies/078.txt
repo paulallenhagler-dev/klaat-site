@@ -1,0 +1,268 @@
+KLAAT RESONANCE RESEARCH — SESSION 78
+ONE DRUM IS NOT NECESSARILY ONE LAYER
+Accent Hierarchies, Timbral Grouping, and the Limits of a Recoverable Clock
+Published: 2026-10-11 15:11 CDT
+Status: Research synthesis; KLAAT-specific predictions untested
+
+
+CENTRAL PROPOSITION
+
+
+Session 77 proposed “pressurized continuity”: Ankora may increase the activity of her rhythmic Surface while a recoverable Clock preserves absorption. But that proposal has a hidden assumption. A single elk-hide frame drum may be one physical instrument without being one perceptual rhythmic layer. Conversely, playing several distinct strike colors does not guarantee that a listener will hear a coherent Clock plus a second layer. The difference between an integrated rhythmic hierarchy and segregated competing streams is the unresolved problem.
+
+
+THE QUESTION IS NOT WHETHER ANKORA CAN MAKE MORE SOUNDS. IT IS WHETHER SHE CAN MAKE MORE ACTIVITY MEAN SOMETHING WITHOUT MAKING THE UNDERLYING CLOCK DISAPPEAR.
+
+
+1. WHY THIS SESSION FOLLOWS 77
+
+
+The 2025 Seeberg and colleagues study compared syncopation and instrumentation in drum-kit rhythms. Its strongest inverted-U relationships between syncopation and pleasurable urge to move appeared in fuller bass/snare/hi-hat arrangements, whereas one-instrument conditions often showed flatter relationships. That is an important result about those materials, not a prescription to add instruments to KLAAT. Ankora cannot simply become a bass drum, snare, and hi-hat by changing strike position. The next question is more constrained and artistically relevant: can contrasting strike colors and an accent hierarchy provide perceptually distinct rhythmic functions on a single frame drum? And might excessive contrast actually split the sequence into separate streams, undermining a common beat?
+
+
+The Library Hourly Research folder was checked through this publication. Its newest visible note remains October 5, 2026 at 18:33 CDT, addressing multi-input mechanical coupling. No new hourly note appeared after Session 77. This session therefore develops the strongest unresolved compositional question from the published corpus, drawing on fresh primary-source review rather than claiming new hourly experiments occurred. No KLAAT listener data have been collected or analyzed in this session.
+
+
+2. INSTRUMENT, SOUND, ROLE, AND STREAM ARE DIFFERENT THINGS
+
+
+An INSTRUMENT is the physical source: Ankora, the elk-hide frame drum. A SOUND TYPE is a reproducibly different attack: for example a center-area low-resonant strike, an edge-area brighter strike, or a softer touch, if these are actually distinguishable on the instrument. A RHYTHMIC ROLE is what an event does: reinforce a beat, mark a larger cycle, subdivide a beat, contradict an accent expectation, or prepare withdrawal. A PERCEPTUAL STREAM is how the auditory system groups successive events over time. One instrument can make multiple sound types; multiple sound types can support one integrated rhythm, or can sometimes be heard as distinct sequences. No one-to-one mapping follows automatically.
+
+
+This distinction is crucial for KSV-0.1. Clock Strength is not the number of strong strokes. Surface Pressure is not the number of sound colors. Both are hypotheses about structure that must be checked against the listener's interpretation.
+
+
+3. THE PRIMARY LITERATURE: LAYERS AND GROOVE
+
+
+Seeberg, Matthews, Højlund, Vuust and Petersen (2025) tested different rhythmic layers and syncopation levels in two online samples of 108 and 46 participants. The fuller arrangements generally supported a more pronounced inverted-U pattern in ratings of pleasurable urge to move, and timekeeping or bass-drum components could matter. Their manipulations also changed aspects of timbre, role, and sometimes syncopation; the authors explicitly discuss the impossibility of simultaneously holding every musical variable constant in one study. The work does not establish that extra layers always help, that a single drum cannot create groove, or that an individual frame drum can duplicate those arrangements.
+
+
+The appropriate KLAAT inference is modest: the *organization* of attacks matters, not just their count. A pattern can offer a recurring reference and events that complicate that reference. The challenge is determining whether listeners actually hear those functions.
+
+
+4. THE PRIMARY LITERATURE: ACCENT STRUCTURE AND METER
+
+
+Ellis and Jones (2009) manipulated temporal and melodic accent salience in tone sequences. Metrical clarity varied with the salience and organization of accents, and their results warned against treating cue contributions as automatically additive. Hannon, Snyder, Eerola and Krumhansl (2004) found that listeners combined melodic and temporal information when making meter judgments about musical excerpts. Poudrier (2020) examined subjective grouping of isochronous sequences and found that grouping varied with rate and accent characteristics. Together, these studies support the broader principle that listeners infer meter from patterns of relative emphasis, timing, and context—not simply from an invariant metronome-like event.
+
+
+These experiments did not use Ankora. They justify a test of her accent hierarchy, not a claim that a particular hand position or strike pattern guarantees beat induction.
+
+
+5. THE PRIMARY LITERATURE: TIMBRE CAN GROUP OR SPLIT EVENTS
+
+
+Cusack and Roberts (2000) found that timbral differences aided selection of interleaved sound sequences even when sounds occupied similar spectral regions. Singh (1987) and Singh and Bregman (1997) investigated how pitch and timbre affect grouping of complex-tone sequences. Bregman and colleagues (2000) demonstrated that temporal spacing and frequency differences can alter whether listeners hear one integrated pattern or segregated substreams. These studies establish that acoustic differences can affect perceptual grouping.
+
+
+But stream segregation is not automatically beneficial to KLAAT. If bright edge attacks become a separate busy sequence while deeper strikes remain a sparse reference, a listener might follow both. Another listener might attend almost exclusively to one. A third might lose the composite rhythm entirely. Distinguishing the timbres can clarify functional roles; exaggerating their contrast may make the shared Clock harder to hear.
+
+
+6. ANKORA'S POTENTIAL TWO-ROLE GRAMMAR
+
+
+The proposed grammar has two roles, not two literal instruments. ANCHOR attacks emphasize selected primary beats or cycle boundaries. SURFACE attacks articulate subdivisions, anticipations, or less prominent events around that framework. A lower, fuller center-area stroke might serve as an Anchor and a brighter edge-area stroke as Surface, but this is only a possible mapping. It must be checked on Ankora herself: different strike locations can alter spectral balance, decay, amplitude, and attack shape together. What Paul intends as 'low' and 'bright' may not be reliably distinguishable at every listener position.
+
+
+A successful two-role grammar would permit a listener to infer the main beat even when the number of interleaved Surface attacks increases. The important variable is ROLE RECOVERABILITY: can the listener distinguish the events supporting the Clock from those decorating or challenging it?
+
+
+7. ROLE RECOVERABILITY IS NOT THE SAME AS STREAM SEPARATION
+
+
+Two sound types may be clearly discriminable without being heard as independent streams. A listener can hear 'deep–bright–bright–deep' as one organized phrase. Conversely, very strong contrast, fast alternation, or attention to one sound type may encourage segregation. We therefore need at least two checks: sound-type discrimination (can listeners tell the attacks apart?) and integrated beat recovery (can they identify the shared beat?). High discrimination with poor beat recovery is not success. Poor discrimination with stable beat recovery may still support a usable rhythm through timing and dynamic accents.
+
+
+The research target is a useful middle region: enough differentiation to preserve a rhythmic hierarchy, not so much that the hierarchy dissolves into disconnected sequences. There is no evidence for a universal acoustic optimum.
+
+
+8. TIMBRE, LOUDNESS, AND TIMING ARE CONFOUNDED IN REAL PERFORMANCE
+
+
+A center strike may be louder and lower in spectral centroid than an edge strike. A brighter stroke may have a sharper attack. A different stroke may change rebound and timing accuracy. If listeners prefer one passage, which property caused it? KLAAT must measure or document attack level, broad spectral characteristics, onset timing, and event count. A paired natural performance cannot perfectly isolate timbre from dynamics, and no honest protocol should pretend otherwise. Carefully edited stimuli could isolate some variables in a separate laboratory control, but the canonical compositional test must preserve genuine human-played Amastacia and Ankora, without replacing their sound with synthetic percussion.
+
+
+9. THE PROBLEM WITH A 'WEAK CLOCK' CONDITION
+
+
+KRX-077 proposed strong-Clock versus weak-Clock versions of sparse and dense patterns. But reducing accent strength may also change perceived loudness, timbral contrast, event grouping, and expressive tension. The manipulation is therefore not a clean independent dial. Before interpreting any Clock × Density interaction, we need to know whether the intended Clock manipulation actually changed listener beat recoverability. A failure of that manipulation check makes the causal label invalid, even if the ratings differ.
+
+
+Session 78 refines the stimulus-construction step before KRX-077. Rather than multiplying mechanisms, it asks which natural frame-drum cue combination most reliably preserves the Clock at a fixed density.
+
+
+10. THE FIELD IS A SEPARATE SOURCE, NOT A SECRET HI-HAT
+
+
+Amastacia, the C# agave didgeridoo, provides sustained acoustic continuity. Her breathing, harmonic shaping, and phrase boundaries can supply meaningful time structure. But she should not be assigned the role of an isochronous timekeeper without measured evidence. In a duet, her spectral changes may reinforce a phrase, mask an Ankora attack, or compete for attention. A relatively stable Field is useful during an initial test because it reduces one source of uncontrolled variation. Later, deliberate Field transformations can test whether the two-role Ankora grammar survives a changing acoustic background.
+
+
+11. GROUND ANCHOR: A FIELD WITHOUT A DRUM HIERARCHY
+
+
+Ground Anchor belongs to Amastacia. Her continuous Field establishes the perceptual world and the room's acoustic character. We should record her breath and spectral changes, but not count them as Ankora beats. A listener may find organization in the drone without identifying a regular metrical Clock. That is a meaningful baseline, not a failure. The experimental task is to avoid projecting the later rhythmic grid backward into a phase where the listener has not learned it.
+
+
+12. THRESHOLD GATE: TEACH THE ANCHOR ROLE
+
+
+Ankora enters with sparse attacks. If the two-role hypothesis is correct, Threshold Gate should make the Anchor pattern clear before the Surface becomes dense. The listener may first notice individual strokes, then begin predicting a recurring beat. The first physical attack and acquired Clock are different events. A brief introduction of two strike colors could clarify the intended hierarchy, but it could also distract. The experiment must identify whether a differentiated anchor is more recoverable than a same-timbre anchor with clear dynamic accents.
+
+
+13. RISING PULSE: INCREASE SURFACE WITHOUT MOVING THE FLOOR
+
+
+Rising Pulse is the central challenge. Ankora can add subdivisions and accent displacements while preserving approximately the same intended primary beat. If the Anchor role remains legible, urgency might rise while absorption stays high. If the added Surface dominates, the listener may adopt a faster beat, a half-time beat, or no stable beat. 'More events' and 'more urgency' remain separate measurements. A well-designed passage does not have to maximize density; it has to preserve the intended relationship between a stable reference and changing activity.
+
+
+14. RETURN PATH: REMOVE THE SURFACE FIRST
+
+
+Return Path offers a clean compositional test of role separation. Remove the busy Surface attacks while leaving the Anchor attacks briefly recognizable. Only then withdraw the Anchor itself. If listeners hear these as distinct changes, the two-role grammar has perceptual consequences beyond sheer loudness reduction. If they hear only a general thinning of sound, the role distinction may not be sufficiently clear. Amastacia remains through both changes. The final Ankora strike is not necessarily the moment the listener stops anticipating another beat.
+
+
+15. THE ROLE-STREAM TRADEOFF
+
+
+This session proposes a working tradeoff rather than a new law: increasing acoustic differentiation may initially help listeners assign different rhythmic roles, but excessive differentiation may encourage segregation or attention capture that weakens the integrated Clock. The relationship could be non-monotonic, flat, or listener-dependent. It is not legitimate to assert an inverted-U for KLAAT before testing. Even if a non-monotonic pattern appears, we would need repeated takes and an independent listener sample before elevating it to a composition rule.
+
+
+16. WHAT THE 137 BPM REFERENCE DOES AND DOES NOT MEAN
+
+
+The September 66-second recording suggests an approximate Ankora pulse reference of 137 BPM, corresponding to a nominal interval near 438 milliseconds. This is a calibration reference, not a universal requirement. A listener may infer half-time or another metrical level. Different attack colors can change which events feel prominent and thus which metrical interpretation seems plausible. An increased number of subdivisions is not the same as a faster primary beat. KLAAT must preserve intended beat, actual onset series, and listener-inferred beat as distinct records.
+
+
+17. WHY 'ONE DRUM, TWO LAYERS' MUST REMAIN PROVISIONAL
+
+
+A frame drum can produce contrasting sounds. That does not prove those sounds are perceived as separate auditory streams or that they provide independent meter-supporting layers. The studies cited here used synthesized tones, complex-tone sequences, or multi-instrument drum arrangements. A natural frame drum has resonant decay and coupled acoustic features that can blur attack distinctions. The room can further alter the balance. We should therefore use 'two rhythmic roles' as the operational description, and reserve 'two perceptual layers' for a listener-supported finding.
+
+
+18. ESTABLISHED EVIDENCE
+
+
+ESTABLISHED — Relative accent structure, timing, and other musical cues influence meter judgments in controlled listening studies.
+ESTABLISHED — Timbre differences can influence auditory grouping and the ability to follow interleaved sequences.
+ESTABLISHED — The 2025 rhythmic-layer experiments found that instrument-role arrangements altered the relationship between syncopation and pleasurable urge to move for the tested drum patterns.
+ESTABLISHED — Stream integration versus segregation can depend on acoustic contrast and temporal structure.
+ESTABLISHED — The physical number of instruments is not identical to the number of perceived sound types, rhythmic roles, or streams.
+ESTABLISHED — A listener's inferred meter cannot be read directly from a waveform or the performer's intended BPM.
+
+
+19. CONTEXT-DEPENDENT EVIDENCE
+
+
+CONTEXT-DEPENDENT — Laboratory tone sequences and Western drum-kit loops differ materially from Ankora's natural attacks and Amastacia's continuous drone.
+CONTEXT-DEPENDENT — The salience of an accent depends on its acoustic magnitude and musical context; no fixed decibel or spectral difference is guaranteed to establish a rhythmic role.
+CONTEXT-DEPENDENT — Stream segregation can help selective attention but may harm perception of an integrated composite rhythm.
+CONTEXT-DEPENDENT — Attack-location changes usually affect more than one acoustic feature, complicating causal inference.
+CONTEXT-DEPENDENT — Listening position, room response, familiarity, attention, and preferred metrical level may alter the result.
+
+
+20. PLAUSIBLE AND TESTABLE KLAAT HYPOTHESES
+
+
+PLAUSIBLE/TESTABLE — Distinct Anchor and Surface strike roles on Ankora improve Clock recovery at high event density compared with a less differentiated performance of the same onset pattern.
+PLAUSIBLE/TESTABLE — Clear dynamic accent hierarchy without strong timbral contrast may preserve the Clock as well as strongly contrasted strike colors.
+PLAUSIBLE/TESTABLE — At high contrast, some listeners segregate Surface events and report reduced integrated beat confidence even when they can identify the sound types.
+PLAUSIBLE/TESTABLE — Role recoverability, not raw event count alone, moderates whether increased Surface density raises urgency without reducing absorption.
+PLAUSIBLE/TESTABLE — Return Path's two-stage withdrawal (Surface, then Anchor) is more perceptually distinct when the roles were clearly established.
+
+
+21. SPECULATION
+
+
+SPECULATION — Ankora may achieve an illusion of multiple coordinated percussion parts without another instrument.
+SPECULATION — A particular family of center/edge attack contrasts may create KLAAT's most effective pressurized continuity.
+SPECULATION — A minimal notation might mark Anchor and Surface roles rather than prescribe exact stroke locations.
+SPECULATION — Listeners might hear different rhythmic 'voices' within one elk-hide drum as they become familiar with KLAAT.
+
+
+22. UNSUPPORTED CLAIMS
+
+
+UNSUPPORTED — One frame drum automatically creates two perceptual streams.
+UNSUPPORTED — Greater timbral contrast always improves groove, absorption, or Clock clarity.
+UNSUPPORTED — A two-role Ankora pattern reproduces the neural or hedonic effects of a bass/snare/hi-hat arrangement.
+UNSUPPORTED — A listener's ability to identify bright and low strokes proves they perceive the intended meter.
+UNSUPPORTED — Increasing event density necessarily increases activation, trance, or neural entrainment.
+UNSUPPORTED — The C# drone or 137 BPM is biologically privileged or therapeutic.
+UNSUPPORTED — A pilot preference rating establishes a universal KLAAT compositional rule.
+UNSUPPORTED — Audible bodily weight proves measurable tissue vibration or healing.
+
+
+23. METHODOLOGY UPDATE — THE ROLE–STREAM VALIDITY GATE
+
+
+KLAAT adds a ROLE–STREAM VALIDITY GATE before claiming that one drum provides a stable Clock plus an independent Surface layer. Four records are required: (1) intended rhythmic roles and beat positions, (2) delivered attack times and measured sound properties, (3) listener discrimination and grouping/beat interpretation, and (4) listener outcomes: urgency, absorption, continuity, activation, and movement impulse. Role discrimination and beat recovery must be evaluated separately. Strong/weak Clock must be defined by listener-recoverable meter rather than the performer's label alone. Preserve independent takes, raw event annotations, and listener-level results. Do not interpret a timbre contrast as a causal factor if level, timing, or accent changes offer equally plausible explanations. Keep the Event-Ontology, Reference-Distribution, and Activation–Absorption gates active.
+
+
+KSV-0.1 remains [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL]. Role structure is a candidate way of implementing Clock and Surface, not a fifth dimension. If the role distinction fails, the model must allow that failure rather than renaming it success.
+
+
+THE PERFORMER'S TWO ROLES ARE NOT TWO PERCEPTUAL LAYERS UNTIL LISTENERS HEAR THEM AS SUCH.
+
+
+24. EXPERIMENTAL DESIGN CHOICES
+
+
+A clean first study should keep the intended onset grid, total event count, tempo target, and approximate phrase length the same across comparisons. Natural performance means exact equality is impossible; document residual onset and level differences. Use at least two independently played takes per condition rather than duplicating one loop. Do not instruct listeners to count beats during their initial experience. Separately ask them to identify which sound type, if any, carries the recurring beat, and allow a 'not sure' response. Measure metrical interpretation with tapping or forced-choice comparisons in a second pass. The pilot's primary outcome should be Clock recovery; urgency and absorption are secondary, with no therapeutic inference.
+
+
+25. WHAT WOULD COUNT AS FAILURE?
+
+
+The hypothesis fails its initial test if timbrally differentiated Anchor/Surface patterns do not improve beat recovery, or if the gain disappears when loudness and accent structure are accounted for. A pattern may also fail musically if Clock recovery improves while absorption consistently falls. Conversely, a uniform-timbre accent hierarchy may work as well or better; that would be a valuable simplification. A split-stream report with a weak integrated beat would challenge the idea that more differentiation always helps. Null findings are useful because they tell Paul what not to build into the canonical grammar.
+
+
+26. PRACTICAL KLAAT EXPERIMENT — KRX-078: ONE DRUM, TWO ROLES
+
+
+OBJECTIVE — Test whether a perceptually distinct Anchor/Surface hierarchy can preserve the listener's Clock during dense Ankora activity without reducing absorption.
+
+
+MATERIAL — Record four 60–90-second human-played excerpts with Amastacia sustaining a comparatively stable Field and Ankora performing the same planned onset pattern and primary beat, with a sparse introduction, a dense middle, and a brief two-stage withdrawal. Make two fresh takes of each condition. Maintain comfortable playback levels. Record source placement, room, microphone position, intended beat, all strikes, and obvious Amastacia changes. No added instruments, electronic click in the performance, or AI-generated audio.
+
+
+CONDITIONS — Use a 2×2 arrangement. Accent hierarchy: CLEAR versus FLAT (primary beat strokes are more/less emphasized). Timbre-role contrast: DISTINCT versus SIMILAR (e.g., more versus less difference between center and edge stroke colors). Preserve the planned onset positions and event count across conditions. These are performance targets, not claims of perfect acoustic orthogonality. Document level, attack spectrum, and timing differences and acknowledge residual confounds.
+
+
+PREDECLARED OUTCOMES — Primary: listener Clock recoverability, measured after neutral listening through a separate beat-identification/tapping task and confidence rating. Secondary: urgency, absorption, continuity, perceived loudness, and sound-type distinction. Exploratory: whether listeners report one integrated rhythm, two separable rhythmic streams, or uncertainty. Record their spontaneous description before using technical terms.
+
+
+PILOT — Recruit roughly 8–12 consenting listeners. Counterbalance excerpt order and allow rest. Use a short familiarization that does not reveal the hypothesized winning condition. Keep the first listening pass uninterrupted and neutral. After each excerpt, collect one sentence of open-ended experience and separate 0–10 ratings for urgency, absorption, and continuity. In a second pass, test beat interpretation, including half-time choices, and ask which attack type seemed to carry the main beat.
+
+
+ANALYSIS — Examine within-listener contrasts for Accent, Timbre Contrast, and their interaction. Display individual trajectories and take-to-take variation; do not present a tiny pilot as definitive hypothesis testing. Compare results against actual loudness, onset variation, and delivered accent strength. A differentiated condition only earns support if Clock recovery improves reproducibly and the improvement does not simply reflect louder primary strokes. Look separately for increased sound-type discrimination accompanied by worse integrated beat recovery, which would support the competing-stream caution.
+
+
+FOUR-PHASE APPLICATION — Ground Anchor establishes Amastacia's Field; Threshold Gate teaches the Anchor role; Rising Pulse increases Surface activity while retaining the same primary beat; Return Path removes Surface first and Anchor second, leaving Amastacia. Ask listeners whether these withdrawals were distinct, without explaining them in advance.
+
+
+DECISION — If clear accents alone are sufficient, favor the simplest Ankora grammar. If timbral differentiation adds reliable Clock recovery and absorption remains stable, retain it as a candidate performance technique. If excessive contrast fragments the rhythm, reduce contrast. If no version preserves absorption at the dense Surface level, reduce density before inventing another instrument or mechanism. Replicate any promising effect with longer independent performances before elevating it to the Resonance Manual.
+
+
+DECISIVE QUESTION — CAN ANKORA SOUND LIKE MORE THAN ONE RHYTHMIC ROLE WITHOUT CEASING TO FEEL LIKE ONE RECOVERABLE CLOCK?
+
+
+REFERENCES (PRIMARY RESEARCH)
+
+
+Seeberg AB et al. (2025), Beyond syncopation: The number of rhythmic layers shapes the pleasurable urge to move to music. Cognition 262:106178. DOI: 10.1016/j.cognition.2025.106178. https://doi.org/10.1016/j.cognition.2025.106178
+Ellis RJ & Jones MR (2009), The role of accent salience and joint accent structure in meter perception. J Exp Psychol Hum Percept Perform 35:264–280. DOI: 10.1037/a0013482. https://doi.org/10.1037/a0013482
+Hannon EE et al. (2004), The role of melodic and temporal cues in perceiving musical meter. J Exp Psychol Hum Percept Perform 30:956–974. DOI: 10.1037/0096-1523.30.5.956. https://doi.org/10.1037/0096-1523.30.5.956
+Poudrier E (2020), The Influence of Rate and Accentuation on Subjective Rhythmization. Music Perception 38:27–45. https://music.ubc.ca/publications/the-influence-of-rate-and-accentuation-on-subjective-rhythmization/
+Cusack R & Roberts B (2000), Effects of differences in timbre on sequential grouping. Percept Psychophys 62:1112–1120. DOI: 10.3758/BF03212092. https://doi.org/10.3758/BF03212092
+Singh PG (1987), Perceptual organization of complex-tone sequences: a tradeoff between pitch and timbre? J Acoust Soc Am 82:886–899. DOI: 10.1121/1.395287. https://doi.org/10.1121/1.395287
+Bregman AS et al. (2000), Effects of time intervals and tone durations on auditory stream segregation. Percept Psychophys 62:626–636. DOI: 10.3758/bf03212114. https://doi.org/10.3758/bf03212114
+
+
+PROVENANCE AND NEXT DIRECTION
+
+
+Consulted Google Drive Master Instructions, Curriculum Index, Research Ledger, and Session Corpus through Session 77; reviewed Library Hourly Research folder, latest file October 5, 2026 at 18:33 CDT; read that note for continuity. The hourly files are preserved unchanged. Session 78 extends Session 77 rather than treating the prior 2×2 crossover as completed. No actual KLAAT listener data or source-audio measurements are claimed. Next: execute a small, honest stimulus and listener pilot, then examine whether accent-role differentiation can improve Clock recoverability at high density without sacrificing absorption. Do not expand theory indefinitely while evidence is missing.
+
+
+END OF SESSION 78

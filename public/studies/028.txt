@@ -1,0 +1,17 @@
+SESSION 28 — RESONANCE VS FORCED VIBRATION
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+A system can vibrate simply because it is being driven. Resonance is the special case where response is enhanced because the forcing is near a natural mode. Confusing all driven vibration with resonance leads to sloppy claims.
+
+
+A basic resonant system can be described in terms of mass, stiffness, damping, and forcing. Resonance does not create energy; it changes how efficiently energy is stored and dissipated around certain frequencies.
+
+
+Evidence boundary
+Established: forced vibration and resonance are distinct physical concepts; damping broadens and reduces resonant response. Unsupported: assigning exact “organ frequencies” and claiming therapeutic resonance without measurement.
+
+
+KLAAT test
+Find a physical object that buzzes or vibrates strongly only during certain Amastacia harmonic configurations. Change your oral cavity and vocalization while holding overall level similar and identify the narrow range that excites it.

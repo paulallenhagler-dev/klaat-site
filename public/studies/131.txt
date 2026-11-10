@@ -1,0 +1,239 @@
+KLAAT RESONANCE RESEARCH — SESSION 131
+THE RECORDING WAS IDENTICAL; THE EXPERIMENT WAS NOT
+Stimulus equivalence, listening-path diversity, and what can honestly be pooled in KLAAT's first listener pilot
+Published: Thursday, October 29, 2026 — morning CDT (America/Chicago)
+
+
+GOVERNING PRINCIPLE
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+RESEARCH STATUS
+Evidence synthesis and a proposed measurement framework. No new Amastacia/Ankora audio, KLAAT listener reports, ear-level measurements, or physiological data were available for this session. All numerical KLAAT examples below are hypothetical unless explicitly identified as the existing KLS-001 protocol's sample targets. The purpose is to understand real listening conditions, not to prescribe how Paul improvises.
+
+
+EDITORIAL ABSTRACT
+
+
+One authentic KLAAT recording can be copied perfectly and still reach different people as different acoustic events. One person hears it through two wired earbuds; another removes one bud; another enables spatialized playback; another uses a hearing aid that mixes streaming audio with room microphones; another listens through a phone speaker while traffic passes. The source file may be identical. The signal arriving at the ears—and the information available to perception—need not be.
+
+
+This is not merely a consumer-audio quality issue. It creates an inference problem for KLS-001, the planned first listener pilot: when several listeners report different amounts of bodily salience, pulse clarity, absorption, or energy, how much of that variation can be assigned to the music, how much to the playback path, and how much to the listeners themselves? A strict answer is that the contributions cannot be separated without additional evidence or a controlled comparison.
+
+
+The new contribution of Session 131 is a STIMULUS-EQUIVALENCE AND POOLING GATE: a way to retain all sincere listener experiences while deciding which observations are sufficiently comparable to support which claims. It combines—but does not simply repeat—earlier single-channel, hearing-aid, spatialization, and metadata findings. Those notes each identified a failure mode. This study asks a different, system-level question: WHEN ARE TWO LISTENING TRIALS THE SAME EXPERIMENTAL EXPOSURE, AND WHAT INFERENCES SURVIVE WHEN THEY ARE NOT?
+
+
+1. THE CENTRAL DISTINCTION: SAME FILE, DIFFERENT DOSE
+
+
+The phrase 'everyone heard the same recording' has at least four meanings.
+
+
+FILE IDENTITY means the stored bytes are identical. A cryptographic hash can establish this property for a particular pair of files, though not that playback is identical. A file can also contain identical decoded audio samples while its metadata, name, or player presentation differs.
+
+
+DECODED-SIGNAL IDENTITY means the left and right digital sample sequences presented to a playback pipeline are the same. This does not establish that software equalization, spatialization, dynamic range compression, loudness normalization, operating-system processing, or output routing remained unchanged after decoding.
+
+
+EAR-INPUT EQUIVALENCE means the sound-pressure waveforms at the two ear canals are sufficiently comparable for a particular question. This requires much more than matching file samples: transducer response, fit, level, ambient noise, acoustic leakage, ear anatomy, head motion, and device processing matter. In a loudspeaker room, position and reflections matter as well. Exact equivalence is generally unrealistic across people; operational comparability is the more useful target.
+
+
+EXPERIENTIAL EQUIVALENCE would mean the same subjective experience. That is not an assumption to make even under carefully controlled acoustics. Listeners differ in hearing, prior exposure, attention, emotion, expectation, movement, and the meanings they attach to an unfamiliar sound. These differences are not errors to erase. They are part of the phenomenon KLAAT seeks to understand.
+
+
+Thus: identical master ≠ identical playback processing ≠ identical ear input ≠ identical experience. The symbols express a logical distinction, not a claim that every real playback system changes KLAAT in an important way.
+
+
+2. WHY THE TWO INSTRUMENTS MAKE THIS QUESTION SPECIFIC
+
+
+Amastacia, the C# agave didgeridoo, supplies a sustained drone whose identity can depend on fundamental and harmonic balance, roughness, breath articulation, spectral movement, and the sense of continuity. Ankora, the elk-hide frame drum, supplies attacks, decay, pulse, changing density, and the possibility of a bodily urge to move. Their interaction is the musical event; neither instrument is merely a test tone.
+
+
+A playback path can preserve attack timing but weaken low-frequency pressure. It can preserve a low-frequency impression through upper harmonics without reproducing much fundamental. It can leave the overall loudness seemingly similar while altering the ratio of Ankora's transient to Amastacia's sustain. It can deliver both stereo channels, one channel, or a processed spatial rendering. None of these changes necessarily destroys KLAAT as art. But they are not interchangeable when we ask what caused a particular listener response.
+
+
+Consider an invented example. A drum event is 14 dB weaker in the left than the right channel of a hypothetical stereo mix. A listener receiving only the left channel may find Ankora less prominent than someone receiving the right channel. The arithmetic level difference alone says nothing about how either listener will describe the performance, but it establishes that the received signals are not equivalent. The actual KLAAT masters have not been measured for this effect. The Oct 28 single-earbud hourly note isolated this routing issue; Session 131 asks what to do with responses collected under such different exposures.
+
+
+3. THE PRIMARY EXPERIMENTAL WARNING: HEADPHONES ARE NOT ONE VERIFIED CONDITION
+
+
+Woods, Siegel, Traer, and McDermott (2017) introduced an online headphone-screening task in which participants identified the quietest of three tones. A special anti-phase tone behaves differently over headphones than over loudspeakers because the acoustic summation differs. The authors validated a brief screen for remote auditory experiments. In the later evaluation discussed by Milne and colleagues (2021), the original Woods test's six-trial criterion of at least five correct responses passed 100% of known headphone users but also 18% of known loudspeaker users in a laboratory validation; 65% of a large online sample passed. These are study-specific screening outcomes, not KLAAT estimates or a universal prevalence of headphone use.
+
+
+Milne and colleagues developed an alternative using Huggins pitch, a dichotic auditory phenomenon. In their validation, the Huggins-pitch screen correctly identified approximately 80% of headphone users, with a roughly 20% false-positive rate; combining it with another screen reduced false positives to about 7% in the tested configuration. These figures illustrate the problem: a screen can improve classification without certifying a perfectly controlled listening path. Sensitivity and false-positive rate must not be confused. A 7% false-positive rate is not a guarantee that 93% of all people who pass actually wore headphones; that positive predictive value also depends on how many people used headphones in the population tested.
+
+
+A particularly revealing limitation: the original anti-phase headphone test can sometimes be passed with only one earbud. The test is not a full certification of bilateral channel delivery, ear seal, sound level, frequency response, or spatial-audio mode. A participant's statement 'I used headphones' is useful but weaker still. This is why one checkbox cannot transform a heterogeneous home-listening pilot into a laboratory psychoacoustic experiment.
+
+
+For KLAAT, this matters because a listener might truthfully report 'the drum was distant' after receiving a changed signal. That statement remains an authentic experience of the delivered music. It does not yet establish that the original Ankora recording was distant, or that the listener's brain unusually suppressed percussion.
+
+
+4. THE COUNTEREXAMPLE: BETTER ACCESS CAN CHANGE THE PREFERRED SOUND
+
+
+Hake and colleagues (2025) studied 33 people with moderate-to-severe hearing loss in three conditions: unaided, aided with fast dynamic range compression, and aided with slow compression. Hearing aids generally improved musical scene-analysis ability, sound-quality ratings, and speech reception compared with unaided listening. But the processing settings did not optimize every outcome together. Fast compression supported better selective listening to instruments in mixtures; slow compression received more favorable music-quality ratings. The authors also described substantial individual variability, including people for whom aided listening offered limited or no advantage on particular outcomes.
+
+
+This is not a KLAAT study. It does not imply that one hearing-aid setting is best for a didgeridoo, or that compression causes trance. It demonstrates something more useful: even when two listening paths are deliberately designed to improve audibility, their benefits can differ by perceptual task. 'I can distinguish the drum more clearly' and 'this sounds more natural' can move in different directions. For KLAAT, source separation, pulse clarity, enjoyment, physical salience, and absorption must remain separate outcomes.
+
+
+Plyler and colleagues (2024) tested 20 experienced hearing-aid users with televised SPEECH, in quiet and at +5 dB signal-to-noise ratio, under three conditions: conventional hearing-aid listening; direct streaming with aid microphones attenuated 6 dB; and streaming with aid microphones muted. In noise, mic-muted streaming improved speech recognition and clarity; in quiet, streaming offered no clear benefit. Sound-quality satisfaction did not significantly differ among conditions. This is a speech study, not a music-effect estimate. Its contribution here is to show that the proportion of streamed versus ambient microphone input is a real experimental variable rather than a trivial accessory setting.
+
+
+The apparent contradiction between 'aided hearing can improve music analysis' and 'one setting may sound better while another helps selective hearing' is not a contradiction once the outcome is specified. The ear is receiving a processed signal; the listener's task determines what counts as better.
+
+
+5. ANOTHER COUNTEREXAMPLE: A VALID HEADPHONE SCREEN CAN STILL MISS AN AUDIBLE CHANGE
+
+
+Gutierrez-Parera and Lopez (2018) investigated nonlinear distortion in headphones driven to emulate target frequency responses. They measured distortion across headphone models and used a perceptual test to identify reproduction levels at which distortion became audible. The result depended on headphone model and level. A device can nominally reproduce the same target equalization and nevertheless introduce different nonlinear artifacts.
+
+
+This finding does not quantify the distortion of any device a KLAAT listener owns. It challenges the idea that checking 'headphones' plus file identity is enough to prove a standardized acoustic stimulus. Earbud fit, playback level, device processing, and even how the headphone behaves under load can matter. The best response is not to demand professional audio equipment from every listener. It is to record the limitations of the evidence and avoid overinterpreting differences that the pilot cannot disentangle.
+
+
+6. AN EQUATION THAT CLARIFIES THE PROBLEM WITHOUT REDUCING THE ART
+
+
+A schematic listener-response model is:
+
+
+R_ij = f(A_j, P_ij, E_i, C_ij, A_j×P_ij, E_i×C_ij, ... ) + error,
+
+
+where R_ij is listener i's response to authentic take j; A_j represents the take's acoustic features; P_ij the playback path; E_i the listener's hearing and experiential characteristics; and C_ij the immediate context, including expectations and environment. The interaction terms say that the effect of a feature may depend on the device or person. This is a causal bookkeeping model, not a fitted statistical model or a proven neural mechanism.
+
+
+If all people with one kind of playback equipment happen to hear one KLAAT take and all people with another kind hear a different take, TAKE and PLAYBACK are confounded. A higher average energy rating for the first take cannot be attributed uniquely to its rhythm. Randomizing excerpt order helps with order bias, but it does not automatically balance devices if participants choose their own playback setup. If one listener switches spatialization modes between excerpts, even a within-person comparison can be confounded.
+
+
+KLS-001 proposes 8–15 listeners and 4–6 selected authentic takes. If every listener hears every take, that produces 32–90 listener-by-take observations. It does NOT produce 32–90 independent listeners. Ratings from the same listener share personal tendencies, hearing, and equipment. Ratings of the same take share the source. A descriptive plot should retain both listener and take identifiers rather than pretending each row is independent. At this scale, a complicated multi-level regression would be fragile; transparent tables and within-person trajectories may be more informative than a grand 'KLAAT effect' coefficient.
+
+
+An illustration, NOT data: suppose eight people listen to two identical-file excerpts, but four use speakers and four use earbuds. If six report strong bodily salience, the result is six subjective reports under mixed delivery conditions. It is not evidence that the original file transmitted a common low-frequency mechanical stimulus. Conversely, the mixed setup does not invalidate the reports; it changes the claim we can make about them.
+
+
+7. A NEW THREE-TIER EVIDENCE SYSTEM FOR KLS-001
+
+
+TIER A — DOCUMENTED COMPARABLE DELIVERY. The exact playback copy and version are known; the basic device path is recorded; both channels are available when relevant; spatialization and major enhancement settings are known; the listener hears at a comfortable, not forced, level; and the environment is reasonably stable. This still does not prove identical ear-canal pressure or remove individual hearing differences. It supports cautious within-pilot comparisons.
+
+
+TIER B — DOCUMENTED HETEROGENEOUS DELIVERY. The recording is identified, but listeners use different known devices or modes: speakers, single earbud, hearing aids, spatial audio, or room playback. These observations are valuable for ecological questions: how does KLAAT travel through real people's listening lives? Do not pool them as though ear-input conditions were uniform. Compare them descriptively by pathway if sample sizes allow; never exclude someone solely for using accessibility technology.
+
+
+TIER C — DELIVERY UNKNOWN. A listener gives a sincere report, but the player, route, environment, or file version is uncertain. Preserve the report as an experience. Avoid strong acoustic attribution or controlled between-listener inference. Unknown does not mean bad; it means unknown.
+
+
+These tiers are proposed research labels, not diagnoses, rankings of listeners, or claims that one method of listening is artistically legitimate and another is not. They are especially important for an inclusive practice: hearing-aid users, Deaf and hard-of-hearing visitors, and people using alternative audio paths should not be treated as methodological nuisances. A separate question—what KLAAT is like through each person's preferred accessible pathway—may be as interesting as the tightly controlled comparison.
+
+
+8. THE MINIMUM RECORD THAT WOULD ACTUALLY HELP
+
+
+For a future first-listen pilot, preserve the original master privately, as KLS-001 already requires. For the delivery copy, record the exact file identity and any intentional technical transformation. Record, in plain language, whether the listener used loudspeakers, wired headphones, wireless earbuds, hearing aids, or another path; whether one or both ears received audio; whether spatialization/head tracking or enhancement was known to be active; whether the room was quiet or noisy; and whether the participant had prior knowledge of KLAAT. 'Don't know' is a valid response.
+
+
+A practical exposure log could contain: listener ID; take ID; neutral stimulus ID; player/app; device category; one/two ears; spatial mode known/unknown; hearing-aid stream/room-mic balance if voluntarily known; environment; comfortable listening level chosen by listener; interruptions; prior KLAAT familiarity; and any deviation. Do not request medical details beyond what a listener freely wishes to disclose. Do not require listeners to turn off accessibility features or exceed comfortable listening levels. Do not infer a calibrated sound-pressure level from a phone volume percentage.
+
+
+The October 29 hourly note about metadata leakage adds another layer: the stimulus is not only what comes out of a transducer. A player that displays 'deep trance ritual,' Paul's flow rating, a genre, or an image before the first open report may alter expectation. The delivery audit should include what was VISIBLE as well as what was AUDIBLE. But this is not a demand to hide KLAAT's identity in public art; it is a controlled-pilot precaution. The authentic master and artist-facing presentation remain intact.
+
+
+9. THE EXPERIMENTAL DESIGN TRADEOFF: CONTROL OR REAL LIFE?
+
+
+A controlled listening test and an everyday-use observation answer different questions. In a controlled test, standardizing a playback chain helps isolate differences between authentic takes. It may, however, make the situation less representative of the way people actually use music. In an everyday-use observation, participants can choose the equipment, posture, location, and activity that make KLAAT useful to them. This increases ecological relevance but weakens causal attribution. Neither is automatically superior.
+
+
+A reasonable first KLAAT pilot can have a carefully documented main listening path while preserving separately labeled real-world reports. It should not require buying expensive equipment, setting a universal loudness, or converting spontaneous improvisation into standardized beats. The art remains the naturally recorded Amastacia–Ankora performance. The protocol merely describes how the art reached the listener.
+
+
+An important negative result would be that listeners under similar delivery conditions still disagree profoundly about the music. That would suggest genuine response heterogeneity, but it would not prove that playback had no influence. Another useful result would be that a person's pulse-clarity judgment changes markedly when they switch from a phone speaker to well-fitted headphones. That would demonstrate a path-dependent report for that person and take; it would not prove a universal psychoacoustic mechanism. A third useful result would be that bodily-sensation ratings stay similar across several devices while spectral clarity changes. That would be interesting but still not identify a neural cause of bodily sensation.
+
+
+10. WHAT WE CAN AND CANNOT CLAIM
+
+
+ESTABLISHED — Digital-file identity does not entail identical analog sound at the ears. Headphone-screening methods have measurable classification errors. Hearing-aid compression can produce task-dependent benefits and tradeoffs for music. Direct streaming and ambient-microphone mixing can change hearing-aid speech outcomes. Headphone distortion can depend on model and level. These are established outside KLAAT under specified test conditions.
+
+
+CONTEXT-DEPENDENT — Which playback differences matter for a particular KLAAT take depends on its actual spectrum, stereo mix, transient structure, output level, playback equipment, room, listener hearing, and task. Existing external studies do not supply KLAAT effect sizes.
+
+
+PLAUSIBLE / TESTABLE — The same authentic KLAAT take may yield different ratings of Ankora prominence, Amastacia weight, spatial immersion, or urge to move under different listening paths. Recording path information could explain some response variability, or it might explain little. Both are valid outcomes.
+
+
+SPECULATION — KLAAT's distinctive low drone and dry pulse might be unusually sensitive to some playback differences, or its core experiential identity might survive them surprisingly well. This is an artistic and empirical possibility, not a demonstrated property.
+
+
+UNSUPPORTED — A listener's report proves low-frequency vibration reached their body; all headphone listeners received the same sound; a passing headphone screen verifies bilateral stereo, calibrated loudness, or disabled spatialization; accessibility processing is intrinsically inferior; a stronger report means stronger neural entrainment; KLAAT has caused trance, physiological synchronization, healing, or a specific brain state. None has been established.
+
+
+11. NOVELTY AUDIT AND RESEARCH CONTINUITY
+
+
+Session 94 examined summing, delay, and cancellation; Session 95 examined hearing-aid music accessibility; Session 111 addressed virtual spatial localization; Session 121 addressed bone-conduction crosstalk; Session 125 addressed small-sample uncertainty; Session 129 separated the original acoustic performance, stored buffer, and PA output. Recent hourly notes isolated single-earbud channel omission (Oct 28, 21:13), hearing-aid streaming/microphone balance (Oct 29, 01:16), persistent consumer spatial-audio modes (Oct 29, 00:20), and identity metadata leakage (Oct 29, 07:24). Those mechanisms are not republished here as separate topics. The new unresolved inference is whether heterogeneous listening observations can be treated as equivalent exposures, and how to preserve useful results without laundering delivery confounds into claims about KLAAT's acoustic or neurological effects.
+
+
+This is a methodological advance only if it changes the interpretation of actual future listener data. It is not a substitute for making the recordings and inviting people to hear them. KLS-001 remains the operative baseline: twelve authentic takes across at least four days, immediate performer reports, four to six selected takes, eight to fifteen exploratory listeners, open questions before theory, then optional second-listen event marking. No KLAAT data were provided in this run. The next empirical breakthrough requires real recordings and listeners, not more certainty from the literature alone.
+
+
+12. CONCLUSION — THE LISTENER IS NOT A FILE PLAYER
+
+
+KLAAT is created by a person breathing through agave while striking hide, not by a fixed laboratory oscillator. That is its strength. But the listener encounters it through a chain of devices, rooms, habits, expectations, and bodies. Treating those chains as identical would make the research less honest; treating them as grounds to discard sincere experiences would make it less human.
+
+
+The productive position is to preserve both truths. The source can be authentic and unchanged. The delivered exposure can vary. A report can be genuine without revealing the mechanism that produced it. Careful classification lets KLAAT remain a spontaneous, energizing, sometimes deeply absorbing artwork while giving its future research a stronger foundation.
+
+
+Experience-led creation. Science-informed refinement.
+
+
+OPTIONAL KLAAT OBSERVATION — KRX-131: ONE TAKE, TWO LISTENING PATHS
+
+
+Only if an existing authentic recording and two ordinary listening options are already available: listen to the same short passage once through your usual headphones and once through a phone or small speaker, at comfortable levels. Do not force equal loudness, do not change the performance, and do not claim a controlled experiment. Write a single sentence identifying what changed most: the apparent weight of Amastacia, Ankora's attack, spaciousness, nothing obvious, or something else. Note which path you used. If you would rather simply play KLAAT, skip this entirely. The observation is about delivery, not a requirement to revise the music.
+
+
+PRIMARY SOURCES, TECHNICAL DOCUMENTATION, AND PROVENANCE
+
+
+[1] Woods KJP, Siegel MH, Traer J, McDermott JH (2017). Headphone screening to facilitate web-based auditory experiments. Attention, Perception, & Psychophysics 79:2064–2072. DOI 10.3758/s13414-017-1361-2. https://pmc.ncbi.nlm.nih.gov/articles/PMC5693749/ . Original remote headphone-screening study; no KLAAT participants.
+
+
+[2] Milne AE et al. (2021; online 2020). An online headphone screening test based on dichotic pitch. Behavior Research Methods 53:1551–1562. DOI 10.3758/s13428-020-01514-0. https://pmc.ncbi.nlm.nih.gov/articles/PMC7725427/ . Primary validation; ~80% headphone detection, ~20% false positives for HP screen, ~7% false positives with tested combined screens. Values are test- and sample-specific.
+
+
+[3] Hake R et al. (2025). Perception of Recorded Music With Hearing Aids: Compression Differentially Affects Musical Scene Analysis and Musical Sound Quality. Trends in Hearing 29. DOI 10.1177/23312165251368669. https://journals.sagepub.com/doi/10.1177/23312165251368669 . Primary n=33 hearing-aid music study; fast/slow processing tradeoff.
+
+
+[4] Plyler PN, Razavi S, Hausladen J, Humphrey E (2024). Effectiveness of Television Streaming on Hearing Aid User Performance and Satisfaction in Quiet and in Noise. American Journal of Audiology 33:17–30. DOI 10.1044/2023_AJA-23-00169. https://pubs.asha.org/doi/10.1044/2023_AJA-23-00169 . Primary n=20 speech study, not KLAAT music.
+
+
+[5] Gutierrez-Parera P, Lopez JJ (2018). Perception of nonlinear distortion on emulation of frequency responses of headphones. Journal of the Acoustical Society of America 143:2085. DOI 10.1121/1.5031030. https://pubmed.ncbi.nlm.nih.gov/29716278/ . Headphone measurement and perceptual test, not a measurement of KLAAT devices.
+
+
+[6] Apple, Control Spatial Audio and head tracking on AirPods. https://support.apple.com/en-gb/guide/airpods/dev00eb7e0a3/web . Platform documentation for supported modes, not independent outcome evidence.
+
+
+[7] Apple, Adjust audio settings on iPhone. https://support.apple.com/en-euro/guide/iphone/-iphb80ab7516/ios . Platform documentation on mono audio and channel balance.
+
+
+[8] KLAAT Baseline Recording + Listener Pilot Protocol v1.0 (Oct 16, 2026). Connected Google Drive: https://docs.google.com/document/d/1SKhD50suvsrRpY8aQJ6GRG5Cv_fgQ7fdV714yA8RIPY/edit . Planned design, not completed data.
+
+
+[9] Internal continuity: KLAAT Master Instructions; Curriculum Index; Research Ledger; Session Corpus Volume I and Volume II through Session 130; canonical Library Published Studies through Session 130; recent hourly notes from Oct 28 20:11 through Oct 29 07:24, including the single-earbud, consumer spatialization, hearing-aid streaming, and metadata-audit notes. Inspected October 29, 2026. Hourly notes remain untouched.
+
+
+SOURCE LIMITATIONS
+All external studies were checked against accessible primary abstracts/full text or official documentation on October 29, 2026. Reported results are tied to their tasks and populations. No experiment described above was performed on KLAAT. A source URL is included for reproducibility, not as an endorsement of an equipment product or a guarantee that the page will remain unchanged.
+
+
+CANONICAL SAFETY COPY TARGET: /KLAAT Resonance Research/Published Studies/KLAAT_Resonance_Research_Session_131_2026-10-29_0816_CDT.txt
+END OF SESSION 131

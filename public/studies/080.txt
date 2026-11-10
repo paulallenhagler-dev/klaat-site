@@ -1,0 +1,292 @@
+KLAAT RESONANCE RESEARCH — SESSION 80
+THE THIRD PARTICIPANT IS THE PLAYBACK SYSTEM
+What Remains of Amastacia and Ankora When the Room Disappears
+Published: October 12, 2026 — 08:38 CDT
+
+
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+CENTRAL QUESTION
+
+
+Session 79 separated three things that are too easily confused: Paul's inner experience while improvising, the sound produced by Amastacia and Ankora, and the experience of somebody listening. There is another link in that chain. A listener at home does not encounter the instruments directly. They encounter a recording reproduced through a particular device in a particular setting. Even the most faithful audio file cannot guarantee that a phone speaker, headphones, a capable full-range system, and a live room deliver the same physical stimulus.
+
+
+This is not an argument for producing KLAAT to suit an algorithm, buying expensive equipment, or sacrificing spontaneous playing. It is a reason to protect the sound Paul actually makes from misleading comparisons. Before asking whether a listener feels more energized by one take than another, we need to know what the listener was able to hear—and what they could not physically receive.
+
+
+GOVERNING PRINCIPLE:
+THE RECORDING IS A DOCUMENT OF THE PERFORMANCE. THE PLAYBACK SYSTEM IS PART OF THE LISTENING CONDITION. THE LISTENER'S BODY IS NOT INSIDE THE FILE.
+
+
+1. THE FOUR-LOCATION CHAIN
+
+
+For KLAAT, distinguish at least four locations. At the source, Amastacia's agave body and air column generate a changing harmonic/noise spectrum while Ankora produces transient, resonant attacks. In the performance space, direct sound mixes with reflected sound, standing waves, and sometimes mechanical vibration transmitted through floors or furniture. At the microphone, that field is sampled from a particular position and direction through a device with finite bandwidth and dynamic range. At playback, the file passes through decoding, volume control, amplification, transducers, and a new acoustic or headphone environment.
+
+
+These are not interchangeable observations. A microphone cannot record every position in the room at once. An audio waveform is not a recording of the floor's acceleration. A subwoofer can produce room and support motion that headphones do not reproduce in the same way. And a listener's report of a vibrating chest does not, by itself, establish actual tissue motion.
+
+
+The useful chain is PERFORMANCE -> ROOM -> CAPTURE -> PLAYBACK -> LISTENER. Each arrow can change the evidence available for interpretation. A separate performer self-report belongs beside this chain, not inside the waveform.
+
+
+2. WHY AMASTACIA MAKES THE PROBLEM ESPECIALLY INTERESTING
+
+
+Amastacia is described as a C# agave didgeridoo, but the note name alone does not establish the measured fundamental's octave, its stability, or the spectral balance of a particular performance. Equal-tempered C#2 is approximately 69.3 Hz, C#1 approximately 34.6 Hz, and C#3 approximately 138.6 Hz. These are reference frequencies, not measurements of this instrument. Her characteristic sound includes higher harmonics, formant-like spectral emphasis from vocal-tract articulation, breath noise, roughness, and dynamic variation. A small speaker might attenuate the fundamental while reproducing enough upper harmonics for a listener to recognize the drone and its pitch. That would be a meaningful auditory experience, but not equivalent low-frequency sound pressure.
+
+
+A listener could therefore say, accurately, 'I hear Amastacia,' while missing part of the physical low-end that shaped Paul's experience in the room. Conversely, a recording could exaggerate certain upper harmonics and make her sound harsher or more nasal than she did in person. Neither difference says anything about the authenticity of the performance; it describes a transfer limitation.
+
+
+3. WHY ANKORA MAKES THE PROBLEM DIFFERENT
+
+
+Ankora's strikes contain rapid attacks and resonant decays. A playback system might preserve attack timing while altering the decay's bass content. A microphone placed close to the hide may emphasize impact and detail, while a more distant microphone records more room contribution. Automatic gain control or limiting may flatten strong attacks, lift quiet noise between strokes, and change the perceived relationship between Anchor-like and Surface-like events discussed in Session 78.
+
+
+Thus two listeners may both recover Ankora's Clock yet disagree about whether it feels heavy, dry, urgent, or physically forceful. Those disagreements could arise from musical interpretation, equipment, listening level, or room position. They are not automatically evidence that one listener is more receptive to KLAAT.
+
+
+4. THE MISSING FUNDAMENTAL IS NOT THE MISSING BODY
+
+
+Pitch perception is not a frequency meter. In complex harmonic sounds, listeners can sometimes perceive a fundamental pitch even when energy at that fundamental is weak or absent. That is one reason a small speaker can still communicate a bass melody or drone's pitch. But hearing the pitch of a low fundamental is not the same as receiving the original low-frequency pressure field. It is also not the same as receiving mechanically coupled vibration through a floor, chair, or body-contact surface.
+
+
+This distinction matters when interpreting KLAAT's ancient, physically resonant aesthetic. The perceptual identity may survive a restricted playback chain even when the mechanical component does not. That is a strength of the musical material, not evidence that the missing low frequencies have been physically recreated.
+
+
+5. THE EAR IS NOT EQUALLY SENSITIVE AT ALL FREQUENCIES
+
+
+ISO 226:2023 describes normal equal-loudness-level contours for pure tones under specified free-field conditions. It demonstrates that the sound-pressure level required for equal perceived loudness depends strongly on frequency and listening level. It does not provide a universal loudness formula for complex KLAAT recordings, nor does it tell us whether a listener's body vibrated.
+
+
+Consequently, two systems matched for subjective overall loudness can still have substantially different bass balance. Turning up a bass-poor speaker until Amastacia 'feels right' may simply increase upper-harmonic and midrange exposure without restoring the missing fundamental. Louder is not necessarily more faithful, more bodily, or safer.
+
+
+6. HEADPHONES AND SPEAKERS DO NOT OFFER IDENTICAL LOUDNESS CONDITIONS
+
+
+A 2021 study revisited the so-called 'missing 6 dB' phenomenon in headphone-versus-loudspeaker comparisons. Across 40 normal-hearing participants at two sites, the investigators found condition-dependent loudness mismatches, especially for low-frequency narrowband stimuli. They observed approximately 3–7 dB higher eardrum levels in some diotic-headphone conditions to achieve loudness matching with loudspeaker presentations; the result depended on room acoustics, binaural coherence, frequency, and measurement assumptions. For broadband stimuli, the mismatch was not universal.
+
+
+The takeaway is not 'add 6 dB to headphones.' It is the opposite: a single correction factor cannot make every listening setup equivalent. For KLAAT comparisons, record the device and approximate listening level, and avoid treating headphone and speaker ratings as if the delivered stimuli were identical.
+
+
+7. A DIRECT EXPERIMENT: TACTILE BASS CAN CHANGE MUSICAL EXPERIENCE
+
+
+Hove, Martinez, and Stupacher (2020) studied audio-only versus auditory-tactile music presentation in two experiments. In the first, 22 participants listened through isolating earphones in a parked car, with or without a subwoofer providing bodily stimulation. In the second, 18 participants listened with or without a vibrotactile backpack, at two loudness levels. The auditory-tactile conditions produced more forceful tapping and higher ratings of groove and enjoyment; spontaneous body movement also increased in the first experiment. Loudness itself had a small but significant influence on ratings.
+
+
+This is credible evidence that adding congruent tactile information can alter some music experiences. But the experiments used selected high-groove music and specific tactile apparatus. They did not test KLAAT, a didgeridoo, an elk-hide drum, or a listener quietly absorbed in a drone. The research supports a possible mechanism, not a prediction that every KLAAT listener will benefit from more bass or tactile stimulation.
+
+
+8. A SECOND EXPERIMENT: MUSICAL ENGAGEMENT IS MULTIDIMENSIONAL
+
+
+A 2024 study with 41 listeners presented popular music over headphones while a chair supplied vibration through its seat, back, and armrests. The researchers compared several vibration mappings, including a headphone-only condition and incongruent vibration. Congruent vibrotactile conditions increased a latent dimension of musical engagement encompassing feelings of being part of the music, arousal, and groove. The study does not establish that every individual outcome increased equally, that all vibrations were beneficial, or that the same effect occurs without specialized contact hardware.
+
+
+For KLAAT, this strengthens a specific distinction: the *recorded acoustic signal* and the *bodily listening condition* may interact. It also suggests why an album might be highly absorbing through headphones while a live event feels physically different. Those can both be genuine experiences of the same artistic work.
+
+
+9. THE LIVE BASS RESULT: IMPORTANT, BUT EASY TO MISUSE
+
+
+Cameron and colleagues (2022) manipulated very-low-frequency loudspeakers during a live electronic-music concert. Motion-capture data from 43 concertgoers showed an average 11.8% increase in movement when the very-low-frequency speakers were active. A subsequent discrimination test suggested listeners could not reliably identify the added stimulation. The authors proposed tactile and/or vestibular pathways as possible contributors, but did not isolate a single causal neural pathway.
+
+
+The effect is striking precisely because it involved a real concert. It is not proof that Amastacia's natural output contains the same 8–37 Hz energy, that a normal KLAAT venue reproduces it, or that passive listening will increase bodily energy by 11.8%. The experimental system deliberately added very-low-frequency sound; it was not a direct comparison between ordinary didgeridoo recordings and live performances. A stronger inference would be unjustified.
+
+
+10. A USEFUL COUNTERPOINT: BASS AND RHYTHM WORK TOGETHER
+
+
+Duncan and Orgs (2024) tested 179 participants using 20 novel house-music clips with manipulated low-frequency amplitude and syncopation. Groove ratings were greatest when high low-frequency amplitude and high syncopation were combined, and lowest for low-amplitude conditions regardless of syncopation. Listener musical preferences also mattered. This suggests that bass can interact with rhythmic organization rather than acting as a universal bodily switch.
+
+
+But house basslines are not Amastacia. The experiment cannot tell us that more bass always improves KLAAT, or that the best way to intensify a recording is to boost its low end. It tells us that acoustic content, rhythmic organization, and listener preference must be considered together.
+
+
+11. THE RECORDING CHAIN CAN CHANGE THE QUESTION WE THINK WE ASKED
+
+
+Suppose Paul records two spontaneous KLAAT takes. He rates the first as deeply immersive and the second as technically effortful. Listeners hear both through phone speakers and prefer the second. That result is real for that playback context. But if the first take contains unusually rich low-frequency drone energy while the second emphasizes higher-frequency Ankora attacks, the phone could make their relative strengths appear different from what a full-range system would reveal.
+
+
+This is not a reason to invalidate the phone listeners. It is a reason to describe the finding correctly: 'Under phone-speaker listening, these listeners preferred Take B.' It is not evidence that Take B is universally better, or that Paul's flow state failed to translate under every listening condition.
+
+
+The reverse error is possible. A large speaker system in a resonant room may exaggerate particular bass frequencies, giving one take an apparent physical advantage not present on another system. No playback chain is a perfectly transparent window into a single, definitive version of KLAAT.
+
+
+12. THE DAILY-LIFE SOUNDTRACK IS A REAL ARTISTIC TARGET
+
+
+KLAAT is not restricted to seated ceremonial listening. A listener might use it while working, drawing, driving as a passenger, walking, preparing for the day, or simply wanting a sustained energizing atmosphere. Those contexts differ in attention, competing noise, movement freedom, and playback capability. A phone or modest speaker can still communicate repetition, timbre, momentum, and an uncanny sonic world. It may simply communicate less physical bass.
+
+
+That is not necessarily a failed experience. It may be a different successful use. We should not define an album as defective because it does not duplicate a live room's mechanical energy, nor should we define live KLAAT as superior for every purpose. The useful question is which elements of the artistic identity survive each context and which listener outcomes depend on the delivery condition.
+
+
+13. CAPTURE FIDELITY IS NOT THE SAME AS MIXING FOR AN EFFECT
+
+
+The practical aim is to document natural performances without inadvertently deleting their character. A consistent microphone position, enough headroom to avoid clipping, disabled automatic processing when possible, and an uncompressed archival copy can help. Record the microphone model and distance when known. Preserve the raw take before any equalization, compression, limiting, or noise reduction.
+
+
+These are capture safeguards, not instructions to change the music. Close placement may clarify breath and hide attacks; distant placement may represent the room more fully. Neither is universally correct. If possible, comparing two microphone positions can reveal what each one omits. If only one device is available, a careful, consistently placed recording is still useful. An unknown phone microphone's low-frequency response should be labeled unknown rather than assumed accurate or inaccurate.
+
+
+14. THE BODILY CHANNEL CANNOT BE RESTORED BY AN AUDIO FILE ALONE
+
+
+A recording stores a time-varying audio signal. It can reproduce airborne pressure through a suitable transducer, subject to limitations. It does not encode the original room's floor acceleration, seat contact force, or the exact way a listener's posture interacted with the venue. Those require separate measurements or an intentionally engineered reproduction system.
+
+
+Likewise, hearing Amastacia's fundamental through headphones does not demonstrate that a listener's chest is mechanically vibrating. Some headphone listeners may nevertheless report warmth, pressure, or energy through auditory, attentional, or interoceptive mechanisms. Their reports deserve to be recorded without being translated into unmeasured physical claims.
+
+
+15. LOUDNESS AND SAFETY: THE WRONG REPAIR
+
+
+When a device lacks low bass, increasing the volume is not a scientifically valid way to restore the original experience. It may make Ankora's transients or Amastacia's upper harmonics uncomfortably loud while leaving the missing low frequencies missing. Nor should listeners be asked to chase an intense bodily effect through unsafe playback levels.
+
+
+For exploratory comparisons, use comfortable levels and permit listeners to stop or adjust. Log approximate settings and whether a comparison was level-matched by measurement, by listener judgment, or not at all. These are different quality levels of evidence. A controlled acoustic-dose claim would require appropriate calibrated instrumentation; an informal headphone volume slider is not an SPL meter.
+
+
+16. WHAT THE FOUR-PHASE LANGUAGE CAN STILL DESCRIBE
+
+
+Ground Anchor, Threshold Gate, Rising Pulse, and Return Path remain optional retrospective descriptions, not rules for Paul's improvisation. When those qualities emerge, playback may preserve them differently. Amastacia's sustained Field may be audible on a small speaker through harmonics but less physically weighted. Ankora's arrival may remain clear through attack timing even if low-end impact changes. A spontaneously intensifying passage may retain its urgency through density, accent, and noise even without a full-range bass response. A withdrawal may remain perceptible as a reduction of attacks while its low-frequency afterglow differs by room.
+
+
+If a take has no clean four-part arc, it is still KLAAT. The point is to learn which qualities survive the recording chain, not to force the performance into a model.
+
+
+17. ESTABLISHED EVIDENCE
+
+
+Established in acoustics: microphones, loudspeakers, headphones, rooms, and transducers have frequency-dependent and level-dependent behavior; they do not preserve every property of an original sound field. A digital audio file does not itself reproduce floor or chair motion.
+
+
+Established in psychoacoustics: perceived loudness depends on frequency, level, and listening conditions; equal-loudness contours are not universal tactile-intensity curves. Complex sounds can retain recognizable pitch when the fundamental component is attenuated.
+
+
+Established in specific experiments: audio-tactile music presentation increased selected groove, enjoyment, movement, and engagement measures in Hove et al. (2020) and a 2024 chair-vibration study. Very-low-frequency augmentation increased movement by 11.8% on average in Cameron et al.'s 2022 concert experiment. Headphone/loudspeaker loudness equivalence was condition-dependent in the 2021 study. Duncan and Orgs (2024) found low-frequency amplitude and syncopation interacted in house-music groove ratings.
+
+
+None of these establishes a KLAAT-specific physiological effect.
+
+
+18. CONTEXT-DEPENDENT EVIDENCE
+
+
+The magnitude of a playback difference depends on the source recording, transducer response, room, ear coupling, listening level, and listener. Auditory-tactile results depend on contact location, timing, vibration spectrum, and music type. A live electronic concert with added very-low-frequency speakers is not a direct analogue of a naturally resonant didgeridoo. Headphone/loudspeaker loudness differences vary by frequency and room; a universal '6 dB correction' is unsupported. The missing-fundamental phenomenon can preserve pitch recognition without preserving low-frequency sound pressure. Listener engagement may improve, worsen, or remain stable under different playback conditions.
+
+
+19. PLAUSIBLE AND TESTABLE KLAAT HYPOTHESES
+
+
+H1: The same unaltered KLAAT take will receive different ratings of bodily intensity across playback systems with substantially different low-frequency capabilities, even when its identity and perceived pulse remain recognizable.
+
+
+H2: Amastacia's perceived pitch and harmonic articulation will survive restricted playback more reliably than her low-frequency weight; Ankora's attack timing may survive more reliably than her resonant impact.
+
+
+H3: Ratings of absorption and ratings of felt energy will not necessarily move together when playback changes.
+
+
+H4: Listener preferences for KLAAT as a daily-life soundtrack may differ from preferences for inward, focused listening; a bass-rich system need not win every context.
+
+
+H5: The relationship between Paul's immediate post-take flow rating and listener preference may change with playback chain. This is an interaction to investigate, not an assumption that a particular take or system is better.
+
+
+20. SPECULATION
+
+
+The contrast between audible identity and missing bodily energy may become a useful artistic insight: KLAAT could
+
+
+ possess a portable sonic signature while its physical dimension remains venue-specific. Its ritual/archaeosonic character might depend partly on harmonic roughness, breath, and repetition that survive modest playback. A future release might be evaluated through several listening contexts without tailoring the original improvisation to any one of them. These are interpretive possibilities, not demonstrated outcomes.
+
+
+21. UNSUPPORTED CLAIMS
+
+
+Unsupported: KLAAT's C# drone causes a unique healing, brainwave, or bodily resonance effect; a phone speaker reproduces the same physical stimulus as a live venue; a subwoofer necessarily creates trance; headphone listening cannot be immersive; added bass is always beneficial; more movement proves greater absorption; a missing fundamental in the waveform means the ear physically reconstructs its original pressure; the 11.8% concert movement result predicts an 11.8% KLAAT effect; equal perceived loudness means equal acoustic exposure; or a recording's waveform reveals Paul's or the listener's neural state.
+
+
+22. METHODOLOGY UPDATE — THE DELIVERY-CHAIN VALIDITY GATE
+
+
+Session 79's TWO-SIDED EXPERIENCE GATE separated performer report, delivered acoustic structure, listener report, and optional physiology. Session 80 adds the DELIVERY-CHAIN VALIDITY GATE. Every listener result tied to a recording should preserve at least the exact take/file version, capture device and known processing, playback device or category, approximate listening level, environment, listening context, and whether the participant could feel mechanical vibration. For rigorous claims, measured spectral response and level must replace guesswork. If the playback system is unknown, label it unknown.
+
+
+This is a metadata requirement, not a new KSV dimension, musical score, or demand to buy equipment. KSV-0.1 [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL] remains provisional and retrospective. The strongest finding might be that listeners love a take despite substantial differences in bass delivery. That would teach us something about KLAAT's musical identity.
+
+
+GOVERNING RULE:
+DO NOT ATTRIBUTE A LISTENER DIFFERENCE TO THE PERFORMANCE WHEN THE DELIVERY SYSTEM MAY HAVE CHANGED THE STIMULUS.
+
+
+23. WHAT THE NEXT REAL RECORDING CAN TELL US
+
+
+We do not yet have validated KLAAT-specific listener results or a measured transfer function for the September 66-second reference recording. We should not invent either. The next useful step is to listen to one existing unaltered take in multiple ordinary ways, record which qualities survive, and invite a few neutral observations. It is equally valid to discover that a phone speaker preserves the urgency but not the physical weight, or that headphones reveal breath detail obscured by a room. These are observations about the recording's delivery, not instructions to change the original performance.
+
+
+24. KRX-080 — ONE TAKE, THREE PATHS (OPTIONAL, LOW-PRESSURE TEST)
+
+
+Choose one existing unaltered KLAAT recording, ideally the 66-second reference if the actual file is accessible. Do not reperform it, add a bass boost, or edit it to create an experimental effect. Make one lossless master copy if available. Play that same file through three ordinary listening paths already at hand: headphones, a small speaker/phone, and a larger capable speaker system if available. If only two paths are available, compare two. Keep levels comfortable. Do not try to 'compensate' for weak bass by turning a small speaker up aggressively.
+
+
+For each path, note the exact device, room, position, approximate volume setting, and whether any EQ, loudness enhancement, spatial audio, or automatic processing was enabled. Without calibrated measurement, call this an exploratory comparison—not a controlled bass experiment. If a few listeners are willing, vary the order of paths between listeners. Because the devices are obvious, they are not blinded; expectation effects remain possible.
+
+
+Ask first, without suggesting bass or vibration, 'What stood out, and how did this make you feel?' Then ask separately about Amastacia's drone weight, harmonic/breath detail, Ankora's attack clarity, rhythmic urge, felt bodily energy, absorption, and suitability for everyday activity. Allow 'no difference,' 'not sure,' and 'not applicable.' Record the raw words, not just scores. Compare what stayed recognizable with what changed. Do not pool all systems into one supposedly universal KLAAT effect.
+
+
+If the result suggests that a key feature disappears on a particular device, the next step is not automatically remixing. First determine whether the difference is due to capture, playback, room, or listening context. Preserve the spontaneous original as the reference.
+
+
+DECISIVE QUESTION:
+WHICH PARTS OF THE WORLD PAUL CREATES WITH AMASTACIA AND ANKORA SURVIVE EVERYDAY PLAYBACK—AND WHICH PARTS ONLY EXIST WHEN THE SOUND CAN ALSO OCCUPY A ROOM AND A BODY?
+
+
+CONCLUSION
+
+
+KLAAT is both a physical performance and a potentially portable listening world. The portable version may carry its repetition, breath, grain, pulse, tension, and atmosphere through modest devices; the live version may add spatial and mechanical dimensions that cannot be inferred from an audio file alone. Neither version invalidates the other. The research program should protect the spontaneous music, document the transfer honestly, and listen to what people actually experience.
+
+
+Experience leads. Science refines. Playback conditions are part of the evidence, never instructions for the artist.
+
+
+PRIMARY RESEARCH AND TECHNICAL REFERENCES
+
+
+1. Hove MJ, Martinez SA, Stupacher J (2020). Feel the bass: Music presented to tactile and auditory modalities increases aesthetic appreciation and body movement. Journal of Experimental Psychology: General 149:1137–1147. N=22 and N=18. DOI: https://doi.org/10.1037/xge0000708
+2. Cameron DJ, Dotov D, Flaten E, Bosnyak D, Hove MJ, Trainor LJ (2022). Undetectable very-low frequency sound increases dancing at a live concert. Current Biology 32:R1222–R1223. Motion capture N=43, +11.8% movement. DOI: https://doi.org/10.1016/j.cub.2022.09.035
+3. Vibrotactile enhancement of musical engagement (2024). Study of N=41 using headphone music and chair-delivered vibration. PubMed: https://pubmed.ncbi.nlm.nih.gov/38565622/
+4. The 'Missing 6 dB' Revisited: Influence of Room Acoustics and Binaural Parameters on the Loudness Mismatch Between Headphones and Loudspeakers (2021). N=40 at two sites. Frontiers in Psychology. DOI: https://doi.org/10.3389/fpsyg.2021.623670
+5. Duncan S-L, Orgs G (2024). Move Your Body! Low-frequency Amplitude and Syncopation Increase Groove Perception in House Music. Music Perception 42:95–108. N=179, 20 clips. DOI: https://doi.org/10.1525/MP.2024.42.2.95
+6. ISO 226:2023. Acoustics — Normal equal-loudness-level contours. Pure-tone, free-field standard with defined listener and measurement assumptions. https://www.iso.org/standard/83117.html
+7. Effect of audio-tactile congruence on vibrotactile music enhancement (2023). Timing and intensity congruence in an experimental tactile/music task. https://pubmed.ncbi.nlm.nih.gov/36586853/
+
+
+PROVENANCE AND STATUS
+
+
+Consulted connected Google Drive KLAAT Master Instructions, Curriculum Index, Research Ledger, and Session Corpus through Session 79. Checked ChatGPT Library /KLAAT Resonance Research/Hourly Research; latest available note remains October 5, 2026, 18:33 CDT, so no new hourly notes have appeared since Session 79. This study synthesizes the strongest unresolved consequence of Session 79—the playback system's role in any performer–listener comparison—using independently verified primary literature and a technical standard. Existing hourly notes are unchanged. No new KLAAT participant, physiological, acoustic-measurement, or playback-comparison results are claimed. Four-phase language remains optional retrospective description, never a mandatory score. Any pending curation of earlier sessions remains independent of this publication.
+
+
+END OF SESSION 80

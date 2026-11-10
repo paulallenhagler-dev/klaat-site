@@ -1,0 +1,99 @@
+KLAAT RESONANCE RESEARCH — SESSION 155
+THE AVERAGE THAT ERASED THE DRUM
+Why time-averaged spectral descriptions can misrepresent a spontaneous drone-and-pulse performance
+Published: 2026-11-07 08:18 CST (America/Chicago)
+
+
+GOVERNING PRINCIPLE
+Experience-led creation. Science-informed refinement.
+
+
+THE QUESTION
+When Amastacia sustains a low C#-centered drone and Ankora punctuates it with attacks of varying density, what does it mean to report the 'average spectrum' of the performance? A single spectrum can accurately summarize one mathematical operation yet fail to represent the sound's defining events. This study develops an explicit choice among time-weighted, event-conditioned, and listener-centered descriptions, without asking Paul to play differently.
+
+
+NOVELTY GATE AND PROVENANCE
+The most recent numbered study, Session 154, concerns background listening versus focused attention; 153 concerns modulation spectrum versus perceived beat; 152 hearing-aid processing; 151 frequency weighting; 150 rhythmic interval variability. Recent hourly work includes a November 6 note on temporal median spectra suppressing sparse Ankora attacks, November 7 notes on FFT equivalent-noise bandwidth, transient contamination of drone pitch estimates, and inter-strike decay censoring. This session does not repeat the median-filter observation or prescribe a preferred FFT window. It asks a distinct inference question: WHICH POPULATION OF MOMENTS OR EVENTS does a summary describe, and how can two valid averages tell opposite stories about the same uninterrupted performance? It extends the hourly lead into a transparent quantitative sampling framework and a listener-validation plan. The canonical archive and connected Corpus, Index and Ledger were consulted; no KLAAT recording has been measured.
+
+
+1. THREE DIFFERENT QUESTIONS HIDING UNDER 'AVERAGE'
+A time-weighted descriptor asks: if we choose an instant uniformly at random from this five-minute improvisation, what is the sound like? It is appropriate for continuous exposure and the prevalence of acoustic states. An event-weighted descriptor asks: if we choose one Ankora strike uniformly from all strikes, what does that strike sound like? It is appropriate for strike morphology, dynamic variation and technique. A listener-weighted descriptor asks: which features actually attract attention, feel energetic, or remain memorable? This requires listener evidence; neither of the first two is a substitute.
+
+
+Amastacia can be present nearly continuously while Ankora's loud attacks occupy relatively brief portions of time. A time summary therefore may be dominated by drone-rich moments even if drum strikes define the listener's sense of motion. Conversely, averaging only event windows can overrepresent impacts and make the piece sound more percussive than its real elapsed duration. Neither summary is 'wrong' until it is given the wrong interpretation.
+
+
+2. AN EXPLICIT, CONSTRUCTED EXAMPLE
+Consider a 100-second fictional performance divided into nonoverlapping 100-ms frames: 1,000 frames. Suppose 900 frames contain a background spectral-band power of 1 arbitrary unit and 100 frames containing attacks have power 101 units. The time-mean power is (900×1 + 100×101)/1000 = 11 units. The time-median power is 1 unit. The mean conditional on an attack frame is 101 units. These numbers describe the same invented signal under three legitimate sampling rules. Relative to background, 10 log10(11/1) = 10.41 dB for the mean and 10 log10(101/1) = 20.04 dB for the attack-conditional mean. The arithmetic illustrates why an average can be strongly affected by brief events while a median can omit them.
+
+
+A crucial warning: 10 log10 of mean POWER is not the same as the mean of individual decibel values. In this example the mean of frame dB values relative to 1 unit is 0.9×0 + 0.1×20.04 = 2.00 dB, not 10.41 dB. Averaging logarithms and logging an arithmetic average answer different questions. Neither constructed value is a measurement of Ankora, Amastacia or an audience.
+
+
+Now imagine that Paul naturally doubles the strike count in another passage but keeps the per-strike timbre and background unchanged. The time-mean power in a chosen band can rise solely because the proportion of attack-containing frames rose. That does NOT demonstrate that each strike became brighter, harder, louder or that the elk-hide membrane changed. To evaluate per-strike characteristics, analyze the distribution of event-centered windows, not just the aggregate of all elapsed time.
+
+
+3. WHY A SPECTRUM ALONE CANNOT TELL US WHICH INSTRUMENT CHANGED
+A microphone records the sum of direct sound, reflected sound, noise and any processing. Spectral power of a mixture is not generally the simple sum of the separate instrument powers: cross terms can matter, particularly for coherent components and overlapping windows. A higher broadband band level during a drum-rich passage may arise from more attacks, different attack spectra, altered drone articulation, changed room or microphone position, or automatic gain control. An automated separation of harmonic and percussive components can help generate hypotheses but cannot certify physical source identity. Any claim about Ankora itself requires adequate source isolation or carefully bounded inference.
+
+
+This distinction builds on the established acoustic fact that FFT and Welch-style spectral estimates describe power distributed over frequency for chosen windows and normalization. Their validity does not confer musical meaning. A spectrum cannot tell whether a listener hears an underlying pulse, feels energized, or experiences altered awareness.
+
+
+4. THE TIME WINDOW IS PART OF THE QUESTION
+Suppose a drum attack has a fast broadband onset and a longer decaying tail. A 20-ms event window emphasizes attack; a 500-ms window includes more tail, drone and room. These are not interchangeable samples of one timeless 'drum timbre.' Similarly, a window that starts exactly at the onset may miss the pre-attack baseline needed to judge rise and contrast. Window selection should follow the question: transient attack, resonant tail, continuous sound field, or listener-scale phrase. The window is an analysis decision, not a requirement for how Paul improvises.
+
+
+When successive Ankora strikes overlap, event windows are not independent observations. A close second strike can change both the sound and the measurement of the first tail. Counting 100 frames as 100 independent events would be pseudoreplication. Reporting the number of recordings, naturally occurring strikes and listeners separately is more informative than reporting a large frame count as though it represented independent performances.
+
+
+5. AN EVIDENCE LADDER
+ESTABLISHED MATHEMATICS: Arithmetic means, medians, conditional means, decibel transforms and event-prevalence weighting can produce different numerical summaries of the same data. The constructed example is exact for its assumptions.
+
+
+ESTABLISHED SIGNAL-PROCESSING PRINCIPLE: A time-frequency representation depends on analysis windows, normalization and aggregation. Spectral magnitude or power does not by itself identify instrument source or subjective musical experience.
+
+
+CONTEXT-DEPENDENT EMPIRICAL EXPECTATION: Percussive transients are often sparse and acoustically distinct from sustained sounds; however, their actual frequency distribution, overlap and duration must be measured in the specific recording. A microphone's gain control and room acoustics can change apparent contrasts.
+
+
+PLAUSIBLE KLAAT HYPOTHESIS: Some KLAAT passages could retain a stable drone-dominated time-median spectrum while feeling more physically active to listeners because Ankora attacks become more frequent or salient. The first part can be tested acoustically; the second requires independent listener ratings.
+
+
+SPECULATION: A minority of high-salience strikes may disproportionately determine remembered energy or perceived ritual intensity. Attention and memory research make this worth investigating, but no KLAAT listener experiment currently establishes it.
+
+
+UNSUPPORTED: 'A high spectral mean proves trance'; 'a low spectral median proves the drum is unimportant'; 'more attack energy means stronger neural entrainment'; 'the event average measures Paul's striking force'; or 'a higher frequency-band level proves the membrane became brighter.'
+
+
+6. A SMALL, HONEST MEASUREMENT DESIGN
+Preserve one original, uninterrupted phone recording. First document sample rate, channels, processing, and approximate microphone location. Without modifying the performance, annotate naturally occurring Ankora attacks, with uncertainty where Amastacia noise or overlap makes boundaries ambiguous. Choose one broadband or specified-frequency-band power descriptor and calculate: (a) a time-weighted distribution over fixed-duration frames, (b) an attack-conditioned distribution using an explicitly chosen event window, and (c) an inter-attack baseline distribution where a baseline is actually observable. Keep raw power and log units clearly separated. Plot all three distributions instead of announcing one 'KLAAT brightness' score.
+
+
+A future listener pilot could play the SAME unchanged excerpts at comfortable, documented levels and ask separately about perceived pulse strength, energy, absorption and salience of the drum. Avoid showing the acoustic graphs before collecting responses. Compare within listeners; report disagreements rather than treating them as failed measurements. A listener's preference is not a physiological recording, and a correlation with attack prevalence does not establish causation. Multiple tested outcomes require appropriate exploratory labeling and independent confirmation.
+
+
+7. WHAT WOULD FALSIFY THE IDEA?
+If a real passage shows more attacks but its event-conditioned spectral distribution shifts too, the 'prevalence alone' explanation is insufficient. If the median rises because attacks occupy more than half the frames, it is no longer a background-only descriptor. If listeners do not distinguish passages despite acoustic differences, salience cannot be assumed. If a playback system removes low bass or compresses attacks, the recording heard by listeners may differ from the analyzed original. These are informative results, not artistic failures.
+
+
+8. WHY THIS FITS KLAAT
+KLAAT is not merely a sustained note with percussion added. Its identity emerges from the living friction among Amastacia's continuous breath, Ankora's physical strikes, room response, texture, and spontaneous timing. A good analysis should respect that coexistence. The most useful scientific advance may not be a more impressive single number, but knowing exactly what each number describes—and what it leaves out. Paul does not need to control the sound to satisfy an average. The research should learn to describe the sound he actually makes.
+
+
+OPTIONAL LOW-PRESSURE OBSERVATION
+Listen once to an existing, unedited KLAAT recording. Notice a stretch where Ankora feels especially present. Ask only: is that because strikes seem more frequent, because individual strikes seem more forceful or different, or because attention has shifted? 'I cannot tell' is a useful answer. No metronome, retake, score, or performance change is needed.
+
+
+REFERENCES AND TECHNICAL SOURCES
+1. Welch, P. D. (1967). The use of fast Fourier transform for the estimation of power spectra: A method based on time averaging over short, modified periodograms. IEEE Transactions on Audio and Electroacoustics 15(2), 70–73. DOI: 10.1109/TAU.1967.1161901. Foundational primary method, not a KLAAT experiment.
+2. FitzGerald, D. (2010). Harmonic/Percussive Separation using Median Filtering. DAFx-10. https://www.dafx.de/paper-archive/ — relevant separation method, not proof of physical isolation.
+3. SciPy documentation, scipy.signal.welch: https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.welch.html — implementation and power-spectral-density scaling reference.
+4. Recent internal provenance: KLAAT hourly notes 2026-11-06 18:21 CST (temporal median suppressing sparse strikes), 2026-11-07 06:13 CST (overlapping-strike decay censoring), 2026-11-07 08:13 CST (window ENBW), preserved unchanged in ChatGPT Library.
+
+
+RESEARCH STATUS
+No original KLAAT audio, listener responses, brain signals or physiology were measured for this session. All numerical examples are constructed. No KLAAT-specific trance, neural-entrainment or therapeutic effect is claimed.
+
+
+END SESSION 155

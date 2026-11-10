@@ -1,0 +1,180 @@
+KLAAT RESONANCE RESEARCH — SESSION 73
+THE BOUNDARY IS NOT THE SCORE
+Listener Agreement, Chance-Corrected Segmentation, and the Test of a Four-Phase Journey
+Published: October 9, 2026, 7:15 PM CDT
+Status at drafting: Research synthesis and proposed experiment; no KLAAT listener experiment has yet been reported as completed.
+
+
+RESEARCH CONTINUITY
+The connected KLAAT Master Instructions, Curriculum Index, Research Ledger, and Session Corpus were consulted. Session 72 is the latest verified publication. The ChatGPT Library Hourly Research folder was checked: its newest listed note remains October 5, 2026, 6:33 PM CDT; no new hourly notes appeared after Session 72. Accordingly this session advances Session 72's explicit unresolved direction: how to tell whether independent listeners hear KLAAT's phase boundaries, rather than merely responding to the analyst's labels. Existing hourly files remain untouched.
+
+
+GOVERNING PRINCIPLE
+A boundary drawn by the performer is a compositional intention. A boundary marked by a listener is a perceptual observation. Agreement between them is evidence only when the comparison is specified before inspecting the answers and exceeds a credible chance baseline.
+
+
+1. THE NEXT BOTTLENECK IS NOT ANOTHER MECHANISM
+Sessions 70 and 71 examined omission, prediction, attention, and repetition. Session 72 moved toward full-performance ecological validation. But we have no verified KRX-071 or KRX-072 participant data. Publishing another explanation of why KLAAT might feel powerful would outrun the evidence. The next contribution is a defensible way to measure the architecture itself. Does the listener independently hear Ground Anchor giving way to Threshold Gate, Threshold Gate becoming Rising Pulse, and Rising Pulse resolving into Return Path? Or are those names useful only to the performer?
+
+
+2. FOUR PHASES DO NOT MEAN FOUR UNIVERSAL CLICKS
+Ground Anchor is the opening state, not a transition at time zero. In a conventional four-phase passage, there are three primary phase transitions: Ground Anchor to Threshold Gate, Threshold Gate to Rising Pulse, and Rising Pulse to Return Path. The final ending may be a fourth closure event, but it is not another internal phase transition. A listener might mark a gradual zone rather than a single timestamp. Others might identify five or six meaningful changes because the performance contains local events nested within the larger arc. The study must not penalize every additional boundary as an error.
+
+
+3. WHAT THE EVENT-SEGMENTATION LITERATURE ESTABLISHES
+Event-segmentation research finds that people often divide ongoing experience into meaningful units and that such segmentation can be hierarchical. Zacks and colleagues' 2007 account proposes that shifts in prediction and event models contribute to perceived boundaries; it is a theory supported by multiple kinds of evidence, not proof that every musical boundary is a prediction-error spike. A computational model by Reynolds, Zacks, and Braver showed that learned sequential regularities can support boundary detection. These ideas give KLAAT a vocabulary for testing perceived structure, not an automatic explanation of it.
+
+
+4. MUSIC PROVIDES A MORE DIRECT COMPARISON
+A 2020 live contemporary-music segmentation study asked 259 audience participants to tap when they felt a section ended. Their responses clustered around particular moments associated with texture breaks, dynamics, register, and changes in recurring patterns. Importantly, the authors noted that the piece and experimental task limited generalization. The result demonstrates that listeners can show shared segmentation in nonstandard music; it does not establish four-phase segmentation in KLAAT. Source: 'What Determines the Perception of Segmentation in Contemporary Music?' Frontiers in Psychology (2020), DOI 10.3389/fpsyg.2020.01001.
+
+
+5. A SECOND MUSIC STUDY REVEALS HIERARCHY
+Popescu, Widdess, and Rohrmeier (2021) asked 65 Western listeners, many unfamiliar with the style, to mark boundaries in Indian sitar alap recordings. They compared responses with expert-marked phrase and section regions, distinguishing hits, false alarms, and response promptness. The listeners showed meaningful agreement, but agreement varied by level and recording. This is especially relevant to KLAAT because an extended drone-led form need not rely on conventional Western verse-chorus cues. It does not mean sitar alap and KLAAT share a validated perceptual grammar. DOI 10.1038/s41598-021-82629-y.
+
+
+6. WHAT COUNTS AS A KLAAT BOUNDARY?
+We must separate three annotations. The PERFORMANCE SCORE records what the performer intended. The DELIVERED-ACOUSTIC RECORD records what actually changed in the sound. The LISTENER MAP records where listeners independently perceived a meaningful transition. These maps may disagree for informative reasons. A performer may intend Threshold Gate at the first Ankora strike, while the audience only recognizes the new Clock after several repetitions. Rising Pulse may begin gradually and never yield a single sharply marked moment. Return Path may become perceptible before Ankora's final strike.
+
+
+7. ANKORA'S FIRST STRIKE IS NOT AUTOMATICALLY THRESHOLD GATE
+A timestamped onset is easy to measure. The emergence of a perceptually organized beat is harder. One isolated strike can be heard as punctuation rather than a new section. Several repetitions may be needed for the Clock to become recognizable. In KLAAT, label two distinct times: first Ankora attack and performer-designated Gate completion. If listeners cluster between them, that is not necessarily a failure; it may indicate a transition zone. The zone must be defined before inspecting their clicks.
+
+
+8. AMASTACIA IS NOT A NEUTRAL BACKDROP
+Amastacia's C# agave drone may change through breath, articulation, harmonic emphasis, or amplitude. Those changes can themselves act as grouping cues. If a major breath accent coincides with Ankora's arrival, the listener's boundary may be driven by either instrument or their combination. Record Field changes as carefully as drum onsets. Do not claim that the drone stabilizes perception until it is compared against an appropriate alternative.
+
+
+9. RISING PULSE MAY BE A SLOPE, NOT A STEP
+Rising Pulse is often described as increasing Surface Pressure: more subdivisions, accents, displacement, or event density while the Scaffold may remain stable. But a slowly rising density trajectory can produce an extended sense of change without a clear onset. A listener may report 'it gradually built' rather than marking a single time. The protocol therefore needs both a boundary-marking task and a separate retrospective question about which portions felt increasingly urgent. A low boundary-click count does not by itself invalidate a continuous Rising Pulse.
+
+
+10. RETURN PATH MAY BE DETECTED BEFORE THE FINAL HIT
+If Ankora progressively removes subdivisions and leaves longer intervals between attacks, listeners may notice withdrawal before the last drum sound. Conversely, some may notice the disappearance only after waiting through an expected next strike. The performer-designated Return Path onset, last Ankora strike, and listener-perceived withdrawal are different markers. Keep them separate. This connects the phase architecture to the Earned Wound without assuming an omission produces a physical impact.
+
+
+11. GRAIN SIZE IS A FIRST-ORDER VARIABLE
+Ask somebody to mark every noticeable change and they may click dozens of times. Ask for the three largest changes and they may click three times. Both can be sensible responses to the same recording. The instruction determines the grain size of segmentation. KLAAT must define a MACRO task (largest structural changes) and, in a separate replay or participant group, a MICRO task (local changes). Never combine the two into one agreement statistic. The four-phase architecture is primarily a macro claim.
+
+
+12. AN AGREEMENT SCORE CAN BE ARTIFICIALLY HIGH
+Imagine a 12-minute recording. One listener marks 4:00, another 4:03. Exact timestamp matching would call this disagreement, although the listeners probably heard the same transition. Now imagine accepting anything within 30 seconds. Nearly every click near a broad region might count as agreement. Both extremes are misleading. A tolerance window is a research decision, not a universal fact. For an initial KLAAT pilot, preselect a narrow window (for example, plus or minus 2 seconds) and a wider sensitivity window (for example, plus or minus 5 seconds). Report both without choosing the more flattering result afterward.
+
+
+13. USE ONE-TO-ONE MATCHING
+If five listener clicks occur around one intended phase transition, they should not count as five successful detections of that one transition. Pair candidate listener marks to reference boundaries one-to-one within the declared tolerance. Extra marks remain unmatched. For each participant and performance, report precision (matched clicks divided by all listener clicks), recall (matched reference boundaries divided by all eligible reference boundaries), and the underlying raw counts. A participant who makes no marks needs an explicit convention for undefined precision rather than a manufactured perfect score.
+
+
+14. CHANCE AGREEMENT IS NOT ZERO
+Three planned boundaries occupy parts of a recording. Even randomly placed clicks can fall near them, particularly if the allowed tolerance is broad. A simple random baseline should preserve the number of clicks made by each listener and sample possible times within the same eligible duration. A stronger sensitivity baseline can circularly shift each listener's whole click pattern, preserving relative spacing, while handling wrap-around and exclusion zones carefully. Neither null is perfect: uniform random clicks ignore natural listening biases, while circular shifts assume that moving the pattern is meaningful despite beginning/end structure. Report results against more than one plausible null rather than choosing the easiest opponent.
+
+
+15. ACOUSTIC CUES ARE A SERIOUS RIVAL EXPLANATION
+Listeners may agree because Ankora becomes louder, because there is a long pause, or because Amastacia changes timbre. These are genuine musical boundaries. But if the claim is that KSV-0.1 explains structure beyond ordinary acoustic change, it must outperform simple acoustic baselines. At minimum record short-time level, onset density, large silences, and a spectral-change proxy. Avoid pretending these four features capture everything listeners hear. Compare a score-derived phase model with acoustic-only predictors, and then with a combined model, on data not used to choose the features or thresholds.
+
+
+16. THE NEGATIVE CONTROL SHOULD BE PLAUSIBLE
+A sham boundary at a completely quiet, unchanging moment is an easy negative control. A more informative control is a large Amastacia breath change or local Ankora accent that is acoustically prominent but was not designated as a macro phase transition. If listeners mark that event, the result may reveal a local boundary, not a failure. What matters is whether the intended three macro transitions show distinctive clustering compared with matched non-transition windows. Choose the control windows before seeing listener marks.
+
+
+17. DO NOT TRAIN AND TEST ON THE SAME TAKE
+If we tune the phase labels, tolerance, and acoustic thresholds after inspecting one performance's listener responses, a high score may simply reflect overfitting. Use one performance to debug the procedure and a second, separately performed take as a held-out test. If possible, use a third take later. Randomly splitting time windows within one take does not provide the same independence as holding out an entire performance. Listeners are nested within performances; several listeners hearing one take do not equal several independent takes.
+
+
+18. THE LISTENER DOES NOT KNOW THE FOUR NAMES
+Asking listeners 'Where did Ground Anchor become Threshold Gate?' would teach them the very structure we are trying to test. Start with an unguided question: 'Mark the few moments when the music entered a substantially different section.' Collect timestamps before explaining KLAAT terminology. Later, a separate descriptive task can ask about perceived qualities such as continuity, pulse clarity, urgency, and withdrawal. A listener can recognize the journey without using our vocabulary.
+
+
+19. AGREEMENT AND EXPERIENCE ARE DISTINCT OUTCOMES
+Suppose most listeners agree that Rising Pulse begins at minute six. That demonstrates shared segmentation. It does not establish that they felt activated, wanted to move, or experienced bodily resonance. Conversely, a passage can be highly activating without a sharply perceived section boundary. Preserve separate outcomes: boundary timing, descriptive phase qualities, urgency, movement impulse, and bodily report. The Somatic Attribution Gate from Session 69 still applies.
+
+
+20. ESTABLISHED EVIDENCE
+ESTABLISHED — People can segment ongoing experience into events, often at multiple hierarchical scales; event segmentation can be influenced by sensory changes and contextual understanding.
+ESTABLISHED — Empirical music studies have found clustering of listener-marked boundaries in some nonstandard and cross-cultural materials.
+ESTABLISHED — Listener segmentation can depend on instruction, musical cue, familiarity, and the level of structure being judged.
+ESTABLISHED — A fixed timestamp from a performance score and a listener's perceived boundary are different observations.
+ESTABLISHED — Agreement statistics depend on the definition of a match and the available chance opportunities.
+
+
+21. CONTEXT-DEPENDENT EVIDENCE
+CONTEXT-DEPENDENT — The reported agreement in contemporary piano music and Indian sitar alap does not predict KLAAT's agreement magnitude.
+CONTEXT-DEPENDENT — An optimal tolerance window depends on passage length, transition sharpness, reaction latency, task, and temporal resolution.
+CONTEXT-DEPENDENT — Boundary tapping during listening may change attention; retrospective replay introduces memory and replay effects.
+CONTEXT-DEPENDENT — Different listeners may identify valid micro and macro structures; low exact-time agreement need not mean no shared broad trajectory.
+CONTEXT-DEPENDENT — A randomized baseline is only as informative as the assumptions used to generate it.
+
+
+22. PLAUSIBLE / TESTABLE KLAAT HYPOTHESES
+PLAUSIBLE/TESTABLE — Naive listeners mark more macro boundaries near predeclared KLAAT phase transitions than expected under count-preserving null models.
+PLAUSIBLE/TESTABLE — Threshold Gate is perceived after Ankora's first strike rather than exactly at its onset.
+PLAUSIBLE/TESTABLE — Rising Pulse is identified more consistently through a trajectory of urgency than through a single click.
+PLAUSIBLE/TESTABLE — Return Path is perceived as withdrawal before or after Ankora's final strike depending on how the Clock was established.
+PLAUSIBLE/TESTABLE — KSV-0.1 features predict held-out macro segmentation better than elapsed time, level, onset density, or silence alone.
+PLAUSIBLE/TESTABLE — Amastacia Field changes shift boundary perception even when Ankora's attack grid is similar.
+
+
+23. SPECULATION
+SPECULATION — KLAAT may have a recognizable four-phase identity across different improvisations without identical bar counts or durations.
+SPECULATION — Its most characteristic macro transitions may occur when a continuous Field and discrete Clock change their relationship, not when either instrument simply becomes louder.
+SPECULATION — A future notation system may need transition zones, trajectory curves, and confidence bands rather than rigid timestamps.
+SPECULATION — Different listeners may arrive at a shared sense of journey while disagreeing about the precise moments at which its phases changed.
+
+
+24. UNSUPPORTED CLAIMS
+UNSUPPORTED — Because Paul intended four phases, listeners necessarily heard four phases.
+UNSUPPORTED — A high match percentage proves the architecture without a chance baseline and held-out test.
+UNSUPPORTED — Listener consensus proves neural entrainment, trance, healing, or a special resonance frequency.
+UNSUPPORTED — A large change in sound level is proof of a deeper phase transition.
+UNSUPPORTED — A missing strike must be heard as a macro boundary.
+UNSUPPORTED — One concert with ten agreeing listeners validates KSV-0.1 across venues and performances.
+UNSUPPORTED — Failure to click an exact second disproves a gradual transition or the authenticity of the listener's experience.
+
+
+25. METHODOLOGY UPDATE — THE BOUNDARY VALIDITY GATE
+KLAAT now adds the BOUNDARY VALIDITY GATE. Preserve the three maps (intended score, delivered acoustics, listener segmentation) separately. Predeclare three primary macro transitions, permissible transition zones, a small set of acoustic controls, and two matching tolerances. Distinguish macro from micro judgments. Use one-to-one matching and show raw counts, precision, recall, timing offsets, and a count-preserving chance baseline. Keep listener responses blind to KLAAT's four names. Hold out an independently performed take. Compare KSV-0.1 against simpler acoustic models. Do not interpret agreement as activation or therapeutic benefit. The State Vector remains provisional: FIELD, CLOCK, SURFACE, WITHDRAWAL. Its validity depends on incremental prediction, not elegant terminology.
+
+
+GOVERNING RULES
+THE SCORE IS AN INTENTION, NOT A LISTENER RESPONSE.
+A BOUNDARY MAY BE A ZONE, NOT A SINGLE SECOND.
+AGREEMENT WITHOUT A CHANCE MODEL IS INCOMPLETE.
+ONE PERFORMANCE IS NOT REPLICATION.
+A SHARED SECTION CHANGE IS NOT PROOF OF BODILY RESONANCE.
+
+
+26. KRX-073 — THE BLIND FOUR-PHASE BOUNDARY PILOT
+Objective: Determine whether listeners unfamiliar with KLAAT's phase names independently identify macro transitions near the three predeclared phase changes, beyond chance and simple acoustic controls.
+
+
+Performance: On two different days, record two uninterrupted 12–15-minute human-performed Amastacia/Ankora pieces. Each must include Ground Anchor, Threshold Gate, Rising Pulse, and Return Path. Before any listener sees the recordings, Paul records the intended transition times or broad zones, first Ankora strike, first stable Clock passage, start of sustained Surface change, beginning of withdrawal, and final Ankora strike. Record major Amastacia breath/spectral shifts and audio level/onset-density features. Do not retime the music or add an electronic instrument.
+
+
+Pilot: Recruit roughly 8–12 consenting listeners for feasibility, not definitive validation. Do not show them the phase names. Let each hear one full take without interruption. Ask first for free descriptions of major changes. In a later replay, ask them to mark only the few largest section changes; in a separate pass or listener group, allow micro-level changes. Counterbalance take order where feasible and log listening position, familiarity, headphones versus speakers, and whether performance video was visible. Keep the primary test audio-only to reduce context confounds.
+
+
+Analysis plan: Use the three predeclared macro boundaries as reference targets. Apply one-to-one matching at predeclared ±2-second and ±5-second tolerances, and separately analyze broader performer-declared zones. Report participant-level counts, precision, recall, timing offset distributions, and aggregate boundary-density plots. Generate at least 1,000 count-preserving random-time null replicates per listener and a spacing-preserving circular-shift sensitivity baseline with stated edge handling. Compare preselected acoustic-only predictors with KSV phase predictors on the held-out second take. Avoid interpreting tiny pilot p-values as definitive evidence; emphasize effect sizes, uncertainty, and feasibility.
+
+
+Negative control: Before seeing results, mark several salient local changes in Amastacia timbre or Ankora accents that are not intended macro phase transitions. Ask whether these attract clicks as frequently as the actual phase transitions. A local change can be real without becoming a macro boundary.
+
+
+Decision rule: If naive listeners cluster around the predeclared transitions more than plausible nulls and this replicates on the held-out take, the four-phase architecture gains preliminary perceptual support. If listeners agree primarily at loudness spikes or rests regardless of phase, simplify the theory toward acoustic grouping. If listeners report a clear rising-and-returning trajectory without sharp boundary clicks, retain a continuous trajectory model and stop demanding point boundaries. If agreement is weak or unstable, redesign the performance cues and repeat; do not claim that the architecture has been validated.
+
+
+DECISIVE QUESTION
+Can listeners who have never heard the names Ground Anchor, Threshold Gate, Rising Pulse, and Return Path nevertheless hear a reproducible large-scale journey as Amastacia holds the Field and Ankora establishes, intensifies, and withdraws the Clock?
+
+
+REFERENCES / SOURCE AUDIT
+Zacks, J. M., Speer, N. K., Swallow, K. M., Braver, T. S., & Reynolds, J. R. (2007). Event perception: a mind-brain perspective. Psychological Bulletin 133, 273–293. DOI 10.1037/0033-2909.133.2.273. https://pubmed.ncbi.nlm.nih.gov/17338600/
+Zacks, J. M., & Swallow, K. M. (2007). Event Segmentation. Current Directions in Psychological Science 16, 80–84. DOI 10.1111/j.1467-8721.2007.00480.x. https://www.psychologicalscience.org/journals/current-directions/j.1467-8721.2007.00480.x/
+Reynolds, J. R., Zacks, J. M., & Braver, T. S. (2007). A Computational Model of Event Segmentation From Perceptual Prediction. Cognitive Science 31, 613–643. DOI 10.1080/15326900701399913. https://onlinelibrary.wiley.com/doi/full/10.1080/15326900701399913
+What Determines the Perception of Segmentation in Contemporary Music? Frontiers in Psychology (2020). DOI 10.3389/fpsyg.2020.01001. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.01001/full
+Popescu, T., Widdess, R., & Rohrmeier, M. (2021). Western listeners detect boundary hierarchy in Indian music: a segmentation study. Scientific Reports 11, 3112. DOI 10.1038/s41598-021-82629-y. https://www.nature.com/articles/s41598-021-82629-y
+Bruderer, M. J., McKinney, M. F., & Kohlrausch, A. (2010). The perception of structural boundaries in polyphonic representations of Western popular music. DOI 10.1177/10298649100140S107. https://journals.sagepub.com/doi/10.1177/10298649100140S107
+
+
+PROVENANCE AND NEXT DIRECTION
+This is a literature-informed protocol, not a report of completed KLAAT participant data. The latest Hourly Research file is dated October 5, 2026, 6:33 PM CDT. The next research bottleneck is collecting two independently performed takes and blinded listener segmentation. Without those observations, further claims about the architecture's efficacy remain hypotheses. No hourly notes were edited or deleted.
+END OF SESSION 73

@@ -1,0 +1,305 @@
+KLAAT RESONANCE RESEARCH — SESSION 87
+THE CHAPTERS NO ONE COMPOSED
+How listeners find boundaries inside continuous drone, pulse, and spontaneous change
+Published: October 14, 2026 — 3:14 PM CDT (America/Chicago)
+Guiding principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+CENTRAL FINDING
+
+
+KLAAT does not need conventional song sections—or even a deliberate transition—to have perceptible structure. The listener's auditory system can organize a continuous performance into moments, phrases, and larger episodes. But the chapters a listener hears may not correspond to what Paul consciously intended, to the largest waveform peaks, or to what another listener remembers.
+
+
+This distinction follows directly from Session 86. That study separated actual duration, estimated duration, the feeling that time passed quickly, and remembered landmarks. It left one major mechanism unresolved: WHERE DO THOSE REMEMBERED LANDMARKS COME FROM? If a ten-minute KLAAT performance is experienced as one uninterrupted world, how does a listener nevertheless recall a drum entrance, an overtone transformation, a breath-texture shift, or a moment of release? Conversely, if a recording contains hundreds of Ankora attacks, why might the listener remember only three or four larger movements?
+
+
+Two especially relevant primary studies appeared in 2026. One directly compared perceptual segmentation of pulsed and unpulsed music, including sparse drone-like material. Another found that listeners could identify musical phrase boundaries even when those boundaries did not recur at predictable time intervals. Their results make a stronger case for studying the ORGANIZATION listeners actually hear than for inventing new KLAAT section rules.
+
+
+GOVERNING PROPOSITION: THE PERFORMER CREATES A CONTINUOUS EVENT; THE LISTENER MAY DISCOVER CHAPTERS WITHIN IT. THE RESEARCH MUST NOT MISTAKE THOSE CHAPTERS FOR A SCORE.
+
+
+1. FOUR DIFFERENT KINDS OF BOUNDARY
+
+
+An acoustic change is something measurable in the sound: an increase in Ankora's attack rate, a change in Amastacia's harmonic balance, a pause, a sudden rough breath, a shift in loudness, or a reduction in low-frequency energy. An acoustic change is not automatically a perceptual boundary.
+
+
+A perceived boundary is the moment a listener feels that one meaningful part has ended or another has begun. The feeling may arise from one strong acoustic cue, several weaker cues, accumulated expectation, or the listener's own attentional state. It may occur slightly before or after an easily measurable change.
+
+
+A remembered landmark is a moment someone can report after the performance. A listener may perceive many transitions while listening but remember only a few. Another may remember a powerful image or bodily sensation without being able to locate its acoustic trigger.
+
+
+A performer-defined boundary is Paul's own sense that a new gesture, texture, or direction emerged while playing. Because KLAAT is largely improvised, this can be a retrospective interpretation rather than a preplanned instruction. It is not an objective reference against which listeners must be judged correct or incorrect.
+
+
+The four categories—acoustic, perceived, remembered, performer-defined—are related but non-equivalent. The next KLAAT methodology needs to preserve their differences.
+
+
+2. THE NEW 2026 STUDY CLOSEST TO KLAAT'S ACTUAL SOUND WORLD
+
+
+Dean and Taylor (2026), in Psychological Research, tested 65 non-musicians with 26 excerpts spanning pulsed and unpulsed, sparse and dense music. Listeners tapped to indicate what they considered segmentation points. The researchers compared the responses with event timing and acoustic features, using time-series models. Crucially, the material was not restricted to familiar Western songs: it included unusual, sparse, continuous, and culturally diverse music. One analyzed example was a Sufi meditation excerpt combining drone and a melodic wind instrument.
+
+
+The authors found that segmentation behavior differed with event density and pulsedness. In sparse, spacious excerpts, listeners tended to mark fewer and more widely separated events. In denser excerpts, their behavior more often reflected a simplified account of complex activity rather than a response to every onset. Spectral centroid, spectral flux, spectral complexity, and intensity-related features were among the predictors of boundary marking. Liking, familiarity, and reported difficulty of tapping did not add explanatory variance in their fitted analysis.
+
+
+One descriptive contrast is useful: several of the spacious pieces yielded mean intervals between a participant's taps longer than 3.5 seconds, with one example reaching approximately 13.5 seconds, whereas denser/pulsed pieces more often produced mean intervals around 1 to 3.5 seconds. These are properties of this stimulus set and task, not prescriptions for how long a KLAAT episode should last.
+
+
+The study is unusually relevant because Amastacia can provide a spacious, nearly continuous field while Ankora adds discrete, sometimes dense events. Yet the limitations are just as important. Participants were asked to tap; that task can alter attention and motor organization. They were not asked to sit through a long KLAAT improvisation and describe its effect. The excerpts varied greatly in genre and production, so sparse-versus-dense comparisons were not pure manipulations of event density. The authors' onset detector worked in 500-millisecond slices, sometimes missing or collapsing multiple perceptible events. A computed onset count therefore cannot be treated as a perfect measure of what listeners heard.
+
+
+This is a reason to keep the study, not to overclaim it. Its core contribution is that the listener's way of partitioning music changes with the sound's event structure. It does not establish a universal segmentation algorithm, optimal density, or trance mechanism. [S1]
+
+
+3. THE 2026 COUNTERPOINT: BOUNDARIES NEED NOT ARRIVE ON SCHEDULE
+
+
+Hołubowska, Teng, and Larrouy-Maestri (2026) tested 35 participants with limited musical training using melodic material derived from Bach fugue themes. The researchers compared passages with regularly timed phrase boundaries, irregularly timed boundaries, and shuffled control material that disrupted larger-scale structure. They collected behavioral boundary judgments and EEG data. Two participants lacked usable EEG, but behavioral analyses included the recruited sample.
+
+
+The crucial finding was that listeners detected phrase boundaries in both regular and irregular conditions. The difference between the two structured conditions was not statistically significant in the reported behavioral comparison (adjusted p = .444), while both outperformed shuffled controls (adjusted p < .0001). Thus, predictably spaced phrases were not necessary for boundary detection in these materials. Phrase lengths in the irregular condition varied from 3 to 30 beats.
+
+
+There is an essential caveat buried beneath that headline: overall inter-listener agreement was modest. The authors report mean Krippendorff's alpha of about .08 across conditions, despite statistically meaningful differences between structured and shuffled music. Some people marked many boundaries and others very few. Musical training related to some detection measures. This does not demonstrate that every listener hears the same structure.
+
+
+The study's EEG results suggest neural tracking of phrase structure even when phrase lengths were irregular. But the stimuli were pitched, harmonically organized Bach-derived melodies played with piano-like timbre. The investigators also deliberately strengthened some phrase-ending cues after pilot testing. They did not test an agave didgeridoo, a frame drum, continuous noise texture, or free improvisation.
+
+
+For KLAAT, the important inference is narrow but liberating: a meaningful change does not need to recur every four, eight, or sixteen beats to be recognizable. Paul does not need to arrange Amastacia and Ankora into regular phrase lengths simply because rhythmic predictability is scientifically interesting. The music can remain spontaneous; the listener may still detect structure. [S2]
+
+
+4. WHAT NATURALISTIC BRAIN RESEARCH ADDS—AND DOES NOT ADD
+
+
+Burunat, Levitin, and Toiviainen (2024) examined finer-grained musical boundaries with fMRI in 18 musicians and 18 nonmusicians. They reported changes in auditory and fronto-temporal-parietal network activity around musical boundaries, including activity before the boundaries, and modulation by musicianship. This supports the view that musical boundaries are not merely loud transients registered by the ear; larger musical context can matter.
+
+
+Williams and colleagues (2022) recorded fMRI from 25 people listening to a continuous playlist of 16 musical excerpts. A separate group annotated meaningful changes. Neural pattern boundaries in auditory and higher-order regions aligned with aspects of the human annotations. That result suggests the brain represents some larger-scale musical event structure during listening. It does not establish that the brain is dividing KLAAT into the four names in our artistic vocabulary, nor that a neural pattern shift means trance, healing, or greater enjoyment.
+
+
+An older experiment by Sridharan and colleagues (2007) found coordinated neural responses around transitions between symphonic movements, including moments of silence. This is an especially useful warning against the idea that only increases in acoustic energy can mark a boundary. A withdrawal can be salient. But a long orchestral movement break is not equivalent to a breath-sized change in Amastacia or a temporary thinning of Ankora.
+
+
+All three studies are observational or correlational with respect to the listening experience. fMRI blood-oxygen signals are indirect measures of neural activity. A brain response at a boundary is not proof of the psychological meaning, pleasantness, bodily intensity, or altered awareness of that moment. [S3–S5]
+
+
+5. THE OLDER CONTRADICTION: PEOPLE DO NOT ALWAYS AGREE
+
+
+Bruderer, McKinney, and Kohlrausch studied listeners' boundary judgments in Western popular music, including monophonic melodic representations (2009) and polyphonic versions (2010). They found that boundary judgments varied across people, even th
+
+
+========================================
+
+
+ough some musical changes reliably attracted many responses. In polyphonic music, listeners often identified harmonic, rhythmic, timbral, and tempo changes as cues.
+
+
+This offers a useful corrective to any temptation to draw one authoritative chapter map for KLAAT. We may eventually find strong clusters of agreement: perhaps many listeners independently hear a transition when Ankora first enters or when Amastacia shifts into a conspicuously rough texture. We may also find personal, nonoverlapping boundaries. Both results are informative.
+
+
+A boundary that only one listener marks is not necessarily an error. It may reflect a private attentional focus, familiarity with a particular texture, or a meaningful but subtle acoustic detail. On the other hand, one person's striking description cannot establish that a change is reliably perceived across listeners. [S6–S7]
+
+
+6. AMASTACIA: A FIELD THAT CAN CHANGE WITHOUT ENDING
+
+
+Amastacia, the C# agave didgeridoo, is capable of a sustained sound whose identity persists while its spectral balance, breath articulation, roughness, loudness, and resonant emphasis change. A listener can hear a continuous instrument and still perceive that the performance has entered a new region. The beginning of that region might not be a silence or an attack. It might be a gradual accumulation of higher harmonics, a new grain in the breath, or the sense that the drone has become more urgent.
+
+
+This introduces an important scale problem. A spectrogram may show dozens of tiny spectral fluctuations over ten seconds. A listener may hear them as one evolving gesture. Another listener may treat one unusually prominent change as a boundary. The waveform does not contain a label saying where the meaningful chapter begins.
+
+
+Because Amastacia is physically breath-driven, the research must also distinguish circular-breathing transitions from perceived musical transitions. Session 82 separated Paul's inhale, the audible breath, and listener breathing. Session 83 separated physical continuity, masking, and perceptual restoration. Session 87 adds a fourth question: even when the drone is physically continuous, does a listener experience a larger-scale boundary in its changing character?
+
+
+A smooth circular breath is a technical skill. A clearly heard breath can be an expressive event. Neither must be made invisible or conspicuous for the sake of a scientific hypothesis.
+
+
+7. ANKORA: HUNDREDS OF ATTACKS, A FEW REMEMBERED MOMENTS
+
+
+Ankora's elk-hide membrane produces discrete strikes with changing attack, decay, loudness, timbre, and timing. The provisional reference of approximately 137 BPM describes one earlier recording, not a required tempo. At that rate, there are roughly 2.28 primary beats per second, before subdivisions. A ten-minute recording could therefore contain far more rhythmic events than any listener would consciously recall.
+
+
+Listeners need not treat every strike as a new episode. Ankora's repetitions may be grouped into one stable rhythmic passage. A denser pattern may still be perceived as one continuing movement. Conversely, a very small shift in accent, a sudden dropout, or a change in interaction with Amastacia might feel like the start of something new.
+
+
+This is not a recommendation to add accents, remove attacks, or create a dramatic break. It is a reason to examine which naturally occurring changes listeners notice. Technical practice in hand coordination, transitions, and fluency can give Paul more expressive freedom without turning the drum into a prescribed structure machine.
+
+
+8. THE INTERACTION: A CHAPTER CAN BE RELATIONAL
+
+
+Some KLAAT transitions may reside neither in Amastacia nor Ankora considered alone. The perceived change could arise from the relationship between them: Ankora's attack becoming more exposed as Amastacia softens; Amastacia's rough breath emerging between strikes; a change in how the drum's decay overlaps the drone; or a moment when both instruments seem to occupy the same dynamic space.
+
+
+These are candidate acoustic relationships, not verified observations from a measured KLAAT recording. They illustrate why analysis of isolated instrument features can miss a musically important event. A listener may respond to the relationship between sounds, not to the strongest individual signal change.
+
+
+The same principle applies to room and playback. A small speaker might preserve Ankora's timing while reducing Amastacia's low-frequency weight. A room with strong resonances may exaggerate a particular overtone. Session 80's Delivery-Chain Gate therefore still applies: perceived chapter maps collected through different playback conditions should not be pooled as though the acoustic stimulus were identical.
+
+
+9. A PERCEPTUAL CHAPTER IS NOT A MEASURE OF PLEASURE
+
+
+An event boundary is a perceptual organization judgment. Enjoyment is an evaluation. Absorption is a report about involvement. Activation is a report about energy or alertness, unless a physiological measurement is separately obtained. A boundary could be thrilling, calming, jarring, welcome, unwelcome, or barely noticed.
+
+
+A listener who marks many boundaries is not necessarily more absorbed. A listener who marks none may still be deeply engaged. A person listening to KLAAT while drawing may benefit from its continuous momentum while forming few explicit chapter memories. A person listening in the dark may describe a series of vivid transformations. Neither mode is scientifically privileged or artistically mandatory.
+
+
+This is particularly important because KLAAT is not exclusively a ritual or meditation product. It is also intended as an energizing soundtrack for everyday life. The same performance can be heard as foreground journey, bodily rhythm, creative atmosphere, or background momentum. We should not confuse those uses with different musical compositions until we have actual observations.
+
+
+10. WHAT THE FOUR-PHASE LANGUAGE CAN AND CANNOT DO
+
+
+Ground Anchor, Threshold Gate, Rising Pulse, and Return Path remain a useful artistic vocabulary for describing possible developments in KLAAT. They are not obligatory stages, a template for every recording, or a scientific model that has been validated against listeners.
+
+
+Ground Anchor might retrospectively describe a listener's first recognition of Amastacia's stable world. Threshold Gate might describe a perceived change in rhythmic organization, including Ankora's entrance. Rising Pulse might name a felt accumulation of urgency that need not involve any fixed tempo change. Return Path might describe a thinning or release. But a real recording could contain several thresholds, no clear rise, a return followed by a second surge, or no listener-agreed boundary at all.
+
+
+The methodological advance is to reverse the direction of inference. Do not draw four vertical lines on a waveform and then ask listeners to confirm them. Collect the listener's own account first; only afterward ask whether any of our retrospective labels help describe what actually occurred. If the map doesn't fit, change the map, not the music.
+
+
+11. THE LINK TO SESSION 86: TIME AND CHAPTERS ARE DIFFERENT
+
+
+Session 86 showed that retrospective duration estimates can depend on remembered segments. Session 87 makes that claim more precise. An objective recording can have an exact duration, hundreds of measurable onsets, a handful of agreed perceived transitions, and perhaps only one or two memorable landmarks for a given listener.
+
+
+A listener might remember a powerful Ankora entrance and therefore reconstruct the session as a sequence of events. Another might experience the same passage as a single flowing environment and later estimate its length differently. This is a hypothesis about KLAAT, not a demonstrated causal pathway.
+
+
+If we want to study time and event structure together, we must avoid telling listeners in advance to search for boundaries. That instruction can change attention and thereby contaminate both the segmentation and time-perception questions. An initial free listening and recall pass, followed by an optional second pass devoted to marking boundaries, is a more respectful exploratory method. It still introduces order and exposure effects; those must be recorded.
+
+
+12. WHY ACOUSTIC FEATURE EXTRACTION CANNOT REPLACE A LISTENER
+
+
+Several computable features may help locate candidate changes: short-time RMS energy for loudness-related shifts; spectral centroid for brightness; spectral flux for frame-to-frame spectral change; onset strength and inter-onset intervals for attack patterns; and low-frequency band energy for drone weight. These features are measurements or proxies, not psychological states.
+
+
+A sudden centroid increase might correspond to Amastacia emphasizing upper harmonics, but it could also reflect Ankora's brighter attack, microphone movement, or noise. An RMS rise might result from a stronger drum strike without creating a new chapter. A stable RMS may conceal a meaningful change in texture or interaction. Feature windows, smoothing, microphone placement, and the mix all influence the result.
+
+
+A practical rule follows: collect human annotations without showing a spectrogram first. Then inspect acoustic features around the reported moments and compare them with equally sized unmarked windows. If a feature seems to distinguish reported boundaries, repeat with another take and listeners. Do not retroactively select whichever feature happens to fit one compelling story.
+
+
+13. EVIDENCE CLASSIFICATION — ESTABLISHED
+
+
+Within the studied conditions, listeners can segment ongoing music into meaningful regions. Pulsedness, event density, spectral changes, and musical context can influence where boundaries are marked. Structured phrase boundaries can be detected without fixed temporal spacing. Music-related neural activity can change around perceived or music-theoretically identified boundaries. Individuals vary substantially in where and how often they report transitions.
+
+
+These findings are supported by behavioral experiments and neuroimaging/EEG studies, but the experiments use different tasks and materials. They establish general perceptual capacities and associations, not a universal listener response to every style of music. [S1–S7]
+
+
+14. EVIDENCE CLASSIFICATION — CONTEXT-DEPENDENT
+
+
+The 2026 pulsed/unpulsed study used a diverse set of 26 short excerpts and an instructed tapping task; genre and density were not independently controlled across all comparisons. The 2026 phrase study used Bach-derived MIDI melodies with explicit musical boundary cues and a separate boundary-marking task; group-level accuracy coexisted with modest inter-listener agreement. The 2024 and 2022 neuroimaging studies used musical materials and analysis methods different from KLAAT. The 2007 symphonic study involved unusually salient movement boundaries.
+
+
+Therefore, neither the size of an effect nor the best acoustic predictor can be imported directly into a spontaneous Amastacia–Ankora recording. The definition of a boundary, whether it is marked online or recalled later, listener familiarity, device, room, movement, and listening task can all change the result.
+
+
+15. EVIDENCE CLASSIFICATION — PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
+
+
+H1: Listeners may identify some shared episode boundaries in authentic KLAAT recordings despite the absence of a score or regular section lengths.
+
+
+H2: In Amastacia-dominant passages, listeners may report relatively long perceptual episodes despite continuous acoustic microvariation.
+
+
+H3: Ankora's changing density may alter the number of perceived boundaries, but the relation may not be linear: dense attacks could be grouped into one larger rhythmic movement.
+
+
+H4: Relational changes between drone and pulse may predict some perceived boundaries better than loudness or onset counts alone.
+
+
+H5: Listeners' recalled landmarks may relate to retrospective duration estimates without determining passage-of-time ratings or absorption.
+
+
+These are predictions for actual KLAAT listening tests. None is a demonstrated property of the project.
+
+
+16. EVIDENCE CLASSIFICATION — SPECULATION
+
+
+KLAAT's long-form improvisation might create a recognizable journey whose chapters are co-authored perceptually by each listener. Its ancient or archaeosonic identity might be strengthened by the experience of moving through an unfamiliar but continuous sound world. Some of Paul's most instinctive transitions might be more perceptually legible than deliberate ones, or the reverse. Different listeners might hear different journeys in the same take.
+
+
+These ideas are artistically fertile, but there is no evidence yet that KLAAT's aesthetic causes these outcomes, that spontaneous playing is intrinsically superior for segmentation, or that any particular chapter map is universal.
+
+
+17. EVIDENCE CLASSIFICATION — UNSUPPORTED CLAIMS
+
+
+Do not claim that every Amastacia overtone change is a new perceptual event, that every Ankora attack is a remembered landmark, or that a spectrogram can objectively identify KLAAT's artistic chapters. Do not equate inter-listener agreement with musical quality or low agreement with failure. Do not claim that EEG power changes at phrase boundaries demonstrate theta entrainment, altered consciousness, autonomic regulation, healing, or transmission of Paul's trance-like state. Do not assign unique effects to C#, approximately 137 BPM, or the four-phase vocabulary. No KLAAT-specific neural or physiological listener effect has yet been established.
+
+
+18. METHODOLOGY UPDATE — THE LISTENER-DEFINED CHAPTER GATE
+
+
+Session 87 adds a measurement safeguard, not a performance rule. Before any KLAAT analysis labels a moment a meaningful boundary, preserve four records independently: (A) the unedited audio and its objectively measurable changes; (B) the listener's spontaneous first account and any later marked boundaries; (C) the listener's remembered landmarks and separate ratings of absorption, energy, enjoyment, and time; and (D) Paul's own post-performance account, if available. A feature detected by software is not a listener judgment. A listener judgment is not a physiological measurement. A performer interpretation is not the listener's ground truth.
+
+
+The provisional KSV-0.1 framework [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL] and the four-phase names remain optional retrospective descriptions. No new fifth state variable, tempo prescription, composition chart, or mandatory boundary count is introduced.
+
+
+The strongest research direction now is to obtain at least one authentic longer recording and actual listener annotations. If KLAAT listeners do not agree on boundaries, that is data, not a mandate to change the music. If they do agree, compare those locations with acoustic features and independently reported experience before offering a mechanism.
+
+
+19. ONE OPTIONAL KLAAT OBSERVATION — KRX-087, THE UNWRITTEN MAP
+
+
+Choose one existing, unedited KLAAT take of roughly 8–15 minutes containing Amastacia and Ankora. Invite about six to ten willing listeners who have not heard that exact take. Let them listen normally at comfortable volume, without showing a timeline, section names, waveform, or stated hypothesis. Do not tell them to search for a climax, enter trance, follow a ritual, or synchronize movement.
+
+
+Immediately afterward, ask only: “What parts or moments stayed with you?” Record their words without converting them into our four-phase vocabulary. Ask separately whether the experience felt continuous or divided into distinct parts, and collect independent ratings for absorption, felt energy, and enjoyment. If time perception is of interest, ask the separate passage-of-time and duration questions from Session 86, recording that this was a retrospective question.
+
+
+Only on a SECOND hearing, invite listeners to mark the moments when they feel a meaningful change or a new episode begins. Allow them to mark none, one, or many. A simple timestamped note or phone recording of spoken “change” is enough; there is no need for an EEG device or specialized software. Keep first-listen recall and second-listen marking separate because repetition can itself change what is heard. Record device, volume comfort, listening context, prior KLAAT familiarity, and whether they moved or multitasked.
+
+
+Afterward, compare boundary marks across listeners using a predeclared loose time tolerance appropriate to the excerpt (for example ±3 seconds for an initial descriptive visualization), while retaining the raw timestamps. A cluster is suggestive only if it is stronger than the coincidence expected from each person's number of marks and the available duration; a simple circularly shifted timestamp comparison can serve as an exploratory null, but it is not a formal proof. Listen again around shared marks and equally sized unmarked control moments. Inspect waveform or spectral features only after the listener map exists. Do not alter the recording to make the map neater.
+
+
+This is one exploratory listener observation, not a blinded causal trial. Six to ten people cannot validate a neurological theory. But it can show whether the existing KLAAT sound already contains listener-recognized chapters, what they are, and whether those chapters correspond to meaningful experiences.
+
+
+DECISIVE QUESTION
+
+
+IF PAUL NEVER DREW THE CHAPTER LINES, WHERE DO LISTENERS HEAR THEM—AND WHICH OF THOSE LINES ACTUALLY MATTER TO THEIR EXPERIENCE?
+
+
+PRIMARY RESEARCH SOURCES (CHECKED OCTOBER 14, 2026)
+
+
+[S1] Dean, R. T., & Taylor, J. R. (2026). Comparing perceptual segmentation in pulsed and unpulsed music with diverse event densities. Psychological Research 90, article 165. Published September 11, 2026. N=65; 26 excerpts. DOI: 10.1007/s00426-026-02371-w. https://doi.org/10.1007/s00426-026-02371-w
+[S2] Hołubowska, Z. A., Teng, X., & Larrouy-Maestri, P. (2026). Neural and Behavioral Tracking of Musical Phrases Occurs Without Temporal Regularity. European Journal of Neuroscience 63(7), e70481. Published April 12, 2026. N=35 behavior; EEG N=33 after exclusions. DOI: 10.1111/ejn.70481. https://doi.org/10.1111/ejn.70481
+[S3] Burunat, I., Levitin, D. J., & Toiviainen, P. (2024). Breaking (musical) boundaries by investigating brain dynamics of event segmentation during real-life music-listening. PNAS 121(36), e2319459121. N=36. DOI: 10.1073/pnas.2319459121. https://doi.org/10.1073/pnas.2319459121
+[S4] Williams, J. A., Margulis, E. H., Nastase, S. A., Chen, J., Hasson, U., Norman, K. A., & Baldassano, C. (2022). High-Order Areas and Auditory Cortex Both Represent the High-Level Event Structure of Music. Journal of Cognitive Neuroscience 34(4), 699–714. N=25 fMRI. DOI: 10.1162/jocn_a_01815. https://doi.org/10.1162/jocn_a_01815
+[S5] Sridharan, D., Levitin, D. J., Chafe, C. H., Berger, J., & Menon, V. (2007). Neural Dynamics of Event Segmentation in Music: Converging Evidence for Dissociable Ventral and Dorsal Networks. Neuron 55(3), 521–532. DOI: 10.1016/j.neuron.2007.07.003. https://doi.org/10.1016/j.neuron.2007.07.003
+[S6] Bruderer, M. J., McKinney, M. F., & Kohlrausch, A. (2009). The perception of structural boundaries in melody lines of Western popular music. Musicae Scientiae 13(2). DOI: 10.1177/102986490901300204. https://doi.org/10.1177/102986490901300204
+[S7] Bruderer, M. J., McKinney, M. F., & Kohlrausch, A. (2010). The perception of structural boundaries in polyphonic representations of Western popular music. Musicae Scientiae 14(1_suppl). DOI: 10.1177/10298649100140S107. https://doi.org/10.1177/10298649100140S107
+
+
+PROVENANCE AND CONTINUITY
+
+
+Before drafting, the connected KLAAT Master Instructions, Curriculum Index, Research Ledger and Session Corpus were consulted. The ChatGPT Library Hourly Research folder was inspected; its newest available note was October 5, 2026 at 18:33 CDT, predating Session 86. That note concerned multi-input whole-body mechanical coupling, a still-open engineering question but not a new hourly result since the previous publication. No hourly notes were changed. The immediately preceding published study was Session 86 (October 14, morning). This session develops Session 86's unresolved remembered-landmark mechanism while adding new 2026 primary research specifically on sparse versus dense and irregularly structured musical segmentation. Existing incomplete Drive mirrors for Sessions 80, 82, 85, and 86 remain separate backlog items.
+
+
+END OF SESSION 87

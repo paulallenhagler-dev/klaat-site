@@ -1,0 +1,250 @@
+KLAAT RESONANCE RESEARCH — SESSION 125
+WHEN EIGHT VOICES BECOME A CLAIM
+Small-sample uncertainty, binary listener reports, and what KLAAT's first pilot can actually establish
+
+
+Published: October 27, 2026 — 08:23 CDT (America/Chicago)
+Guiding principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+RESEARCH STATUS
+Critical synthesis of original statistical methods and pilot-design literature, applied to the existing KLS-001 plan. All numerical KLAAT examples below are invented illustrations, not observations. No KLAAT listener data, waveform analysis, neural recording, physiological effect, trance induction, therapeutic outcome, or population prevalence has been demonstrated.
+
+
+THE QUESTION
+
+
+Imagine that Paul shares one uninterrupted Amastacia–Ankora recording with twelve people. Eight say that they noticed a bodily sensation. It would be natural to describe the result as “two-thirds of listeners felt KLAAT in their bodies.” The arithmetic is correct: 8/12 is 66.7%. But what exactly does that percentage mean? How much could it vary with twelve different people? What if the listeners are friends, some hear through phone speakers, several hear multiple takes, or the question itself prompts them to search for a bodily sensation?
+
+
+The central finding is simple and surprisingly consequential: A COUNT is an observation. A PERCENTAGE is a description of that count. A POPULATION CLAIM requires a defined population, a defensible sampling process, and uncertainty appropriate to the design. A MECHANISTIC CLAIM requires still more. These are not interchangeable achievements.
+
+
+This matters because KLAAT has a real empirical plan rather than merely an aesthetic manifesto. KLS-001 calls for twelve authentic takes across at least four recording days, a locked subset of four to six takes, and eight to fifteen exploratory listeners. The listener protocol preserves unprompted language before structured 0–10 ratings, and the analysis plan emphasizes description, null findings, and replication. Those are valuable safeguards. Yet once the first responses arrive, the temptation to turn a vivid count into a sweeping headline will be strongest precisely when the work feels most personal.
+
+
+KLAAT does not need a dramatic percentage to be real art. It needs accurate language for what the first people actually experienced.
+
+
+1. THE HARD NOVELTY GATE: A DIFFERENT PROBLEM FROM SELECTION BIAS
+
+
+The connected Master Instructions, Curriculum Index, Research Ledger, both Session Corpora through Session 124, and the KLS-001 Baseline Recording + Listener Pilot Protocol, Analysis Plan, and Pre-Analysis Record were consulted. The canonical ChatGPT Library Published Studies and Hourly Research notes through October 27, 07:21 CDT were checked. The Curation Queue was empty at the start of this run.
+
+
+Adjacent work already asks who volunteers (hourly October 18, 15:09), who finishes listening (October 19, 20:20), how post-listen wording changes reports (October 26, 23:15), whether Paul is present while someone praises the music (October 27, 05:18), how noisy extreme performer-flow ratings affect selected takes (October 27, 07:21), and whether nested recordings or time windows are independent (Session 118 and October 27, 06:14). Session 97 distinguishes experience from memory; Session 124 concerns the performer's attentional focus.
+
+
+This session does not repeat those questions. It isolates a different mathematical problem: EVEN IF a sample were independently and fairly drawn from a defined population, how much uncertainty remains around a binary report when only eight to fifteen people answer? What do zero reports and unanimous reports actually exclude? Which interval estimators work at these sample sizes? What, if anything, should KLAAT report when the assumptions for population inference do not hold?
+
+
+The answer has two layers. First, the sampling uncertainty under an idealized binomial model is wide. Second, KLS-001 is a deliberately nonrepresentative pilot, so even a mathematically correct interval is not automatically an interval for “people in general.” That second layer does not cancel the first; both must be kept visible.
+
+
+2. WHAT IS THE EVENT WE ARE COUNTING?
+
+
+A listener saying “I felt something in my chest” is a valid report of that listener's experience and language. It is not automatically evidence of chest-wall acceleration, acoustic pressure at the chest, vagal activation, entrained respiration, or a neural state. To count such reports, an analyst must specify the event being counted before inspecting the answers.
+
+
+Consider at least four distinct candidate events:
+
+
+A. UNPROMPTED SOMATIC MENTION: The listener spontaneously mentions a bodily sensation in the initial unrestricted answer, before any body-specific question.
+B. PROMPTED SOMATIC MENTION: The listener mentions a sensation only after being asked whether anything happened in the body.
+C. STRUCTURED BODY RATING: The listener supplies a value on the 0–10 bodily_sensation scale.
+D. OBJECTIVE PHYSICAL/PHYSIOLOGICAL RESPONSE: A calibrated sensor measures a defined mechanical or physiological quantity under controlled conditions.
+
+
+These are not four interchangeable ways of measuring one hidden fact. A person may rate bodily sensation 7/10 but never mention it spontaneously; another may describe a strong internal movement but rate the scale 3/10 because “strong” means something different to them. A sensor could detect measurable vibration without a conscious report, or a conscious report could occur without a corresponding sensor signal. None of those combinations is necessarily dishonest.
+
+
+A count such as “8 of 12 reported bodily sensation” is uninterpretable without a rule stating which of A, B, or C qualified. For D, the denominator may instead be the number of usable sensor recordings, and the endpoint must be specified independently. KLS-001's first-listen question list currently includes a body-specific prompt; it should not be silently described as entirely unprompted somatic evidence. This is a data-labeling distinction, not an instruction to alter the music or retroactively change a locked protocol.
+
+
+Dichotomizing a 0–10 score also creates a new, analyst-chosen threshold. Calling 7–10 “activated” and 0–6 “not activated” after seeing the ratings can manufacture an attractive proportion. A value of 6 is not necessarily a qualitatively different state from 7. Preserve the original distribution, exact wording, missing responses, and context. If a binary code is needed, its rule should be declared and its limitations reported.
+
+
+3. THE BINOMIAL MODEL: USEFUL BECAUSE IT IS SO DEMANDING
+
+
+The simplest mathematical model assumes n independent observations, each with the same fixed probability p of a precisely defined binary event. Under that model, the observed count X follows a binomial distribution. The sample proportion p-hat = X/n estimates p. This model is useful for demonstrating uncertainty, but it is not a description of how KLAAT's actual pilot will necessarily be recruited or heard.
+
+
+Why are eight reports out of twelve uncertain? Because many different true probabilities can produce eight successes in twelve independent trials with non-negligible probability. The observation is not a precise thermometer for p. Repeating the study with twelve new, independent, identically recruited people could produce a noticeably different count even if the underlying probability remained unchanged.
+
+
+The familiar textbook interval p-hat plus or minus 1.96 times sqrt[p-hat(1-p-hat)/n] is called the Wald interval. It is especially unreliable at small n and near zero or one. At X=0 or X=n, its estimated standard error becomes zero, producing a misleading zero-width interval. This is not a minor rounding issue. Agresti and Coull (1998) and Brown, Cai, and DasGupta (2001) analyzed its coverage failures and recommended better approaches for small samples.
+
+
+Edwin Wilson's 1927 score interval avoids that particular pathology by inverting a score test using the null-model variance. Clopper and Pearson's 1934 interval inverts exact binomial tests. The Clopper–Pearson procedure generally covers the true p at least as often as its nominal confidence level under the model, often at the cost of conservatively wide intervals. Wilson intervals have good practical coverage behavior in many small-n settings but are approximate and do not guarantee 95% coverage at every p. Brown and colleagues also discuss Jeffreys-prior intervals; the choice of method should be declared, not selected after comparing which bound makes KLAAT look most impressive.
+
+
+A confidence interval does NOT mean there is a 95% probability that a fixed p lies inside the particular realized interval. In the conventional frequentist interpretation, the construction method captures the fixed parameter in a specified fraction of hypothetical repeated samples under its assumptions. For an exploratory convenience sample, even that hypothetical population-sampling interpretation is not automatically available.
+
+
+4. FOUR CALCULATED EXAMPLES — ALL HYPOTHETICAL
+
+
+The following intervals were computed from the standard Wilson score formula with z=1.9599639845 and no continuity correction. They are 95% two-sided intervals for a hypothetical binomial probability under independent, identically distributed Bernoulli sampling. They are NOT KLAAT estimates and should not be applied to a convenience sample as population guarantees.
+
+
+EXAMPLE A: EIGHT OF TWELVE SAY YES.
+Observed proportion: 8/12 = 66.7%.
+95% Wilson interval: approximately 39.1% to 86.2%.
+95% Clopper–Pearson interval: approximately 34.9% to 90.1%.
+
+
+The headline “67%” hides a broad range of probabilities that remain compatible with this small hypothetical sample under the respective procedures. The Wilson and Clopper–Pearson methods disagree somewhat because they make different coverage-versus-width tradeoffs. Neither resolves volunteer selection or response-wording bias.
+
+
+EXAMPLE B: TEN OF TWELVE SAY YES.
+Observed proportion: 10/12 = 83.3%.
+95% Wilson interval: approximately 55.2% to 95.3%.
+
+
+A large majority of this tiny sample is a legitimate description. It does not show that a large majority of all future KLAAT listeners will respond similarly, or that the music caused the report rather than eliciting it within a particular listening context.
+
+
+EXAMPLE C: ALL TWELVE SAY YES.
+Observed proportion: 12/12 = 100%.
+95% Wilson interval: approximately 75.8% to 100%.
+95% Clopper–Pearson interval: approximately 73.5% to 100%.
+
+
+Unanimity in twelve observations does not prove a universal response. A zero-width Wald interval would be especially misleading here. A real-world KLAAT sample in which every volunteer gives praise could reflect genuine shared enjoyment, a selected audience, a common prompt, a social context, or several causes together. The data alone do not choose among them.
+
+
+EXAMPLE D: NOBODY REPORTS DISCOMFORT.
+Observed proportion: 0/12 = 0%.
+95% Wilson interval: 0% to approximately 24.2%.
+95% Clopper–Pearson interval: 0% to approximately 26.5%.
+The exact one-sided 95% upper bound is approximately 22.1%, calculated as 1 - 0.05^(1/12). The familiar “rule of three” approximates this as 3/12 = 25%, which is rough at such a small n. These bounds are different because one-sided and two-sided procedures allocate error differently.
+
+
+The useful conclusion is not that a quarter of KLAAT listeners are uncomfortable. NO discomfort prevalence was observed or estimated. The lesson is that twelve observations with zero reported discomfort are insufficient to rule out nontrivial rates even under ideal independent sampling. Under real convenience sampling, the uncertainty about the wider audience is greater and not solved by the formula. The same reasoning applies to “zero listeners entered trance”: that would not prove impossibility, and the study would first need a valid definition of what was measured.
+
+
+5. A CRITICAL CONTRADICTION: “EXACT” IS NOT AUTOMATICALLY BEST
+
+
+There are two defensible instincts. One says: with a tiny sample, use the conservative exact Clopper–Pearson interval. The other says: avoid excessive conservatism when the discreteness of counts makes the exact interval needlessly wide. Agresti and Coull showed that the usual Wald method can under-cover while exact intervals often over-cover; Wilson's score approach can behave better in practical small-sample comparisons. Brown, Cai, and DasGupta's more extensive analysis documented irregular coverage of Wald intervals and recommended Wilson or equal-tailed Jeffreys intervals for small n.
+
+
+Neither recommendation gives KLAAT permission to choose a statistical method according to the most favorable-looking result. The statistical question is conditional: IF we had a genuine binomial sampling design, what interval method would communicate its sampling uncertainty well? The artistic and field-research question is different: DID our actual listening procedure create such a sampling design? The answer to the latter can be no even when the arithmetic of the former is impeccable.
+
+
+This is why “95% confidence interval” can become a false badge of scientific legitimacy. Precision-looking decimals can obscure a missing sampling frame, an inconsistent report definition, correlated repeated responses, or different listening devices. A narrower interval is not more truthful if its assumptions fail.
+
+
+6. TWELVE PEOPLE HEARING SIX TAKES IS NOT SEVENTY-TWO PEOPLE
+
+
+Suppose twelve listeners each hear six selected KLAAT takes. That creates seventy-two listener-by-take observations. It does not create seventy-two independent listeners. Responses from the same person can be correlated because of hearing ability, preferences, familiarity, reporting style, mood, and stable associations with drone or percussion. Responses to the same take can also be correlated because of shared acoustic events, recording quality, and presentation order.
+
+
+A naive analyst could count 48 positive listener-by-take reports out of 72 and report a tight interval as if seventy-two unrelated people had been sampled. That would exaggerate precision. It would also change the estimand: a per-exposure report frequency is not the same quantity as the proportion of people who ever report a sensation. Even “ever reported on at least one take” depends on how many takes each person heard. The data matrix matters.
+
+
+For KLS-001, the primary honest unit for an audience description is usually a unique listener, with take-specific responses shown separately. A question about variation across authentic performances also needs multiple independent takes, not merely more people rating one favored excerpt. Session 118 established the performance-nesting issue; the current session adds that binomial-looking response proportions inherit BOTH listener and take dependence. Complex crossed random-effects models may eventually be appropriate, but fitting them to eight to fifteen listeners and four to six takes would often create an illusion of sophistication rather than reliable inference. The first pilot can show the raw matrix and descriptive spread.
+
+
+A similar caution applies to the same listener hearing the same recording repeatedly. Their second response may differ because of familiarity, attention, expectation, fatigue, or learning the questionnaire. It is not a fresh independent Bernoulli draw from the same process merely because it occupies another row in a spreadsheet.
+
+
+7. THE MOST IMPORTANT DENOMINATOR MAY BE INVISIBLE
+
+
+KLS-001 distinguishes invitations, listeners, takes, and responses, but the final denominator depends on the exact claim. “Eight of twelve people who completed a first listen mentioned a bodily sensation” differs from “eight of fifteen who began listening mentioned one,” and both differ from “eight of twenty-five people invited to participate.” None of these denominators can be substituted without explanation.
+
+
+If some listeners stop early, their missing report is not necessarily a “no.” If a listener skips a question, the denominator for that item is the number with a usable answer, not automatically everyone invited. If one person hears only one take and another hears all six, their opportunities to report a sensation differ. If an event is defined as a spontaneous mention, the analyst must know whether every person received the same initial open prompt before more specific questions.
+
+
+The denominator also needs a population boundary. “Eight of twelve friends and collaborators who volunteered” may be a completely accurate sentence. “Two-thirds of people experience bodily activation from KLAAT” is a different claim, about a wider population and potentially a causal response, that the first sentence cannot establish. A confidence interval cannot repair this gap. Statistical uncertainty is not the same as selection bias, social desirability, or causal confounding. Those require their own design and reporting safeguards.
+
+
+8. PILOT VALUE IS NOT PROPORTIONAL TO THE SIZE OF ITS CLAIMS
+
+
+Hertzog's 2008 analysis of pilot-study sample sizes examined the precision available from sample sizes of roughly ten to forty per group for different pilot aims. The key lesson is that pilot sample size must follow the question: checking whether instructions are understandable and whether event annotations can be collected is a different goal from estimating a population response rate to within a few percentage points. A small pilot can be excellent for feasibility while poor for precise prevalence estimation.
+
+
+That is especially relevant to KLAAT because the first study is not supposed to be a popularity poll. It asks whether Paul can preserve authentic performances and immediate performer notes; whether listeners can describe the music without being fed a theory; whether the two-source drone/pulse world produces interpretable differences in reported absorption, energy, movement, bodily sensation, or daily-life fit; and whether listener-marked transitions can be mapped back to unchanged audio. These are rich descriptive questions even when no percentage can be generalized.
+
+
+A first listener who says, “The drum made me want to walk, but the drone kept me in place,” may contribute more useful artistic and scientific information than a polished 9/10 rating. Another who reports boredom after five minutes may expose a genuine limitation of one listening context. A third who enjoys KLAAT while cooking but dislikes listening with eyes closed may illuminate the daily-life-soundtrack identity. Those are actual hypotheses to explore, not inconveniences to remove from the dataset.
+
+
+The correct pilot outcome can therefore be: “These twelve people gave varied descriptions; here are the exact reports, which takes they heard, which devices they used, and which questions were asked.” That is not a failure to quantify. It is a more accurate foundation for deciding what a later, better-sampled study should test.
+
+
+9. WHAT CAN BE INFERRED AT EACH EVIDENCE LEVEL?
+
+
+ESTABLISHED STATISTICAL METHOD
+- Binary counts in small independent samples carry substantial sampling uncertainty; 8/12 does not precisely estimate a population probability.
+- The ordinary Wald interval can perform poorly at small n and at the boundaries. Wilson and other well-studied methods handle these cases more sensibly under their assumptions [1–4].
+- Zero observed events do not imply a zero underlying event probability; exact one-sided and two-sided bounds answer different questions [3,5].
+- A pilot's adequacy depends on whether the aim is feasibility, measurement refinement, or precision of a later inferential estimate [6].
+
+
+CONTEXT-DEPENDENT EVIDENCE
+- Wilson and Clopper–Pearson intervals describe uncertainty only for the probability defined by their binomial model; they are not magic corrections for convenience recruitment, repeated measures, prompted responses, or inconsistent audio delivery.
+- A percentage of people reporting something, a percentage of listener-by-take responses, and an average 0–10 score are different quantities.
+- Different definitions of “bodily sensation,” “activation,” or “absorption” can produce different counts without changing the recorded sound.
+
+
+PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
+- Some authentic takes may elicit more spontaneous somatic language than others, but the direction, size, and stability are unknown.
+- Individual listeners may differ in which parts of the same recording they find activating, absorbing, or suitable for daily activities.
+- The relationship between an initial unrestricted report and a later prompted body report may vary across people and contexts.
+
+
+SPECULATION
+- KLAAT's spare drone-plus-pulse form may encourage unusually diverse descriptions that are obscured by simple binary categories. That could be artistically valuable, but it has not been tested.
+- A larger future audience may contain subgroups who respond very differently from the first volunteers; their proportions are unknown.
+
+
+UNSUPPORTED CLAIMS
+- “Two-thirds of people feel KLAAT in their bodies” based on 8/12 convenience listeners.
+- “Everyone enters trance” because all twelve selected listeners used positive language.
+- “KLAAT is discomfort-free” because zero of twelve reported discomfort.
+- “Seventy-two independent listeners responded” when twelve people heard six takes.
+- “A 95% interval proves representativeness, causation, neural entrainment, vibration transfer, autonomic change, or therapeutic benefit.”
+
+
+10. WHAT THIS ADDS TO THE KLAAT RESEARCH PROGRAM
+
+
+KLAAT now has a REPORT-PROPORTION VALIDITY GATE. Before turning first-listen responses into a fraction, identify (1) the exact report event, (2) whether it was spontaneous or prompted, (3) the numerator, (4) the eligible denominator, (5) unique listeners versus repeated listener-by-take observations, (6) missing/early-stopped responses, (7) the recruitment population and playback conditions, and (8) whether the result is purely descriptive or eligible for an inferential interval.
+
+
+For the first eight to fifteen listeners, default to counts, original quotations where permission permits, individual 0–10 distributions, and explicit denominators. If an interval is shown as an educational sensitivity illustration, label the binomial assumptions and explain why the pilot does not support population generalization. Do not create a new threshold for “activated” simply to produce a clean success percentage. Retain the locked KLS-001 protocol and note any future amendment transparently rather than quietly changing what “blind-first” meant.
+
+
+The deeper artistic point is that science can protect KLAAT from being flattened into a success statistic. Amastacia's sustained breath, Ankora's unforced rhythmic development, and Paul's performer flow are not judged by how many people check a box. The music may become a ceremonial immersion for one listener and an energizing daily soundtrack for another. The first study should make room for both, and for disagreement. A strong archive is one that preserves what people actually said before it tells a story about what the sound supposedly did.
+
+
+OPTIONAL OBSERVATION — KRX-125: THE TWELVE-VOICE REPORT TEMPLATE
+
+
+Without recruiting anyone or changing a note of KLAAT, make a blank future reporting line for each take: “Of ___ unique people who heard [take ID] and answered the [exact wording / prompt stage] question, ___ reported [predefined observation]; ___ did not; ___ gave no usable answer; listening devices and stopping times are recorded separately.” Keep a space underneath for one sentence of the listener's own language. Do not calculate a general-population percentage or ask Paul to change the music. This is only a template for the moment real listeners become available.
+
+
+PRIMARY STATISTICAL SOURCES AND DESIGN CONTEXT
+
+
+[1] Wilson EB (1927). Probable inference, the law of succession, and statistical inference. Journal of the American Statistical Association 22(158):209–212. DOI 10.1080/01621459.1927.10502953. https://doi.org/10.1080/01621459.1927.10502953 . Original score-interval method.
+[2] Agresti A, Coull BA (1998). Approximate is better than “exact” for interval estimation of binomial proportions. The American Statistician 52(2):119–126. DOI 10.1080/00031305.1998.10480550. https://doi.org/10.1080/00031305.1998.10480550 . Primary methodological comparison.
+[3] Clopper CJ, Pearson ES (1934). The use of confidence or fiducial limits illustrated in the case of the binomial. Biometrika 26(4):404–413. DOI 10.1093/biomet/26.4.404. https://doi.org/10.1093/biomet/26.4.404 . Original exact-binomial interval construction.
+[4] Brown LD, Cai TT, DasGupta A (2001). Interval estimation for a binomial proportion. Statistical Science 16(2):101–133. DOI 10.1214/ss/1009213286. https://doi.org/10.1214/ss/1009213286 . Comprehensive methodological analysis of coverage and interval choice; statistical synthesis, not a KLAAT experiment.
+[5] Hanley JA, Lippman-Hand A (1983). If nothing goes wrong, is everything all right? Interpreting zero numerators. JAMA 249(13):1743–1745. DOI 10.1001/jama.1983.03330370053031. https://doi.org/10.1001/jama.1983.03330370053031 . Zero-event inference and the approximate rule of three.
+[6] Hertzog MA (2008). Considerations in determining sample size for pilot studies. Research in Nursing & Health 31(2):180–191. DOI 10.1002/nur.20247. https://doi.org/10.1002/nur.20247 . Pilot-design methodological analysis, not music-specific primary listener data.
+
+
+INTERNAL SOURCES / PROVENANCE
+Connected Google Drive: KLAAT Resonance Research Master Instructions; Curriculum Index; Research Ledger; Session Corpus and Session Corpus Volume II; KLAAT Baseline Recording + Listener Pilot Protocol v1.0; KLS-001 Analysis Plan v0.1; KLS-001 Pre-Analysis Record v0.1. Canonical ChatGPT Library: Published Studies through Session 124 and Hourly Research through October 27, 07:21 CDT. Prior hourly notes remain unchanged. External literature checked October 27, 2026. The numeric intervals in Section 4 were independently computed from Wilson's score formula and beta-distribution quantiles; they are illustrative mathematical results, not KLAAT outcomes. This session's mandatory canonical safety copy is the timestamped plain-text file in ChatGPT Library Published Studies. Google Drive is a secondary mirror.
+
+
+END OF SESSION 125

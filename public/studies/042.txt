@@ -1,0 +1,17 @@
+SESSION 42 — COMBINATION TONES & NONLINEAR HEARING
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+The auditory system is nonlinear. Two tones can create perceived or measurable distortion products at combination frequencies. For example, with f1 = 500 Hz and f2 = 700 Hz, 2f1 − f2 equals 300 Hz. Outer-hair-cell nonlinearities are also used clinically in distortion-product otoacoustic-emission measurements.
+
+
+Combination tones must be distinguished from beating, binaural beats, and literal acoustic tones present in the room. The missing-fundamental phenomenon further shows that perceived pitch need not correspond to one dominant physical spectral component.
+
+
+Evidence boundary
+Established: auditory nonlinearities and combination tones occur; otoacoustic emissions can be measured. Unsupported: interpreting a low difference or distortion frequency as a biologically special healing signal.
+
+
+KLAAT test
+Use Amastacia vocalization and oral-cavity changes to hunt for a stable “phantom” pitch. Record the passage, then compare what is heard with later spectral analysis to determine whether the tone is physically present or perceptually generated.

@@ -1,0 +1,15 @@
+SESSION 3 — WHY LOW FREQUENCIES FEEL PHYSICAL
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+Core lesson
+“Lower frequency” does not automatically mean “more physical.” Human hearing becomes less sensitive at very low frequencies, so stronger acoustic energy may be required for equal perceived loudness. Tactile sensitivity is also frequency-dependent rather than simply increasing as frequency drops.
+
+
+KLAAT should keep three variables separate: the acoustic frequency of Amastacia, the repetition rate of Ankora, and the vibration spectrum reaching the body. A drum pulse may be slow in musical tempo while each strike contains broadband energy extending far above the pulse rate.
+
+
+Evidence boundary
+Established: low-frequency hearing thresholds differ from mid-frequency hearing thresholds; percussion is broadband; tactile sensitivity is not governed by one simple “lower is stronger” rule. Unsupported: assuming any low tone is intrinsically more therapeutic.
+
+
+KLAAT test
+Increase Amastacia gradually from barely audible to clearly physical at one fixed listener position, then decrease again. Mark the approximate point where the experience crosses from primarily auditory to clearly bodily.

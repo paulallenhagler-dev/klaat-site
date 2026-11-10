@@ -1,0 +1,211 @@
+KLAAT RESONANCE RESEARCH — SESSION 75
+THE TIMESTAMP IS NOT THE EVENT
+An Event Ontology, Annotation Uncertainty, and the First Defensible KLAAT Reference Record
+Published: Saturday, October 10, 2026 — 15:17 CDT
+
+
+GOVERNING PRINCIPLE
+Before asking whether listeners recognize KLAAT's four-phase journey, we must be able to say what happened in the performance, what an annotator believes happened, and how uncertain that annotation is. A drum attack, an inferred beat, a breath-shaped transition, a missing expected strike, and a perceived phase boundary are not five names for the same event.
+
+
+PROVENANCE AND RESEARCH STATUS
+The connected KLAAT Master Instructions, Curriculum Index, Research Ledger and Session Corpus were consulted. The most recent ChatGPT Library hourly research note is October 5, 2026 at 18:33 CDT; no new hourly notes were available after Session 74. That latest note concerns multi-input seated-body mechanics, already developed in Session 68; it does not justify recycling the same topic. This session instead advances the explicit open methodological problem left by Session 74: a predeclared event ontology with reproducible annotation and uncertainty validation. No KLAAT listener experiment or sensor validation is claimed to have occurred. All hourly source notes remain untouched.
+
+
+1. THE BOTTLENECK AFTER SESSION 74
+Session 74 proposed that listeners might rely on different musical cues when Ankora's Clock is recoverable than when Amastacia's Field is dominant. That hypothesis cannot be tested with an event table that treats every audible change as an interchangeable onset. A spectral change lasting three seconds, a frame-drum transient lasting milliseconds, and a listener's recognition of a new phase cannot be fairly counted as identical points on a timeline. The first practical task is therefore not a more elaborate model. It is an honest inventory of events and their temporal uncertainty.
+
+
+2. AN ONTOLOGY IS A SET OF MEASUREMENT RULES
+Here, 'ontology' means an explicit catalog of what can be annotated, how each class is recognized, what counts as an onset or offset, and what evidence supports it. It is not metaphysics and not a claim about the brain. A useful ontology allows two people to label the same recording independently, disagree in a diagnosable way, and revise the definitions without rewriting history. It also prevents an analysis script from quietly deciding that the only events worth counting are the ones easiest for software to detect.
+
+
+3. FOUR DISTINCT CLOCKS
+The performance has at least four timelines. The physical/acoustic timeline describes measurable sound changes and actual Ankora impacts. The compositional timeline describes Paul's intended progression through Ground Anchor, Threshold Gate, Rising Pulse and Return Path. The perceptual timeline describes what beat and boundaries listeners infer. The response timeline describes when a listener presses a button, taps or later reports a sensation. These timelines may be related, but none is a substitute for the others. A response timestamp includes attention, recognition, decision and motor delay; it is not the time a brain 'entered' a new state.
+
+
+4. THE STRIKE IS NOT THE BEAT
+Ankora's physical strike can be identified in a recording through a transient, though the exact acoustic onset depends on microphone position, noise, reverberation and the threshold used. The inferred beat is a listener's temporal reference, which may continue between strikes or through omissions. The nominal reference of approximately 137 BPM implies about 438 milliseconds per intended beat, but that arithmetic does not prove any individual strike occurred on that grid. A listener may hear a half-time beat around 68.5 BPM. Therefore 'Ankora attack' and 'listener beat' require separate annotation classes.
+
+
+5. THE BREATH IS NOT A SINGLE CLICK
+Amastacia's C# agave didgeridoo is sustained but evolving. A new breath, articulation, harmonic brightening, timbral opening, pitch-like perceptual change or brief cessation may occur with different degrees of temporal sharpness. Forcing all such changes into a single onset timestamp can manufacture false precision. Some deserve intervals with an estimated beginning and end; others deserve a description such as 'gradual transition, midpoint uncertain.' The Field's continuity is part of the composition, not evidence that nothing happened.
+
+
+6. WHAT THE ONSET LITERATURE ACTUALLY SAYS
+Bello and colleagues' 2005 tutorial explains that onset detectors may respond to changes in energy, spectral magnitude, phase or other signal properties. These are operational definitions of change, not a universal oracle for musical intention. Tomczak and colleagues' 2022 soft-onset annotation study found that even human annotators differ, particularly for gradual string-instrument events. These instruments are not Amastacia, but the general lesson is directly relevant: the apparent precision of an algorithmic onset timestamp can exceed the precision of the event concept it purports to label.
+
+
+7. WHY A HIGH-RESOLUTION WAVEFORM IS NOT THE WHOLE TRUTH
+A waveform can show exactly where a measured pressure change occurred at the microphone. It cannot tell us by itself whether that change was a breath transition, a new structural section or an audience-recognized Gate. Conversely, a slow Amastacia spectral shift may be musically meaningful without producing one dominant transient. The annotation must preserve both the signal evidence and the human judgment. Never promote a waveform peak into a phase boundary merely because it is easy to plot.
+
+
+8. PRECISION AND ACCURACY ARE NOT SYNONYMS
+A timestamp recorded to six decimal places is not necessarily accurate to a microsecond. A detector can be highly repeatable and systematically late. A human can be less repeatable but closer to a chosen perceptual criterion. The AG-PT-set acoustic-guitar research illustrates that onset-label precision matters for some real-time music-information-retrieval tasks and that permissive evaluation windows can conceal errors. It does not imply that every KLAAT boundary should be scored within 50 milliseconds. Different event classes require different tolerance scales.
+
+
+9. THE BEAT'S UNCERTAINTY IS MEASURABLE
+Dannenberg and Wasserman's 2009 work treats human beat-tap times as uncertain measurements rather than perfect ground truth. Repeated tapping can estimate the spread of responses even when the 'true' beat is not directly observed. Their analysis depends on assumptions about shared beat interpretation and error distributions. For KLAAT, this is a valuable warning: when listeners disagree by half a beat or choose half-time, that is not ordinary millisecond jitter. It may be a different metrical interpretation and must be coded separately.
+
+
+10. A MINIMUM EVENT DICTIONARY — PERFORMED EVENTS
+KLAAT's first event dictionary should include: A-ATTACK (Ankora audible attack); A-ROLL or A-SUBDIVISION (repeated discrete events with measured onsets, not an assumed meter); A-ACCENT (an attack marked as prominent by a specified acoustic or performer criterion); M-BREATH-START and M-BREATH-END (Amastacia breath phrase boundaries, only when reasonably discernible); M-SPECTRAL-CHANGE (a gradual or abrupt timbral change with a time interval); M-LEVEL-CHANGE (documented change in Amastacia amplitude envelope); and SOURCE-CESSATION (actual cessation of a named instrument). Each code requires an operational definition and an explicit 'uncertain/not observable' option.
+
+
+11. A SECOND DICTIONARY — INFERRED AND INTENDED EVENTS
+Separate labels are needed for GRID-BEAT (the performer's provisional intended scaffold, if independently documented); LISTENER-BEAT (an inferred pulse from a separate listener task); CLOCK-ACQUISITION-ZONE (a range over which a stable beat becomes plausible); CLOCK-LOSS-ZONE; EXPECTED-OMISSION (a predicted attack not delivered, defined only relative to a documented learned pattern); and PHASE-INTENT (Paul's predeclared architecture). These labels must never be generated by simply copying Ankora attack times. An omission cannot be detected from silence alone without a reference pattern.
+
+
+12. A THIRD DICTIONARY — PERCEPTUAL REPORTS
+The audience annotation layer needs MACRO-BOUNDARY, MICRO-CHANGE, URGENCY-RATING, PULSE-PRESENT, METER-CHOICE and BODY-REPORT, with each field tied to its task and collection time. A participant's retrospective 'I felt the transition near minute five' is a different kind of observation from a real-time button press at 05:03. Free descriptions should be retained verbatim before being coded into categories. This protects the project from translating every mention of 'energy' into 'mechanical vibration' or every mention of 'speed' into BPM.
+
+
+13. EVENT, STATE, AND TRANSITION
+An event is something identifiable as occurring: an Ankora attack, for example. A state is a property sustained over an interval: a strong Clock, a stable Field or an increasingly dense Surface. A transition is a change between states, possibly gradual. These three should not share one table column called 'onset.' KSV-0.1 — [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL] — primarily describes changing states; it is not a list of sound-producing events. A four-phase journey may be a sequence of overlapping state trajectories rather than three instantaneous switches.
+
+
+14. WHAT TO RECORD FOR EACH LABEL
+Every annotation should contain recording ID, annotator ID, annotation pass, event class, start time, end time if relevant, uncertainty bounds or confidence, instrument/source, evidence channel, and a short note. Preserve whether a label came from unaided listening, waveform inspection, spectrogram inspection, video, Paul's performance log or listener report. The instrument/source field can be 'ambiguous.' Keep the raw labels and an adjudicated reference version separately. Do not erase disagreements in the name of a clean spreadsheet.
+
+
+15. USE UNCERTAINTY THAT MATCHES THE EVENT
+For a sharp Ankora transient, an annotator may provide a point estimate plus a small interval indicating ambiguity in the acoustic attack. For a breath-shaped spectral change, use an onset range and an offset range or a broader transition zone. For Threshold Gate, record the first physical strike separately from the range over which the Clock becomes perceptually recoverable. For Return Path, the last drum attack is a point event, while the disappearance of the listener's inferred Clock may be an extended, uncertain process. Reporting a single second for all of them hides rather than solves the measurement problem.
+
+
+16. TWO INDEPENDENT ANNOTATORS BEFORE A CONSENSUS
+A useful pilot uses two people who receive the same written dictionary but label the recording independently. Paul may supply a separate intention map, but it should not be shown to those annotators before their first pass. Compare disagreements by event class: missed events, extra events, shifted onsets, different source attribution and incompatible definitions. Adjudication can create a working reference, but the original annotations remain preserved. A consensus label is not automatically the objective truth.
+
+
+17. AVOID THE ADJUDICATION TRAP
+If the same person defines the events, annotates the recording, adjusts the tolerance and declares success, the method can become self-confirming. Write the codebook before scoring; log amendments with version numbers. Resolve ambiguous cases using a predeclared decision hierarchy: audible evidence, optional visual evidence, then performer notes for intended structure, with each provenance kept distinct. Do not use listener clicks to relocate the intended phase boundaries after seeing where those clicks cluster.
+
+
+18. TIMING UNCERTAINTY HAS SEVERAL SOURCES
+There is source uncertainty: when did the musical gesture physically begin? Sensor uncertainty: what did the microphone or recorder capture and with what delay? Annotation uncertainty: where does the annotator place the mark? Perceptual uncertainty: when did the listener recognize the change? Response uncertainty: how long before the listener pressed a button? These components are not necessarily independent or Gaussian. Treating their sum as one mysterious 'human error' hides important causes. For early KLAAT work, record their plausible magnitudes and avoid claiming more precision than the design supports.
+
+
+19. MICROPHONE DISTANCE IS A REAL TIME SHIFT
+Sound travels through air at roughly 343 meters per second under ordinary room conditions. A microphone one meter farther from a source receives the direct sound about 2.9 milliseconds later, before considering reflections or device latency. This matters for attack-level timing comparisons but is negligible relative to many gradual phase transitions. If Amastacia and Ankora are recorded on separate devices, clock drift and synchronization can be more consequential than the distance correction. Document the geometry and, ideally, record all relevant audio on a common clock.
+
+
+20. THE MULTI-RESOLUTION PRINCIPLE
+KLAAT needs at least three time scales. Attack scale: tens of milliseconds or the instrument-specific onset uncertainty. Phrase scale: seconds, for breath and timbral evolution. Architecture scale: tens of seconds to minutes, for Gate, Rising Pulse and Return Path. Those are working orders of magnitude, not universal thresholds. It is a category error to demand that a slow spectral transition match a drum attack within a fixed 50-millisecond window. Likewise, a ±10-second phase window would be much too generous for validating the timing of individual Ankora attacks.
+
+
+21. WHAT COUNTS AS AGREEMENT?
+For discrete attacks, use one-to-one matching with a prespecified time tolerance, report precision/recall and onset-offset distributions, and inspect unmatched events. For gradual changes, compare overlap of annotated intervals and the spread of start/end judgments. For phase transitions, compare intended zones, listener-marked macro boundaries and chance models without forcing exactly three listener clicks. Report agreement separately by class and temporal scale. A single 'overall annotation accuracy' would be misleading because abundant drum strikes could swamp rare but important Field changes.
+
+
+22. A NEGATIVE CONTROL FOR THE ONTOLOGY ITSELF
+Include a passage where Amastacia changes harmonics but Ankora remains stable, and another where Ankora changes subdivisions but Amastacia remains relatively steady. If annotators consistently misclassify the first as an Ankora event or the second as an Amastacia transition, the codebook is not discriminating sources well enough. Include an apparently quiet passage with audible breathing and room noise to check that the dictionary does not equate low event density with no musical information. These controls validate the measurement language before it is used to validate the theory.
+
+
+23. GROUND ANCHOR: LET AMASTACIA HAVE EVENTS
+Ground Anchor should not be coded as zero events merely because Ankora is silent. Mark Amastacia's breath and spectral evolution where the changes are operationally identifiable. Distinguish a sustained Field state from local articulations inside it. Then ask whether listeners hear micro-changes or experience a coherent continuous span. A low count of macro boundaries may be a meaningful result, not an annotation failure.
+
+
+24. THRESHOLD GATE: MARK ARRIVAL AND ACQUISITION
+Record the first Ankora attack as an acoustic event. Record the first sustained regular sequence separately. Estimate the Clock-acquisition zone using independent listener judgments or beat tapping in a later task, not by declaring that the Clock appeared on the first strike. If some listeners hear half-time, preserve that. Threshold Gate can then be investigated as the interval between an audible instrument entrance and a stable temporal inference. This is a compositional question about teaching a Clock, not merely introducing a drum.
+
+
+25. RISING PULSE: DO NOT CONFUSE DENSITY WITH STRUCTURE
+Ankora may increase event density while preserving its underlying Scaffold. Count attacks per second, annotate subdivisions and accents, and preserve any deviations from the intended beat. But do not infer increased urgency from event count. Separately collect listener urgency ratings and macro-boundary reports. Amastacia's Field changes should also be annotated. A high-density passage with few listener boundaries could support the hypothesis of sustained macro continuity, but only after competing acoustic and task explanations are considered.
+
+
+26. RETURN PATH: THE LAST STRIKE IS NOT THE LAST EXPECTATION
+Record Ankora's final attack exactly as an observed event, within sensor uncertainty. Separately mark the progressive reduction in Surface activity and the performer's intended Withdrawal. Listeners may continue to anticipate a strike after the instrument stops; their inferred Clock may disappear later. The residual Amastacia Field may become perceptually dominant again. This is a testable temporal sequence, not evidence that physical vibration persists in the listener's body.
+
+
+27. ESTABLISHED EVIDENCE
+ESTABLISHED — Onset detection depends on a chosen operational signal-change criterion; different acoustic features can emphasize different kinds of events (Bello et al., 2005).
+ESTABLISHED — Human annotations of soft musical onsets can disagree, with difficulty depending on instrument and event characteristics (Tomczak et al., 2022).
+ESTABLISHED — Repeated beat tapping can be modeled to estimate timing uncertainty under specified assumptions rather than assuming a perfect beat ground truth (Dannenberg & Wasserman, 2009).
+ESTABLISHED — Precise onset labels matter for some music-information-retrieval applications; tolerance windows can conceal timing differences (AG-PT-set research).
+ESTABLISHED — A sound attack, an inferred beat, an intended phase and a listener's response are different observational categories.
+
+
+28. CONTEXT-DEPENDENT EVIDENCE
+CONTEXT-DEPENDENT — Soft-string onset disagreement does not quantify Amastacia's breath or spectral annotation uncertainty.
+CONTEXT-DEPENDENT — Drum attacks are often easier to time than gradual timbral transitions, but overlapping sound, room reflections and microphone placement can make particular attacks ambiguous.
+CONTEXT-DEPENDENT — Beat-tap uncertainty models assume compatible metrical interpretations; half-time versus full-time choices must be resolved before treating timing differences as noise.
+CONTEXT-DEPENDENT — Tolerances useful for real-time note onset detection are not suitable by default for perceived macro boundaries.
+CONTEXT-DEPENDENT — Agreement can improve through shared instructions without establishing that a category maps uniquely onto listener experience.
+
+
+29. PLAUSIBLE AND TESTABLE KLAAT HYPOTHESES
+PLAUSIBLE/TESTABLE — Independent annotators agree more closely on Ankora attack times than on Amastacia spectral-transition boundaries.
+PLAUSIBLE/TESTABLE — Explicitly separating point events, state intervals and transition zones reduces source and boundary disagreements compared with one generic event label.
+PLAUSIBLE/TESTABLE — A stable Ankora Clock becomes perceptually recoverable after, not necessarily at, the first physical strike.
+PLAUSIBLE/TESTABLE — During Return Path, listeners report Clock loss at a different time from Ankora's final attack.
+PLAUSIBLE/TESTABLE — Pulse-conditional segmentation models trained on independently annotated events predict held-out listener boundaries better than raw onset density or spectral novelty alone.
+PLAUSIBLE/TESTABLE — Recording annotation uncertainty prevents overconfident claims of small timing effects that vanish when plausible label variation is considered.
+
+
+30. SPECULATION
+SPECULATION — KLAAT's distinctive compositional grammar may emerge from carefully timed changes in which kinds of events are meaningful, rather than from maximizing event density.
+SPECULATION — A notation system with point attacks, interval-shaped Field gestures and graded Clock confidence may better preserve live improvisation than conventional bar-by-bar transcription.
+SPECULATION — A robust event dictionary may reveal previously unnoticed relationships between Amastacia breath gestures and Ankora's temporal organization.
+SPECULATION — Some apparent listener disagreements may become coherent once their different metrical levels and preferred structural scales are documented.
+
+
+31. UNSUPPORTED CLAIMS
+UNSUPPORTED — A high-resolution waveform provides the objectively correct time of a psychological phase change.
+UNSUPPORTED — A spectral novelty peak is equivalent to an Amastacia phrase boundary.
+UNSUPPORTED — Every Ankora attack is an intended beat, or every intended beat contains an attack.
+UNSUPPORTED — An omission is a measurable physical impact.
+UNSUPPORTED — High agreement between annotators proves the four-phase architecture is perceived by audiences.
+UNSUPPORTED — A consensus label is the only possible musical interpretation.
+UNSUPPORTED — Precise event timing demonstrates trance, neural entrainment, healing, or bodily resonance.
+UNSUPPORTED — KSV-0.1 is validated merely because its variables can be annotated.
+
+
+32. METHODOLOGY UPDATE — THE EVENT-ONTOLOGY AND UNCERTAINTY GATE
+The new rule is: DEFINE THE EVENT BEFORE MEASURING ITS TIME. KLAAT now distinguishes point events, intervals, state trajectories, performer intentions and listener reports. Every label carries a source, evidence channel, annotation task and uncertainty. Annotators work independently before adjudication; codebook revisions are versioned; original marks remain preserved. Scoring tolerance is event-class-specific and set before examining outcomes. This is a measurement gate, not a new KSV dimension. It extends the Boundary Validity Gate (Session 73) and Pulse-Conditional Segmentation Gate (Session 74) without claiming either has passed a KLAAT participant test.
+
+
+33. PRACTICAL KLAAT EXPERIMENT — KRX-075: THE BLIND EVENT-ONTOLOGY RELIABILITY PILOT
+OBJECTIVE: Establish whether two independent annotators can reproducibly distinguish Ankora attacks, Amastacia Field gestures, and gradual architecture transitions on real KLAAT material, while preserving uncertainty and source disagreement.
+
+
+MATERIAL: Use the existing 66-second September 2026 reference recording if it is available in analyzable form, plus one new uninterrupted 8–12-minute human-performed Amastacia-and-Ankora recording covering Ground Anchor, Threshold Gate, Rising Pulse and Return Path. Do not invent missing audio or claim that it has been analyzed. Record microphone position and any device synchronization details. Paul writes his intended phase-transition zones privately before independent annotation.
+
+
+CODEBOOK: Prepare a one-page dictionary for A-ATTACK, M-BREATH/PHRASE, M-SPECTRAL-CHANGE, CLOCK-ACQUISITION-ZONE, SURFACE-DENSITY-CHANGE, WITHDRAWAL-ZONE and SOURCE-CESSATION. Each label must include instrument, start/end or point, confidence, uncertain interval and evidence source. Use an 'ambiguous' category instead of forcing a guess. Keep listener-reported boundaries out of this first annotator pass.
+
+
+ANNOTATORS: Two independent people annotate the same audio without seeing Paul's phase map or one another's labels. They first listen unaided, then use a waveform/spectrogram pass to refine physical events. They record both versions so the effect of visual analysis is measurable. Do not allow a model to auto-fill the reference labels before this independent pass.
+
+
+COMPARISON: For sharp Ankora attacks, inspect one-to-one matches at predeclared ±25 ms and ±50 ms as sensitivity checks, not as universal correctness thresholds. For gradual Amastacia changes and phase zones, compare interval overlap and start/end spreads, not millisecond hit rates. Classify disagreements as missing, extra, timing-shifted, source-ambiguous or definition-conflicted. Preserve both raw label sets and a separately adjudicated version. Report results by class rather than pooling everything into one accuracy percentage.
+
+
+PERCEPTUAL FOLLOW-UP: Only after the performed-event dictionary is stable, recruit a small blind listener pilot. Ask for macro boundaries without naming KLAAT phases; on a separate pass ask for beat presence and approximate meter. Compare listener responses to predeclared intended phase zones and independently annotated physical events, with count- and spacing-preserving chance controls. Do not choose matching windows after seeing where listeners clicked.
+
+
+DECISION: If annotators agree on attacks but not Field transitions, refine the Amastacia definitions and uncertainty intervals before fitting phase models. If they disagree on the same attacks, inspect recording geometry and event criteria. If reliable event labels are achieved but listeners do not identify the intended architecture, the performance model — not the annotation protocol — needs revision. If both measurement and perception remain uncertain, preserve that uncertainty rather than claiming a mechanism.
+
+
+DECISIVE QUESTION: CAN WE BUILD AN HONEST, REPRODUCIBLE RECORD OF WHAT AMASTACIA AND ANKORA DID BEFORE ASKING WHETHER LISTENERS EXPERIENCED THE FOUR-PHASE JOURNEY WE INTENDED?
+
+
+PRIMARY SOURCES
+1. Bello JP, Daudet L, Abdallah S, Duxbury C, Davies M, Sandler MB (2005). A tutorial on onset detection in music signals. IEEE Transactions on Speech and Audio Processing 13(5), 1035–1047. DOI 10.1109/TSA.2005.851998. https://doi.org/10.1109/TSA.2005.851998
+2. Tomczak M et al. (2022). Annotation of Soft Onsets in String Ensemble Recordings. Preprint, DOI 10.48550/arXiv.2211.08848. https://arxiv.org/abs/2211.08848
+3. Dannenberg RB, Wasserman L (2009). Estimating the Error Distribution of a Tap Sequence Without Ground Truth. ISMIR 2009. https://rbd.pubpub.org/pub/jqcseo4l/release/1
+4. On the Importance of Temporally Precise Onset Annotations for Real-Time Music Information Retrieval: Findings from the AG-PT-set Dataset. University of Trento repository. https://iris.unitn.it/handle/11572/443133
+5. Dean RT, Taylor JR (2026). Comparing perceptual segmentation in pulsed and unpulsed music with diverse event densities. Psychological Research. DOI 10.1007/s00426-026-02371-w. https://doi.org/10.1007/s00426-026-02371-w
+6. Hartmann M, Lartillot O, Toiviainen P (2016). Multi-scale Modelling of Segmentation: Effect of Musical Training and Experimental Task. Music Perception 34(2), 192–217. DOI 10.1525/mp.2016.34.2.192. https://doi.org/10.1525/mp.2016.34.2.192
+
+
+CONTINUITY AND NEXT DECISION
+This session extends Sessions 63 (listener temporal baseline), 66 (provisional State Vector), 70–71 (expected events and attention), 73 (boundary agreement), and 74 (pulse-conditional cue weighting). It creates the prerequisite for actual annotation, not a claim that annotation has occurred. The next publication should respond to new hourly work if available; otherwise prioritize a concrete reliability-analysis template, uncertainty propagation into boundary models, or an independent KLAAT listener dataset. Do not introduce more speculative mechanisms in place of the first measurements.
+
+
+END OF SESSION 75
+
+
+
+
+
+
+============================================================

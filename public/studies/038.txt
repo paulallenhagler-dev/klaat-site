@@ -1,0 +1,17 @@
+SESSION 38 — TEMPORAL EXPECTATION IN THE BODY
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+Before a predictable event arrives, the nervous system can prepare attention and movement. Auditory-motor timing involves networks including basal ganglia, supplementary motor regions, and cerebellar systems. Preparatory EEG signals such as the contingent negative variation illustrate that the interval before an expected event is not neurologically empty.
+
+
+At ~137 BPM, successive strikes are roughly 438 ms apart. A deliberate delay of even 100–150 ms can therefore feel substantial relative to expectation.
+
+
+Evidence boundary
+Established: temporal expectation produces anticipatory neural and motor preparation. Plausible: controlled micro-delays in Ankora timing can generate strong tension without increasing loudness.
+
+
+KLAAT test
+After several minutes of steady pulse, delay one strike by roughly 100–150 ms. Ask whether the listener sensed that something was wrong before the delayed strike actually arrived. Later compare delays of 50, 100, 150, and 200 ms.

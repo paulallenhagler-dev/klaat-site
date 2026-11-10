@@ -1,0 +1,128 @@
+KLAAT RESONANCE RESEARCH — SESSION 157
+The Two Instruments That the Algorithm Made Opposites
+Why complementary separation masks can manufacture a drone–drum relationship
+Published: 2026-11-07 19:12 CST
+Guiding principle: Experience-led creation. Science-informed refinement.
+
+
+THE QUESTION
+
+
+Amastacia and Ankora are played together, not as alternating tracks. In a spontaneous KLAAT performance, a breath accent may coincide with a drum strike, a drum phrase may continue under an unwavering drone, or the apparent balance may shift because the membrane and bore excite different frequencies. A future analyst might attempt to extract a 'drone track' and a 'drum track' from the single recording, then discover that one rises whenever the other falls. Would that prove a deliberate acoustic trade-off between Paul's breath and hands? Not necessarily. The separation algorithm itself may manufacture the opposition.
+
+
+This session examines a specific mathematical failure mode of harmonic/percussive source separation (HPSS): complementary time-frequency masks. It is not a claim that HPSS is useless. It is a warning about interpreting a relationship between two outputs that are not independent measurements. The topic is distinct from Session 155's averaging problem, Session 156's reconstructed true peaks, and Session 153's distinction between modulation and perceived pulse. It extends the November 7 17:15 CST hourly note with an explicit inference framework and a falsification strategy. Earlier hourly notes on separation leakage and median filtering remain relevant prior work, not discoveries to relabel as new.
+
+
+WHAT HPSS DOES, AND WHAT IT DOES NOT
+
+
+A short-time Fourier transform (STFT) represents a recording as complex coefficients X(f,t), indexed by frequency and time. Many HPSS methods exploit a useful empirical tendency: sustained tonal components form approximately horizontal structures in a spectrogram, whereas brief broadband attacks form approximately vertical structures. Median filtering along different axes estimates which structures look more harmonic or percussive. A mask then allocates some of the mixture to each estimate. FitzGerald's 2010 DAFx paper is an influential demonstration of median-filter HPSS. It is a source-separation method, not an instrument-identification instrument and not a validated physiological assay.
+
+
+The terms 'harmonic' and 'percussive' are signal-model labels. Ankora has resonant tails; Amastacia has breath attacks and noisy articulations. Both can populate either estimate. A harmonic estimate is therefore not automatically 'Amastacia alone,' and a percussive estimate is not automatically 'Ankora alone.' Their exact fidelity depends on overlap, windowing, filter lengths, masks, and the specific audio.
+
+
+THE MATHEMATICAL TRAP
+
+
+Consider one time-frequency bin in which the mixture coefficient is X. Suppose an algorithm constructs two real-valued, nonnegative complementary masks: m and (1-m), with 0 <= m <= 1. It then produces H=mX and P=(1-m)X. In that bin, |H|=m|X| and |P|=(1-m)|X|. Consequently |H|+|P|=|X|. This identity is a feature of the allocation rule, not evidence that two real instruments traded acoustic energy.
+
+
+Constructed example, not a KLAAT measurement: hold |X| fixed at 10 units. If m=0.8, the estimated harmonic magnitude is 8 and the percussive magnitude is 2. If m=0.2, the estimates are 2 and 8. The mixture has not changed at all. The two estimated magnitudes nonetheless appear to exchange six units. Across bins with the same fixed mixture magnitude and a varying mask, Pearson correlation between these estimates is exactly -1, provided the mask has nonzero variance. This anticorrelation is algebraically imposed. No performer coordination has been observed.
+
+
+A second constructed example shows why even a changing mixture is insufficient protection. Let mixture magnitudes be 10 and 20 in two windows, and masks be 0.9 and 0.1. Estimated H changes 9 to 2; estimated P changes 1 to 18. The mixture doubled, but the separated outputs still move in opposite directions. A negative correlation between separated envelopes may therefore combine genuine acoustic change and algorithmic allocation. Neither contribution can be inferred from the correlation coefficient alone.
+
+
+There are limits to this simple identity. Some algorithms use noncomplementary masks, residual channels, complex masks, iterative reconstruction, or nonlinear learned models. Broadband energy after inverse STFT is not a binwise magnitude sum. Window overlap, phase, leakage and smoothing complicate correlations between full reconstructed waveforms. The algebra is exact only under the stated model; it is a diagnostic of one possible artifact, not a universal condemnation of source separation.
+
+
+WHY THE KLAAT PAIR IS A PARTICULARLY GOOD TEST CASE
+
+
+Amastacia's C# fundamental and harmonic partials persist, but breath articulations can inject short noise bursts and rapid spectral changes. Ankora's elk-hide membrane produces attack transients followed by decaying resonances, some of which can resemble sustained spectral ridges. In other words, the real instrument categories cross the algorithm's statistical categories. The very qualities that make the duet interesting—the friction between breath, attack, resonance and decay—also make source attribution difficult.
+
+
+Imagine an Ankora strike occurring while Amastacia's breath pressure is unchanged. The strike adds energy in overlapping frequency bins. A mask might reassign a larger fraction of those bins to 'percussive,' reducing the estimated harmonic magnitude at the same moment even if Amastacia has not weakened. An analyst could mistake this reallocation for a breath dip timed to the drum. The opposite error is also possible: a forceful breath attack could appear in the percussive stem and be counted as a drum event.
+
+
+This does not mean Paul never naturally coordinates breath and strikes. It means a separated-stem graph is not independent evidence of that coordination. A scientifically responsible account begins with the original mixture and the processing chain, then asks what independent evidence could distinguish performance behavior from model behavior.
+
+
+A MEASUREMENT HIERARCHY
+
+
+First, characterize the untouched recording. Report microphone arrangement, channel configuration, sample rate, recording application and any automatic gain control. Plot the original mixture's time-frequency energy and mark audible attacks. Those are measurements of the recorded mixture, not direct measurements of individual instruments.
+
+
+Second, document the separation method. Record the STFT window and hop, median-filter dimensions, mask exponent, whether masks sum to one, phase reconstruction and any postprocessing. Inspect mask values around candidate breath–strike interactions. If harmonic and percussive estimates oppose one another while the raw mixture remains nearly constant, treat the opposition as suspicious, not conclusive.
+
+
+Third, validate with known signals. Run a fixed-amplitude synthesized harmonic tone plus known transient additions through the same pipeline. Vary transient overlap without altering the tone. Quantify apparent 'harmonic dips' and negative stem correlation introduced by the pipeline. This is an artifact baseline, not a model of KLAAT's full timbre.
+
+
+Fourth, where feasible, compare with independent recordings. An isolated Amastacia take and an isolated Ankora take, recorded for technique exploration rather than as a prescribed composition, can test whether a method recognizes each instrument's own noisy and resonant components. They are imperfect references because performance, room and microphone geometry can change. True simultaneous source-specific microphones, if ever available, would be stronger evidence but could still exhibit cross-talk.
+
+
+Fifth, only then consider musical inference. If an apparent breath–strike anticorrelation survives alternate algorithms, is visible in appropriately measured source-specific evidence, and is audible in the raw mix, a real performance interaction becomes more plausible. The same result still does not establish why Paul produced it, whether he intended it, or how listeners responded.
+
+
+EVIDENCE STATUS
+
+
+Established mathematical result: complementary masks can produce perfectly opposed magnitude estimates at fixed mixture magnitude. This follows from their definition; it is not an empirical claim about KLAAT.
+
+
+Established methodological context: median-filter HPSS uses spectrotemporal structure to produce harmonic and percussive estimates. Its output classes are approximations, not guarantees of physical instrument identity.
+
+
+Context-dependent evidence: how often and how severely an actual HPSS implementation creates apparent Amastacia–Ankora anticorrelation depends on the recording, algorithm and analysis choices. No such rate has been measured here.
+
+
+Plausible, testable KLAAT hypothesis: an apparent dip in extracted drone level at Ankora strikes could partly reflect mask reallocation rather than a reduction in drone pressure. The synthetic baseline and alternative capture methods can test this.
+
+
+Speculation: listeners may perceive the physical friction between steady drone and shifting attack even when a computational decomposition mislabels the sources. This is an aesthetic possibility, not an observed listener result.
+
+
+Unsupported: claims that a negative stem correlation proves coordinated breathing, that the stems are clean instrument recordings, or that such coordination induces trance, neural entrainment, autonomic change or therapy. None follows from the present analysis.
+
+
+THE LISTENER IS A SEPARATE QUESTION
+
+
+Even a flawless source separation would not reveal the beat a person perceives, the extent of absorption, whether the sound energizes everyday activity, or whether a physiological variable changes. Those questions require listener measures. The producer's flow state and a passive listener's response must not be conflated. A computational artifact is especially dangerous when a chain of interpretations goes from 'drone dips at strikes' to 'the nervous system is being entrained.' Each step needs separate evidence. For KLAAT, the meaningful objective is to understand existing sounds accurately before attaching claims to them.
+
+
+WHY THIS IS ARTISTICALLY LIBERATING
+
+
+This result argues for more careful analysis, not more controlled performance. Amastacia and Ankora need not be isolated conceptually to justify their combined effect. The recording can remain a single living acoustic event. An analytical tool is useful when it answers a bounded question; it becomes misleading when its categories are mistaken for the music's ontology. The ancient/archaeosonic aesthetic, the improvisational motion, the low-frequency weight and the roughness of the instruments remain the artistic facts of KLAAT, irrespective of whether a machine assigns each spectral bin correctly.
+
+
+OPEN QUESTIONS
+
+
+How stable is the estimated drone envelope when the same recording is processed with complementary versus noncomplementary masks? Which Ankora resonances leak most often into the harmonic estimate? Does a high percussive mask value correspond more reliably to a drum strike or to an Amastacia breath attack? What share of any observed stem anticorrelation persists in source-specific reference captures? Do listeners notice any difference between the original mixture and a remix of imperfect stems when levels are controlled? These are research questions, not instructions to alter the performance.
+
+
+OPTIONAL LOW-PRESSURE OBSERVATION
+
+
+If an existing unedited KLAAT recording is available, select a naturally occurring drum strike during a sustained drone. Listen to the original before inspecting any separated stems. Then compare the mixture spectrogram and the two masks at that moment. Ask only: 'Did the original drone audibly weaken, or did the algorithm merely assign less of the shared spectrum to it?' A single example cannot establish a general pattern, but it can prevent a false conclusion. No metronome, new score, prescribed tempo or modified playing is needed.
+
+
+REFERENCES AND PROVENANCE
+
+
+FitzGerald, D. (2010). Harmonic/Percussive Separation Using Median Filtering. 13th International Conference on Digital Audio Effects (DAFx-10). https://www.dafx.de/paper-archive/details/DsmIVcydPX66AuaqEmKyTQ
+
+
+Rafii, Z., & Pardo, B. (2013). REpeating Pattern Extraction Technique (REPET): A Simple Method for Music/Voice Separation. IEEE Transactions on Audio, Speech, and Language Processing 21(1), 73–84. https://doi.org/10.1109/TASL.2012.2213243 (general comparison: source separation relies on structural assumptions; not evidence of this exact mask artifact).
+
+
+Internal provenance: KLAAT hourly 2026-11-07 17:15 CST (complementary-mask anticorrelation); hourly 2026-11-05 02:20 CST (HPSS leakage); hourly 2026-11-01 23:16 CST (median-filter HPSS); hourly 2026-11-07 18:17 CST (novelty-gate false negatives). Sessions 153, 155 and 156 checked for distinct scope. Equations and examples here are constructed derivations, not KLAAT audio analyses. No human subjects, KLAAT recordings or physiological data were collected for this session.
+
+
+END OF SESSION 157

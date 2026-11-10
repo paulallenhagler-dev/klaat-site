@@ -1,0 +1,365 @@
+KLAAT Resonance Research — Session 56
+CROSSMODAL CAUSAL COHERENCE: When Heard Ankora and Felt Ankora Become One Event
+
+
+Session 55 separated Ankora into two provisional jobs: audition is the stronger candidate for carrying the temporal scaffold, while touch may contribute disproportionately to bodily impact, localization, salience, and physical consequence. The next problem is deeper: what makes the listener experience the audible strike and the felt strike as ONE event rather than two correlated sensations?
+
+
+The strongest accumulated hourly work supports a provisional KLAAT control variable:
+
+
+CROSSMODAL CAUSAL COHERENCE — the degree to which the heard and felt components of an event are perceived as consequences of the same physical cause.
+
+
+This is perceptual. It is not identical to physical synchrony, mechanical amplitude, auditory loudness, or neural “fusion.” The hypothesis is that bodily impact may depend partly on the listener inferring a common event, not merely on adding vibrational energy.
+
+
+The candidate chain is:
+
+
+PHYSICAL CORRESPONDENCE → PERCEIVED EVENT UNITY → BODILY CONSEQUENCE.
+
+
+1. PHYSICAL CORRELATION IS NOT PERCEPTUAL UNITY
+
+
+A microphone and accelerometer can quantify onset delay, envelope similarity, spectrum, amplitude, and mechanical transfer. They cannot tell us whether a listener experienced those signals as one cause.
+
+
+Controlled multisensory research establishes that auditory and tactile signals can interact and that temporal coherence matters. Spatial correspondence can matter in some tasks. Physically similar or ambiguous multisensory inputs do not guarantee one invariant integrated percept; cue reliability, attention, expectation, task, and prior experience can influence interpretation.
+
+
+KLAAT therefore needs four layers kept separate:
+
+
+PHYSICAL CORRESPONDENCE — what sensors measure.
+PERCEIVED EVENT UNITY — whether heard and felt components seem to belong to one event/source.
+BODILY IMPACT — how immediate, forceful, localized, or consequential the event feels.
+BEAT ORGANIZATION — whether the listener predicts and maintains Ankora’s temporal scaffold.
+
+
+Session 55 separated beat organization from embodiment. Session 56 now separates physical coherence, perceived unity, and bodily impact from one another.
+
+
+2. TIMING MATTERS, BUT ZERO DELAY IS NOT THE PRINCIPLE
+
+
+Audio-tactile research supports timing as important, but the evidence rejects a universal “zero milliseconds is best” rule.
+
+
+Airborne Ankora reaches the ears through the room. Mechanical Ankora reaches the listener through drum support, floor, chair, footwear, body contact, and tissue. Those pathways differ in filtering, resonance, rise time, decay, and latency. A delay measured on the floor is not necessarily the delay experienced at the body.
+
+
+Recent controlled work also shows that audio-tactile temporal processing depends on stimulus structure, rhythm, relative phase, attention, and pathway. Temporal binding windows are not universal constants.
+
+
+The useful KLAAT variable is therefore an AUDIO–TACTILE ALIGNMENT FUNCTION: how event-unity and bodily-impact judgments vary across measured relative offsets for a particular listener, venue, contact pathway, and stimulus.
+
+
+The optimum, if one exists, must be measured rather than assumed.
+
+
+3. SPACE IS PART OF THE CAUSAL STORY
+
+
+Timing is not enough. A strike may be heard clearly in front of the listener while the strongest tactile impulse appears to arise from a support or direction that feels unrelated. The signals can be temporally close yet provide conflicting causal evidence.
+
+
+Controlled audio-tactile work shows that spatial relationship can influence integration in some temporal tasks. KLAAT cannot import a universal spatial tolerance, but the principle matters:
+
+
+A COMMON CAUSE SHOULD BE PLAUSIBLE IN BOTH TIME AND SPACE.
+
+
+This may matter differently for Amastacia and Ankora. Amastacia is sustained, diffuse, reverberant, and capable of becoming a room field. Ankora is transient and temporally localizable. Precise point-source tactile correspondence may therefore matter more for Ankora than for Amastacia.
+
+
+AMASTACIA CAN BE A FIELD.
+ANKORA CAN BE AN EVENT.
+
+
+4. ENVELOPE CORRESPONDENCE MAY MATTER AS MUCH AS ONSET
+
+
+An Ankora strike has attack, rise, spectral change, decay, room reflection, and mechanical ringing. Recent human audio-tactile work supports crossmodal interaction for temporal-envelope features such as attack time and amplitude modulation.
+
+
+KLAAT should therefore preserve at least three descriptors:
+
+
+ONSET OFFSET — relative beginning of audible and mechanical events.
+ENVELOPE CORRESPONDENCE — similarity of attack, modulation, and decay structure.
+REPEATABILITY — stability of that relationship across strikes.
+
+
+Two channels can begin together yet have implausibly different temporal shapes. A small onset offset may still produce a compelling common event if the complete relationship is physically plausible. “Delay” alone is too small a model.
+
+
+5. EVENT UNITY MAY MEDIATE BODILY IMPACT
+
+
+This is the central Session 56 hypothesis.
+
+
+At matched airborne level and matched loaded-interface acceleration, stronger temporal-envelope and spatial/source correspondence should increase the probability that listeners judge sound and vibration as one event.
+
+
+If those unity judgments then predict bodily impact better than SPL or interface acceleration alone, KLAAT has identified a perceptual control variable.
+
+
+PHYSICAL COHERENCE → COMMON-CAUSE JUDGMENT → BODILY IMMEDIACY.
+
+
+This is not yet established for KLAAT. Direct Bayesian common-cause evidence is richer in audiovisual research than in whole-body, music-driven audiotactile situations. But the model is now strong enough to test and strong enough to fail.
+
+
+If event-unity ratings add no predictive value beyond physical amplitude and timing, KLAAT should drop the construct rather than preserve it because it sounds elegant.
+
+
+6. AMASTACIA: ESTABLISHING THE WORLD’S CAUSAL PRIOR
+
+
+During Ground Anchor, prolonged exposure to a stable relationship among Drone, room, floor, seat, and body may teach the listener what belongs to the KLAAT environment.
+
+
+Broader multisensory causal-inference work shows that common-cause expectations can change with experience. KLAAT cannot import audiovisual parameter values, but the general principle creates a plausible hypothesis:
+
+
+GROUND ANCHOR MAY ESTABLISH A CAUSAL PRIOR.
+
+
+The listener learns that this sound, this room, this body contact, and this vibration belong to the same world.
+
+
+Amastacia may therefore establish not only an acoustic field but a CROSSMODAL WORLD MODEL.
+
+
+7. ANKORA: MAKING THE COMMON CAUSE DISCRETE
+
+
+A strongly coherent Ankora strike can provide converging evidence: audible attack, plausible mechanical timing, plausible contact pathway, related envelope, and stable repetition.
+
+
+When those cues agree, the listener may stop experiencing “sound plus vibration” and instead experience a single physically consequential Ankora event.
+
+
+The goal is not maximum tactile amplitude.
+
+
+The goal is maximum credibility of the event.
+
+
+8. THE FOUR-PHASE ARCHITECTURE
+
+
+GROUND ANCHOR — ESTABLISH CROSSMODAL WORLD COHERENCE
+Use Amastacia to establish stable relationships among sound, room, support, and body. The aim is a coherent environmental prior, not maximum salience.
+
+
+THRESHOLD GATE — CHANGE THE CAUSAL ORGANIZATION
+Session 54 defined the Gate as controlled model replacement. Session 56 adds a possible crossmodal dimension. Ankora can enter not merely as a new audible Pulse but as a series of discrete bodily consequences that appear to belong to that Pulse. KLAAT might also briefly weaken coherence before a Gate and re-bind sound and touch as the new regime stabilizes. That remains speculative.
+
+
+RISING PULSE — CONTROL COHERENCE, NOT ONLY ENERGY
+Rising Pulse gains another compositional axis: CROSSMODAL COHERENCE. Auditory density can rise while tactile consequence remains selective. Some strikes can be strongly unified across sound and body; others can remain primarily auditory.
+
+
+EVERY STRIKE NEED NOT HIT THE BODY EQUALLY.
+THE IMPORTANT STRIKES MAY NEED TO BELONG TO THE BODY MORE CONVINCINGLY.
+
+
+RETURN PATH — DISSOLVE THE COMMON EVENT
+Tactile consequence can fade while the audible clock remains, or discrete audio-tactile events can dissolve back into Amastacia’s continuous field.
+
+
+EVENT → FIELD.
+
+
+9. MEASURE THE NATURAL SYSTEM BEFORE MANIPULATING IT
+
+
+Once timing becomes compositional, it is tempting to shift tactile delays until something feels strange. KLAAT should not do that before characterizing the venue.
+
+
+A venue already contains acoustic and mechanical delays. Floors and seats resonate. Listener positions have different transfer functions. Arbitrary added offsets on top of an unknown baseline create uninterpretable conditions.
+
+
+The order is:
+
+
+MEASURE NATURAL ALIGNMENT.
+MEASURE REPEATABILITY.
+MAP PERCEPTUAL UNITY AROUND THAT ALIGNMENT.
+ONLY THEN MANIPULATE COHERENCE ARTISTICALLY.
+
+
+10. THE BODY-SURFACE INTERFACE REMAINS THE MEASUREMENT BOUNDARY
+
+
+Remote floor acceleration is not “body dose.” A chair sensor is not receptor activation. A support accelerometer measures the mechanical stimulus available at that interface.
+
+
+Keep three layers separate:
+
+
+SOURCE / STRUCTURE MAPPING — floor, platform, chair, or remote mechanical behavior.
+LOADED-INTERFACE CHARACTERIZATION — the actual support/contact surface under documented load and posture.
+PERCEPTUAL SOMATIC RESPONSE — what the listener detects, localizes, or experiences.
+
+
+Crossmodal causal coherence lives partly between the second and third layers. It cannot be inferred from the first.
+
+
+11. ADAPTATION AND ATTENTION CAN CHANGE UNITY WITHOUT CHANGING THE ROOM
+
+
+The overnight work adds a time dimension. Prolonged vibration can reversibly alter vibrotactile sensitivity under controlled conditions. Attention can alter tactile temporal judgments and salience. Repeated bodily questions can themselves redirect attention.
+
+
+The same measured Ankora relationship may therefore not produce a constant percept across a 20–30 minute ritual.
+
+
+KLAAT now needs at least two history-dependent state variables:
+
+
+ADAPTATION STATE — recent mechanical exposure affecting sensitivity.
+ATTENTIONAL GAIN — how strongly bodily/tactile information is currently weighted.
+
+
+A decline in bodily salience while mechanics remain unchanged does not prove receptor adaptation. It may reflect adaptation, attention migration, habituation, prediction, or combinations.
+
+
+12. EVIDENCE BOUNDARY
+
+
+ESTABLISHED:
+Auditory and tactile signals can interact perceptually; temporal coherence is an important cue in controlled audio-tactile tasks.
+Appropriately aligned audio-tactile stimulation can improve detection or discrimination in some paradigms, but exact zero physical delay is not a universal perceptual optimum.
+Spatial correspondence can influence audio-tactile integration in some tasks.
+Physically similar or ambiguous multisensory stimulation does not guarantee one invariant integrated percept.
+Audio-tactile interaction can support temporal-envelope judgments.
+Vibrotactile sensitivity and salience depend on recent exposure, frequency, body site, interface, and attention. Physical acceleration is not identical to perceived intensity.
+
+
+CONTEXT-DEPENDENT:
+Most direct causal-inference parameterization comes from audiovisual or tightly controlled laboratory paradigms, not live whole-body KLAAT.
+Temporal binding windows, points of subjective simultaneity, spatial tolerance, and preferred offsets vary with stimulus, body site, task, attention, and listener.
+Diffuse Amastacia fields and transient Ankora events may require different coherence criteria.
+A unity rating is a subjective behavioral measure, not proof of a specific neural fusion mechanism.
+
+
+PLAUSIBLE / TESTABLE:
+At matched SPL and loaded-interface acceleration, better temporal-envelope and spatial/source correspondence will increase perceived Ankora event unity.
+Perceived event unity will predict bodily impact beyond raw airborne level and interface acceleration.
+Ground Anchor exposure can alter expectation about which acoustic and mechanical signals belong to the same KLAAT environment.
+Selective high-coherence Ankora events can create stronger bodily consequence than mechanically stronger but poorly matched events.
+
+
+SPECULATION:
+Threshold Gate may be intensified by temporarily weakening crossmodal coherence and then re-binding sound and touch as the new state stabilizes.
+Rising Pulse may achieve greater activation-per-dB by increasing the structural importance of high-coherence events rather than increasing vibration on every strike.
+
+
+UNSUPPORTED:
+Synchronous sound and vibration are automatically fused.
+There is one universal KLAAT audio-tactile delay target.
+The strongest accelerometer reading produces the strongest embodiment.
+A high event-unity rating proves neural binding, trance, vagal activation, healing, or therapeutic efficacy.
+Deliberately delaying tactile vibration is inherently disorienting or transformative.
+
+
+13. KLAAT METHODOLOGY UPDATE
+
+
+For audio-tactile Ankora experiments, distinguish:
+
+
+PHYSICAL CORRESPONDENCE — airborne onset/envelope, loaded-interface onset/envelope, relative delay, spatial/source geometry, repeatability.
+PERCEIVED EVENT UNITY — one event versus two, common-source plausibility, confidence.
+BODILY CONSEQUENCE — immediacy, impact, salience, localization.
+TEMPORAL ORGANIZATION — Pulse clarity, expectation, continuation/synchronization where appropriate.
+HISTORY / STATE — recent vibration exposure, attention/task, KLAAT phase, repeated-session exposure.
+
+
+New rules:
+
+
+DO NOT CALL PHYSICAL SYNCHRONY PERCEPTUAL UNITY.
+DO NOT CALL FLOOR ACCELERATION BODY DOSE.
+MAP THE NATURAL AUDIO–TACTILE SYSTEM BEFORE MANIPULATING IT.
+IF EVENT UNITY DOES NOT PREDICT ANYTHING USEFUL, DROP THE CONSTRUCT.
+
+
+14. KRX-056 — THE COMMON-CAUSE TEST
+
+
+Use one simple Ankora passage with a stable auditory Pulse. First characterize the natural system with a measurement microphone and loaded-interface triaxial accelerometer on one acquisition clock.
+
+
+Then create a randomized within-listener 2 × 2 manipulation:
+
+
+TEMPORAL / ENVELOPE COHERENCE
+A. Natural measured alignment and envelope relationship.
+B. Deliberately offset or decorrelated tactile relationship within a conservative, pre-measured range.
+
+
+SPATIAL / SOURCE COHERENCE
+1. Mechanical delivery through a support/contact pathway plausibly consistent with the apparent Ankora source.
+2. Mechanical delivery through a clearly discrepant support/contact pathway while holding mechanical magnitude as similar as practical.
+
+
+Four conditions result:
+A1 — temporally coherent + spatially plausible.
+A2 — temporally coherent + spatially discrepant.
+B1 — temporally disrupted + spatially plausible.
+B2 — temporally disrupted + spatially discrepant.
+
+
+Hold audible Ankora level and material constant. Match loaded-interface mechanical magnitude across corresponding conditions as closely as practical.
+
+
+After each short block collect separate ratings:
+EVENT UNITY — did the heard and felt parts seem like one event?
+COMMON-SOURCE CONFIDENCE — confidence they came from the same physical source.
+BODILY IMPACT — how physically consequential/immediate the event felt.
+TACTILE SALIENCE — how strong the vibration felt.
+PULSE CLARITY — how clear the temporal scaffold felt.
+
+
+Do not tell participants which conditions are expected to be better.
+
+
+Primary tests:
+1. Does temporal/envelope coherence increase event unity?
+2. Does spatial/source coherence increase event unity?
+3. Do the cues interact?
+4. Does event unity predict bodily impact after controlling airborne level and loaded-interface acceleration?
+5. Does event unity remain distinct from Pulse clarity?
+
+
+Treat formal mediation analysis as exploratory until sample size is adequate.
+
+
+The strongest result is not simply “A1 feels strongest.” The stronger result is that A1 produces higher event unity, event unity predicts bodily impact beyond physical magnitude, and Pulse clarity remains partly separable.
+
+
+If unity ratings are unreliable or add no explanatory value, retain timing, envelope, and spatial descriptors as engineering variables and abandon CROSSMODAL CAUSAL COHERENCE as a formal perceptual control variable.
+
+
+That failure would be useful. It would prevent KLAAT’s research language from becoming more elaborate than the phenomenon.
+
+
+RECOMMENDED NEXT DIRECTION
+
+
+If KRX-056 survives, the next unresolved problem is TIME: does a coherent audio-tactile relationship remain equally powerful across a 20–30 minute ritual, or do adaptation, attentional migration, and learned expectation change how much bodily consequence the same physical event produces?
+
+
+The accumulated hourly work suggests the future model:
+
+
+PHYSICAL STIMULUS × CROSSMODAL UNITY × ADAPTATION STATE × ATTENTIONAL GAIN × LISTENER TEMPORAL BASELINE.
+
+
+But Session 57 should follow whichever unresolved interaction accumulates the strongest evidence, not simply the existence of this model. The current leading candidates are the distinction between genuine somatic adaptation and attention-driven loss of salience, and whether spontaneous motor tempo explains why the same ~137 BPM Pulse does not activate every listener equally.

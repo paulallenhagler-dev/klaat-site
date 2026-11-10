@@ -1,0 +1,239 @@
+KLAAT RESONANCE RESEARCH — SESSION 121
+THE STEREO THAT CROSSES THE SKULL
+Interaural crosstalk, virtual direction, and the limits of portable KLAAT space
+Published: 2026-10-25, 19:18 CDT
+
+
+GOVERNING PRINCIPLE
+Experience-led creation. Science-informed refinement.
+
+
+RESEARCH QUESTION
+
+
+If someone listens to a KLAAT recording through a pair of bone-conduction headphones, can the left and right ears receive sufficiently distinct information to preserve the recording's spatial character? More precisely: does a vibration introduced on one side of the head reach the other cochlea strongly enough to blur binaural cues, and can an apparent direction still be recovered? This is not the same as asking whether a headset can produce audible bass, or whether it physically vibrates the skin. It asks what happens to the two-channel *relationship* that can make sound seem situated in space.
+
+
+The question matters because Amastacia and Ankora can occupy a compelling acoustic relationship without being artificially positioned in a mix. The live instruments produce their own radiation patterns, room reflections, proximity effects and changes of apparent distance. But a phone recording, a stereo export, and a bone-conduction headset are three successive filters on that relationship. A listener may hear a drone as diffuse or a drum as immediate, yet that impression cannot be assigned to the performance alone without knowing what spatial information survived capture and playback.
+
+
+1. NOVELTY GATE: WHY THIS IS SESSION 121
+
+
+The canonical Curriculum Index and Research Ledger are complete through Session 120. Session 12 considered bone conduction and the difference between performer and receiver. Sessions 80–81 investigated portable playback and what survives without deep bass. Sessions 105, 109, 110 and 111 investigated perceived approach, apparent source scale, distance and elevation. Session 95 examined unequal auditory access. The October 25, 17:17 hourly note investigated a different, easily misunderstood issue: a device marketed as 'bone conduction' may deliver a large part of its effective hearing signal through sound pressure generated in the ear canal. That note remains intact as provenance.
+
+
+The present session advances a genuinely separate question: whether bilateral channels remain perceptually separable when each actuator can stimulate both cochleae. It adds direct localization experiments, a physiological crosstalk/cancellation study, a comparison of localization with speech unmasking, and a crucial KLAAT-specific source-eligibility gate: a recording that never captured useful left/right cues cannot demonstrate that a playback system preserved them. The new topic is *interaural information integrity*, not headset transmission-path labeling. No prior published KLAAT session identified this exact combination as its central empirical question.
+
+
+2. THE EAR DOES NOT RECEIVE A FILE; IT RECEIVES TWO SIGNALS
+
+
+A stereo audio file contains two streams, L(t) and R(t). They are not necessarily two distinct acoustic perspectives: a mono recording duplicated into left and right channels is technically a two-channel file but contains no independent interchannel information. A true stereo recording may encode differences in timing, level, phase, spectral balance and reverberant content. Whether those differences accurately correspond to an instrument's position depends on microphone geometry and subsequent processing.
+
+
+For a conventional pair of headphones, the idealized playback aim is that the left electrical channel predominantly stimulates the left ear and the right channel predominantly stimulates the right. There are still device and ear-canal effects. Bone-conduction stimulation adds a particular complication: an actuator on the left side can also excite the right cochlea through mechanical transmission across the head. This is called cross-head transmission, or crosstalk. In an idealized linear description, the signals at the two cochleae can be written as:
+
+
+C_left(f)  = H_LL(f) L(f) + H_LR(f) R(f)
+C_right(f) = H_RL(f) L(f) + H_RR(f) R(f)
+
+
+H_LL and H_RR describe same-side paths; H_LR and H_RL describe cross-head paths. These are complex, frequency-dependent transfer functions, not four universal constants. They include magnitude and phase. Real listening adds nonlinearities, individual anatomy, ear-canal pressure, airborne radiation, device DSP, contact placement and background sound. The equation is a conceptual accounting device, not a measured model of any KLAAT listener or commercial headset.
+
+
+If cross-head paths are strong relative to same-side paths, the cochleae receive more similar mixtures. But it does NOT follow that every bone-conduction device destroys stereo. The paths vary dramatically with transducer position, frequency, and design. Some devices can retain useful directional information, as controlled experiments demonstrate.
+
+
+3. WHY DIRECTION NEEDS TWO EARS — AND WHY THAT IS NOT THE WHOLE STORY
+
+
+The auditory system exploits interaural time differences (ITDs) and interaural level differences (ILDs). For ordinary sound in air, a source to the left generally reaches the left ear slightly earlier and at a different level/spectrum than the right ear. For humans, the largest natural acoustic ITD is on the order of 0.6–0.7 milliseconds, depending on head geometry and sound direction. This is not a fixed delay imposed on every KLAAT beat; it is a spatial cue in a particular sound field.
+
+
+At low frequencies, phase/timing cues can be especially informative for left–right position. At higher frequencies, head-shadow-related level differences and spectral cues become important. The pinnae, head movement, reflections and prior experience contribute to front–back judgments, elevation and externalization (whether a sound appears outside the head). The distinction is important: identifying 'left' does not mean perceiving a convincing, distant, room-sized source. A stereo width rating, a source-location judgment, and the sense that sound is outside the head are different outcomes.
+
+
+KLAAT makes this separation interesting. Amastacia's nominal C# fundamental is a pitch anchor, not a spatial code. Its higher harmonics, breath noise and vocal-tract filtering can supply spectral information even when the deepest component is weak. Ankora's impacts provide short transients that may carry directional and timing information, if the recording and playback retain it. This is a *plausible inference about the kinds of acoustic cues present*, not a finding that a KLAAT listener can locate either instrument through a particular headset.
+
+
+4. FIRST DIRECT EXPERIMENT: BONE CONDUCTION CAN PRESERVE USEFUL HORIZONTAL DIRECTION
+
+
+Wang, Lu, Sang, Cai and Zheng (2022) studied virtual sound localization with bilateral bone-conduction stimulation. Nine participants judged virtual horizontal locations presented using non-individualized head-related transfer functions (HRTFs). The researchers compared five bone-transducer locations—mastoid, condyle, above the ear, temple and a bone-anchored-hearing-aid position—with air-conduction headphones, and compared low-frequency, high-frequency and broadband signals. The study deliberately used foam earplugs to suppress airborne sound from the test transducers. That detail makes the laboratory mechanism cleaner but also makes the setup different from ordinary open-ear consumer listening.
+
+
+The air-conduction headphone condition gave the best mean localization accuracy, reported as a mean absolute error of about 20.2 degrees (standard deviation across the reported estimate approximately 3.4 degrees). Yet bone stimulation at the mastoid and condyle did not differ significantly from air-conduction headphones in that small study. Temple placement was worst. High-frequency bone-conduction stimuli were localized more accurately than low-frequency stimuli. Front–back confusions remained substantial and were not resolved merely by choosing a favorable bone-transducer position.
+
+
+This result directly contradicts the simplistic claim that bone conduction necessarily erases all spatial hearing. It does not prove equivalence. 'No statistically significant difference' with nine participants is not a demonstration of practical equivalence, and the stimuli were HRTF-processed virtual sources, not a raw phone video of Amastacia and Ankora. The reported 20.2-degree figure is a laboratory localization outcome, not the precision of a KLAAT listener, nor a specification for a commercial headset.
+
+
+An important interpretation follows. A headset can preserve enough lateral cues for a listener to point toward a virtual source while still delivering an altered spectral balance, weak externalization, or less convincing low-frequency space. Spatial location is not the same outcome as felt resonance, timbral fidelity, absorption or activation.
+
+
+5. SECOND DIRECT EXPERIMENT: CROSS-HEAD TRANSMISSION IS REAL AND FREQUENCY DEPENDENT
+
+
+Surendran and Stenfelt (2023) performed a cancellation-based investigation of interaural separation in 20 normal-hearing participants. They tested thirteen third-octave frequency bands from 250 to 4,000 Hz using mastoid bone-conduction stimulation. By adjusting level and phase of bilateral signals, they could investigate how a stimulus at one side contributes to excitation at the other cochlea. They also measured ear-canal pressure, which did not cancel at precisely the same phase as the inferred cochlear signal.
+
+
+The findings are particularly relevant to any temptation to use a single microphone measurement as a complete account of 'what the ear got.' Crosstalk was not constant: it was lowest near 2 kHz and highest near 1 kHz in the tested arrangement. Cycle-adjusted interaural time differences were reported at approximately 61 microseconds at 250 Hz, rising to about 1.1 milliseconds at 800 Hz before falling to around 0.6 milliseconds at 4 kHz. These numbers describe a specialized bilateral cancellation measurement; they are NOT a natural-head ITD curve, an audible delay a KLAAT listener will necessarily perceive, or a reason to shift drum timing.
+
+
+The study's methodological lesson is stronger than any one number: interaural separation cannot be inferred simply from which side the actuator touches, nor from ear-canal pressure alone. If a headset is evaluated as a spatial KLAAT playback device, the relevant outcome is the listener's hearing and perception under the actual device, position and recording—not an assumption based on its marketing category.
+
+
+6. THE APPARENT CONTRADICTION: STRONG CROSSTALK, YET SOME LOCALIZATION SURVIVES
+
+
+These results are not mutually exclusive. Bone conduction can stimulate both cochleae, and bilateral devices can nevertheless provide usable differences between the resulting signals. Those differences may be stronger in some frequency bands and transducer positions than others. The brain does not need perfectly isolated channels to make every left/right judgment; it needs informative, sufficiently reliable cues for the task.
+
+
+But a second 2022 study warns against equating 'can localize' with 'gets the full benefit of two ears.' Denanto, Wales, Tideholm and Asp tested 25 normal-hearing participants under simulated bilateral conductive hearing loss, using clinical bone-conduction processors. Bilateral stimulation produced a stimulus-dependent improvement in horizontal sound localization relative to unilateral stimulation. The smallest bilateral benefit occurred for low-frequency octave-filtered noise centered at 0.5 kHz, while larger benefits occurred for broadband and 4-kHz-centered stimuli. Yet the bilateral improvement in speech recognition against competing speech was small, and the spatial release from masking was identical for unilateral and bilateral conditions.
+
+
+This is a valuable contradiction in outcome, not an inconsistency to hide. Directional localization and separating competing sound streams are different tasks. A device that allows a person to indicate where an isolated sound is located may not provide a comparable advantage for understanding one sound amid another. The clinical processors, simulated hearing loss and speech task differ substantially from recreational KLAAT playback. Their result cannot be imported as a predicted KLAAT effect size.
+
+
+For KLAAT, it suggests a concrete unresolved question: if Amastacia's continuous texture and Ankora's transients are simultaneously present, can a listener distinguish their perceived spatial roles through a particular device? This is more demanding than asking whether a test beep appears left or right. It may also be unnecessary for enjoyment: an immersive unified field could be artistically desirable even when sources are not separately localized. The research must not define one spatial outcome as the correct artistic response.
+
+
+7. A THIRD HEADSET STUDY: LOCALIZATION IS NOT SOUND QUALITY
+
+
+Wersényi (2023) compared commercial bone-conduction and active-noise-cancellation headsets in a virtual environment, including frontal-plane virtual source identification and dummy-head measurements. Under the tested conditions, commercial bone-conduction devices supported source-identification accuracy comparable to the tested alternatives, while subjective sound quality was lower. This does not establish that bone conduction is inferior for all music or devices. It illustrates why a directional judgment should not substitute for a sound-quality rating, and why neither automatically measures bodily engagement.
+
+
+For a minimalist acoustic work, a slight change in upper-harmonic clarity, drum attack, low-band weight or diffuse room tail may matter as much as a source-location error. One listener may value the open-ear environmental awareness; another may find ambient masking intrusive. Neither preference is a neurological endpoint.
+
+
+8. THE RECENT EAR-CANAL FINDING IS A DIFFERENT QUESTION
+
+
+The October 25 hourly research note identified a surprising mechanism from Surendran, Prodanovic and Stenfelt (2023). In 21 normal-hearing adults, stimulation near the entrance to the ear canal improved bone-conduction sensitivity by around 20 dB on average relative to a mastoid configuration, with larger differences at some frequencies. The authors' experiment/model combination estimated that ear-canal sound-pressure pathways could dominate other pathways by roughly 20–30 dB in their front-of-ear setup. They also reported relatively large transcranial transmission losses (about -40 to -25 dB in their sign convention), potentially improving separation of binaural cues.
+
+
+That finding does NOT mean '25 dB of KLAAT bass travels through the skull' or 'the device is really an ordinary earbud.' Ear-canal pressure may be generated by vibrating surrounding tissue, not merely by a little speaker emitting airborne sound. Nor does the 20–30 dB pathway estimate give a percentage of a music recording's physical energy. This study used a particular near-canal device configuration and models; other placements can behave differently.
+
+
+The connection to Session 121 is conditional. A design that emphasizes the ear-canal pathway might preserve greater left/right separation than a mastoid-based device in some circumstances. But whether it creates convincing KLAAT spatial depth or maintains low-frequency timbre remains an empirical question. Device pathway, spatial discrimination and felt bodily response must be recorded separately.
+
+
+9. THE SOURCE-ELIGIBILITY GATE: WAS THERE EVER A STEREO SPACE TO PRESERVE?
+
+
+Before testing bone-conduction stereo with Paul's archive, establish what the source actually contains. A phone may record mono; it may record two channels that are nearly identical; it may use multiple microphones with automated switching, noise suppression, beamforming or other processing; or an exported clip may have been downmixed. A video showing two instruments is not evidence that its audio contains spatial cues. A waveform with two channels is not sufficient evidence either.
+
+
+The minimum useful inspection is descriptive: confirm channel count and codec; listen separately to left and right; compare channel similarity across time and frequency; note whether a stereo microphone geometry is documented; and identify whether a clip was subsequently processed. For a simple illustration, if L(t)=R(t) at every sample, any perceived lateral difference between headphone types cannot be credited to distinct left/right information in the source. The playback device or listener context may create a difference, but the original file did not encode it.
+
+
+Conversely, a nonzero L–R difference does not automatically encode accurate direction. It could be compression noise, a recording artifact, mismatched gain or room reflections. Spatial truth requires source geometry or a validated reference. This is why the project should preserve original recordings and document derivative files rather than treating every export as a fresh performance (Session 118).
+
+
+A second trap is device comparison without loudness control. A headset that sounds wider might simply be brighter or louder; a low-frequency deficit can change the apparent distance or size of a source; and open-ear devices admit ambient sound that sealed headphones attenuate. The 'same volume setting' on two devices is not the same sound pressure or loudness. For a casual listener comparison, use comfortable levels and label the comparison exploratory rather than pretending a phone volume slider calibrates cochlear input.
+
+
+10. WHAT COULD ACTUALLY BE MEASURED?
+
+
+There are four distinct measurement levels, each answering a different question.
+
+
+LEVEL A — FILE CONTENT. Channel count, correlation/coherence, interchannel level and phase differences, transient spectra, codec and processing history. These are acoustic/digital signal properties. They do not establish perceived direction.
+
+
+LEVEL B — DEVICE DELIVERY. With suitable equipment, characterize frequency response, mechanical coupling, airborne leakage and ear-canal pressure at a defined fit and contact position. The exact cochlear signal is not directly observed by an ordinary external microphone. A simple microphone held near the headset cannot estimate cross-head transmission.
+
+
+LEVEL C — BEHAVIOR AND EXPERIENCE. Ask a listener whether the sound appears left, right, centered, wide, external, distant, close or surrounding, without presuming which answer is best. Directional accuracy can be scored only when there is a defensible reference source location. Subjective width and externalization are ratings, not accuracy tests.
+
+
+LEVEL D — PHYSIOLOGY. Heart rate, respiration, electrodermal activity, EEG or other measures would require dedicated instrumentation, baselines and suitable controls. None is implied by stereo width or a head-mounted vibration. No KLAAT listener's brain state, trance, autonomic response or bodily acceleration has been measured by the studies cited here.
+
+
+Keeping these levels separate protects both science and the art. The felt world can be real as experience even if its physical cause is uncertain. Equally, a measured channel difference can exist without anyone noticing it.
+
+
+11. WHY THIS MATTERS EVEN IF KLAAT REMAINS MOSTLY MONO
+
+
+KLAAT does not need a binaural production mandate. A compelling mono recording can preserve drone continuity, rhythmic tension, breath articulation and impact texture. A live performance can be spatially rich without any stereo mix. A listener using one ear or one speaker can still experience music, energy, imagery or absorption, though their cues and circumstances differ. The present work does not elevate stereo to an artistic requirement.
+
+
+Instead, it helps prevent a common scientific mistake: assigning an experience to 'low-frequency bodily resonance' when it may be partly shaped by spectral balance, spatial cues, device contact, expectation, ambient sound or simply the listener's interpretation. The goal is not to engineer a guaranteed field. It is to recognize what the existing field actually does under different conditions.
+
+
+The relationship between Amastacia and Ankora may be particularly robust in one dimension and fragile in another. Their temporal interaction might survive a small speaker while their perceived scale changes. Their attack and drone timbres may remain identifiable through a headset while source separation becomes diffuse. A listener may report more energy through one device and more spatial immersion through another. Each would be a separate observation requiring a comparison; none would establish a universal best device.
+
+
+12. EVIDENCE LADDER
+
+
+ESTABLISHED IN NON-KLAAT STUDIES: Bone-conduction stimulation can excite both cochleae. Its cross-head transmission and interaural separation are frequency- and placement-dependent. Laboratory listeners can localize some virtual sounds delivered bilaterally through bone transducers. A source-position judgment, front–back confusion, speech masking benefit and subjective sound quality are different experimental endpoints. Some front-of-ear transducer configurations produce substantial ear-canal pressure pathways.
+
+
+CONTEXT-DEPENDENT / CONTRADICTORY: Wang et al. (2022, N=9) found mastoid/condyle virtual localization not significantly worse than air headphones, with worse low-frequency results and unresolved front–back confusions. Denanto et al. (2022, N=25) found bilateral benefits for localization but not for spatial release from masking in a clinical simulation. Wersényi (2023) found usable commercial-headset localization with lower subjective quality. Surendran et al. (2023, N=21) showed a near-ear-canal pathway that may improve interaural separation, but this does not represent all devices. Differences in task, stimulus, fit, hearing status and transducer design prevent a single universal ranking.
+
+
+PLAUSIBLE / TESTABLE KLAAT HYPOTHESES: A genuine stereo recording of Amastacia and Ankora may yield different apparent width, source separability or externalization on bone-conduction versus conventional headphones. A predominantly mono phone recording may yield little reliable source-based lateral information regardless of device. Higher-frequency breath and impact cues may carry more directional information than low-band drone energy in some bone-conduction setups. The direction and magnitude of any KLAAT listener differences are unknown.
+
+
+SPECULATION: A diffuse spatial image might be experienced as more enveloping by some listeners and less vivid by others; either could coexist with energizing everyday use. Nothing in the cited studies establishes which experience would occur, or whether it would influence absorption.
+
+
+UNSUPPORTED: 'Bone conduction perfectly reproduces the live KLAAT room'; 'skull vibration guarantees stronger trance'; 'the left actuator stimulates only the left cochlea'; 'bone-conduction headphones cannot reproduce stereo'; 'more stereo width proves better KLAAT'; 'C# has a special interaural effect'; 'a bone-conduction headset reproduces whole-body low-frequency vibration'; or any claim that a KLAAT-specific neural or autonomic effect has been demonstrated.
+
+
+13. THE MOST IMPORTANT UNRESOLVED QUESTIONS
+
+
+Does the current KLAAT archive contain a verified stereo performance, or are most clips effectively mono? Can a listener distinguish Amastacia and Ankora as separate apparent locations in any recording, and is that distinction even stable on repeat listening? Do source width and externalization change together, or independently? Does a bone-conduction headset's apparent physicality arise from local contact sensation, ear-canal sound pressure, spectral coloration, expectation or some combination? Does listening with the ears open to the environment help everyday engagement or interfere with attention? Are any reported effects reproducible across listeners, devices and independent takes? Can a stereo capture preserve the organic, non-prescriptive identity of KLAAT without creating a new production aesthetic?
+
+
+Those are research questions, not instructions for Paul to move his instruments, place microphones in a prescribed pattern, invent a score or perform at a particular tempo. The performance remains the source; analysis follows it.
+
+
+14. ONE OPTIONAL, LOW-PRESSURE KLAAT OBSERVATION
+
+
+Choose ONE existing, unedited KLAAT clip that seems spatially interesting. First check whether the original file is genuinely stereo or effectively mono; if unknown, simply label it 'channel provenance unknown.' If two playback devices are already available, listen once at comfortable, roughly comparable subjective loudness through each, without changing the musical file. Note only whether the drone and drum seem centered, spread, outside the head, near, distant, or hard to place—and whether either device feels more or less engaging. No device purchase, scoring system, forced repetition, special headset or performance change is needed. If the clip is mono, do not interpret differences as preservation of original left/right cues. A personal comparison is a useful observation, not a controlled result.
+
+
+CONCLUSION
+
+
+THE TWO EARS DO NOT NECESSARILY RECEIVE TWO INDEPENDENT CHANNELS. Yet imperfect separation does not eliminate every spatial judgment. Bone-conduction localization is a real, variable, task-dependent ability—not a guarantee of stereo fidelity and not evidence of whole-body resonance. For KLAAT, the first question is what the original improvisation actually encoded; the second is what the playback device delivered; the third is what the listener experienced. Keeping those answers distinct allows the art to remain spontaneous while the research becomes more exact.
+
+
+PRIMARY RESEARCH AND SOURCE PROVENANCE — CHECKED 2026-10-25
+
+
+[1] Wang J, Lu X, Sang J, Cai J, Zheng C (2022). Effects of Stimulation Position and Frequency Band on Auditory Spatial Perception with Bilateral Bone Conduction. Trends in Hearing 26. DOI 10.1177/23312165221097196. N=9, virtual localization, five BC positions, AC comparison, low/high/broadband, non-individualized HRTFs. https://pmc.ncbi.nlm.nih.gov/articles/PMC9067062/
+
+
+[2] Surendran S, Stenfelt S (2023). Inter-aural separation during hearing by bilateral bone conduction stimulation. Hearing Research 437:108852. DOI 10.1016/j.heares.2023.108852. N=20, thirteen third-octave frequencies, 250–4000 Hz, cancellation and ear-canal-pressure measurements. https://pubmed.ncbi.nlm.nih.gov/37463528/
+
+
+[3] Denanto FM, Wales J, Tideholm B, Asp F (2022). Differing Bilateral Benefits for Spatial Release From Masking and Sound Localization Accuracy Using Bone Conduction Devices. Ear and Hearing 43:1708–1720. DOI 10.1097/AUD.0000000000001234. N=25, simulated conductive hearing loss, bilateral/unilateral clinical devices, localization and competing speech. https://pmc.ncbi.nlm.nih.gov/articles/PMC9592172/
+
+
+[4] Surendran S, Prodanovic S, Stenfelt S (2023). Hearing Through Bone Conduction Headsets. Trends in Hearing 27. DOI 10.1177/23312165231168741. N=21, front-of-ear versus mastoid pathways, ear-canal sound pressure, LiUHead modeling. https://pmc.ncbi.nlm.nih.gov/articles/PMC10126703/
+
+
+[5] Wang J, Stenfelt S, Wu S, et al. (2022). The Effect of Stimulation Position and Ear Canal Occlusion on Perception of Bone Conducted Sound. Trends in Hearing 26. DOI 10.1177/23312165221130185. N=11, site/occlusion, speech and music quality; distinct from spatial localization task. https://pmc.ncbi.nlm.nih.gov/articles/PMC9537495/
+
+
+[6] Wersényi G (2023). Evaluation of Bone Conduction and Active-Noise-Cancellation Headsets Based on Listening Tests in a Virtual Environment. Infocommunications Journal 15(3):54–62. DOI 10.36244/ICJ.2023.3.6. Commercial-headset virtual source identification and subjective quality. https://real.mtak.hu/186865/
+
+
+[7] Internal KLAAT provenance: connected Master Instructions, Curriculum Index and Research Ledger through Session 120; Session Corpus Volume II through Session 120; canonical Library Sessions 12, 80–81, 95, 105, 109–111, 118–120; Library hourly note 2026-10-25 17:17 CDT on ear-canal pathway attribution, plus hourly notes 16:17, 18:15 and 19:11 CDT. No KLAAT audio file or listener response was analyzed for this session. No KLAAT physiological, trance, therapeutic, spatial accuracy or device-performance effect has been demonstrated.
+
+
+PUBLICATION NOTE
+Canonical safety copy: /KLAAT Resonance Research/Published Studies/KLAAT_Resonance_Research_Session_121_2026-10-25_1918_CDT.txt
+Google Drive Corpus, Curriculum Index and Research Ledger are secondary mirrors/curation targets. If a write is blocked, preserve exact pending updates in /KLAAT Resonance Research/Curation Queue/ without deleting hourly provenance. Experience-led creation. Science-informed refinement.
+
+
+END OF SESSION 121

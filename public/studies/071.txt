@@ -1,0 +1,187 @@
+KLAAT RESONANCE RESEARCH — SESSION 71
+THE THREE CAUSES OF A STRONG MOMENT
+Prediction, Attention, Adaptation, and Why the Earned Wound Needs a Control
+Published: 2026-10-09 08:12 CDT
+
+
+CORE QUESTION
+When an omitted Ankora strike becomes unusually noticeable, is the effect caused by violation of a learned temporal expectation, by attention being directed toward that moment, or by changes in sensory responsiveness across repetition? KLAAT must distinguish these mechanisms before claiming that an Earned Wound has a special embodied effect.
+
+
+GOVERNING PRINCIPLE
+A noticeable absence is evidence of a noticed absence. It is not, by itself, evidence that prediction error, attention, adaptation, or a bodily resonance mechanism caused the experience.
+
+
+1. WHY SESSION 71 FOLLOWS SESSION 70
+Session 70 established the Predictive Salience Gate: the physical strike, the expected strike, and the reported experience are different events. It proposed a regular-Clock versus irregular-Clock versus learned-rest comparison. That design can show whether rhythmic context matters. It cannot, by itself, identify why. A long run of regular Ankora strikes simultaneously increases predictability, permits temporal attention, and repeats a similar acoustic input. Those changes are correlated. Session 71 is about pulling them apart without turning KLAAT into a laboratory-generated composition.
+
+
+2. THE THREE RIVAL EXPLANATIONS
+PREDICTION: a listener learns that a strike should occur at a particular moment, so its absence violates a learned model. ATTENTION: a listener preferentially allocates processing to that moment or to Ankora rather than Amastacia; the event or absence becomes more noticeable. ADAPTATION/REPETITION: responses to repeated sounds change over time through sensory and cognitive mechanisms, so a deviation may stand out against an altered baseline. These explanations can coexist. The scientific question is whether one explains an effect after the others are controlled.
+
+
+3. WHY 'ADAPTATION' MUST BE USED CAREFULLY
+There are at least three phenomena often lumped together: peripheral or neural sensory adaptation; repetition-related attenuation of particular evoked responses; and behavioral habituation, such as a listener reporting less surprise after many repetitions. They are not synonyms. A declining salience rating cannot identify which occurred. An unexpected omission has no target attack to drive ordinary stimulus-evoked adaptation at that exact moment, but the preceding repeated attacks and the ongoing Amastacia Field can still alter neural and perceptual context. This is why an omission paradigm is informative but not magically free of confounds.
+
+
+4. THE DIRECT EVIDENCE FOR ATTENTION MATTERS
+A study titled 'Silent Expectations: Dynamic Causal Modeling of Cortical Prediction and Attention to Sounds That Weren't' used auditory omissions and EEG/MEG, comparing attended and unattended conditions. Its model comparison implicated predictive signaling and an attention-related modulation of backward connections. This is strong evidence that attention and omission-related processing can interact under the tested conditions. It is not a demonstration that KLAAT omissions induce a bodily jolt, nor proof that the study's neural model is the unique explanation of every response. Reference: PubMed PMID 27511005.
+
+
+5. EXPECTATION AND ATTENTION ARE NOT IDENTICAL
+A temporal-cueing MEG study found that auditory beta-band responses to expected versus unexpected tones depended on whether the tones were attended. Differences were apparent even before expected onset times. That makes it risky to equate a pre-onset neural fluctuation with pure prediction or to assume attention simply adds a constant boost. For KLAAT, a listener can know when Ankora should strike while attending primarily to Amastacia, or attend intensely to Ankora without accurately knowing which beat will be emphasized. These states need distinct experimental labels. Reference: PubMed PMID 25799572.
+
+
+6. REPETITION HAS ATTENTION-INDEPENDENT AND ATTENTION-DEPENDENT COMPONENTS
+Hsu, Darriba and Waszak (2021) tested repetition trains with and without temporary disruptions in a low-periodicity auditory context. They reported attention-independent and attention-dependent repetition effects on different event-related components (P2 and P3a in their design). This supports the need to separate repetition history from task demands. It does not establish a simple two-part mechanism for live drumming, and an EEG component should not be translated into 'activation' or 'healing.' Reference: DOI 10.1016/j.brainres.2021.147559.
+
+
+7. PREDICTABILITY CAN REDUCE PROCESSING DEMAND
+Milne and colleagues' 2021 auditory-sequence experiments found smaller sustained pupil diameter during predictable than random sequences. The authors interpreted the result as consistent with predictable sequences being easier to process, rather than automatically drawing more attention. This is a valuable correction to a tempting KLAAT story: a stable Clock does not necessarily create ever-increasing arousal. It may establish a low-effort predictive framework within which a rare change becomes conspicuous. Pupil size is not a direct meter of trance, vagal state, or KLAAT-specific activation. Reference: DOI 10.1523/JNEUROSCI.2879-20.2021.
+
+
+8. TEMPORAL REGULARITY CAN SUPPORT HIGHER-ORDER LEARNING
+Tavano and colleagues manipulated regularity and deviant probabilities in rapid auditory sequences. Their findings supported a role for temporal regularity in higher-order predictions, with important qualifications involving stimulus rate and which mismatch effects were altered. KLAAT's approximately 137 BPM reference is far slower than some laboratory tone rates, and the natural acoustic complexity of Ankora differs from pure-tone experiments. The transferable idea is a question, not a numerical prediction: does a legible Ankora Scaffold allow the listener to learn a higher-order pattern of where an omission belongs? Reference: DOI 10.1111/ejn.12404.
+
+
+9. THE PROBLEM WITH A SINGLE 'SURPRISE' SCORE
+A participant may correctly detect that a strike was omitted without feeling surprised. Another may report a strong suspended feeling but fail to place the missing beat accurately. A third may notice the omission only when asked to count strikes. Therefore KLAAT should keep separate: objective omission detection, confidence in timing, expectedness, subjective surprise, felt suspension, urge to move, and bodily sensation. One composite 'impact' score would obscure the mechanism. It could also reward leading language and make a dramatic story out of weak data.
+
+
+10. THE PHYSICAL NULL IS A FEATURE, NOT A MYSTERY
+At the omitted target time, Ankora produces no strike-associated acoustic attack or mechanical impulse. Amastacia may continue, and the room may contain reverberant energy from preceding events. The absence is therefore not total physical silence. A properly labeled omission trial records the expected beat location, confirms no target attack, and preserves the residual acoustic field. This protects the Somatic Attribution Gate from Session 69: a felt event at the omitted time is a report to explain, not proof of a physical hit.
+
+
+11. ANKORA'S CLOCK CAN CREATE TEMPORAL ATTENTION
+The repeated elk-hide frame-drum attack gives the listener opportunities to anticipate a moment. But temporal expectation and temporal attention may reinforce each other. Someone told to 'listen for the missing beat' will likely allocate attention differently from someone invited to listen naturally. This makes the instruction itself an experimental treatment. The low-interruption KLAAT design should use a neutral listening condition first and a directed-counting condition separately, without pretending that either is a pure window into spontaneous immersion.
+
+
+12. AMASTACIA IS AN ATTENTIONAL COMPETITOR AND AN ANCHOR
+Amastacia's C# agave drone is not merely background sound. Its sustained harmonic Field, breath accents and timbral movement can compete for attention with Ankora or stabilize the acoustic scene against which Ankora is heard. If Paul makes a prominent breath accent at an omission moment, listeners might report a strong transition even if the drum omission itself was barely learned. Conversely, a stable Amastacia Field may make the absence of an expected Ankora transient easier to detect. This interaction is KLAAT-specific and untested; record the Field envelope and annotate breath accents rather than assuming neutrality.
+
+
+13. THE REPEAT-COUNT TRAP
+More repetitions may strengthen the listener's temporal model. They may also reduce novelty, invite mind-wandering, change fatigue, and alter sensitivity to the drum timbre. If the fifteenth cycle produces a stronger omission response than the fifth, prediction is one explanation among several. If the fifteenth produces a weaker response, adaptation or learned omission probability is possible. A single upward or downward curve cannot establish mechanism. Repeat-count must be modeled jointly with omission probability, attention task, and physical exposure history.
+
+
+14. PROBABILITY IS DIFFERENT FROM POSITION
+An omission at the same beat position may be rare in one block and frequent in another. But changing omission frequency also changes the overall number of physical Ankora attacks. That alters exposure history and potentially average level. A better control uses balanced present-hit and omission trials, preserves local acoustic history as closely as practical, and analyzes target-time expectedness explicitly. No single control can perfectly equate learning history while manipulating expectation; the remaining asymmetries must be reported.
+
+
+15. A BETTER CONCEPT: THE EXPECTATION–ATTENTION–REPETITION TRIANGLE
+KLAAT now adopts a three-corner explanatory diagram. At one corner: learned event probability. At another: where the listener directs attention. At the third: accumulated repetition and sensory exposure. The observed outcome sits in the center. The aim is not to prove that only one corner matters; it is to estimate which relationships survive controlled comparisons. The triangle is a methodological model, not a new neural theory or additional KSV state variable.
+
+
+16. GROUND ANCHOR — BEFORE ANKORA MAKES A PROMISE
+During Ground Anchor, Amastacia establishes the continuous Field, the breath timescale and the room's acoustic identity. There is no well-learned Ankora beat yet, so an empty drum moment should not be coded as an omitted strike. This phase can also provide a neutral attention baseline: ask listeners what they noticed without mentioning prediction, missing beats, or bodily impact. If they spontaneously describe rhythmic anticipation before Ankora enters, record that as an interesting report, not as proof of a hidden drum Clock.
+
+
+17. THRESHOLD GATE — LEARNING AND ATTENDING CAN DIVERGE
+Threshold Gate is the acquisition of a legible Ankora Clock, not just the first attack. A listener may learn the Clock without consciously counting; another may count but choose a half-time interpretation. We should test whether listeners can identify the next beat's location under neutral instructions, then compare with a directed-attention task. Amastacia's Field may support or interfere with this learning. The transition is successful artistically when it changes the experience; scientifically, its proposed predictive mechanism still needs validation.
+
+
+18. RISING PULSE — THE EARNED WOUND UNDER SCRUTINY
+During Rising Pulse, Ankora can increase Surface Pressure while maintaining a relatively stable Scaffold. A sparse omission after a convincing pattern is a candidate Earned Wound. But if its reported intensity appears only when the audience is instructed to count, then the evidence favors a task-dependent attention effect. If it persists during neutral listening and exceeds matched learned-rest controls, the predictive interpretation becomes more credible. If it declines with exposure, test whether the omission has become expected before claiming neural adaptation.
+
+
+19. RETURN PATH — ENDING A RULE IS NOT MISSING ONE BEAT
+An isolated omitted strike is a local violation within an ongoing Clock. Return Path removes the Clock itself. The listener may initially expect another strike and then revise the model as the silence continues. That transition may have a different time course from an Earned Wound. Amastacia remains to hold continuity while Ankora withdraws. Measure the persistence of an inferred beat with separate post-passage tapping or retrospective marking; do not interrupt the live experience repeatedly to demand a report.
+
+
+20. THE KSV-0.1 IMPLICATION
+The provisional KLAAT State Vector remains [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL]. Prediction, attention, and adaptation are candidate mediators/moderators and histories, not automatically new dimensions of the delivered musical state. A change in listener report does not prove a change in KSV; a change in KSV does not guarantee a particular listener outcome. Keep delivered structure, inferred meter, task framing, physical exposure and subjective response on separate synchronized timelines.
+
+
+21. ESTABLISHED EVIDENCE
+ESTABLISHED — Auditory omissions can evoke measurable responses under controlled conditions, and attention can modulate omission-related neural processing (Silent Expectations; PMID 27511005).
+ESTABLISHED — Temporal expectation and attention interact in auditory neural measures; effects cannot always be interpreted as independent additive boosts (PMID 25799572).
+ESTABLISHED — Repetition-related auditory responses can have both attention-independent and attention-dependent components in controlled experiments (Hsu et al. 2021).
+ESTABLISHED — Predictable auditory sequences can be associated with reduced sustained pupil diameter relative to random sequences in particular experiments (Milne et al. 2021).
+ESTABLISHED — Temporal regularity can support higher-order learning of auditory event probabilities in tested rapid-sequence conditions (Tavano et al. 2014).
+ESTABLISHED — A deliberately omitted Ankora strike does not generate the strike-associated acoustic or mechanical impulse.
+
+
+22. CONTEXT-DEPENDENT EVIDENCE
+CONTEXT-DEPENDENT — EEG/MEG findings are not equivalent to conscious omission detection or bodily sensation; model-based neural interpretations remain conditional on the tested paradigm.
+CONTEXT-DEPENDENT — Attention can improve detection, but its direction and magnitude depend on task, timing, perceptual organization and stimulus history.
+CONTEXT-DEPENDENT — Repetition suppression, adaptation and habituation cannot be inferred from a single declining self-report series.
+CONTEXT-DEPENDENT — Pupil changes are affected by lighting, effort, surprise and many other variables; they are not a direct activation or therapy measure.
+CONTEXT-DEPENDENT — Laboratory tone rates and simple auditory patterns differ from KLAAT's human-played ~137 BPM Scaffold and rich Amastacia Field.
+CONTEXT-DEPENDENT — 'Matched loudness' is not the same as matched onset spectrum, event count or mechanical contact exposure.
+
+
+23. PLAUSIBLE / TESTABLE KLAAT HYPOTHESES
+PLAUSIBLE/TESTABLE — Rare unexpected Ankora omissions produce more accurate detection and stronger suspension ratings than predictable learned rests, even under neutral listening instructions.
+PLAUSIBLE/TESTABLE — Directed attention increases omission detection but need not proportionally increase bodily sensation.
+PLAUSIBLE/TESTABLE — Repeated exposure changes omission salience partly through learning the omission probability, distinguishable from mere exposure count with appropriate controls.
+PLAUSIBLE/TESTABLE — Stable Amastacia Field supports maintenance of Ankora's inferred Clock through an omission, compared with salient Field changes at the same moment.
+PLAUSIBLE/TESTABLE — The difference between a local Earned Wound and the global Return Path persists across listeners after accounting for meter choice and attentional framing.
+
+
+24. SPECULATION
+SPECULATION — KLAAT's most distinctive omission moments may occur when the Clock is highly learned but the listener is not explicitly monitoring it.
+SPECULATION — An Earned Wound may feel like a temporary suspension of bodily movement preparation, even with negligible contact vibration.
+SPECULATION — Amastacia could act as a perceptual continuity scaffold that makes Ankora's absent event more meaningful, not merely louder or more tactile.
+SPECULATION — A future human-playable notation might mark degrees of expectation confidence rather than fixed numbers of repeated bars.
+
+
+25. UNSUPPORTED CLAIMS
+UNSUPPORTED — Every strong response to a missing strike is a pure prediction-error response.
+UNSUPPORTED — Repetition-induced changes in listener ratings prove neural adaptation or autonomic regulation.
+UNSUPPORTED — Omission-related EEG signals prove felt chest vibration, healing, trance or vagal reset.
+UNSUPPORTED — Attention-free processing means attention cannot modulate an effect.
+UNSUPPORTED — Predictability necessarily raises activation; some evidence points to lower processing demand in predictable sequences.
+UNSUPPORTED — 137 BPM uniquely engages a biological mechanism.
+UNSUPPORTED — A successful KLAAT composition must maximize surprise, omission frequency, or physiological arousal.
+
+
+26. METHODOLOGY UPDATE — THE TRIANGLE VALIDITY GATE
+Before promoting predictive salience to an explanatory KLAAT mechanism, preserve three independent descriptors: EXPECTATION (local probability, learned meter, rest history); ATTENTION (neutral versus directed instruction, task performance, reported focus); and REPETITION (number of physically delivered attacks, exposure duration, serial position, block order). Use separate outcomes for omission detection, timing confidence, surprise, suspension, urge to move, and bodily quality/location. Document Amastacia Field changes, Ankora timing, average/peak sound level, and any contact-motion signal above noise. Compare simple explanations before adding interactions. Keep all hourly source notes untouched. Do not call a response 'adaptation' when it could be learning, fatigue, habituation, or changing attention.
+
+
+27. KRX-071 — THE EXPECTATION–ATTENTION–REPETITION CROSSOVER
+OBJECTIVE: Test whether an Earned Wound survives a basic attention control and whether its apparent strength changes with repetition independently of learned-rest probability.
+
+
+PERFORMANCE MATERIAL: Paul records a single natural, comfortable-level Amastacia + Ankora four-phase performance (10–12 minutes), plus short human-played Ankora patterns. Preserve the unedited take as ecological reference. For controlled clips only, create target windows with (A) a rare omitted strike after a stable regular Clock and (B) a predictable rest learned at the same metrical location. Include physically present-hit targets as timing/detection controls. Use only human-performed sound; any edits are labeled laboratory manipulations, not KLAAT composition.
+
+
+ATTENTION CROSSOVER: Randomly assign half of listeners to hear the neutral condition first ('listen to the music; describe what changed') and the other half to hear a directed condition first ('monitor the drum for missing events'). Keep playback level and equipment comparable. Use a short practice unrelated to the test material. Collect open reports before forced-choice questions; do not suggest phantom impacts.
+
+
+REPETITION CONTROL: Present early and late target windows, balancing their order across participants and maintaining comparable immediately preceding strike patterns. Document the actual number of delivered hits, rests and elapsed time. If an omission becomes common within a block, label that change in learned probability; do not attribute a reduced response automatically to adaptation. Allow rests and monitor fatigue.
+
+
+AMASTACIA CONTROL: For the primary test, keep the Field as stable as practical around the target window. Annotate breath accents and spectral changes. Only after the primary comparison is reliable should a secondary stable-Field versus changing-Field condition be added.
+
+
+MEASUREMENTS: Verify the target omission is physically absent. For present hits, compare actual onset timing, attack waveform and level. Record each listener's chosen beat level in a separate tapping task. Ask separately: Was an event absent? Where? How certain are you? Did the moment feel surprising or suspended? Did you want to move? Did you experience any bodily change, and where? Do not collapse these into a single 'impact' score.
+
+
+ANALYSIS: The primary contrast is unexpected omission versus learned rest within the neutral-attention condition. The key interaction is whether directed attention changes that difference. Examine early versus late trials with exposure count and omission probability explicitly tracked. Analyze within-listener effects, report uncertainty, and replicate with a second performance/day before promoting a KLAAT-specific claim. A small pilot can establish feasibility, not prove a neural mechanism.
+
+
+DECISION RULE: If unexpected omissions outperform learned rests in neutral listening and replicate, preserve predictive salience as a promising KLAAT-specific explanation. If the effect appears only during directed counting, classify it as task-dependent until better evidence exists. If it changes with repeated exposure, do not call that adaptation without further controls. If effects vanish after matching context, retain the Earned Wound as artistic language without claiming a special bodily mechanism.
+
+
+DECISIVE QUESTION: CAN ANKORA MAKE AN ABSENCE MATTER AFTER AMASTACIA HAS HELD THE WORLD STEADY, EVEN WHEN THE LISTENER IS NOT TOLD TO SEARCH FOR THE MISSING STRIKE?
+
+
+PRIMARY SOURCES
+1. 'Silent Expectations: Dynamic Causal Modeling of Cortical Prediction and Attention to Sounds That Weren't' (2016), PMID 27511005. https://pubmed.ncbi.nlm.nih.gov/27511005/
+2. 'Temporal expectation and attention jointly modulate auditory oscillatory activity in the beta band' (2015), PMID 25799572. https://pubmed.ncbi.nlm.nih.gov/25799572/
+3. Hsu Y-F, Darriba A, Waszak F (2021), 'Attention modulates repetition effects in a context of low periodicity,' Brain Research 1767:147559. DOI 10.1016/j.brainres.2021.147559. https://pubmed.ncbi.nlm.nih.gov/34118219/
+4. Milne et al. (2021), 'Sustained pupil responses are modulated by predictability of auditory sequences,' Journal of Neuroscience. DOI 10.1523/JNEUROSCI.2879-20.2021. https://doi.org/10.1523/JNEUROSCI.2879-20.2021
+5. Tavano A et al. (2014), 'Temporal regularity facilitates higher-order sensory predictions in fast auditory sequences,' European Journal of Neuroscience 39:308–318. DOI 10.1111/ejn.12404. https://doi.org/10.1111/ejn.12404
+6. Comstock DC et al. (2021), 'Modality-specific frequency band activity during neural entrainment to auditory and visual rhythms,' European Journal of Neuroscience. DOI 10.1111/ejn.15314. https://doi.org/10.1111/ejn.15314
+
+
+INTERNAL PROVENANCE
+Google Drive Master Instructions, Curriculum Index, Research Ledger, Session Corpus through Session 70; Library Published Studies through Session 70; Library Hourly Research folder checked 2026-10-09 08:12 CDT. No new hourly notes since 2026-10-05 18:33 CDT. Relevant earlier work: Sessions 63, 64, 65, 66, 67, 69, 70. All hourly files preserved without modification.
+
+
+NEXT UNRESOLVED DIRECTION
+If KRX-071 shows a repeatable neutral-attention omission effect, test how that effect transfers to an uninterrupted live KLAAT performance and whether the listener's chosen metrical level explains the variability. If not, simplify the Earned Wound mechanism rather than expanding its claims.
+
+
+END OF SESSION 71

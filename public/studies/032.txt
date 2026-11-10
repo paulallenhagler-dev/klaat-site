@@ -1,0 +1,17 @@
+SESSION 32 — RESPIRATORY ENTRAINMENT DEEPER
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+True biological entrainment is stronger evidence than simple co-occurrence. Two oscillators can show n:m relationships, meaning several cycles of one process align with one cycle of another. But temporary numerical similarity can occur by chance.
+
+
+For KLAAT, possible coupled rhythms include performer respiration, Amastacia phrasing, Ankora pulse, listener respiration, and cardiac fluctuations. Each must be measured separately.
+
+
+Evidence boundary
+Established: biological rhythms can show phase relationships and n:m synchronization under some conditions. Unsupported: calling any repeated ratio proof of entrainment without testing stability, phase, and what happens when the driver changes or disappears.
+
+
+KLAAT test
+Record two minutes of drone followed by five minutes of pulse. Count Ankora beats between consecutive inhalation starts. Look for a stable ratio that persists for multiple breaths and then observe whether it dissolves after the pulse stops.

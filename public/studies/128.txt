@@ -1,0 +1,167 @@
+KLAAT RESONANCE RESEARCH — SESSION 128
+THE TWO LOOPS THAT NEVER AGREED
+Free-length repetition, phase-walking relationships, and the difference between a machine-made coincidence and a human beat
+Published: 2026-10-28, morning CDT
+
+
+GOVERNING PRINCIPLE
+Experience-led creation. Science-informed refinement.
+
+
+RESEARCH QUESTION
+If Paul eventually sustains part of Amastacia's C# agave didgeridoo sound using a live looper while playing Ankora's elk-hide frame drum, what happens when two stored repeating phrases have different, freely chosen lengths? Can their relative alignments change even though neither recording changes? Would a listener hear one pulse, competing cycles, an evolving pattern, or simply a dense texture? And how could we tell an emergent relationship produced by the playback machinery from a rhythmic decision Paul made in the moment?
+
+
+This is not a proposal to build KLAAT from programmed loops. Paul's primary practice remains simultaneous, instinctive, acoustic performance. The issue matters because he has identified practical limits to sustaining longer performances with two instruments and is considering a looper and portable amplification. A device intended to remove a physical constraint may introduce its own musical behavior. That behavior should be understood rather than mistaken for a scientific law governing the art.
+
+
+1. NOVELTY GATE: WHAT THIS SESSION DOES, AND DOES NOT, REPEAT
+The immediately preceding published Session 127 addressed fast binaural spatial-cue extraction versus slower masker-statistics updating. Sessions 120 and 124 addressed motor learning and attentional focus. Earlier work treated rhythm interpretation, auditory grouping, pulse detection, looping seams, and playback fidelity. The newest hourly notes from October 28 separately examine overdub retention (04:16), speaker-to-microphone recapture (05:19), transport quantization and loop-boundary snapping (06:17), and sound-triggered auto-record onset (07:18). Those are important but are NOT this question.
+
+
+The new problem is RELATIVE PHASE EVOLUTION AFTER TWO ALREADY-RECORDED, FREE-LENGTH PHRASES ARE PLAYING. Neither phrase needs to be quantized, retriggered, shortened, overdubbed, or clipped for the combined sound to evolve. The same unchanged recorded contents can yield different local combinations over time solely because their recurrence periods differ. This is distinct from sample-clock drift between separate recorders (hourly October 17 06:18), and from deliberate changes in Paul's drum timing. Targeted searches of the canonical Library hourly and published archive for independent free-length loops, two-track phase-walking, and unequal loop recurrence returned adjacent loop-sync and clock-drift notes but no dedicated published treatment of this exact post-recording mechanism. The connected Curriculum Index, Research Ledger, Master Instructions and Session Corpus through 127 were consulted before numbering this study.
+
+
+2. THE SIMPLE MECHANISM: TWO UNCHANGED OBJECTS CAN MAKE A CHANGING WHOLE
+Imagine that a recording of Amastacia repeats every seven seconds. A second recorded layer repeats every 7.3 seconds. Each file contains exactly the same audio on every pass, at the same playback speed, and each loop is started together at time zero. Their first events coincide. At their next repetitions, the second loop begins 0.3 seconds later than the first. The mismatch accumulates from cycle to cycle. The listener hears new alignments not because either source has been improvised again, but because two independently repeating time structures are being superimposed.
+
+
+This is a deterministic consequence of periodic playback. It requires no theory of brain entrainment. If both loop lengths are exact integer multiples of a common digital sample interval, their starting phases will eventually coincide again, although the full recurrence may be surprisingly long. For exact seven-second and 7.3-second cycles, the first complete shared start after time zero is 511 seconds (73 repetitions of the seven-second loop and 70 repetitions of the 7.3-second loop): eight minutes, thirty-one seconds. Before that, near-coincidences can occur. At 168 seconds, 24 cycles of the first loop have elapsed; 23 cycles of the second total 167.9 seconds. Their starts are separated by only 100 milliseconds. Whether that separation is audible or meaningful depends on what the loops contain and on the listener, not on arithmetic alone.
+
+
+A useful distinction: the long 511-second period is a mathematical recurrence of two start markers. It is NOT a new 511-second musical phrase the audience must recognize. If Amastacia contains a continuous, nearly stationary drone, its cycle boundary might not be perceptually evident at all. If Ankora is played live rather than looped, there is no second fixed recurrence period to which this example applies. And if the device time-stretches, retriggers, crossfades, or tempo-syncs a track, the free-running calculation may not describe its actual output.
+
+
+3. PHASE WALKING IS NOT SAMPLE-CLOCK DRIFT
+Two loops inside one device can share the same digital clock and still change relative alignment because they have DIFFERENT STORED LENGTHS. No clock error is needed. Conversely, two equal-length loops on separate recorders may drift because their real sample rates differ. A third case is an unequal-length pair that is periodically reset by the looper's synchronization logic. The audible result may resemble a phase shift, but its cause differs.
+
+
+We should reserve separate names for (A) free-length relative phase walking; (B) inter-device sample-clock drift; (C) tempo/time-stretch processing; (D) explicit retriggering or transport alignment; and (E) actual variation in Paul's gestures. These are distinguishable experimentally by inspecting device settings, recording exports, and time-aligned output. Calling all five 'drift' would erase the mechanism.
+
+
+4. WHAT THE HARDWARE MANUAL ACTUALLY SAYS
+The BOSS RC-505mkII is a documented EXAMPLE, not a selected KLAAT purchase. Its official Parameter Guide, version 1.3 and later, distinguishes LOOP SYNC, TEMPO SYNC, and track-specific playback behavior. With LOOP SYNC OFF, the guide says a track can play back at its own unspecified phrase length rather than synchronize to the memory tempo or another track. With LOOP SYNC ON, it describes synchronization modes and alignment to measure or loop-length boundaries. It separately documents TEMPO SYNC OFF (track's original tempo) versus ON (memory tempo). It also distinguishes MULTI playback from SINGLE track switching. These settings matter in combination.
+
+
+Consequently, a button or menu label such as 'FREE' cannot, by itself, establish that two tracks are independently free-running. A phrase may have been recorded freely but be played back with transport alignment. The October 28 06:17 hourly note already examined boundary quantization; this session adds the distinct question of how independently recurring tracks behave AFTER recording. A meaningful test must check the playback behavior, not infer it from the record-start operation.
+
+
+The manufacturer's manual is evidence about a particular firmware family, not proof that every hardware looper behaves alike. No KLAAT looper, firmware, microphone, or actual multitrack playback has been tested.
+
+
+5. WHY THIS IS NOT AUTOMATICALLY A POLYRHYTHM
+A polyrhythm is not simply 'two things of different length.' In experimental music psychology, polyrhythms often consist of explicitly repeated, audible pulse trains whose relative timing can be studied. A seven-second low drone with a 7.3-second layer of breath noise may generate evolving timbral overlap without providing two clear periodic beats. Conversely, two audible percussive loops of different periods can create recurring composite attack patterns, accents, and changing perceptual groupings. Whether listeners hear distinct meters is an empirical question.
+
+
+Three terms must stay separate. PHYSICAL PERIOD is a measurable property of the stored audio. PERCEIVED PULSE is the recurrence a listener actually follows, which may be a subdivision, accent cycle, or neither. METRICAL ORGANIZATION is a listener's higher-order interpretation of stronger and weaker times. None is guaranteed by the other. The phrase 'phase walking' is a useful engineering description here; it is not a claim that the audience's neurons are phase-locked to the loops.
+
+
+6. PRIMARY HUMAN EVIDENCE: RHYTHMIC INTERPRETATION DEPENDS ON THE TASK
+Stephen Handel's 1984 examination of polyrhythms described rhythmic organization as contextual: the relationship between pulse trains, their frequencies, accents, configuration, and listener preferences affects which pattern is heard. That finding opposes the idea that one physical cross-rhythm has one inevitable perceptual interpretation. It does not test KLAAT or live loop pedals.
+
+
+Jones and colleagues (1995) ran FOUR experiments using 3:2 polyrhythmic tone patterns. Participants detected a timing change in one tone while pitch separation and instructions influenced whether they attended to an integrated pattern or a selected stream. In the integrative task, performance was worse with widely separated than with narrowly separated tones. Under selective attention to the low tones, the direction reversed: narrower separation produced poorer performance. Musically trained listeners detected timing deviations better overall, but musical training did not eliminate the pattern-structure effects. The important result is a task-dependent reversal, not a universal 'integration is better' rule.
+
+
+Fidali, Poudrier and Repp (2013) then tested more complex polyrhythms, including 3:5, 4:5, 6:5 and 7:5 patterns in one experiment and additional 2:5 conditions in another. Their published report says perturbation-detection performance was BELOW an isochronous baseline and generally worsened as polyrhythm complexity increased. This is a useful counterweight to the earlier 3:2 integration benefit. When a combined event sequence becomes more heterogeneous, its memory and interval demands may outweigh any advantage of more closely spaced events. The studies do not contradict each other in a simple winner-loser sense: they used different pattern complexities and attention conditions.
+
+
+The translation to KLAAT is modest. Two unequal-length loops might invite some listeners to hear a moving relationship, while others attend mainly to Amastacia's sustained identity or Ankora's transient pulse. A listener who cannot identify the cycles may still enjoy the resulting texture. A listener who identifies them may not find the result more absorbing. Neither preference is a defect.
+
+
+7. A RELATED BUT DISTINCT RESULT: HUMAN CORRECTION IS NOT MACHINE RECURRENCE
+Repp, London and Keller (2011) examined perception, tapping production, and phase correction in musicians hearing cyclic two-interval rhythms with ratios ranging from relatively simple to complex. Their findings included ratio-dependent biases in perception and production, while phase correction following timing perturbations remained relatively rapid and did not show the same ratio-dependent biases. This concerns ACTIVE synchronization and corrective behavior by humans, not two unchanging playback buffers.
+
+
+That difference matters. A person playing Ankora over a repeating Amastacia loop can listen, anticipate, adjust, or deliberately resist alignment. The performer is not a rigid oscillator. Any later rhythmic relationship may arise from the interplay of loop timing and live human choices. To call the whole thing a machine-generated polyrhythm without examining the performance would be just as misleading as calling a deterministic loop recurrence 'neural entrainment.'
+
+
+8. WHAT A LISTENER COULD ACTUALLY EXPERIENCE
+Consider four plausible listening outcomes, none yet demonstrated for KLAAT. First, a drone remains perceptually continuous while a secondary texture subtly changes its placement; the listener notices density or color, not separate loops. Second, two identifiable rhythmic figures periodically appear to lock together and then pull apart; a listener reports movement, anticipation, or shifting emphasis. Third, the relation becomes difficult to follow and feels unstable or cluttered. Fourth, a listener ignores the loop relation entirely and responds primarily to live Ankora strokes, visual performance, personal associations, or the overall energy.
+
+
+These possibilities are not a prescribed sequence, not a ritual architecture, and not evidence of trance. The same listener might alternate between them depending on attention, playback system, level, fatigue, musical familiarity, and whether the device's repeating pattern is visually obvious. There is no scientifically defensible reason to declare that more complex phase walking is automatically more intense, more ancient, more therapeutic, or more effective for daily-life listening.
+
+
+9. MEASUREMENT LAYER ONE: WHAT IS PHYSICALLY IN THE SIGNAL?
+For a future genuine two-loop recording, the minimum facts are track count; each track's unprocessed sample count or verified duration; sample rate; original record-start and record-stop times; actual playback speed; loop-sync, tempo-sync and retrigger settings; overdub and crossfeed state; and whether the track contains identifiable onset markers. If two separate devices are used, clock provenance must be added. A mixed recording alone can make some of these properties difficult or impossible to recover. A single microphone pointed at the PA cannot prove how many internal loops existed.
+
+
+One can calculate relative start times from verified track lengths, but the result is a prediction about transport, not a description of what listeners hear. To test it, save direct track exports where possible and a simultaneous output recording. Identify a few clearly distinguishable naturally occurring events, align the exported tracks, and see whether the output's changes match predicted recurrence. Do not assume a device's displayed BPM describes the musical pulse. Do not calculate a 'phase score' for KLAAT as though improvisation must optimize it.
+
+
+10. MEASUREMENT LAYER TWO: WHAT IS REPORTED BY THE LISTENER?
+An authentic listener response can be as simple as: 'I heard the low tone staying put while the clicks kept moving,' 'it sounded like two rhythms,' 'I felt more energy halfway through,' or 'I couldn't tell anything was looping.' Those are distinct subjective reports. They do not reveal exact loop periods, brain states, or physiological coupling. If a listener is explicitly told 'two loops slowly move out of phase' before hearing the recording, that instruction may change attention and the subsequent description. First-listen reports should therefore be collected before explaining the mechanism.
+
+
+For a later controlled comparison, an unedited live performance and a loop-assisted performance are NOT matched causal stimuli: Paul may play differently, sound levels may differ, and loop assistance may change duration and timbre. A fair narrow test of the machine mechanism would use the SAME pre-recorded track contents in two analytically derived versions with different verified playback relationships, keep the original files intact, and control output level. Such derivative tests would answer a specific perception question, not decide how KLAAT should be performed. The pilot sample size and self-selection limitations established in Session 125 still apply.
+
+
+11. A QUANTITATIVE EXAMPLE, WITH ITS LIMITS
+Take two exact digital buffers recorded and played at 48,000 samples per second. Seven seconds corresponds to 336,000 samples; 7.3 seconds corresponds to 350,400 samples. If both buffers begin together and independently restart at their own endpoints, the smallest exact common restart is after 24,528,000 samples, or 511 seconds. This is simply the least common multiple of their two sample counts divided by the sample rate. The device's actual behavior might be different because of synchronization, resampling, speed effects, or crossfades.
+
+
+At 168 seconds, one loop has completed 24 cycles; the other has completed 23 cycles at 167.9 seconds. Their restart markers are 0.1 seconds apart. That is a measured-time statement about the hypothetical buffers. It is NOT evidence that a human would hear a special alignment at 168 seconds, nor that a drum strike would occur then, nor that the listener would become more absorbed. If the loop content has no salient boundary, the numerical recurrence may be perceptually irrelevant.
+
+
+A different example: two buffers with exact durations of six and 6.4 seconds return to a common start after 96 seconds. These are not recommended lengths. The arithmetic illustrates why arbitrary free lengths can produce very different recurrence scales, even if both were captured naturally without a metronome.
+
+
+12. THE COUNTEREXAMPLE THAT PROTECTS THE ART
+Suppose Paul plays one continuous Amastacia drone live, articulating its harmonic color through breath, lips, and vocal tract, while Ankora's strikes vary spontaneously. There is no evidence of two stored cyclic buffers. The same evolving sense of alignment and separation may still emerge because human rhythmic attention groups variable events against a relatively stable sound. Conversely, two stored buffers may produce an exact mathematical recurrence while listeners hear no change at all. The two cases can feel similar, yet have different causes.
+
+
+This is why the research should follow the recorded and experienced event rather than impose a machine explanation onto the living performance. The relevant artistic identity is not 'KLAAT must use phase loops.' It is that KLAAT's spare, sustained materials can support emergent relationships. A looper, if chosen, may become a practical assistant; it does not become the author of Amastacia or Ankora.
+
+
+13. EVIDENCE STATUS — KEEP THE LAYERS SEPARATE
+ESTABLISHED MATHEMATICS AND DOCUMENTED DEVICE CAPABILITY: Two exact free-running finite digital buffers with unequal periods generate changing relative start positions and, for commensurate sample counts, a calculable exact joint recurrence. The RC-505mkII official guide distinguishes loop synchronization from tempo synchronization and describes independent phrase-length playback when loop sync is off. These are not observations of Paul's equipment.
+
+
+ESTABLISHED HUMAN RESULTS OUTSIDE KLAAT: Polyrhythm grouping and timing-change detection depend on pattern structure, pitch separation, task instructions, and complexity. Jones et al. (1995) found an attention-dependent reversal; Fidali et al. (2013) found worsening detection with more complex ratios relative to isochronous baseline. Repp et al. (2011) found human phase correction can remain efficient under complex two-interval timing. None of these experiments tested didgeridoo/frame drum, a looper, or trance.
+
+
+CONTEXT-DEPENDENT INTERPRETATION: An unequal-length loop mixture may be heard as shifting accents, changing timbre, separate rhythmic streams, or no identifiable relation. What is heard depends on acoustic event content and the listener. Numerical phase does not map one-to-one to perceived meter or activation.
+
+
+PLAUSIBLE, TESTABLE KLAAT HYPOTHESIS: If Paul later uses two freely repeating tracks with audible landmarks, some listeners may describe evolving rhythmic relationships even when both track files are unchanged. This could be distinguished from a single synced-track control in a careful, level-matched derivative listening comparison. No listener response exists yet.
+
+
+SPECULATION: Phase-walking relationships might sometimes suit KLAAT's 'living diagram' aesthetic or its energizing everyday soundtrack identity by maintaining a stable drone while subtly varying its surrounding texture. That is an artistic possibility, not a neurological mechanism or production requirement.
+
+
+UNSUPPORTED CLAIMS: KLAAT currently contains two independently running loops; a 511-second recurrence causes trance; complex loops entrain brainwaves; mathematical coincidence produces bodily vibration; unequal lengths always increase groove; a specific ratio is optimal; a future BOSS looper is the correct purchase; or any loop configuration should determine Paul's improvisational form.
+
+
+14. WHY THE CONTRADICTION MATTERS
+The same experimental literature that makes multi-stream rhythmic organization scientifically interesting also warns against a simple 'more interaction equals more perception' story. The 1995 study found a benefit for a particular integrative listening task and a reversal under selective attention. The 2013 study found complexity could degrade perturbation detection. This means a future KLAAT listener might be deeply engaged while unable to identify the moving relationship, or might detect it precisely without feeling especially engaged. Detection, pleasure, absorption, motor urge, and bodily salience are different outcomes. No single one validates the others.
+
+
+15. WHAT WOULD COUNT AS PROGRESS
+A real advance would be to identify whether a future KLAAT loop-assisted performance has independently recurring phrases, whether those phrases are genuinely free-length, and whether a listener notices any evolving relation without being told what to hear. A null result would also be useful. It might show that Amastacia's timbral continuity and Ankora's live attacks dominate the perceptual scene, leaving machine recurrence irrelevant. That would not diminish the music. It would narrow an explanation.
+
+
+The strongest research direction after this session is not to calculate more ratios. It is to obtain an authentic, uninterrupted source recording and document its actual signal chain. The most compelling listener-science claims cannot be made from device manuals or polyrhythm studies alone.
+
+
+16. CONCLUSION — THE MACHINE CAN REPEAT; THE ARTIST CAN REMAIN FREE
+Two unchanging loops can produce a changing composite sound. That is a precise, testable fact about playback. But the listener's organization of that sound is conditional, and Paul's live decisions are not reducible to the loops' least common multiple. The distinction protects both the research and KLAAT's artistic identity. The instrument, body, breath, and spontaneous choice remain the origin. Technology may preserve a sound and extend its duration; science may explain the resulting relationships. Neither should dictate the next strike.
+
+
+OPTIONAL KLAAT OBSERVATION — KRX-128: THE FREE-LENGTH PLAYBACK CHECK
+Only if a candidate looper is already available, record two SHORT, unrelated test phrases of naturally chosen unequal lengths, at safe monitoring level, without a metronome or any demand to play KLAAT differently. Note the exact LOOP SYNC and TEMPO SYNC settings, then listen for a minute to see whether their relation seems to shift. If possible, export both tracks to verify their actual durations. This is an equipment-behavior check, not a listener-effect test or an assignment to compose loops. If no looper is available, do nothing; continue collecting unedited Amastacia–Ankora recordings instead.
+
+
+PRIMARY RESEARCH, MANUFACTURER EVIDENCE, AND PROVENANCE
+[1] Handel, S. (1984). Using Polyrhythms to Study Rhythm. Music Perception 1(4), 465–484. DOI 10.2307/40285273. https://online.ucpress.edu/mp/article-pdf/1/4/465/563780/40285273.pdf . Primary contextual analysis of polyrhythm interpretation; not a KLAAT study.
+[2] Jones, M. R., Jagacinski, R. J., Yee, W., Floyd, R. L., & Klapp, S. T. (1995). Tests of attentional flexibility in listening to polyrhythmic patterns. Journal of Experimental Psychology: Human Perception and Performance 21(2), 293–307. DOI 10.1037/0096-1523.21.2.293. https://pubmed.ncbi.nlm.nih.gov/7714473/ . Four primary experiments; attention-dependent pitch-separation reversal.
+[3] Fidali, B. C., Poudrier, E., & Repp, B. H. (2013). Detecting perturbations in polyrhythms: effects of complexity and attentional strategies. Psychological Research 77, 183–195. DOI 10.1007/s00426-011-0406-8. https://music.ubc.ca/publications/detecting-perturbations-in-polyrhythms-effects-of-complexity-and-attentional-strategies/ . Two primary experiments; complex ratios versus isochronous baseline.
+[4] Repp, B. H., London, J., & Keller, P. E. (2011). Perception-production relationships and phase correction in synchronization with two-interval rhythms. Psychological Research 75, 227–242. DOI 10.1007/s00426-010-0301-8. https://pubmed.ncbi.nlm.nih.gov/20644955/ . Primary musician synchronization experiments, not passive listening or KLAAT.
+[5] Roland/BOSS. RC-505mkII Parameter Guide, version 1.3 and later, pp. 2–4. https://static.roland.com/assets/media/pdf/RC-505mk2_Parameter_eng04_W.pdf . Official device documentation; loop-sync and tempo-sync are distinct settings; no KLAAT unit inspected.
+[6] Internal continuity: connected KLAAT Master Instructions, Curriculum Index, Research Ledger, original Session Corpus and Volume II through Session 127; ChatGPT Library Published Studies through 127; hourly research through October 28 07:18 CDT. Relevant adjacent notes: October 17 06:18 separate-device sample-rate drift; October 23 16:21 web loop-seam clicks; October 28 04:16 overdub retention, 05:19 speaker-to-mic recapture, 06:17 loop-boundary quantization, 07:18 sound-triggered record onset. All original hourly notes preserved. External sources checked October 28, 2026.
+
+
+CANONICAL STATUS: The timestamped plain-text ChatGPT Library Published Studies copy is authoritative; any Google Drive Session Corpus mirror is secondary. No KLAAT-specific audio, listener, neurological, autonomic or vibrotactile data were analyzed in this session.
+
+
+END OF SESSION 128

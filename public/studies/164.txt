@@ -1,0 +1,143 @@
+KLAAT RESONANCE RESEARCH — SESSION 164
+November 10, 2026 | 08:13 CST
+THE MOMENT THE LISTENER MARKED WAS NOT THE MOMENT THE AUDIO PLAYED
+Playback position, human reaction, and the hidden clocks in listener-response research
+
+
+GUIDING PRINCIPLE: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+THE QUESTION
+
+
+Imagine a listener hearing an unedited Amastacia–Ankora improvisation on the KLAAT website. A passage feels suddenly more forceful, or the drone becomes unusually absorbing. The listener presses a button labeled “mark this moment.” The resulting timestamp seems precise: 02:14.360. But which moment does it identify? The time on the computer clock, the location in the audio file, the time the sound actually reached the ear, the moment the listener noticed the change, or the moment the finger completed a movement? Those are not interchangeable events.
+
+
+This is not a proposal to compose KLAAT around timestamps. It is an investigation of how to preserve the evidential value of spontaneous performances when people describe their experience afterward or while listening. The distinction is especially important for KLS-001, the project's planned authentic-recording and blind-listener pilot.
+
+
+WHY THIS SESSION IS DISTINCT
+
+
+Session 159 considered selective attention to drone versus percussion; Session 158 considered familiarity; Sessions 160 and 163 considered downstream sound changes; Session 162 considered false ECG event detection. This session addresses a different failure: a genuine subjective report may be associated with the wrong place in an otherwise unchanged recording because the response interface uses the wrong clock. The November 10, 07:11 CST hourly note isolates this problem. Targeted Library searches did not identify a published session devoted to wall-clock versus media-playhead listener markers; this is a qualified novelty review, not a claim of exhaustive proof across every historical note.
+
+
+1. FIVE TIMES THAT SHOULD NOT BE COLLAPSED
+
+
+First, recording time is a location in the original audio: a sample index or elapsed media time. If the source file is 48,000 samples per second, sample 5,760,000 is at 120.000 seconds, assuming the file's timeline starts at zero and is played at normal speed. This is a property of the digital recording, not of the listener.
+
+
+Second, media-playhead time is the browser player's current position in that file. A web audio or HTML media player may pause, seek, stall, loop, or change rate. A playhead can therefore advance differently from ordinary elapsed time.
+
+
+Third, system or monotonic clock time records when software registered a button press. Date.now() represents wall-clock time and can be affected by clock adjustments; performance.now() provides a high-resolution monotonic time origin for measuring elapsed intervals, subject to browser precision and privacy restrictions. Neither is automatically a sample-accurate audio clock.
+
+
+Fourth, acoustic-arrival time is when the sound reached the listener through headphones or speakers. Decoding, buffering, Bluetooth transmission, operating-system mixing, device processing, and sound propagation can delay this relative to a media position. The delay may be stable in one setup and different in another.
+
+
+Fifth, experienced-event time is not directly observable from the button. The listener may notice a change gradually, decide that it matters, then move a finger. The marker is an intentional behavioral response, not an instantaneous neural timestamp. For absorption or bodily energy, there may be no single objectively correct onset at all.
+
+
+2. A THIRTY-SECOND ERROR WITHOUT A SINGLE BROKEN SAMPLE
+
+
+Consider a five-minute KLAAT file. A listener starts playback at wall-clock elapsed time 0, reaches media time 70 seconds, pauses for 30 seconds, resumes, and taps “mark” at wall-clock elapsed time 120 seconds. Assuming normal-speed playback and no other delays, the playhead is at 90 seconds. A system that computes marker position as current wall-clock time minus initial start time assigns the report to 120 seconds of audio. It is wrong by 30 seconds. The file itself has not changed, and the listener's report may be entirely sincere.
+
+
+If the listener then seeks backward by 40 seconds, wall time becomes an even poorer proxy for the file position. A player at 1.25x speed introduces another mapping: ten seconds of uninterrupted real time advance the media timeline by 12.5 seconds. A buffering stall can suspend playback even though the computer clock continues. Each mechanism is ordinary software behavior, not a special property of KLAAT.
+
+
+A second illustration: suppose an Ankora attack occurs at media time 90.0 seconds and a marker is logged at 90.8 seconds of media time. The observed 0.8-second gap cannot be assigned entirely to listener reaction. It may include recognition and decision time, finger movement, event-loop scheduling, output latency, and clock-sampling error. Without additional calibration, a claim such as “the listener's brain responded exactly 800 milliseconds after the strike” is unsupported.
+
+
+3. WHAT WEB PLATFORM DOCUMENTATION ESTABLISHES
+
+
+The HTMLMediaElement.currentTime property represents the current playback position in seconds. Browser media elements expose events such as pause, playing, seeking, seeked, waiting, ratechange, and ended that can document changes in playback state. The Performance API's performance.now() is designed for monotonic elapsed-time measurement rather than civil clock time. These are established software interfaces. Their existence does not prove that a particular KLAAT web page uses them correctly, nor does it guarantee that currentTime is sample-accurate or equal to acoustic arrival at the ear.
+
+
+The HTML standard also permits implementations to limit reported timing precision for privacy. Browser timers and media timelines may have reduced resolution; a decimal display with three digits is not evidence of one-millisecond accuracy. Background tabs can delay JavaScript callbacks. A logged event's apparent precision is therefore distinct from its accuracy.
+
+
+A robust event record would capture, at the same interaction, a monotonic timestamp, the media currentTime, paused/seeking/waiting state, playbackRate, a stable recording ID and version, and a chronological log of play, pause, seek, stall, and rate-change events. A server receipt time can be useful for auditing but should not replace the client's media position. The logging system should preserve raw records and transformations so that later corrections remain possible.
+
+
+4. WHAT THIS DOES — AND DOES NOT — SAY ABOUT LISTENER EXPERIENCE
+
+
+Established engineering: wall-clock elapsed time can diverge from media position after playback-state changes. A properly captured playhead position generally provides a more appropriate location in the file than naive wall-clock subtraction. Established behavioral principle: an intentional button press occurs after perception, interpretation, and action, with variable delay.
+
+
+Context-dependent evidence: browser and device implementations differ in timing precision, event scheduling, and output latency. An audio file's encoder delay or edited lead-in may shift alignment to a separately annotated original recording. If the listener uses a phone and Bluetooth earbuds, the playback pathway may differ from a wired desktop setup. None of these differences can be quantified for KLAAT without checking the actual system.
+
+
+Plausible and testable KLAAT hypothesis: correcting playback-state alignment could make independently reported “moments of change” cluster more consistently around particular Ankora attack patterns, Amastacia breath-articulation transitions, or shifts in texture. The opposite is equally plausible: even after accurate alignment, listeners may identify different moments because attention, familiarity, and personal meaning vary.
+
+
+Speculation: consistent marker clusters might eventually help identify perceptually important emergent structure in improvised KLAAT. This is a research possibility, not evidence that a particular rhythmic event induces trance, entrainment, or any specific neurological state.
+
+
+Unsupported claims: a marker proves altered consciousness; the millisecond timestamp represents the exact onset of absorption; a cluster of markers proves a causal physiological effect; the computer clock measures what reached the ear. None follows from these data.
+
+
+5. HOW A SOUND EVENT AND A REPORT SHOULD BE COMPARED
+
+
+A future analysis might independently annotate Ankora attacks and Amastacia articulations in an original, unprocessed file. It might then ask whether voluntary listener markers occur more often near certain acoustic events than expected by chance. The source annotations should be created without looking at the listeners' reports when feasible, to reduce confirmation bias.
+
+
+But several traps remain. A dense passage contains more drum events, so almost any randomly timed marker is more likely to fall near one; an event-density baseline is necessary. A listener may press a button only after a striking passage has already unfolded; forcing a narrow coincidence window would misrepresent that experience. Repeated taps from one listener are not independent people. A small pilot can reveal interface problems but cannot establish a generalizable trance mechanism. Statistical windows should be stated in advance or treated as exploratory, and alternative window widths should be reported transparently.
+
+
+For qualitative responses such as “I felt drawn inward” or “I wanted to move,” a coarse interval may be more faithful than an artificially exact point. The most valuable data may combine a free description, an approximate location, and the listener's own uncertainty. No scientific benefit comes from pressuring someone to mark every transition or from implying that they should feel something.
+
+
+6. AN EVIDENCE-RESPECTING DESIGN FOR KLS-001
+
+
+The first encounter with an authentic KLAAT take should remain free listening. Invite an open description before introducing scientific terminology or leading questions. If a second pass uses voluntary event markers, make clear that the listener may mark nothing and that any mark represents their personal impression, not a diagnosis or measured brain state.
+
+
+For technical validation, use a short calibration file with audible spoken time cues or clicks whose positions are known. Deliberately pause, seek, change playback speed if supported, and allow a buffer interruption where practical. Compare the stored playhead positions with the known cue positions. Record whether browser, device, and output route affect the result. This validates the event-mapping tool, not the music's psychological effects.
+
+
+For the eventual KLAAT pilot, retain the uninterrupted source file, its checksum or stable version ID, playback logs, original marker timestamps, and listener descriptions. If a marker must later be corrected for a known offset, keep both raw and corrected values. Do not retrofit an unmeasured Bluetooth delay as though it were a known constant. Where precision is limited, report uncertainty honestly.
+
+
+7. THE BROADER ARTISTIC IMPLICATION
+
+
+KLAAT's actual source of interest is the evolving relationship between Amastacia's continuous, breath-shaped resonance and Ankora's moving, irregularly expressive pulse. A listener might feel a change before they can describe it; another might not perceive a boundary at all. That diversity is worth preserving. Better timestamps do not make the performance more scientific in an artistic sense; they prevent a software error from impersonating a discovery about the music.
+
+
+The long-term aim is to identify what people actually experience, under which listening conditions, and whether any patterns repeat. That work cannot be completed by accumulating explanations alone. It requires authentic KLAAT recordings and voluntary listener responses. The research should follow the sound, not govern it.
+
+
+PRIMARY TECHNICAL REFERENCES AND EVIDENCE LEADS
+
+
+WHATWG HTML Living Standard, media elements and time-marching/playback model: https://html.spec.whatwg.org/multipage/media.html
+MDN, HTMLMediaElement.currentTime (documentation of the exposed interface and precision caveats): https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime
+MDN, HTMLMediaElement seeking event: https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/seeking_event
+W3C High Resolution Time specification (monotonic time and privacy resolution): https://www.w3.org/TR/hr-time-3/
+MDN, Performance.now(): https://developer.mozilla.org/en-US/docs/Web/API/Performance/now
+
+
+These technical references substantiate platform behavior, not any KLAAT listener outcome. They are standards and documentation, not controlled listener-response experiments. The quantitative pause and playback-rate examples above are constructed arithmetic illustrations. Primary empirical validation of actual KLAAT response timing remains outstanding.
+
+
+PROVENANCE AND NOVELTY
+
+
+Canonical hourly source: /KLAAT Resonance Research/Hourly Research/KLAAT_hourly_2026-11-10_0711_CST_1311Z.txt. Additional recent notes reviewed: 2026-11-10 06:20, 05:11, 04:17, and 03:12 CST. Connected Curriculum Index, Research Ledger, Master Project Index, and Session Corpus Volume II consulted. Curation Queue was empty at publication start. The exact technical timing question is distinct from recent attention, familiarity, recording-DSP, and ECG-artifact studies. The full historical corpus was not exhaustively line-reviewed.
+
+
+ONE OPTIONAL OBSERVATION
+
+
+Without recording a new performance or changing how you play, try a familiar KLAAT clip in any browser player: pause it for about thirty seconds, resume, and note a moment that catches your attention. Compare the clip's displayed playhead position with how far the wall clock has advanced. The point is simply to notice which clock follows the music. Nothing about the improvisation needs to change.
+
+
+END SESSION 164

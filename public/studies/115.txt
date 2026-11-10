@@ -1,0 +1,213 @@
+KLAAT RESONANCE RESEARCH — SESSION 115
+THE PITCH THAT MOVED WHILE THE NOTE STOOD STILL
+Intensity, envelope, masking, and the boundary between measured fundamental and heard pitch
+
+
+Published: October 23, 2026 — 19:11 CDT (America/Chicago)
+Governing principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+RESEARCH QUESTION
+
+
+When Amastacia holds its C#-centered drone, can a listener hear that tone as rising or falling even when the underlying acoustic repetition frequency does not change? Can a swelling, receding, breath-shaped, or partially masked tone acquire an apparent pitch trajectory through hearing itself? And if so, how could we distinguish a genuine change in Paul's embouchure or the instrument's oscillation from a change in perceived pitch created by listening level, time envelope, neighboring noise, or the reproduction system?
+
+
+This question matters because KLAAT is not an exercise in sustaining an abstract sine wave. Its living drone contains a fundamental, harmonics, moving resonances, air noise, articulation, and natural changes of strength. Ankora adds broadband attacks and decay. A listener might describe the sound as 'climbing,' 'dropping,' 'opening,' or 'deepening' while Paul experiences a continuous anchor. Such language can be musically accurate as experience without being a literal measurement of the fundamental frequency. The distinction protects the art from a false technical diagnosis and protects the science from a false causal claim.
+
+
+NOVELTY GATE
+
+
+Session 93 addressed pitch inferred from missing fundamentals; Session 105 addressed apparent source approach; Session 108 addressed unnoticed gradual changes; Session 114 addressed tactile influences on auditory pitch. The October 20 hourly note on F0 discrimination addressed small acoustic-frequency differences. None directly isolated the effect of SOUND INTENSITY on perceived pitch when acoustic frequency is held constant. The October 23, 18:20 hourly note developed the specific source set for this issue. This session extends that note into a full analysis of measurement, experimental contradictions, and KLAAT application. It does not repeat Session 114's auditory–tactile question or prescribe a new performance structure.
+
+
+1. FOUR DIFFERENT THINGS CALLED 'THE PITCH'
+
+
+The first is acoustic periodicity: the time between recurring features of a waveform. If a nearly periodic sound repeats every T seconds, its fundamental repetition frequency is approximately 1/T hertz. The second is spectral content: how much energy lies in the fundamental and its harmonics, along with nonharmonic noise. The third is perceived pitch: a listener's estimate of tonal height, which depends on the auditory system and context rather than a frequency meter alone. The fourth is a metaphorical trajectory: someone can say that music 'lifts' or 'sinks' to describe brightness, intensity, tension, apparent motion, or emotion, not necessarily a note change.
+
+
+These descriptions may agree, but agreement cannot be assumed. A spectral analyzer can detect a shift in the fundamental while a listener fails to notice it. A listener can hear a change of pitch when the waveform's component frequencies are fixed. A spectral-centroid increase can make a tone brighter without raising its fundamental. A digital pitch tracker can make an octave error when one harmonic becomes dominant. A phone's automatic gain control can make a naturally swelling passage look dynamically flatter. None of these observations proves that the performer or the listener is mistaken; they are measurements of different parts of a causal chain.
+
+
+For KLAAT, 'Amastacia stays in C#' should not be interpreted as 'nothing about the drone changes.' C# names a tonal center, not an invariant spectral or perceptual event. Its harmonic proportions, roughness, noisy breath component, dynamic envelope, and local room response can all vary without an intentional change of note. Nor is the musical label itself a biological frequency prescription.
+
+
+2. THE HISTORICAL PITCH–INTENSITY PROBLEM
+
+
+In 1935, S. S. Stevens measured equal-pitch relationships across tones from approximately 150 to 12,000 Hz [1]. Observers adjusted the intensity of one tone until two tones of different acoustic frequency appeared equal in pitch. The historical result suggested that increasing intensity could lower perceived pitch for lower tones and raise it for higher tones, with a reversal region dependent on intensity. This work was influential precisely because it contradicted a simple one-to-one mapping between pitch and frequency.
+
+
+But those early equal-pitch contours are not a universal law for music. Method, duration, level, frequency, and observer all matter. Later studies often reported smaller discrete-level effects than the largest historical estimates. Even the phrase 'low tones fall when louder' should be treated as a tendency in certain tested conditions, not a rule that every listener or every drone follows. A complex didgeridoo tone is not one isolated sinusoid, and the ear is not being asked to make a clean laboratory pitch match during a spontaneous KLAAT performance.
+
+
+The most important lesson from this older experiment is conceptual: intensity is not perceptually irrelevant to pitch. The amount, sign, and mechanism of the effect require narrower experiments.
+
+
+3. A CONTROLLED SIGNAL-DETECTION TEST
+
+
+Jesteadt and Neff (1982) investigated intensity-dependent pitch shifts with forced-choice frequency-discrimination methods [2]. Their experiment included three listeners, sinusoidal tones at 250 and 4,000 Hz, and six sound-pressure levels spanning 40–90 dB SPL. They used signal-detection-theory assumptions to infer pitch shifts in hertz from response patterns, and their estimates broadly agreed with adjustment measurements from the same listeners. An adaptive procedure simplified data collection and produced comparable estimates for two of the three participants.
+
+
+Why is this stronger than asking a listener whether a louder tone sounds higher? Because the investigators could analyze how intensity influenced frequency judgments across controlled alternatives. Yet signal-detection models still rest on assumptions, and three listeners cannot establish a population-wide law. Their 40–90 dB SPL range is a laboratory manipulation, not a target listening range or invitation to play loudly.
+
+
+The crucial established finding is limited but real: with acoustic frequency controlled, changing intensity can systematically alter pitch judgments. The experiment does not tell us the size of the effect for Amastacia, whether its low drone will shift in the same direction, or whether an absorbed listener will consciously notice it.
+
+
+4. EVEN TWO EARS MAY DISAGREE
+
+
+Burns (1982) measured pitch–intensity functions in both ears of five normal-hearing subjects [3]. He found that the functions could differ significantly between the ears of the same person at the same test frequency. For each tested subject and frequency condition, there was an intensity at which no significant binaural diplacusis—the experience of different pitches between ears—was detected. His additional forward-masking measurements did not yield convincing evidence that shifts in masking-pattern position covaried with the direction of pitch shifts.
+
+
+This is a serious obstacle to simplistic explanations. Even normal-hearing participants do not necessarily share a single pitch–intensity function, and the two ears of one participant need not behave identically. The masking-pattern result also cautions against casually declaring that a particular place along the cochlea must have shifted. The behavioral result is better established than any one mechanistic account.
+
+
+For KLAAT, one listener's report that the drone 'went down' cannot be generalized to the room. Another listener may hear a different pitch trajectory or only a change in brightness. The scientific response is not to force their descriptions into agreement. It is to record them separately, note the listening conditions, and test whether an effect repeats within a listener.
+
+
+5. WHY CONTINUOUS SWELLING IS NOT THE SAME AS TWO VOLUME SETTINGS
+
+
+McBeath and Neuhoff (2002) reported a striking interaction between dynamic intensity and perceived pitch in experiments with designed Doppler-shifted tones [4]. In their conditions, tones whose physical frequency was moving downward could be perceived as following the trajectory of changing intensity instead. The authors reported apparent pitch variation comparable to a frequency change approaching an octave, much larger than the traditional small effects of discrete level changes in that frequency region.
+
+
+The dramatic result is worth taking seriously, but also worth reading narrowly. It came from controlled, synthetic dynamic stimuli involving a particular relationship between frequency motion and intensity motion. It does NOT mean that simply making a steady Amastacia drone louder will make it sound an octave higher, that a drum crescendo generates a pitch illusion of that size, or that a live audience will hear an identical effect. The paper's proposal that the auditory system encodes natural intensity–frequency correlations is a causal interpretation of the behavioral findings, not a demonstrated KLAAT neural mechanism.
+
+
+Nevertheless, the distinction is relevant. A gradual crescendo followed by a decrescendo is a temporal pattern, not merely two steady playback levels. Listeners interpret trajectories over time. In spontaneous performance, Paul may vary breath pressure, embouchure, oral-cavity filtering, and the distance/orientation of the bell relative to the room simultaneously. A perceived rise during such a passage could involve actual F0 motion, dynamic intensity bias, spectral change, or all three. We must measure before choosing an explanation.
+
+
+6. ENVELOPE CAN CHANGE PITCH JUDGMENTS WITHOUT CHANGING NOMINAL FREQUENCY
+
+
+Rossing and Houtsma (1986) examined short sinusoids with exponentially rising or falling envelopes [5]. Compared with gated tones of the same frequency, duration, and energy, their rising or decaying tones were generally judged higher in pitch. The shift depended on envelope rate, frequency, and intensity. The authors considered the role of intensity and proposed a model; their findings did not justify a single universal formula for every musical attack.
+
+
+Houtsma and Rossing (1987) extended the issue to short, two-component complex tones with a virtual missing-fundamental pitch [6]. Four listeners matched pitches under different decay rates—0, 0.5, 1, and 2 dB per millisecond. The component tones were constructed as f1 = n f0 + 50 Hz and f2 = (n+1) f0 + 50 Hz, for n = 3, 4, or 5. Pitch changes for the lower and upper components were not identical, and the virtual pitch followed a relationship closer to the average behavior of the partials than to a simple one-component rule.
+
+
+These are particularly useful contrasts for KLAAT because Ankora produces short attacks with decays, while Amastacia supplies a more sustained but still articulated complex sound. A drum impact's apparent tonal height might change as its decay unfolds, even if a narrow-band frequency component remains stable. Likewise, a didgeridoo breath articulation could alter the temporal envelope of a harmonic-rich sound. But the published envelopes were laboratory-designed and short; no result can be transferred numerically to a three-minute improvised performance.
+
+
+An important nuance: equal total energy is not equal instantaneous loudness. A fast attack and slow decay can distribute energy differently through time from a gradual onset and abrupt end. The auditory system is sensitive to those temporal details. For an existing KLAAT recording, one should examine both spectral trajectories and amplitude envelopes rather than reduce the entire passage to average RMS level.
+
+
+7. MASKING PRODUCES A DIFFERENT KIND OF PITCH SHIFT
+
+
+Stoll (1985) studied the addition of masking noise to pure and complex tones [7]. Five listeners judged harmonic-residue stimuli constructed from two or three harmonics of a 200-Hz fundamental and single pure-tone components, while low-pass noise with a 600-Hz cutoff varied between 30 and 70 dB SPL. For the complex residue tones, pitch depended only weakly on masker level. For the corresponding pure tones, shifts as large as 5% were observed under the tested masker changes, with higher noise level associated with higher pitch in that experiment.
+
+
+This result matters because it contradicts the idea that a percentage obtained from a pure-tone test can simply be assigned to a harmonic instrument. The harmonic-residue judgment was much less sensitive to masker level than the individual pure-tone judgment. The direction reported for the masking manipulation also must not be confused with the direction of a tone's own intensity effect: adding noise and turning up the tone are different experimental operations.
+
+
+In KLAAT, Ankora's attack can briefly obscure components of Amastacia. The didgeridoo's breath noise can also alter the prominence of partials. A listener might hear the drone's pitch differently during an impact, but this could reflect energetic masking, changes in which harmonics remain available, attention, or a level-related pitch bias. Stoll's laboratory noise is not an elk-hide drum, and the 5% figure is not a KLAAT estimate.
+
+
+8. A QUANTITATIVE REALITY CHECK
+
+
+To keep the magnitudes interpretable: one equal-tempered semitone corresponds to a frequency ratio of 2^(1/12), about 1.05946—a 5.95% increase. A 3% increase is about 0.51 semitone; a 5% increase is about 0.84 semitone. Those are mathematical conversions only. They do not assert that listeners will hear an equal-sized musical interval, nor do they validate a shift for Amastacia. They simply show why a percentage reported in one experiment must not be casually described as a full musical note or an octave.
+
+
+Likewise, the 40–90 dB SPL range in Jesteadt and Neff and the 30–70 dB SPL masking-noise range in Stoll describe experimental stimuli at their participants' ears. They cannot be used as a KLAAT listening-level recommendation. Loud playback can damage hearing, and raising level is unnecessary for exploratory testing. Ordinary comfortable playback and careful documentation are preferable.
+
+
+9. THE FIVE-WAY ATTRIBUTION PROBLEM IN A REAL RECORDING
+
+
+Suppose a two-minute archival KLAAT video contains a stretch in which the drone seems to descend as Ankora grows more forceful. There are at least five competing explanations.
+
+
+A. Actual source change. Paul's lips, airflow, or instrument interaction changed the acoustic fundamental or its cycle-to-cycle timing. Evidence would require a sufficiently clean source signal and a trustworthy F0 estimate with uncertainty.
+
+
+B. Timbre without F0 change. The vocal tract, bell radiation, or microphone angle changed the strength of harmonics and noise, altering brightness, roughness, or apparent depth. Evidence would be a relatively stable F0 with a moving spectral envelope, not merely a pitch-tracker readout.
+
+
+C. Level/envelope-related pitch bias. A listener perceived a tonal-height change because the sound's intensity history changed. Evidence would require the same digital excerpt at controlled levels or envelope conditions, while accounting for playback-device nonlinearities and any unavoidable alteration of the stimulus.
+
+
+D. Masking or mixture. Ankora's attack changed the audibility of particular Amastacia components, or the ear grouped components differently. Evidence would require time-local spectral overlap and careful comparison; a mixed phone recording alone may not isolate each source.
+
+
+E. Reproduction and recording artifact. The phone's microphone, compressor, limiter, high-pass filter, codec, speaker, room, or headphones altered the signal reaching the listener. Evidence would require device metadata, direct comparison with a better recording chain, or a calibrated reproduction check.
+
+
+These explanations are not mutually exclusive. A real change in source F0 can coincide with spectral brightening and an apparent intensity-driven pitch shift. The goal is not to select one attractive mechanism; it is to make the competing pathways visible.
+
+
+10. WHY THE PHONE ARCHIVE IS STILL WORTH STUDYING
+
+
+Paul's existing one- to five-minute phone videos are sufficient to begin a first-pass descriptive analysis: mark clear Ankora attacks, identify sustained drone intervals, compare amplitude envelopes, estimate spectral changes, and flag candidate F0 shifts. They are not sufficient by default for calibrated ear-level SPL, mechanical vibration dose, millisecond-accurate hand-to-sound synchrony, or causal claims about listener pitch. Session 112's audiovisual timing cautions still apply, and Session 114's distinction between audible sound and skin vibration remains intact.
+
+
+A practical analytic sequence would preserve the untouched file, document device and orientation if known, extract the audio without resampling where possible, inspect waveform and spectrogram, compare multiple F0 estimators or manual harmonic tracks, and label intervals where the drum makes the fundamental ambiguous. Spectral centroid and RMS should be treated as descriptive features, not direct equivalents of brightness and loudness experience. Dynamic compression may obscure true performance envelopes. An algorithm's confidence score is not a physiological measurement.
+
+
+Importantly, no formal listener cohort is needed to begin. Acoustic description is one stage; later subjective testing is another. Paul can keep playing instinctively while the research learns to distinguish what was performed, what was captured, what was reproduced, and what was heard.
+
+
+11. EVIDENCE MAP
+
+
+ESTABLISHED OUTSIDE KLAAT
+Controlled changes in intensity can bias perceived pitch judgments for fixed-frequency tones [1–3]. Pitch–intensity functions can differ between ears and listeners [3]. Dynamic intensity trajectories can exert much larger contextual effects in specific synthetic moving-tone experiments [4]. Envelope shapes can affect pitch matches for short pure and complex tones [5–6]. Adding masking noise can alter pure-tone pitch much more than harmonic-residue pitch under particular conditions [7].
+
+
+CONTEXT-DEPENDENT OR CONTRADICTORY
+Direction and size of pitch shifts vary with frequency, level, ear, participant, temporal envelope, masker, and task. Discrete level steps are not the same manipulation as a continuous intensity trajectory. Pure-tone effects cannot be assigned to harmonic-rich drone sounds. Historical equal-pitch contours and later signal-detection measurements differ in design and effect size. An observed behavioral bias does not by itself locate a neural mechanism.
+
+
+PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
+Some perceived pitch movement in otherwise steady Amastacia passages may reflect intensity history, timbral redistribution, or masking by Ankora rather than a source-F0 change. Different listeners may describe the same passage differently. An unaltered recorded performance may create different pitch impressions at different comfortable playback levels. Each is a hypothesis until actual KLAAT source, playback, and listener data are collected.
+
+
+SPECULATION
+A continuously recognizable drone that nevertheless seems to climb or sink might contribute to the sense of an expanding or contracting 'perceived field' within KLAAT. This is a useful artistic image, not a measured psychoacoustic property of the current recordings or evidence of trance.
+
+
+UNSUPPORTED CLAIMS
+Amastacia's C# automatically shifts perceptual pitch in a fixed direction; louder KLAAT must sound lower; every perceived pitch change reflects lip-frequency drift; a 5% masker result applies to KLAAT; a pitch illusion proves altered consciousness or neural entrainment; changing playback volume can safely be used to force a bodily or neurological response; one phone spectrogram can determine what an audience heard.
+
+
+12. WHAT THIS ADDS TO THE LIVING ATLAS
+
+
+The original Atlas investigated pitch, resonance, and auditory inference. This session adds a sharper boundary: a stable measured fundamental is not a guarantee of a stable heard pitch, and an authentic heard pitch change is not proof that the instrument's fundamental moved. Intensity, envelope, masking, timbre, ear-specific processing, and playback must be considered as separate candidates.
+
+
+The broader implication is not that KLAAT should exploit a laboratory illusion. It is that a living acoustic anchor can remain recognizably itself while the listener hears motion within it. That possibility is particularly compatible with Amastacia's long breath-shaped tone and Ankora's interruptions. Science can help describe what may be happening without assigning Paul a tempo, score, fixed transition, or scientifically engineered crescendo. Experience leads; measurement refines our interpretation.
+
+
+SOURCES — PRIMARY RESEARCH
+
+
+[1] Stevens, S. S. (1935). The relation of pitch to intensity. Journal of the Acoustical Society of America 6:150–154. DOI 10.1121/1.1915715. https://doi.org/10.1121/1.1915715
+[2] Jesteadt, W., & Neff, D. L. (1982). A signal-detection-theory measure of pitch shifts in sinusoids as a function of intensity. JASA 72:1812–1820. DOI 10.1121/1.388654. https://pubmed.ncbi.nlm.nih.gov/7153428/
+[3] Burns, E. M. (1982). Pure-tone anomalies. I. Pitch-intensity effects and diplacusis in normal ears. JASA 72:1394–1402. DOI 10.1121/1.388445. https://pubmed.ncbi.nlm.nih.gov/7175025/
+[4] McBeath, M. K., & Neuhoff, J. G. (2002). The Doppler effect is not what you think it is: Dramatic pitch change due to dynamic intensity change. Psychonomic Bulletin & Review 9:306–313. DOI 10.3758/BF03196286. https://pubmed.ncbi.nlm.nih.gov/12120793/
+[5] Rossing, T. D., & Houtsma, A. J. M. (1986). Effects of signal envelope on the pitch of short sinusoidal tones. JASA 79:1926–1933. DOI 10.1121/1.393199. https://pubmed.ncbi.nlm.nih.gov/3722602/
+[6] Houtsma, A. J. M., & Rossing, T. D. (1987). Effects of signal envelope on the pitch of short complex tones. JASA 81:439–444. DOI 10.1121/1.394908. https://pubmed.ncbi.nlm.nih.gov/3558960/
+[7] Stoll, G. (1985). Pitch shift of pure and complex tones induced by masking noise. JASA 77:188–192. DOI 10.1121/1.392256. https://pubmed.ncbi.nlm.nih.gov/3973213/
+
+
+PROVENANCE AND LIMITS
+
+
+Source bibliographic records and available abstracts checked October 23, 2026; McBeath and Neuhoff full-text PDF also consulted. Some mechanistic and methodological interpretation relies on abstracts rather than complete paywalled articles; do not overstate unreported statistics. Recent KLAAT hourly notes consulted through 18:20 CDT; the 16:21 loop-seam and 17:19 loudspeaker-front-wall SBIR notes remain separate unpublished branches. Existing Session 114 remains the auditory–tactile frequency study. No KLAAT recording, listener cohort, autonomic signal, or neural measurement was newly analyzed in this session.
+
+
+OPTIONAL KRX-115 — THE SAME DRONE, TWO COMFORTABLE LEVELS
+
+
+When a suitable archival Amastacia passage is available, keep the original file untouched. Choose one naturally sustained 15–30-second excerpt; first inspect its measured F0, harmonic balance, and amplitude envelope, recording uncertainty and any Ankora masking. Then, only if useful, have a listener hear the identical digital excerpt twice at two modest, comfortable playback settings, in counterbalanced order. Without telling them a pitch change is expected, ask separately whether its tonal height, brightness, loudness, or apparent distance seemed different, and allow 'no difference' or 'unsure.' Document playback device, settings, processing and room; never raise level to chase an effect. This is an exploratory observation, not proof of a KLAAT-specific illusion and not a reason to alter Paul's playing.
+
+
+END OF SESSION 115

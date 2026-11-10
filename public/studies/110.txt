@@ -1,0 +1,216 @@
+KLAAT RESONANCE RESEARCH — SESSION 110
+THE DISTANCE THE EAR INVENTS
+Why an unchanged drone and drum can sound near or far, and why reverberation is not a measure of bodily force
+Published: October 22, 2026 — 8:21 AM CDT (America/Chicago)
+
+
+GOVERNING PRINCIPLE
+Experience-led creation. Science-informed refinement.
+
+
+RESEARCH STATUS
+This is a synthesis of primary auditory-distance experiments, the KLAAT Curriculum Index, Research Ledger, Session Corpus Volume II, Master Instructions, and new hourly notes through October 22, 2026, 08:14 CDT. No KLAAT recording was newly analyzed. No listener was tested. All KLAAT-specific perceptual, bodily, neural and autonomic consequences below are hypotheses or proposed observations, not findings.
+
+
+THE QUESTION
+
+
+Amastacia may be only a few feet from someone, yet her continuous agave drone could be experienced as if it occupies a deep, distant space. Ankora may be struck beside her, yet a reflected strike could appear to come from farther away. Another listener, hearing a close microphone recording through headphones, might feel that both instruments are immediately beside the head. None of those reports necessarily describes where the actual instruments stood.
+
+
+What makes a sound seem near or far when its source is stationary? Can a listener hear distance in the balance of direct sound, reflections, spectral coloration and transient decay, even when overall loudness is unchanged? How can KLAAT preserve the extraordinary spatial character of an authentic performance without treating an adjective such as “close,” “distant,” “surrounding,” or “physical” as a calibrated acoustic measurement?
+
+
+This is not Session 105's auditory looming, which asks whether sound seems to APPROACH over time. It is not Session 109's apparent source SIZE, which asks what kind of object the ear imagines. It is not Session 61's spatial variation in sound pressure or Session 80's broad playback-system fidelity. Session 110 isolates PERCEIVED SOURCE DISTANCE: the ear's estimate of where an acoustic event originated, and the multiple imperfect cues used to construct it. The new hourly notes since Session 109 cover peer-visible movement, posture, Doppler motion, conversational distraction, Mid/Side processing, time stretching, performer self-monitoring and local obstruction—not this stationary-source distance-inference question. This is the hard novelty boundary.
+
+
+A useful four-way distinction:
+1. PHYSICAL SOURCE DISTANCE: measured separation between instrument or radiating region and listener.
+2. RECEIVED ACOUSTIC CUES: direct level, reflected energy, timing, spectrum, interaural differences and their dependence on position.
+3. PERCEIVED DISTANCE: a listener's inferred nearness or remoteness, which may be biased.
+4. EXPERIENCE: felt intimacy, energy, absorption, apparent vastness, bodily sensation or symbolic meaning.
+These are connected possibilities, not interchangeable measurements.
+
+
+1. THE SOUND DOES NOT CARRY A DISTANCE LABEL
+
+
+In ideal free-field conditions, the pressure amplitude from an approximately omnidirectional point source decreases roughly in proportion to 1/r in the far field, so the sound-pressure level falls about 6 dB per doubling of distance. This familiar rule is a useful reference, not a complete description of an agave pipe or a frame drum. Both are spatially extended, frequency-dependent radiators, and a listener may be in a complicated near field, near a wall, or inside a reverberant room. At a given position, a 6 dB change can result from moving farther away, from Paul playing more quietly, from a changed radiation direction, from a different microphone gain, or from the playback volume knob. A listener cannot uniquely recover distance from level alone unless something about the source's output is known or learned.
+
+
+That ambiguity is fundamental to KLAAT. Amastacia's lip drive and vocal-tract shaping vary spontaneously; Ankora's attacks are intentionally human rather than metronomic. The same physical distance does not imply a constant emitted sound level. Conversely, the same received sound level does not imply the same distance. If the performance feels as though it is coming closer, first ask whether its level, attack, spectral balance, room response or listener interpretation changed. Do not infer movement or a particular emotional effect from the word “near.”
+
+
+In reflective spaces, direct sound arrives by the shortest path; later reflections reach the listener after contacting walls, floor, ceiling or objects. A useful descriptor is the DIRECT-TO-REVERBERANT ENERGY RATIO, often abbreviated D/R or DRR:
+
+
+DRR (dB) = 10 log10 (direct acoustic energy / reverberant acoustic energy).
+
+
+As the source moves farther away in an approximately diffuse reverberant field, direct energy often falls faster than the diffuse reflected component. DRR then tends to decrease, supplying a distance cue partly independent of the unknown emitted source level. But DRR is not a universal distance meter. It depends on room geometry, source and microphone directionality, frequency band, listener position, early-versus-late energy classification, and the validity of a diffuse-field approximation. A close wall or an open-air location can defeat the simple intuition. A single phone recording generally cannot separate direct and reflected contributions of both instruments well enough to report a reliable KLAAT DRR without a designed measurement.
+
+
+2. HOW PRECISELY CAN THE EAR HEAR REVERBERANT DISTANCE?
+
+
+Pavel Zahorik's 2002 discrimination experiment [1] varied the direct-to-reverberant ratio of virtual sounds. Six listeners heard different types of material: abrupt 50-millisecond noise bursts, gradual 300-millisecond noise bursts, speech syllables and impulses. Across the tested 0–20 dB DRR reference range, discrimination thresholds were approximately 5–6 dB. In the simulated acoustic environment, that degree of DRR change corresponded to more than a doubling of source distance. The central lesson was that DRR by itself could be a rather coarse cue to distance in that experiment. This is not a claim that KLAAT listeners require a 5 dB change to hear any spatial difference, or that a real source must move two meters before anyone notices it.
+
+
+Six years later, Larsen, Iyer, Lansing and Feng [2] reported a different pattern. Their controlled virtual-acoustics experiments found just-noticeable DRR differences around 2–3 dB in favorable broadband conditions at reference ratios near 0 and 10 dB; sensitivity was poorer at the extremes, including -10 and 20 dB. Their analysis found that spectral changes contributed strongly to discrimination. When spectral cues were reduced or removed, thresholds rose and temporal cues became more important. Their discussion directly contrasted their roughly 2.5–3.5 dB results at certain reference ratios with Zahorik's 5–6 dB values, pointing to methodological and stimulus differences, including room responses and whether the direct or reverberant component was manipulated.
+
+
+This is a useful scientific contradiction, not a reason to pick whichever threshold makes KLAAT sound more extraordinary. It means the sensitivity to a DRR manipulation depends on the acoustic and experimental context. A numerical threshold measured using virtual broadband noise does not automatically transfer to Amastacia's harmonic drone, Ankora's complex impact, or a mixed improvisation. In fact, the two KLAAT sound sources may provide different opportunities to hear directness: a drum attack offers a sharp temporal reference and a decay, whereas a long, nearly continuous drone may obscure where the direct arrival ends and the room begins.
+
+
+The difference between the 2002 and 2008 studies is also a warning about scientific language. “Listeners discriminate DRR” is a narrower claim than “listeners correctly estimate how many feet away the instrument is.” A two-alternative forced-choice task may detect a change without supporting an accurate absolute distance judgment. And a detectable change does not establish that the listener feels more energy, absorption or trance.
+
+
+3. LEVEL AND REVERBERATION CAN COOPERATE—OR COMPETE
+
+
+Kolarik, Cirstea and Pardhan [3] tested relative distance judgments for speech in virtual rooms over approximately 1–8 meters. Their design separated a level-only condition, a condition with overall levels equalized so reverberant information remained, and a normal condition with both cues. Performance was best when both were available. Level cues generally supported better discrimination than DRR alone, especially at nearer distances. Under more reverberant conditions, DRR became more useful for farther sources, sometimes approaching the effectiveness of level cues. The result is not “reverb is better than loudness”; it is that the brain can exploit whichever information is reliable in a particular range and room.
+
+
+Their 2013 follow-up [4] likewise found that level usually outperformed DRR for virtual distance discrimination, but increasing room reverberation time improved the DRR-only condition; at farther virtual distances in highly reverberant rooms, the two cues became comparably informative. Listener orientation did not materially alter performance in that study. Those outcomes complicate any simplistic prescription to add reverb to KLAAT recordings. Reverb may provide information about a space, but it can also smear Ankora's attacks, alter source clarity, and create a distance impression unlike the actual performance room. A deliberate artistic mix may be beautiful; it is not an objective record of the room's acoustic geometry.
+
+
+Zahorik's other 2002 virtual-acoustics study [5] found that absolute auditory distance judgments were systematically compressed: listeners often underestimated true source distance, and the weighting of intensity versus DRR varied with whether the sound was speech or noise and whether it was directly in front or to the side. This matters because the same acoustic cues can be interpreted differently depending on stimulus class and angle. Amastacia and Ankora are not speech or standardized broadband noise, and their spatial relationship can be ambiguous in a stereo or reverberant recording. The literature does not support assigning one distance-bias correction factor to KLAAT.
+
+
+An older but unusually large experiment by Mershon and colleagues [6] involved 288 listeners across two experiments, physical sources between 0.75 and 6.0 meters, two background-noise levels differing by 20 dB, and changes to room reflectance without changing room dimensions. With low room reflectance, distances were considerably underestimated. With high reflectance and a reverberation time around 1.7 seconds, initial reports could be overestimates, but repeated presentations brought judgments closer to the real distances. Increased background noise reduced perceived distance. The room and the listening history changed the estimate without changing the actual source location. That is a striking challenge to any belief that perceived nearness simply tracks decibels or room size.
+
+
+KLAAT's practical implication is not to seek the most reverberant room. It is to recognize that each space becomes a participant in the listener's spatial inference. A bare room, a furnished café, a hallway, and a headphone mix can produce different perceived distances from the same underlying improvisation. No one of those experiences is automatically the authentic one for every artistic purpose. For scientific comparison, however, the room and reproduction chain must be documented.
+
+
+4. THE ATTACK AND THE TAIL TELL DIFFERENT STORIES
+
+
+A frame-drum strike has a defined onset. It may be heard directly, then followed by a room tail whose decay, spectrum and direction differ from the initial attack. The onset can help a listener localize the source; the tail can reveal properties of the space. These are not separate musical events Paul needs to compose. They are natural consequences of striking Ankora in a room.
+
+
+Bidart and Lavandier [7] tested virtual frontal sources at 0.5–10 meters while equalizing broadband sound level. Their listeners still showed distance-related judgments, consistent with spectral coloration by the simulated room. In a noise experiment, versions with onsets and offsets cut away were perceived as closer than versions retaining those edges, suggesting that transient reverberant tails offered useful distance information. Differences between binaural and identical-ear presentations were also condition-dependent. The finding is particularly relevant to KLAAT because an apparently simple pulse can contain a large amount of spatial information in its aftermath. A sustained drone, meanwhile, can make those decays harder to disentangle in a mixed recording.
+
+
+The result does not imply that adding a longer decay makes Ankora more trance-inducing. It does not mean that a bright, close attack is always preferable to a distant one. It simply identifies one way the auditory system may infer spatial origin from the natural acoustic sequence of an impact. This also offers a practical capture insight: heavy noise reduction, gating, reverb replacement, time stretching or aggressive transient processing can change spatial cues even if the main drum strike still sounds recognizable. The question for KLAAT is what the recording preserves, not what theory demands Paul play.
+
+
+5. A NEARBY SOUND CAN BE DIFFERENT IN THE TWO EARS
+
+
+For sources within roughly a meter of the head, the difference in received level between the ears can vary strongly with distance, especially for sources to one side. Brungart, Durlach and Rabinowitz [8] measured localization of broadband sources within that proximal region. Overall angular error was approximately 17 degrees. Distance-response correlations ranged from about 0.85 for lateral sources to below 0.4 for sources near the median plane. Those are correlations in a specific laboratory localization task, not percentages of correct KLAAT location estimates. They show that auditory distance information is not identical for frontal and lateral sources.
+
+
+This is important when translating a live acoustic experience to headphones. A mono close-mic recording placed equally in both ears cannot reproduce the original near-field interaural pattern, and a generic stereo widening plug-in cannot automatically restore it. Nor should one assume that a live low drone is uniformly localizable from its fundamental. Higher harmonics, transient information, head orientation and the room may contribute differently. A listener can report being “inside” the sound without accurately placing the source, and can accurately place a strike without feeling surrounded.
+
+
+Seeing the performer adds another layer. A visible instrument gives the listener a powerful location cue, while a hidden or headphone source asks the ear to estimate more from acoustics. A 2022 experiment on virtual audiovisual distance [9] used eleven listeners, measured binaural room responses over 1–5 meters, and found asymmetric visual capture: sound judged farther than a visible target was more readily associated with that target than sound judged closer. This is not evidence that KLAAT's archaeosonic imagery alters the brain in a special way. It is evidence that vision and sound can jointly determine an apparent source location. The visual artwork can be an expressive artistic world; it should not be mistaken for a calibrated acoustic intervention.
+
+
+6. THE PARADOX OF DISTANCE AND INTIMACY
+
+
+A sound can be physically distant but feel emotionally intimate. Another can be played at high volume and still sound spatially remote. Apparent distance, loudness, envelopment, source width, pleasantness, bodily salience and absorption must be kept separate. Session 109 explored apparent size; a sound can seem enormous but close, small but distant, or both large and far away. Session 105 explored motion toward the listener; a stationary source can seem far away without any motion trajectory. The current question is the stable spatial placement the auditory system infers.
+
+
+Amastacia offers a sustained acoustic field with shifting harmonic emphasis, breath texture and mouth-shaped resonances. Ankora punctuates that field with short attacks and longer decays. These contrasting temporal structures may give a listener different distance estimates for the two instruments even if they stand side by side. One listener might describe a close breathing presence behind a far drum; another might hear a distant drone beneath a close drum; a third may experience a unified field with no separately locatable sources. Each would be a meaningful subjective report, but not yet a verified mechanism.
+
+
+A particularly intriguing KLAAT-specific possibility is that the drum's early attack provides a concrete “here,” while the drone and late room field create an ambiguous “elsewhere.” This could contribute to the project's ancient, cavernous, archaeosonic atmosphere without any synthetic effects. That remains speculation. No controlled study of Amastacia and Ankora has shown it, and nothing in the auditory-distance literature establishes that such a spatial split causes absorption, autonomic activation or altered consciousness. The aesthetic interpretation belongs to the artistic work; the research should test, not decree, its acoustic underpinnings.
+
+
+7. WHAT A REAL KLAAT TEST WOULD NEED TO SEPARATE
+
+
+At minimum, a defensible KLAAT distance study would distinguish (a) the actual physical position of the instruments, (b) the room and microphone/playback chain, (c) measured or at least documented acoustic features, (d) a listener's inferred source distance, and (e) the listener's wider experience. One should not use a listener's phrase “I felt it right in my chest” as a substitute for a distance judgment, and certainly not as a calibrated vibration or physiological measurement. An acoustic microphone records pressure, not a listener's tissue displacement or EEG state.
+
+
+Comparing a dry recording with a reverberant version might test a particular production manipulation, but it would not test “distance alone.” Adding reverb changes temporal envelopes, spectral content, apparent room size, masking and perhaps overall loudness. Moving a speaker changes room modes, spatial cues and level at the ear. Raising volume can change loudness and apparent proximity. These are legitimate experimental contrasts only when their multiple changes are disclosed. The cleaner initial question may simply be descriptive: where do people spontaneously locate the sources in an unchanged authentic recording, and how confident are they?
+
+
+Likewise, a high DRR estimate from a processed file is not automatically the physical DRR of the original room. If KLAAT ever measures a room impulse response, use a calibrated source/receiver geometry and appropriate time windows; an improvised two-instrument recording is not a substitute for a controlled impulse-response measurement. If no measurement is possible, use qualitative language with uncertainty rather than inventing precision. A research program can learn from honest, unmeasured listening without pretending it has done laboratory acoustics.
+
+
+8. EVIDENCE STATUS — KEEP THESE CLAIMS APART
+
+
+ESTABLISHED OUTSIDE KLAAT
+- Source distance can be inferred from a combination of overall level, direct/reverberant balance, room-induced spectral and temporal changes, and—in the near field—distance-dependent binaural differences.
+- Level and DRR have complementary but context-sensitive diagnostic value; absolute distance estimates are often biased.
+- DRR discrimination thresholds differ across experiments and conditions: roughly 5–6 dB in Zahorik's 2002 six-listener design versus roughly 2–3 dB at favorable reference ratios in Larsen et al. (2008).
+- Transient tails, room reflectance, source angle, background noise, familiarity and vision can alter apparent distance under studied conditions.
+
+
+CONTEXT-DEPENDENT OR CONTRADICTORY
+- Some studies find level more informative than DRR, especially near the listener; others show that DRR can become comparably useful for distant virtual sources in reverberant conditions.
+- Increasing reflectance may initially produce distance overestimation, whereas lower-reflectance settings often produce underestimation. Neither direction is universal.
+- DRR thresholds are not invariant; stimulus, spectral access, reverberation, reference DRR and psychophysical task matter.
+- A source may be perceptually locatable without its absolute distance being accurate; a listener may notice a spatial change without identifying its physical cause.
+
+
+PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
+- Ankora's attacks and decays may carry distance cues that differ from those carried by Amastacia's sustained harmonics and breath noise.
+- Different rooms or playback chains may change perceived distance while Paul's original improvisation remains identical.
+- Some listeners may report a close pulse and a distant drone, or the reverse, and those judgments may dissociate from felt energy and absorption.
+- Visual exposure to the actual instruments may shift apparent source location relative to audio-only listening.
+
+
+SPECULATION
+- A contrast between intimate attack and diffuse drone may contribute to KLAAT's ancient, immense, physically inhabited artistic character. This is a possible listener interpretation, not a demonstrated acoustic signature or universal psychological response.
+
+
+UNSUPPORTED CLAIMS
+- KLAAT's C# drone has a unique distance or consciousness effect.
+- More reverberation necessarily produces more absorption, energy, trance, healing or neural synchronization.
+- A “close” sound implies strong body vibration, high SPL or a physical source within a specified number of feet.
+- A “distant” sound must have a low direct-to-reverberant ratio measured in the actual room.
+- Virtual-speech and noise thresholds predict KLAAT listener percentages or prescribe a preferred venue, mix or performance form.
+- A listener's spatial metaphor establishes a physiological or neural mechanism.
+
+
+9. WHAT REMAINS UNRESOLVED
+
+
+The most important unanswered question is not how to force a sound to seem close or far. It is how people actually describe the spatial presence of unaltered KLAAT recordings, and whether they locate the drone and pulse as separate objects, one shared object, or a diffuse field with no obvious source. Without that baseline, “distance” is another seductive but untested explanation.
+
+
+A second unresolved question is whether measured room differences predict listener distance reports better than simple level differences for this particular drone-plus-drum sound. The literature suggests there is no universal answer. A third is whether the resulting distance impression has any independent relationship to activation, absorption or movement after controlling for playback level, expectation and familiarity. That connection has not been established. The present session is a measurement map, not a verdict.
+
+
+ONE OPTIONAL KLAAT OBSERVATION — KRX-110: WHERE DOES THE SOUND LIVE?
+
+
+Choose one existing, unedited KLAAT excerpt and play it once at a comfortable, documented level on the same system to a few consenting listeners. Before naming distance, ask only: “Where did the sound seem to be coming from, if anywhere?” Then, if the listener wants to continue, ask separately whether the drone and drum seemed near, far, spread out, or impossible to locate; allow “don't know” and contradictory descriptions. Record playback device, room, position, whether the instruments were visible, prior familiarity and the listener's own words. Collect bodily energy or absorption descriptions only as distinct optional questions. Do not alter Paul's performance, prompt a preferred answer, or infer neural effects. A handful of responses would be exploratory observations, not a population estimate.
+
+
+THE RETURN
+
+
+The instrument is somewhere in the room. The sound is somewhere in the air. The listener's experience may place it somewhere else entirely. This is not evidence of a supernatural acoustic force, and it does not make the experience less real. It means hearing is an active attempt to infer a world from imperfect information.
+
+
+For KLAAT, that uncertainty is artistically fertile. Amastacia and Ankora do not need prescribed phases, manufactured crescendos, or scientifically approved spatial tricks to inhabit a place in someone's imagination. They need room to be played instinctively, recordings that preserve what happened, and questions precise enough to learn from the answers.
+
+
+Experience-led creation. Science-informed refinement.
+
+
+PRIMARY RESEARCH SOURCES — CHECKED OCTOBER 22, 2026
+
+
+[1] Zahorik, P. (2002). Direct-to-reverberant energy ratio sensitivity. Journal of the Acoustical Society of America, 112(5), 2110–2117. DOI 10.1121/1.1506692. Primary abstract: https://pubmed.ncbi.nlm.nih.gov/12430822/
+[2] Larsen, E., Iyer, N., Lansing, C. R., & Feng, A. S. (2008). On the minimum audible difference in direct-to-reverberant energy ratio. Journal of the Acoustical Society of America, 124(1), 450–461. DOI 10.1121/1.2936368. Full primary paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC2677334/ ; https://pubmed.ncbi.nlm.nih.gov/18646989/
+[3] Kolarik, A. J., Cirstea, S., & Pardhan, S. (2011). Perceiving auditory distance using level and direct-to-reverberant ratio cues. Journal of the Acoustical Society of America, 130. DOI 10.1121/1.3655171. Primary institutional record: https://ueaeprints.uea.ac.uk/id/eprint/81360/
+[4] Kolarik, A., Cirstea, S., & Pardhan, S. (2013). Discrimination of virtual auditory distance using level and direct-to-reverberant ratio cues. Journal of the Acoustical Society of America, 134(5), 3395–3398. DOI 10.1121/1.4824395. https://pubmed.ncbi.nlm.nih.gov/24180748/
+[5] Zahorik, P. (2002). Assessing auditory distance perception using virtual acoustics. Journal of the Acoustical Society of America, 111(4), 1832–1846. DOI 10.1121/1.1458027. https://pubmed.ncbi.nlm.nih.gov/12002867/
+[6] Mershon, D. H., Ballenger, W. L., Little, A. D., McMurtry, P. L., & Buchanan, J. L. (1989). Effects of room reflectance and background noise on perceived auditory distance. Perception, 18(3), 403–416. DOI 10.1068/p180403. https://journals.sagepub.com/doi/10.1068/p180403
+[7] Bidart, A., & Lavandier, M. (2016). Room-induced cues for the perception of virtual auditory distance with stimuli equalized in level. Acta Acustica united with Acustica, 102(1), 159–169. DOI 10.3813/AAA.918933. https://researchers.mq.edu.au/en/publications/room-induced-cues-for-the-perception-of-virtual-auditory-distance/
+[8] Brungart, D. S., Durlach, N. I., & Rabinowitz, W. M. (1999). Auditory localization of nearby sources. II. Localization of a broadband source. Journal of the Acoustical Society of America, 106(4), 1956–1968. DOI 10.1121/1.427943. https://pubmed.ncbi.nlm.nih.gov/10530020/
+[9] Zahorik, P. (2022). Asymmetric visual capture of virtual sound sources in the distance dimension. Frontiers in Neuroscience, 16, 958577. DOI 10.3389/fnins.2022.958577. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.958577/full
+
+
+PROVENANCE AND CONTINUITY
+Novelty checked against connected Master Instructions, Curriculum Index, Research Ledger and Corpus Volume II (through Session 109) and canonical hourly notes through October 22 at 08:14 CDT. This session is about stationary-source AUDITORY DISTANCE inference, not perceived source size (109), motion/looming (105), listener zones (61), spatial envelopment (hourly October 20 at 17:17), visual performer strike (96), or the October 22 hourly topics. Source pages and available primary full-text/abstracts were checked October 22, 2026. Numerical claims are specific to their cited studies and not transferred to KLAAT. The ChatGPT Library plain-text file is the mandatory canonical copy; Drive Corpus/Index/Ledger are secondary mirrors. Hourly originals remain intact. Existing independent curation queues for Sessions 107/109 are handled separately.
+
+
+END OF SESSION 110

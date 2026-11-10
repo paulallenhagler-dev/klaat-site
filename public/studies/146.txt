@@ -1,0 +1,97 @@
+KLAAT RESONANCE RESEARCH — SESSION 146
+The Strike That the Eye Heard
+How seeing a drummer's hand can change what an analyst believes the recording contains
+Published: 2026-11-03, America/Chicago
+Guiding principle: Experience-led creation. Science-informed refinement.
+
+
+ABSTRACT
+A KLAAT recording contains simultaneous events: Amastacia's breath-driven drone, Ankora's attacks and resonances, contact noise, room reflections, and the performer's visible gestures. The question in this session is not whether seeing Paul perform makes the music more compelling. It is narrower and more consequential for future research: when we use a video to verify a drum strike that was first suspected from the audio, have we obtained independent confirmation—or merely allowed the audio to influence what we think we saw? The reciprocal error is possible too: a visible hand movement can persuade an observer that an ambiguous sound was a drum attack. The proposed safeguard is separate, uncertainty-preserving annotation of audio and silent video before reconciliation. This is a measurement protocol, not a rule for KLAAT performance.
+
+
+1. WHY THIS QUESTION IS DISTINCT
+Recent sessions have addressed audio event detection (143), the fidelity of listener playback (144), and duplicate responses (145). Those concern missing signals, altered signals, and nonindependent participants. This session concerns a different kind of nonindependence: two apparent sources of evidence may not be independent when the same observer combines them during labeling. An hourly note dated November 3, 13:15 CST specifically raised cross-modal annotator leakage; rather than repeating its short methodological proposal, this session develops its scientific basis, limits, and a practical evidence architecture. The 15:13 hourly note on stereo-to-mono cancellation is an alternative unresolved direction, not the focus here.
+
+
+2. THE ACTUAL KLAAT PROBLEM
+Imagine a spontaneous passage where Ankora is struck softly while Amastacia is sustaining a noisy, pulsing C# drone. A waveform contains a small transient. On video Paul's wrist moves near the hide. An analyst watches and listens together and writes 'drum strike confirmed.' But the wrist may have approached without contacting, the transient may have come from breath articulation or clothing, and the video may have missed contact between frames. Conversely, a clearly visible strike may be acoustically masked. Neither audio nor video by itself necessarily identifies the source. Combining them can improve recognition, but it can also contaminate an attempted independent check.
+
+
+Four statements must be kept separate:
+(a) An audio transient exists at a measured timestamp.
+(b) A visible movement or contact appears in the video.
+(c) The two observations are temporally compatible within a measured synchronization uncertainty.
+(d) A specific physical strike caused that particular sound.
+The first three can be measured or annotated with explicit uncertainty. The fourth is a causal attribution and may remain unresolved even when the first three hold.
+
+
+3. ESTABLISHED EVIDENCE: PERCEPTION IS MULTISENSORY
+McGurk and MacDonald (1976) demonstrated that incongruent visible speech articulation can change what a listener reports hearing. Their experiment concerns speech, not percussion, and cannot be used to predict how often a KLAAT analyst will mislabel strikes. Its enduring relevance is conceptual: vision is not simply an independent witness to audition. What we see can influence what we hear.
+
+
+Schutz and Lipscomb (2007) showed in percussion performance that visual gesture can alter perceived sound duration, even when the acoustic event is held constant. This is more directly relevant to an instrument whose visible motion and acoustic envelope may diverge. A long sweeping gesture can change an observer's experience of the sound; it does not mean the recorded decay physically lengthened. The result cautions against treating audiovisual judgments as pure acoustic measurements.
+
+
+The auditory system also integrates cues across time and space. Integration can be useful when sources are ambiguous, but cue integration and independent verification are different tasks. If the purpose is to study the listener's complete audiovisual experience, joint viewing is appropriate. If the purpose is to test whether an audio transient came from a physical hand impact, independent first-pass labels are more informative.
+
+
+4. WHAT THE STUDIES DO NOT SHOW
+Neither the McGurk illusion nor the percussion-gesture experiment demonstrates that Paul misperceives his own playing, that every KLAAT listener experiences an illusion, or that audiovisual influence produces trance. They do not establish a universal delay tolerance, an error rate for a phone camera, or a reliable mapping between waveform peaks and hand contacts. They are evidence for context-sensitive cross-modal perception, not evidence of a measured KLAAT effect.
+
+
+5. A REPRODUCIBLE ANNOTATION DESIGN
+Use a naturally performed, unedited KLAAT take, not a performance arranged for a test. Retain its original audio and video files, channel layout, sample rate, video frame rate, and any offset introduced by editing or export. Select a short section containing both clear and ambiguous events; preserve the selection rationale. Prepare two views of the same source: audio-only, with no video frames, and silent-video, with no sound or waveform. Ideally assign the views to different people who cannot exchange labels. If only one analyst is available, separate passes in time, lock the first set of annotations, and disclose that memory still limits independence.
+
+
+For audio, mark candidate onset time, confidence, and acoustic description: sharp impact, broad rustle, breath burst, uncertain transient, or no event. Do not require a drum label. For silent video, mark hand-to-hide contact visible / not visible / occluded / uncertain; note frame interval rather than inventing subframe precision. After both lists are frozen, estimate synchronization offset using a separate, identifiable reference event if available, and reconcile candidate pairs with a tolerance justified by frame rate, timestamp precision, and offset uncertainty. A 30-frame-per-second video has approximately 33.3 ms between frames; a 60-fps video approximately 16.7 ms. Those intervals are arithmetic, not measured uncertainty bounds: exposure, rolling shutter, codec buffering, and audio-video drift can add error.
+
+
+For each paired event, preserve the distinct evidence columns. Do not overwrite an audio-only 'uncertain' with a confident 'drum strike' merely because the video showed a gesture. Instead add a new column: 'joint interpretation after reconciliation.' The data should make it possible to reproduce the audio-only and video-only conclusions.
+
+
+6. WHY AGREEMENT STATISTICS CAN MISLEAD
+Suppose two coders label 100 windows, and 90 contain no visible contact or audible onset. If both say 'no' on those 90, raw agreement is already 90%, even if they disagree on every rare event. Agreement therefore needs a confusion table, not only a headline percentage. Cohen's kappa adjusts observed agreement for chance agreement under a particular model of coder marginals, but it is sensitive to prevalence and does not prove ground truth. If the labels are 'audio transient' and 'visible contact,' they are not even identical constructs: their disagreement may be scientifically informative rather than coder failure.
+
+
+A better report includes total candidate events, clear matches, audio-only events, video-only events, ambiguous cases, synchronization tolerance, and the source of uncertainty. If a classifier is later trained to identify Ankora attacks, training and evaluation clips should be separated by recording session where possible; otherwise near-duplicate neighboring windows can exaggerate accuracy.
+
+
+7. CONTEXT-DEPENDENT FINDINGS
+Watching the hands may genuinely improve detection of soft drum contacts, particularly when Amastacia masks acoustic evidence. That is useful for building a richer event history. However, it means the final audiovisual label is supported by two modalities that were interpreted jointly, not by two independently replicated tests. The right choice depends on the question. For a concert experience, visual gesture is part of the artwork. For a claim about acoustic strike density, video is contextual evidence and must not be silently substituted for the sound itself.
+
+
+8. PLAUSIBLE KLAAT HYPOTHESES
+Hypothesis A: joint audiovisual annotation will produce more confident 'Ankora strike' labels than audio-only annotation during dense Amastacia passages. Hypothesis B: some extra labels will be supported by actual visible contacts, while others will be gesture-driven false positives. Hypothesis C: silent-video annotation will miss occluded or very fast contacts, creating false negatives. Hypothesis D: the disagreement pattern will vary with camera angle, phone processing, clothing, and playing intensity. These are testable proposals, not results. An honest outcome could be that independent annotation makes almost no difference.
+
+
+9. IMPLICATIONS FOR LISTENER RESEARCH AND ARTISTIC IDENTITY
+KLAAT's ritual visual language is not a contaminant to be eliminated from performance. The sight of Amastacia, Ankora, Paul's breathing, and the bodily work of maintaining the drone may be integral to the experience. An audio-only test asks what the sound does without those cues; an audiovisual test asks what the full event does. Neither is inherently superior. They answer different questions. The mistake would be to use the emotional intensity of a full audiovisual performance as evidence that a particular acoustic feature alone caused that intensity.
+
+
+This distinction protects the artistic premise. Paul can keep playing instinctively, without a score or prescribed tempo, while the research develops more precise accounts of what was heard, what was seen, and what was inferred. Better evidence should describe the improvisation, not govern it.
+
+
+10. EVIDENCE GRADING
+Established: visual information can alter auditory perception in controlled multisensory experiments; visual percussion gestures can alter perceived acoustic qualities in at least some conditions; 30 fps corresponds to roughly 33.3 ms per frame.
+Context-dependent: audiovisual labeling may help identify masked percussion, and the value of agreement statistics depends on class prevalence, labels, and sampling.
+Plausible/testable: KLAAT's visible hand motions may change source attribution for ambiguous Ankora transients; independent first-pass annotation may reveal discrepancies.
+Speculative: such attribution differences could influence listeners' sense of rhythmic density or physical activation, but no KLAAT listener experiment has tested this.
+Unsupported: that KLAAT has demonstrated neurological entrainment, induced trance, special therapeutic frequencies, or a measurable audiovisual illusion in any specific audience.
+
+
+11. OPEN QUESTIONS
+How much contact is hidden by the drum rim? Does the phone preserve reliable audiovisual sync after editing? Can breath pulses be mistaken for percussion in dense passages? Do independent analysts agree on the existence of an onset while disagreeing on its source? Would a listener describe the same excerpt differently with and without seeing the body work? These questions become tractable when authentic recordings are available. Until then, precise numerical claims about KLAAT itself would be invented.
+
+
+12. OPTIONAL, LOW-PRESSURE OBSERVATION
+Choose 20–30 seconds from an existing phone video that already contains natural improvisation. Listen once without watching and mark only the transients you are confident you hear. Later watch silently and mark only the contacts you can actually see. Compare afterward, retaining 'uncertain' rather than forcing a verdict. Do not change the performance or record a special take unless you feel like it.
+
+
+REFERENCES AND RESEARCH LEADS
+McGurk, H., & MacDonald, J. (1976). Hearing lips and seeing voices. Nature 264, 746–748. DOI: 10.1038/264746a0.
+Schutz, M., & Lipscomb, S. (2007). Hearing gestures, seeing music: Vision influences perceived tone duration. Perception 36(6), 888–897. DOI: 10.1068/p5635.
+Cohen, J. (1960). A coefficient of agreement for nominal scales. Educational and Psychological Measurement 20(1), 37–46. DOI: 10.1177/001316446002000104.
+KLAAT Hourly Research note, 2026-11-03 13:15 CST, 'Cross-modal annotator leakage gate' (internal provenance; original retained).
+
+
+END SESSION 146

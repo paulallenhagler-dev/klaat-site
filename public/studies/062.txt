@@ -1,0 +1,716 @@
+KLAAT Resonance Research — Session 62
+THE FREQUENCY GATE: Whole-Body Motion, Cutaneous Vibration, and Why KLAAT Needs Two Somatic Regimes
+
+
+Session 61 ended with a methodological warning: much of the strongest whole-body-vibration literature used in Sessions 60–61 concentrates on low frequencies, while Amastacia and Ankora can plausibly deliver mechanically relevant energy well above that range. The next task is therefore not to import another model. It is to determine which somatic model is valid at which frequencies.
+
+
+KLAAT currently risks using one word — “vibration” — for mechanically and perceptually different regimes.
+
+
+At lower frequencies, the occupied body/support system can show whole-body biodynamic motion: frequency-dependent apparent mass, transmissibility, posture effects, cross-axis motion, and vestibular or gross-motion contributions under some conditions.
+
+
+At higher vibrotactile frequencies, perception increasingly depends on local skin/contact mechanics, mechanoreceptive sensitivity, contact area and force, body site, temporal envelope, masking, and spatial summation.
+
+
+These regimes overlap. There is no universal biological border at 20, 40, or 60 Hz. But treating them as identical is no longer defensible.
+
+
+The central Session 62 principle is:
+
+
+KLAAT MUST MEASURE THE MECHANICAL SPECTRUM BEFORE IT CHOOSES THE BODY MODEL.
+
+
+1. “LOW FREQUENCY” IS NOT ONE MECHANISM
+
+
+A 5-Hz platform oscillation, a 30-Hz tactile flutter, a 70-Hz support vibration, and a 160-Hz local vibration are all “vibration” in ordinary language.
+
+
+They are not interchangeable stimuli.
+
+
+Different frequency regions can recruit different combinations of:
+
+
+whole-body mechanical motion;
+local skin deformation;
+Pacinian and non-Pacinian tactile channels;
+proprioceptive consequences;
+vestibular cues when head motion is sufficiently low-frequency and large enough;
+auditory or bone-conducted cues;
+and different support/body transfer functions.
+
+
+KLAAT therefore needs a FREQUENCY-RANGE GATE before applying any mechanism learned from the literature.
+
+
+2. THE 20-HZ CLIFF IS A LITERATURE BOUNDARY, NOT A HUMAN-BODY WALL
+
+
+ISO-style whole-body biodynamic models and much occupational/vehicle research emphasize roughly sub-20-Hz or low-tens-of-hertz behavior, depending on axis and endpoint.
+
+
+That does not mean bodily vibration above 20 Hz becomes irrelevant.
+
+
+Controlled seated whole-body experiments have measured discrimination across frequencies extending to 315 Hz, and localized foot studies show robust vibrotactile sensitivity from 20 to 250 Hz.
+
+
+So the correct statement is not:
+
+
+WHOLE-BODY VIBRATION ENDS AT 20 HZ.
+
+
+It is:
+
+
+THE VALIDITY OF A PARTICULAR WHOLE-BODY BIODYNAMIC MODEL BECOMES INCREASINGLY CONDITIONAL OUTSIDE THE RANGE AND CONDITIONS IN WHICH IT WAS ESTABLISHED.
+
+
+3. THE CUTANEOUS REGIME DOES NOT BEGIN AT ONE MAGIC FREQUENCY
+
+
+Classical psychophysics often distinguishes lower-frequency non-Pacinian and higher-frequency Pacinian-dominated sensitivity.
+
+
+At the sole of the foot, controlled work found threshold behavior consistent with non-Pacinian influence around 20–40 Hz and Pacinian influence across much of roughly 40–250 Hz under the tested contact conditions.
+
+
+Across fingertip, forearm, toe, and heel, thresholds vary strongly with body site and contactor geometry. High-frequency spatial summation can reduce thresholds when a larger area is stimulated, especially in Pacinian-mediated conditions.
+
+
+But receptor labels should not become KLAAT mythology either.
+
+
+The perceptual system does not provide a clean “Meissner below X / Pacinian above X” switch. Receptor populations overlap, body sites differ, and frequency perception can depend on temporal spike patterns as well as receptor class.
+
+
+For KLAAT, mechanoreceptor language is explanatory context — not a compositional frequency chart.
+
+
+4. AMASTACIA’S C# IS NOT HER SOMATIC FREQUENCY
+
+
+This distinction is now mandatory.
+
+
+Amastacia’s named musical pitch does not tell us the mechanical spectrum arriving at the listener’s feet, seat, back, floor, or chair.
+
+
+The route is:
+
+
+AMASTACIA SOURCE SPECTRUM → AIR / STRUCTURE COUPLING → VENUE FILTERING → SUPPORT FILTERING → LOADED BODY/INTERFACE FILTERING → PERCEPTIBLE MECHANICAL SPECTRUM.
+
+
+Her fundamental may dominate one location while harmonics or structural resonances dominate another.
+
+
+Therefore a claim such as “the C# drone stimulates the body at C#” is scientifically incomplete unless the listener-interface measurement actually shows that component dominating the mechanical input.
+
+
+The correct KLAAT object is not nominal pitch.
+
+
+It is the measured INTERFACE SPECTRUM.
+
+
+5. ANKORA’S 137 BPM IS NOT HER TACTILE CARRIER FREQUENCY
+
+
+The same separation applies even more strongly to Ankora.
+
+
+Approximately 137 BPM is about 2.28 strikes per second at the event level.
+
+
+That is a rhythmic repetition rate.
+
+
+It is not the same thing as the mechanical frequency content inside each strike.
+
+
+Every Ankora impact contains a broadband transient with energy across a much wider frequency range. The support and listener interface then filter that transient.
+
+
+So KLAAT must keep three variables separate:
+
+
+PULSE RATE — when strikes occur.
+
+
+TRANSIENT SPECTRUM — what frequencies each strike contains.
+
+
+TACTILE ENVELOPE — how the mechanically delivered event rises, decays, and is masked by surrounding vibration.
+
+
+Confusing those three would collapse the Two-Clock model back into the frequency confusion the project has spent sixty sessions trying to eliminate.
+
+
+6. TWO SOMATIC REGIMES — A WORKING MODEL
+
+
+Session 62 introduces a deliberately provisional KLAAT model.
+
+
+REGIME A — BIODYNAMIC / GROSS-MOTION DOMINANT
+
+
+Most relevant when the measured interface spectrum contains sufficiently strong low-frequency components capable of producing appreciable motion of the occupied support/body system.
+
+
+Useful concepts include apparent mass, transmissibility, posture, backrest/foot coupling, cross-axis motion, support compliance, and movement state.
+
+
+REGIME B — CUTANEOUS / LOCAL-VIBROTACTILE DOMINANT
+
+
+Most relevant when perception depends mainly on local mechanical stimulation at the contact surface rather than appreciable whole-body motion.
+
+
+Useful concepts include vibration detection threshold, sensation level, body site, contact area/force, Pacinian/non-Pacinian channel behavior, spatial summation, temporal masking, adaptation, envelope, and localization.
+
+
+Between them is not a line.
+
+
+It is an OVERLAP ZONE.
+
+
+A KLAAT event may simultaneously produce low-frequency support motion and higher-frequency cutaneous vibration.
+
+
+7. THE OVERLAP ZONE MAY BE THE MOST KLAAT-LIKE REGION
+
+
+This is a hypothesis, not an established finding.
+
+
+KLAAT may be most distinctive when the listener receives multiple somatic scales at once:
+
+
+slow or low-frequency movement of the support/body system;
+plus
+faster local vibrotactile texture from Amastacia harmonics or Ankora transients.
+
+
+That would create a nested somatic structure analogous to the Two-Clock musical model.
+
+
+A slow bodily Field could coexist with a faster tactile surface.
+
+
+Amastacia might provide sustained mechanical texture while Ankora punctuates it with transient tactile articulation.
+
+
+But this cannot be inferred from the instruments alone.
+
+
+It has to appear in the measured listener-interface spectrum.
+
+
+8. GROUND ANCHOR — IDENTIFY THE DOMINANT SOMATIC REGIME
+
+
+Ground Anchor becomes the ideal diagnostic phase.
+
+
+Amastacia alone allows KLAAT to measure what actually reaches the listener without Ankora’s transient broadband events complicating the spectrum.
+
+
+For each interface, ask:
+
+
+Is most mechanically salient energy concentrated in the low-frequency biodynamic range?
+
+
+Is there substantial energy in higher vibrotactile bands?
+
+
+Are different contacts receiving different regimes?
+
+
+Does the seat behave differently from the feet?
+
+
+Ground Anchor can therefore establish not only the acoustic Field but the SOMATIC SPECTRAL BASELINE.
+
+
+9. THRESHOLD GATE — CHANGE REGIME, NOT NECESSARILY LEVEL
+
+
+Threshold Gate becomes especially interesting if the somatic spectrum changes category without a large increase in total energy.
+
+
+For example, Ankora’s entrance might introduce sharper higher-frequency interface transients on top of a lower-frequency Amastacia Field.
+
+
+The listener may experience a dramatic increase in bodily articulation even if total RMS acceleration changes modestly.
+
+
+That gives KLAAT a new testable Gate mechanism:
+
+
+SOMATIC REGIME CONTRAST.
+
+
+The Gate is not simply louder vibration.
+
+
+It is a change in what kind of vibration is perceptually available.
+
+
+10. RISING PULSE — EVENT RATE AND CARRIER CONTENT MUST STAY SEPARATE
+
+
+Rising Pulse is where confusion is most likely.
+
+
+As Ankora density increases, three things can change independently:
+
+
+how often impacts occur;
+what spectrum each impact delivers;
+and how much previous vibration masks or adapts the next event.
+
+
+The perceptual system may therefore experience Rising Pulse as increasingly continuous even while the individual strike spectrum remains similar.
+
+
+This connects Session 62 directly to the duty-cycle and temporal-masking work.
+
+
+A dense Pulse can move the tactile experience from discrete EVENT toward continuous FIELD without any magical frequency conversion.
+
+
+The change may be temporal occupancy.
+
+
+11. RETURN PATH — WHICH REGIME DISAPPEARS FIRST?
+
+
+Return Path provides a clean decomposition test.
+
+
+When Ankora withdraws, higher-frequency transient tactile content may disappear rapidly while Amastacia’s sustained lower-frequency or harmonic mechanical Field remains.
+
+
+Or the actual interface measurements may show something different.
+
+
+The question becomes:
+
+
+WHAT SOMATIC INFORMATION SURVIVES THE RETURN?
+
+
+That surviving layer may help explain why the post-Ankora state feels different from the opening Ground Anchor even if Amastacia is nominally similar: adaptation, prediction, posture, and room/body state have changed.
+
+
+12. BODY SITE IS PART OF THE FREQUENCY GATE
+
+
+There is no universal KLAAT sensitivity curve.
+
+
+Controlled work shows large threshold differences across fingertip, forearm, toe, heel, and torso locations.
+
+
+At the foot, thresholds depend on frequency, contact location, probe geometry, and contact conditions. Torso work likewise shows that contact force and anatomical location alter vibration perception thresholds.
+
+
+Therefore:
+
+
+EQUAL ACCELERATION AT FOOT AND BACK DOES NOT IMPLY EQUAL SENSATION.
+
+
+And:
+
+
+EQUAL ACCELERATION AT 30 HZ AND 160 HZ DOES NOT IMPLY EQUAL SENSATION.
+
+
+This strengthens the earlier Psychophysical Calibration rule: physical spectra and listener-specific sensation level must remain parallel descriptions.
+
+
+13. CONTACT AREA CHANGES HIGH-FREQUENCY SENSITIVITY
+
+
+The accumulated literature gives KLAAT a particularly important warning.
+
+
+At higher vibrotactile frequencies, increasing stimulated area can lower detection threshold through spatial summation under conditions associated with the Pacinian channel.
+
+
+At the foot, 160-Hz thresholds changed systematically with contactor area, whereas 20-Hz thresholds did not show the same overall area dependence in the cited experiment.
+
+
+This means a broad chair/back contact and a small localized contact can produce different perceptual consequences even at the same nominal acceleration.
+
+
+KLAAT must therefore log contact geometry whenever frequency effects are being interpreted.
+
+
+14. HEARING CAN CONTAMINATE “TACTILE” MEASUREMENT
+
+
+At higher mechanical frequencies, vibration hardware and structures can radiate audible sound.
+
+
+Whole-body discrimination work extending to 315 Hz specifically noted that hearing may contribute at the high-frequency end under its tested conditions.
+
+
+KLAAT is an acoustic performance, so complete auditory isolation is neither natural nor desirable in ecological performance tests.
+
+
+But mechanism experiments must distinguish:
+
+
+TACTILE DETECTION;
+AUDITORY DETECTION;
+AUDIO–TACTILE DETECTION.
+
+
+Otherwise a supposedly superior tactile frequency may simply be easier to hear.
+
+
+15. VESTIBULAR LANGUAGE REQUIRES ANOTHER GATE
+
+
+The vestibular system detects head acceleration, but vestibular perceptual-threshold literature generally concerns low-frequency translational or rotational motion rather than ordinary high-frequency skin vibration.
+
+
+Therefore KLAAT should not describe every low-frequency bodily sensation as vestibular.
+
+
+A vestibular claim requires evidence that the stimulus produces appropriate head motion in the relevant frequency/magnitude regime.
+
+
+FELT IN THE BODY ≠ VESTIBULAR.
+
+
+This closes another route by which poetic language could outrun physics.
+
+
+16. ESTABLISHED EVIDENCE
+
+
+Vibrotactile sensitivity is strongly frequency-dependent.
+
+
+Sensitivity varies by body site, contact area, contact force/indentation, and measurement procedure.
+
+
+Controlled sole-of-foot work supports different threshold behavior across lower and higher vibrotactile frequency ranges, with evidence for non-Pacinian influence around 20–40 Hz and Pacinian influence over much of roughly 40–250 Hz under those specific conditions.
+
+
+High-frequency vibrotactile spatial summation can lower thresholds as stimulated area increases.
+
+
+Whole-body vertical vibration can be discriminated across a much broader range than the classic sub-20-Hz biodynamic literature alone might suggest; one controlled study tested 2.5–315 Hz.
+
+
+Whole-body biodynamic transfer and local cutaneous vibrotactile perception are related but not interchangeable measurement problems.
+
+
+17. CONTEXT-DEPENDENT EVIDENCE
+
+
+There is no universal frequency separating “whole-body” from “cutaneous” KLAAT perception.
+
+
+Pacinian/non-Pacinian transition ranges depend on body site, contact geometry, stimulus conditions, and task.
+
+
+Laboratory probe thresholds cannot be numerically transferred to a floor, chair, backrest, clothing layer, or live performance.
+
+
+Occupational whole-body models are most defensible inside their validated frequency, magnitude, posture, and support conditions.
+
+
+High-frequency mechanical measurements can contain auditory contamination.
+
+
+Vestibular contribution depends on actual head motion, not on the word “low-frequency.”
+
+
+18. PLAUSIBLE / TESTABLE KLAAT HYPOTHESES
+
+
+Amastacia and Ankora produce measurably different listener-interface spectral profiles even when their airborne levels are matched approximately.
+
+
+Ground Anchor will contain a more sustained somatic spectrum, while Ankora will add transient higher-frequency tactile information during Threshold Gate and Rising Pulse.
+
+
+Listener ratings of bodily impact will be predicted better by frequency-resolved sensation-level metrics than by broadband RMS acceleration alone.
+
+
+Different KLAAT contacts may occupy different somatic regimes simultaneously — for example, lower-frequency seat motion with higher-frequency foot or back texture.
+
+
+Somatic regime contrast may strengthen Threshold Gate without a proportional increase in total mechanical energy.
+
+
+At realistic KLAAT levels, some occupational whole-body interaction terms may become negligible; if so, the model should simplify rather than preserve unnecessary complexity.
+
+
+19. SPECULATION
+
+
+The most distinctive KLAAT bodily state may arise from nested somatic scales: a slow occupied-support Field plus a faster cutaneous texture.
+
+
+Amastacia may eventually be optimized for sustained somatic continuity while Ankora is optimized for transient tactile articulation.
+
+
+The four-phase architecture may be partly describable as a controlled migration between FIELD-dominant and EVENT-dominant somatic regimes.
+
+
+A venue/support combination could potentially preserve this contrast at lower acoustic level, improving activation-per-dB.
+
+
+These are design possibilities, not current findings.
+
+
+20. UNSUPPORTED CLAIMS
+
+
+20 Hz is a universal boundary between whole-body and tactile vibration.
+
+
+All vibration below 20 Hz is vestibular.
+
+
+All vibration above 40 or 60 Hz is Pacinian.
+
+
+Amastacia’s musical C# equals the vibration frequency experienced by the body.
+
+
+Ankora’s ~137 BPM is the tactile carrier frequency of a drum strike.
+
+
+A higher-frequency tactile component is inherently more activating.
+
+
+A lower-frequency component is inherently more grounding.
+
+
+A measured body/support resonance identifies a therapeutic frequency.
+
+
+A frequency band can be selected from receptor charts and inserted directly into KLAAT composition without measuring the real interface spectrum.
+
+
+21. KLAAT METHODOLOGY UPDATE
+
+
+Add the FREQUENCY-RANGE GATE to KRX.
+
+
+Before invoking a somatic mechanism, preserve:
+
+
+RAW TRI-AXIAL INTERFACE TIME SERIES;
+FREQUENCY-RESOLVED SPECTRUM;
+EVENT-LOCKED SPECTRUM FOR ANKORA;
+SUSTAINED SPECTRUM FOR AMASTACIA;
+BODY SITE / INTERFACE;
+CONTACT AREA / FORCE WHERE PRACTICAL;
+POSTURE AND LOADING;
+AIRBORNE AUDIO SPECTRUM;
+AUDITORY-CONTAMINATION CHECK;
+LISTENER-SPECIFIC DETECTION / SENSATION LEVEL WHERE THE EXPERIMENT REQUIRES PERCEPTUAL COMPARISON.
+
+
+Classify each mechanism claim as primarily:
+
+
+BIODYNAMIC / GROSS-MOTION;
+CUTANEOUS / VIBROTACTILE;
+OVERLAP / MIXED;
+or
+UNRESOLVED.
+
+
+New rules:
+
+
+MEASURE THE SPECTRUM BEFORE CHOOSING THE BODY MODEL.
+
+
+NOMINAL MUSICAL PITCH IS NOT LISTENER-INTERFACE FREQUENCY.
+
+
+RHYTHMIC RATE IS NOT TACTILE CARRIER FREQUENCY.
+
+
+DO NOT IMPORT A MODEL OUTSIDE ITS VALIDATED RANGE WITHOUT TESTING THE TRANSFER.
+
+
+RECEPTOR CHARTS ARE NOT COMPOSITION RECIPES.
+
+
+22. CORE-KLAAT TRANSLATION RULE
+
+
+This session also formalizes the artistic boundary clarified after Session 60.
+
+
+Core KLAAT remains:
+
+
+AMASTACIA;
+ANKORA;
+BREATH;
+SILENCE;
+REPETITION;
+DURATION;
+ROOM;
+BODY.
+
+
+Accelerometers, shakers, tactors, test chairs, calibrated probes, and artificial support rigs are research instruments.
+
+
+They do not become KLAAT merely because they reveal an interesting mechanism.
+
+
+A laboratory finding enters the CORE COMPOSITION GRAMMAR only when it can be translated back into a playable or performable variable of Amastacia, Ankora, breath, silence, repetition, duration, room, or body.
+
+
+That rule prevents the scientific program from quietly turning KLAAT into an electronic haptics installation.
+
+
+23. KRX-062 — THE SOMATIC SPECTRUM GATE TEST
+
+
+The next practical experiment should measure what KLAAT is actually delivering before deciding which somatic literature governs it.
+
+
+STAGE 1 — RECORD THE SOURCES
+
+
+Record three repeatable conditions:
+
+
+AMASTACIA ONLY;
+ANKORA ONLY;
+AMASTACIA + ANKORA.
+
+
+Preserve calibrated airborne audio and synchronized tri-axial acceleration at the occupied seat, feet, and back interfaces that are realistically available.
+
+
+STAGE 2 — SEPARATE EVENT AND FIELD ANALYSIS
+
+
+For Amastacia, compute sustained spectra and slow envelope statistics.
+
+
+For Ankora, compute event-locked spectra around individual strikes plus attack/decay envelopes.
+
+
+Do not infer Ankora’s mechanical spectrum from BPM.
+
+
+STAGE 3 — FREQUENCY-BAND DESCRIPTION
+
+
+Without declaring universal biological boundaries, summarize energy in preregistered exploratory bands such as:
+
+
+VERY LOW / BIODYNAMIC-CANDIDATE;
+LOW TACTILE;
+MID TACTILE;
+HIGHER VIBROTACTILE;
+
+
+with exact numeric band edges documented before outcome analysis and justified from the measurement bandwidth/literature rather than treated as receptor absolutes.
+
+
+Also preserve the full spectrum so the banding can be revised later.
+
+
+STAGE 4 — PERCEPTUAL CALIBRATION
+
+
+At the strongest realistic interface, select a small number of measured KLAAT-derived spectral conditions.
+
+
+Calibrate them to listener-specific sensation level rather than raw acceleration alone.
+
+
+Collect:
+
+
+BODILY INTENSITY;
+TEXTURE;
+PULSE CLARITY;
+FIELD CONTINUITY;
+LOCALIZATION;
+COMFORT;
+AUDITORY PROMINENCE.
+
+
+STAGE 5 — MODEL COMPARISON
+
+
+Compare whether ratings are explained better by:
+
+
+MODEL A — broadband RMS acceleration;
+MODEL B — low-frequency biodynamic-candidate energy;
+MODEL C — higher-frequency vibrotactile energy;
+MODEL D — combined frequency-resolved + temporal-envelope model.
+
+
+STAGE 6 — FOUR-PHASE EMBEDDING
+
+
+Run one short Ground Anchor → Threshold Gate → Rising Pulse → Return Path performance while recording the same channels.
+
+
+Ask whether the phase transitions correspond to measurable changes in somatic regime:
+
+
+Does Ground Anchor establish one spectral texture?
+Does Threshold Gate introduce a new one?
+Does Rising Pulse increase event density without changing carrier content?
+What remains in Return Path?
+
+
+The primary question is:
+
+
+WHAT FREQUENCY RANGES ACTUALLY REACH THE KLAAT LISTENER, THROUGH WHICH INTERFACES, AND WHICH SOMATIC MODEL IS JUSTIFIED FOR EACH RANGE?
+
+
+Until KRX-062 answers that, KLAAT should treat all detailed frequency-specific body claims as provisional.
+
+
+RECOMMENDED NEXT DIRECTION
+
+
+If KRX-062 reveals meaningful energy spanning both low biodynamic and higher cutaneous bands, the next synthesis should build TACTILE ORCHESTRATION v0.1 around measured variables rather than imagined ones: FIELD versus EVENT, spectrum, envelope, duty cycle, masking, adaptation, contact geometry, and negative space — all translated back into Amastacia and Ankora performance decisions.
+
+
+If the real KLAAT mechanical spectrum is dominated by only one regime, simplify aggressively and abandon mechanisms that the instrument does not actually excite.
+
+
+The research program should follow the measured KLAAT signal, not force KLAAT to fit the literature.
+
+
+Selected research basis
+- Gu & Griffin (2011), vibrotactile thresholds at the sole of the foot, 20–250 Hz, DOI 10.3109/08990220.2011.622493.
+- Gu & Griffin (2013), spatial summation at the foot, 20 vs 160 Hz, PMID 23357339.
+- Morioka/Griffin group (2008), thresholds at fingertip, forearm, toe and heel, DOI 10.1080/08990220802045574.
+- Forta, Morioka & Griffin (2009), whole-body vertical-vibration difference thresholds, 2.5–315 Hz, DOI 10.1080/00140130903023709.
+- Recent KLAAT hourly work on psychophysical calibration, carrier-frequency confounds, duty cycle, temporal masking, loaded multi-interface coupling, and spatial venue mapping

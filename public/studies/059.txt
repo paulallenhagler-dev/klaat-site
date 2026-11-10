@@ -1,0 +1,124 @@
+KLAAT Resonance Research — Session 59
+THE PHANTOM PATH: Tactile Trajectory, Sensory Saltation, and the Difference Between Vibration Traveling and Vibration Seeming to Travel
+
+
+Session 58 established that KLAAT cannot make increasingly precise mechanism claims until its acquisition chain supports them. The accumulated hourly work now identifies the strongest next mechanism: spatiotemporal tactile trajectory.
+
+
+KLAAT’s artistic language invites descriptions such as vibration “moving through the body.” Those descriptions may be phenomenologically real while being physically wrong. Controlled tactile research shows that rapid stimulation at separated skin locations can produce apparent motion, systematic mislocalization, and illusory intermediate sensations at places never physically stimulated. The classic cutaneous-rabbit/sensory-saltation effect is the clearest example.
+
+
+This creates both an opportunity and a trap.
+
+
+The opportunity is TACTILE TRAJECTORY — the perceived path, direction, or sequence of bodily vibration.
+The trap is FELT MOVEMENT = PHYSICAL VIBRATION TRAVELED THAT PATH.
+
+
+1. THREE MAPS, NOT ONE
+Every KLAAT trajectory experiment requires PHYSICAL EXCITATION MAP, PERCEIVED LOCATION MAP, and PERCEIVED TRAJECTORY MAP. These can agree or diverge. Divergence can itself be the phenomenon. This becomes the PERCEPTUAL-VERIDICALITY GATE: physical propagation requires calibrated evidence of the path; a compositional percept must be repeatable and distinguishable from mechanical cross-talk.
+
+
+2. THE CUTANEOUS-RABBIT PROBLEM
+Rapid tactile events at separated locations can be perceived as intermediate events between actual stimulation sites; later events can alter where earlier events are perceived. Bayesian low-speed-prior models reproduce important features, and controlled neuroimaging has shown somatotopically appropriate activity corresponding to illusory intermediate locations. A PHANTOM PATH CAN BE REAL AS PERCEPTION WHILE FALSE AS A MECHANICAL MAP.
+
+
+3. APPARENT MOTION IS NOT SALTATION
+Moving tactile reports can reflect actual propagation, apparent motion, sensory saltation, masking, crossmodal capture, attentional shifts, or posture/contact changes. “It moved up my body” is an observation to explain, not a mechanism.
+
+
+4. WHY KLAAT IS HARD
+Classic work mainly uses controlled direct skin stimulation. KLAAT couples through feet, floor, seat, backrest, clothing, footwear, posture, tissue, and room structure while Amastacia and Ankora remain audible. The first challenge is proving support regions are sufficiently independent to interpret a sweep.
+
+
+5. LOCALIZABILITY COMES BEFORE TRAJECTORY
+If FOOT, SEAT, and BACK stimulation is already poorly localized, a three-site trajectory has no clean spatial alphabet. LOCALIZE → ISOLATE → SEQUENCE → MAP ILLUSION → COMPOSE.
+
+
+6. TIMING IS THE COMPOSITIONAL CONTROL
+There is no universal KLAAT delay. Map a listener/interface-specific TRAJECTORY RESPONSE FUNCTION: DELAY → perceived separateness/continuity/direction/intermediate location.
+
+
+7. AMASTACIA AS FIELD, ANKORA AS LOCOMOTIVE EVENT
+Amastacia is naturally suited to FIELD; Ankora to EVENT. AMASTACIA DEFINES THE SOMATIC SPACE. ANKORA MOVES THE EVENT THROUGH IT. This remains testable, not established.
+
+
+8. GROUND ANCHOR — BUILD THE BODY MAP
+Establish stable contact geography before motion. Scientifically Ground Anchor becomes calibration; artistically it creates known locations.
+
+
+9. THRESHOLD GATE — BREAK THE STATIC MAP
+Introduce a previously stationary bodily event that begins to move, hop, reverse, or appear at an intermediate location. THE SOMATIC GEOMETRY CHANGED. If achieved at matched exposure, trajectory becomes an activation-per-dB variable.
+
+
+10. RISING PULSE — TRAJECTORY AS A SECOND RHYTHM
+Separate ANKORA’S AUDITORY CLOCK from a slower TACTILE SPATIAL CLOCK controlling where bodily consequence appears. The body receives a Pulse with direction.
+
+
+11. RETURN PATH — COLLAPSE MOTION BACK INTO FIELD
+Directional events can slow, fragment, return to one site, or dissolve into Amastacia’s field: FIELD → EVENT → TRAJECTORY → FIELD.
+
+
+12. CROSSMODAL CAUSAL COHERENCE RETURNS
+Distinguish TACTILE SPATIAL COHERENCE from AUDIO–TACTILE CAUSAL COHERENCE. A convincing tactile path that no longer feels caused by Ankora is a different compositional object from a moving Ankora event.
+
+
+13. POSTURAL CONTROL IS A NEW CONFOUND
+Tactile sensitivity changes with movement/postural demand. A listener who sways, steps, dances, or stabilizes can change tactile perception even at unchanged interface vibration. POSTURAL CONTROL STATE enters the KRX somatic model. Do not call sway evidence of “resonance” without separating programmed sequence, coupling changes, and central tactile reweighting.
+
+
+14. TEMPORAL MASKING CAN DISTORT THE PATH
+Forward/backward tactile masking can change which component events remain perceptually available. Separate MOTION/SALTATION from TEMPORAL MASKING.
+
+
+15. ESTABLISHED EVIDENCE
+Rapid separated tactile stimulation can produce spatial mislocalization and illusory intermediate sensations. Later events can alter perceived earlier location. Timing/spatial arrangement strongly influence apparent motion/saltation. Somatosensory activity can correspond to illusory intermediate locations in controlled paradigms. Tactile sensitivity is modulated by movement/postural demands. Forward/backward tactile masking exists in controlled conditions.
+
+
+16. CONTEXT-DEPENDENT EVIDENCE
+Classic work mainly uses direct skin stimulation rather than distributed KLAAT support coupling. Localized-body timing values cannot be imported as universal foot/seat/back values. Mechanical propagation can blur nominal sites. Audio and posture can alter localization and interpretation. A felt intermediate location alone does not identify the mechanism.
+
+
+17. PLAUSIBLE / TESTABLE
+With sufficiently independent support regions, relative timing can create repeatable perceived trajectories at matched total mechanical exposure. Intermediate bodily locations may be felt despite little local excitation. Moving tactile consequence may increase bodily salience without increased level. Trajectory direction may alter Gate/Rising-Pulse impact independently of BPM. Amastacia’s stable field may provide a spatial reference. Postural state may change trajectory detectability at matched interface acceleration.
+
+
+18. SPECULATION
+Two or three coarse support locations may create a larger perceived path. Threshold Gate may be intensified through somatic geometry. Rising Pulse may support auditory/tactile-spatial counterpoint. An impossible path crossing unstimulated regions could become a KLAAT signature. Return Path may gain force when moving bodily events collapse into one stable field.
+
+
+19. UNSUPPORTED
+A felt sweep proves literal vibration travel; forearm cutaneous-rabbit timing defines KLAAT; phantom location means “energy moving through the body”; saltation proves nervous-system entrainment, vagal activation, trauma release, or healing; stronger motion means greater physiological activation; sway proves Ankora entrainment; every perceived trajectory is central interpolation rather than structural propagation.
+
+
+20. KLAAT METHODOLOGY UPDATE
+Add PERCEPTUAL-VERIDICALITY GATE. Preserve physical excitation map, perceived location map, perceived trajectory map, mechanical cross-talk matrix, postural/movement state, contact geometry, sensation level, event timing, audio–tactile coherence, and masking/adaptation context.
+
+
+Rules:
+A FELT PATH IS NOT A MECHANICAL PATH.
+LOCALIZE BEFORE YOU SEQUENCE.
+VERIFY MECHANICAL INDEPENDENCE BEFORE CLAIMING AN ILLUSION.
+MATCH SENSATION LEVEL BEFORE COMPARING LOCATIONS.
+MOVEMENT THROUGH THE BODY MAY BE A PERCEPTUAL CONSTRUCTION — AND THAT DOES NOT MAKE IT LESS ARTISTICALLY REAL.
+
+
+21. KRX-059 — THE PHANTOM-PATH TEST
+Build two or three mechanically distinct regions such as FOOT/SEAT/BACK.
+Stage 1: single-site forced-choice localization.
+Stage 2: calibrated tri-axial cross-talk matrix.
+Stage 3: A→B/B→A timing map with simultaneous and separated controls; collect event-continuity, start/end/intermediate location, direction confidence and bodily-impact judgments.
+Stage 4: probe an unstimulated intermediate region and compare perceived events against measured cross-talk.
+Stage 5: repeat the best trajectory in stable posture and controlled gentle movement while measuring motion and interface acceleration.
+Stage 6: embed only a repeatable trajectory into one stable Amastacia field and one Ankora passage. Compare static consequence, physically sequential consequence, optimized apparent trajectory, and scrambled control at matched airborne material/mechanical exposure.
+
+
+Primary test: CAN KLAAT CREATE A REPEATABLE FELT PATH NOT EXPLAINED BY LITERAL MECHANICAL PROPAGATION — AND DOES THAT PATH INCREASE BODILY IMPACT WITHOUT INCREASING LEVEL?
+
+
+If yes, tactile trajectory becomes a legitimate KLAAT compositional variable. If no, retain physical spatial distribution as an engineering variable and drop the phantom-path mechanism.
+
+
+RECOMMENDED NEXT DIRECTION
+Session 59 exposes TACTILE ORCHESTRATION: integrating tactile magnitude, sensation level, contact geometry, masking, adaptation, timing, crossmodal unity, prediction, postural state, and spatial trajectory into a constrained composition grammar. Before promotion, continue testing whether support-surface apparent motion generalizes beyond direct skin tactors and survives real seat/floor mechanical cross-talk.
+.

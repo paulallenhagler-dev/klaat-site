@@ -1,0 +1,194 @@
+SESSION 49 — AUDIO–TACTILE COHERENCE: WHY KLAAT MAY BE FELT MOST STRONGLY WHEN SOUND AND VIBRATION AGREE IN TIME
+
+
+KLAAT has repeatedly treated bodily intensity as more than loudness. The newest hourly research sharpens that idea into a specific, testable mechanism: the tactile channel may contribute most effectively when it carries temporal information that agrees with what the ears are hearing.
+
+
+This matters directly to KLAAT because Amastacia and Ankora do not merely create acoustic spectra. They create envelopes in time: attacks, decays, amplitude fluctuations, pulse onsets, breath-shaped swells, and repeated temporal structure. Some of that energy can also reach the body mechanically through floors, seats, feet, and other contact surfaces. The important question is therefore no longer just “how much vibration is present?” It is “does the vibration tell the body the same temporal story as the sound?”
+
+
+THE CENTRAL IDEA
+
+
+Audio–tactile coherence means that features in the airborne acoustic signal and the mechanically felt signal covary in time. A drum strike that is heard and felt with closely aligned onset timing is highly coherent in one simple sense. A sustained drone whose audible amplitude modulation is mirrored by mechanical vibration at the listener’s contact surface can also be coherent. If the tactile component is delayed, smeared, decorrelated, or dominated by unrelated structural resonances, measured vibration may remain substantial while perceptual fusion changes.
+
+
+This is a better KLAAT research question than “more bass = more body.” It predicts that timing and envelope structure can matter independently of raw magnitude.
+
+
+WHAT THE EVIDENCE ACTUALLY SAYS
+
+
+Audition and touch are not independent systems for temporal vibration information. Crommett, Pérez-Bellido and Yau (2017) showed that prior auditory stimulation could alter subsequent tactile frequency discrimination in a frequency-specific manner, supporting shared or interacting representations for temporal frequency rather than a generic change in tactile intensity.
+
+
+More directly relevant, Chauvette and colleagues (Scientific Reports, 2025) measured discrimination of six timbre-related features under auditory, vibrotactile, and combined audio-vibrotactile presentation. Temporal features were unusually important. Attack time and amplitude-modulation depth were discriminated effectively through vibration, and combined auditory+tactile presentation improved discrimination for attack time and amplitude-modulation depth. The same multimodal advantage did not generalize across the spectral features tested.
+
+
+That result does NOT prove that KLAAT’s live room vibration will create stronger activation. The experiment used controlled stimuli and vibrotactile delivery, not an agave didgeridoo, elk-hide frame drum, wooden floor, and standing or seated audience. But it gives us a serious mechanism worth testing: temporal information may be a particularly useful bridge between hearing and touch.
+
+
+AMASTACIA: THE DRONE HAS AN ENVELOPE
+
+
+It is easy to think of Amastacia as continuous because the drone persists. Physically, however, “continuous” does not mean temporally featureless. Lip oscillation, breath pressure, vocal-tract shaping, articulation, vocalization, and deliberate pulsing can alter the amplitude envelope over multiple time scales.
+
+
+If some of Amastacia’s energy couples mechanically into the room, those envelope changes may or may not survive in the floor or seat vibration. A mechanically transmitted signal that tracks the audible swell and modulation could provide the listener with redundant temporal information across hearing and touch. A room structure that rings independently may instead create vibration that is strong but temporally less faithful.
+
+
+This gives us a new distinction for the Drone:
+
+
+MECHANICAL MAGNITUDE — how much vibration reaches the contact surface.
+TEMPORAL FIDELITY — how accurately that vibration preserves the timing/envelope structure of Amastacia.
+
+
+KLAAT has previously emphasized magnitude. Session 49 adds fidelity.
+
+
+ANKORA: ATTACK MAY BE A CROSSMODAL ANCHOR
+
+
+Ankora makes the idea even clearer. A frame-drum strike has a defined attack followed by decay. The 2025 psychophysics finding that combined auditory+tactile information improved attack-time discrimination makes attack structure especially relevant to the Pulse.
+
+
+A strong Ankora strike that produces a synchronized acoustic onset and mechanical impulse may be perceptually different from an equally loud strike whose mechanical component arrives later, rings longer, or is filtered by a flexible floor.
+
+
+This suggests that the physical surface under KLAAT is not merely an amplifier of vibration. It can be a temporal filter.
+
+
+A rigid coupled platform, sprung wooden floor, concrete slab, chair, or isolated seat could alter not just vibration level but the relationship between the heard attack and the felt attack.
+
+
+THE BODY INTERFACE MATTERS
+
+
+The second hourly research note adds an important correction. Vibrotactile sensitivity depends on frequency, body site, contact area, stimulus magnitude, and other conditions. Results from fingertip threshold studies cannot simply be transplanted to feet, back, legs, or a seated body.
+
+
+Therefore an acceleration value measured on the floor is not itself a universal “felt intensity” value. Two people exposed to the same floor acceleration could have different mechanical input because one is standing, another is seated, one has both feet firmly coupled, another is leaning against a chair back, and their contact areas differ.
+
+
+KLAAT mechanical records therefore gain a mandatory variable:
+
+
+CONTACT STATE = posture + body contact sites + interface/surface.
+
+
+This is not administrative trivia. It is part of the stimulus.
+
+
+THE FOUR-PHASE ARCHITECTURE
+
+
+GROUND ANCHOR: establish coherent low-complexity coupling. The goal is not maximal vibration. A stable Amastacia field gives us a baseline in which audible and mechanical envelopes can be characterized without Ankora competing for the temporal structure.
+
+
+THRESHOLD GATE: introduce a change in crossmodal organization. Ankora can enter not merely as “more energy” but as a new temporally aligned event that suddenly gives hearing and touch a common onset structure.
+
+
+RISING PULSE: this becomes the strongest candidate for deliberate audio–tactile coherence. Ankora attacks, Amastacia modulation, and mechanically transmitted pulses may reinforce one another in time. If bodily activation rises without a proportional rise in LAeq, temporal coherence becomes one possible explanation to test.
+
+
+RETURN PATH: coherence can be dismantled as a compositional variable. Removing Ankora may eliminate the sharp shared auditory-tactile anchor while Amastacia continues. The body may experience the loss of temporal impact before the acoustic field itself disappears.
+
+
+This reframes the architecture. KLAAT can manipulate not only intensity, density, spectrum, and prediction, but also the DEGREE OF AGREEMENT BETWEEN SENSORY CHANNELS.
+
+
+EVIDENCE BOUNDARY
+
+
+ESTABLISHED — auditory information can influence tactile temporal-frequency perception in feature- and frequency-specific ways.
+
+
+ESTABLISHED — in controlled psychophysics, tactile stimulation can convey temporal sound features including attack time and amplitude-modulation properties, and combined audio+tactile presentation can improve discrimination of some temporal features.
+
+
+ESTABLISHED — tactile thresholds and suprathreshold discrimination depend on stimulus frequency, body site, contact area, magnitude, and related interface conditions. A universal vibration-magnitude-to-perception conversion is not justified.
+
+
+CONTEXT-DEPENDENT — laboratory transducers and controlled hand/finger stimulation do not directly predict perception from room-coupled KLAAT vibration through feet, floor, chair, or whole-body contact.
+
+
+PLAUSIBLE / TESTABLE — synchronized Ankora acoustic attacks and mechanically transmitted impulses will produce greater bodily salience than temporally decorrelated signals at similar airborne exposure and similar mechanical magnitude.
+
+
+PLAUSIBLE / TESTABLE — temporal coherence between Amastacia’s audible amplitude envelope and room-coupled vibration will predict bodily salience better than broadband vibration RMS alone.
+
+
+SPECULATION — maximizing audio–tactile coherence will necessarily maximize KLAAT activation. It may instead affect clarity, fusion, localization, or presence, and too much coherence could eventually become predictable or less interesting.
+
+
+UNSUPPORTED — “the body resonates with the same frequency as the instrument” as a blanket explanation for KLAAT’s effects.
+
+
+UNSUPPORTED — a single acceleration RMS value is a universal measure of how strongly KLAAT is felt.
+
+
+UNSUPPORTED — synchronized sound and vibration necessarily produce therapeutic, autonomic, trauma-release, or altered-state effects.
+
+
+KLAAT METHODOLOGY UPDATE
+
+
+Add AUDIO–TACTILE COHERENCE as a candidate compositional and experimental variable, separate from acoustic level and mechanical magnitude.
+
+
+Future mechanical measurements should record: acceleration at the actual contact interface; frequency/spectral information where validated; posture; body contact sites; chair/floor/platform; footwear where relevant; and simultaneous acoustic recording with a shared or accurately synchronized clock when possible.
+
+
+The emerging model is now:
+
+
+AIRBORNE LEVEL ≠ MECHANICAL MAGNITUDE ≠ FELT INTENSITY
+
+
+and Session 49 adds:
+
+
+TEMPORAL COHERENCE can change the relationship among all three.
+
+
+PRACTICAL EXPERIMENT — KRX-049: COHERENCE WITHOUT MORE LOUDNESS
+
+
+Use one fixed listener position and one fixed posture/contact condition. Record a short repeatable Amastacia + Ankora Rising Pulse passage with simultaneous calibrated audio and tri-axial acceleration at the actual listener contact surface if suitable equipment is available.
+
+
+Create three playback or performance conditions while holding airborne LAeq and overall musical sequence as closely matched as practical:
+
+
+A — NATURAL COHERENCE: normal synchronized audio and mechanically coupled pulse.
+B — TEMPORAL MISMATCH: delay or otherwise decorrelate the tactile/mechanical component by roughly 100–250 ms without intentionally increasing its magnitude.
+C — REDUCED TACTILE: preserve the acoustic sequence while mechanically isolating/reducing the contact pathway as much as practical.
+
+
+Randomize condition order. Do not tell listeners which condition is supposed to be stronger. After each condition collect separate 0–10 ratings for bodily salience, pulse clarity, activation, perceived loudness, and overall intensity.
+
+
+Then compare those ratings with acoustic envelope versus acceleration-envelope timing/coherence. The first target is not physiology. It is perception.
+
+
+If Condition A repeatedly increases bodily salience or pulse clarity relative to B while acoustic exposure and mechanical magnitude remain similar, KLAAT will have evidence that temporal crossmodal organization matters beyond “more vibration.” If A and B are indistinguishable, the hypothesis weakens and KLAAT should not build doctrine around it.
+
+
+OPEN QUESTIONS
+
+
+Which temporal feature matters most in live KLAAT: onset synchrony, amplitude-modulation depth, modulation frequency, decay alignment, or broader envelope correlation? How much delay is required before a coherent Ankora event begins to separate perceptually? Does room construction improve mechanical magnitude while degrading temporal fidelity? Does Amastacia’s sustained envelope produce meaningful audio–tactile coherence without Ankora? How strongly does listener posture alter these effects?
+
+
+RECOMMENDED NEXT DIRECTION
+
+
+Do not automatically proceed into another generic measurement lesson. The highest-value follow-up is now a KLAAT-specific treatment of the physical interface: how floor, seat, posture and contact geometry transform Ankora and Amastacia before vibration reaches the listener, and how to distinguish useful coupling from merely larger acceleration.
+
+
+SOURCES
+Chauvette L, Grenier AS, Albouy P, et al. Auditory and vibrotactile interactions in perception of timbre acoustic features. Scientific Reports. 2025;15:38055. DOI 10.1038/s41598-025-21908-4.
+Crommett LE, Pérez-Bellido A, Yau JM. Auditory adaptation improves tactile frequency perception. Journal of Neurophysiology. 2017;117(3):1352–1362. DOI 10.1152/jn.00783.2016.
+Morioka M, Griffin MJ. Somatosensory & Motor Research. 2008. DOI 10.1080/08990220802045574.
+Forta NG, Griffin MJ, Morioka M. Somatosensory & Motor Research. 2012. DOI 10.3109/08990220.2012.662182

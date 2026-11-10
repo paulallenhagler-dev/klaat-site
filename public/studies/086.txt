@@ -1,0 +1,251 @@
+KLAAT RESONANCE RESEARCH — SESSION 86
+THE PULSE IS NOT THE PASSAGE OF TIME
+Metrical attention, duration memory, and why a long KLAAT journey can feel brief—or expansive
+Published: October 14, 2026 — morning, America/Chicago
+Guiding principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+CENTRAL FINDING
+
+
+KLAAT makes two kinds of time available at once. Ankora supplies discrete attacks that can be organized into beats, subdivisions and larger recurring patterns. Amastacia supplies a sustained, breath-shaped acoustic presence in which changes may develop gradually rather than announcing themselves as individual events. Neither process, by itself, tells us how long a listener will feel the experience lasted.
+
+
+A person might hear a ten-minute performance and say, “That went by fast,” while accurately estimating ten minutes. Another might estimate seven minutes yet say that time felt slow. A third might remember an expansive sequence of textures and transitions, judging the experience longer after it ends even though it felt absorbing while it unfolded. These statements are not necessarily contradictions. They answer different questions about subjective time.
+
+
+Session 85 established that musical attention, inward imagery, task focus and unwanted distraction must be separated. Session 86 extends that distinction to temporal experience. This is the strongest unresolved direction because KLAAT is long-form, repetitive and spontaneous; listeners may describe losing time, suspending time or being carried through an activity, but those descriptions do not identify a mechanism. The scientific literature provides a surprising warning: the same musical passage can seem shorter or faster depending on what the listener is doing with its meter, and retrospective estimates can move in the opposite direction from the feeling of time passing.
+
+
+GOVERNING PROPOSITION: ANKORA MAY ORGANIZE MUSICAL TIME WITHOUT DETERMINING HOW LONG THE LISTENER FEELS TIME HAS PASSED.
+
+
+1. THREE DIFFERENT QUESTIONS ABOUT TIME
+
+
+Objective duration is elapsed clock time. If a recording is 10 minutes 00 seconds long, that remains true regardless of how it feels. Subjective duration is the listener's estimate of how many seconds or minutes passed. Passage-of-time judgment asks whether time seemed to move quickly or slowly. Remembered temporal richness concerns how many distinguishable events, changes or experiences the listener recalls afterward. The latter is not a standardized time measure; it is a possible contributor to memory-based duration judgments.
+
+
+Prospective timing studies warn participants beforehand that they will judge duration. That knowledge can direct attention toward time itself. Retrospective studies ask about duration unexpectedly after an interval; participants may instead draw on remembered events, changes, tasks or contextual cues. These designs cannot be treated as equivalent, and telling a KLAAT listener in advance to “watch how time changes” risks changing the very listening experience under study.
+
+
+Even within a prospective design, “How many seconds?” and “Did time fly?” can dissociate. The 2021 hip-hop experiment discussed below collected both and found task-related effects that were not identical. A careful KLAAT inquiry must ask what was actually measured, not merely whether a listener used the word “trance.”
+
+
+2. A CONTROLLED STUDY: METER CHANGES TIME WITHOUT CHANGING THE RECORDING
+
+
+Hammerschmidt and Wöllner (2020) tested musicians and nonmusicians hearing rhythmic patterns at three tempi. Participants either listened or tapped at different metrical levels—larger half-note units, quarter notes, or smaller eighth-note units. They then estimated durations. Tapping to the larger, slower metrical level produced the shortest estimates; listening without tapping produced the longest. Faster pattern tempo generally lengthened estimates. The study shows that a person's attended temporal grouping and motor behavior can change the experience of duration even when the physical sequence is held constant within a comparison.
+
+
+A follow-up experiment by Wöllner and Hammerschmidt (2021) involved 30 recruits, with 29 retained for analysis. Four lyric-free hip-hop excerpts were adjusted to the same 93 BPM. Researchers compared listening only, tapping at distinct metrical levels, and a concurrent mental-arithmetic task. Musical excerpts lasted approximately 20.65, 25.81 or 30.97 seconds. Participants provided both numerical duration estimates and ratings of passage of time.
+
+
+The study found a task-condition effect on duration estimation (F[1.34, 37.55] = 5.19, p = .020, partial eta-squared = .16), but no significant main effect of the selected music's perceived arousal on duration (p = .358). Listening-only estimates were longer than tapping estimates in the relevant post-hoc comparison (p = .043). Tapping the larger half-note level led to shorter duration estimates and quicker subjective passage than tapping eighth notes. Higher cognitive load also made passage seem quicker. These are meaningful within-study effects, not evidence of a universal internal metronome or a direct neural entrainment mechanism.
+
+
+This finding has a direct implication for Ankora. A passage with a recurring pulse and busy subdivisions offers several plausible metrical levels. One listener might follow individual light attacks; another might feel a slower recurring accent; another might not tap at all. Their experiences of elapsed time may differ without any change in the recording. That is a reason to study natural listening strategies, not to force one correct beat interpretation.
+
+
+3. DRUMMING RESEARCH ADDS A COMPLICATION
+
+
+Wang, Burger and Wöllner (2023 online; journal volume 2024) recruited 109 participants for an online experiment using audiovisual recordings of a drummer at 60, 110 and 160 BPM with three complexity levels. Twelve participants who failed a tapping-compliance criterion were removed from the analysis. Each principal performance stimulus lasted 15 seconds. The researchers compared observation-only trials with trials in which participants tapped regularly.
+
+
+Tapping trials generally felt as though time passed faster, and durations were judged shorter at the slow and medium tempo conditions. More complex drumming and faster tempo were associated with faster passage-of-time ratings in some analyses, rather than producing one simple monotonic “more events = longer time” rule. Musical training interacted with expressiveness judgments. Crucially, these were short, audiovisual drum-kit stimuli, not 15-minute audio-only KLAAT journeys. Their online design, fixed block order and movement instructions also limit what can be generalized to passive listening.
+
+
+The finding is valuable because it contradicts a naive assumption: more attacks need not make time feel longer. Attention, movement and musical organization can change the direction of the result.
+
+
+4. MUSIC CAN MAKE A SHORT INTERVAL SEEM SHORTER
+
+
+Droit-Volet, Bigand, Ramos and Oliveira Bueno (2010) used a temporal bisection task to compare melodies in major or minor mode with nonmelodic sine-wave control stimuli. Relative to the controls, both types of melody shifted the point of subjective equality so that the melodies were judged shorter. The major/minor emotional-valence manipulation did not explain the effect, and sensitivity to temporal differences was similar across auditory conditions.
+
+
+This is one experimentally grounded sense in which music can make time “fly.” But the stimuli and task are much shorter and more constrained than a KLAAT performance. A shift in a temporal bisection function does not mean that listeners enter flow, become neurologically entrained, or experience a 30-minute session as shorter. Nor does it mean that every kind of music must shorten time.
+
+
+5. A CONTRADICTORY RESULT: MORE MUSICAL SEGMENTS CAN MAKE TIME SEEM LONGER
+
+
+Bailey and Areni (2006) studied retrospective duration judgments while participants worked on word-search puzzles for 20 minutes. Background music contained either eight shorter songs (under three minutes each) or four longer songs (over six minutes each), in contemporary dance or New Age formats. People estimated the interval as longer when they had heard more, shorter songs, despite the identical objective duration.
+
+
+One interpretation is that remembered musical boundaries supplied more distinct events from which participants reconstructed the elapsed interval. The study does not prove that this is the only mechanism, but it demonstrates that background music does not invariably compress time. More remembered segments can produce a longer retrospective estimate even if a listener was occupied with something else.
+
+
+For KLAAT, a long uninterrupted recording may contain fewer obvious song boundaries than a playlist, but it still contains acoustic landmarks: Ankora's entry, a change in Amastacia's overtone emphasis, a sudden textured breath, a dense passage, a withdrawal, or an unexpected silence. Whether listeners remember those events as distinct chapters is an empirical question. An archaeosonic journey can be rich in ev
+
+
+ents without resembling conventional songs; it can also feel continuous despite many local changes.
+
+
+6. NATURALISTIC TEMPO STUDIES DO NOT ALL AGREE
+
+
+North, Hargreaves and Heath (1998) tested slow and fast background music in a university gymnasium and examined retrospective time judgments. Tempo did not shift duration estimates consistently in one direction, although slow music was associated with less accurate estimates. This result sits uneasily with simple claims that fast music always stretches or compresses subjective time.
+
+
+The gymnasium study differed from the 2021 laboratory study in the activity, music, duration, timing instructions and measurement. The disagreement is not a reason to discard either. It is a reason to stop describing “the effect of tempo on time perception” as though it were one context-free law.
+
+
+7. PERFORMER FLOW AND LISTENER TIME ARE SEPARATE
+
+
+Paul has described playing Amastacia and Ankora instinctively and sometimes losing himself in the performance. A 2025 mixed-methods study of 36 Javanese gamelan performers across four ensembles investigated shared flow and time distortion in three performance conditions. Gibbs and Schiavio found a complex relationship: qualitative accounts suggested conditions in which time seemed to fly, while quantitative relationships differed in direction across components of shared flow.
+
+
+The study does not establish that Paul experiences the same psychological state as those ensemble musicians. It is also about performing with others, not passively listening to KLAAT. Its contribution is more cautious and more useful: “time flying” is not a reliable one-number diagnostic for flow. A performer can report strong involvement without showing a predictable direction of duration distortion, and the listener can have a separate temporal experience altogether.
+
+
+Ankora's pulse is produced by physical action; Paul feels muscular timing, tactile drum contact, respiratory effort and the evolving relationship to Amastacia. The remote listener usually receives only sound. It would be a category error to use Paul's loss of clock awareness as evidence that a listener's clock awareness changed in the same way.
+
+
+8. AMASTACIA'S SUSTAINED FIELD IS NOT A TIMELESS SIGNAL
+
+
+A didgeridoo drone may feel continuous, but Amastacia is not acoustically static. Circular-breathing transitions, pressure fluctuations, harmonic changes, articulatory noise and spatial resonances can all create perceivable events. The relative importance of these events depends on the listener's attention and the playback chain. A sustained tone may provide continuity while subtle variation supplies a rich memory of what happened.
+
+
+This matters for a long-form recording. The number of seconds between Ankora strikes is an objective acoustic measurement; the number of perceived musical changes is a listener-dependent interpretation. If someone says, “I felt suspended,” that might refer to the unbroken drone, to the lack of conventional song boundaries, to a shift of attention inward, or simply to not monitoring the clock. Without additional evidence we cannot select a single explanation.
+
+
+It would also be misleading to treat C# as a unique “time-distortion frequency.” Amastacia's pitch is part of the artwork and its acoustic identity; it is not a demonstrated key to altered temporal consciousness.
+
+
+9. ANKORA OFFERS MULTIPLE LEVELS OF TIME AT ONCE
+
+
+The provisional 137 BPM reference corresponds to about 438 milliseconds between nominal beats (60,000 / 137). But 137 BPM is not a verified constant of every KLAAT performance, and a listener may perceive larger or smaller units. At half that rate, a grouping would recur about every 876 milliseconds; twice that rate would correspond to subdivisions around 219 milliseconds. These are arithmetic illustrations, not claims about the actual recording.
+
+
+Ankora's center/edge attacks, accents, decays and subtle microtiming may invite listeners to organize events at several levels. The 2020–2021 tapping findings suggest that attention to those levels can affect duration judgments. They do not establish that an untutored, motionless listener automatically tracks the same level as someone instructed to tap. Nor do they establish that the brain literally counts each strike as a pulse in one internal pacemaker.
+
+
+The important compositional implication is a permission rather than a rule: Paul can allow the rhythm to unfold naturally. Research can later ask which levels listeners found and whether their felt passage of time differed. The sound does not have to be redesigned around a laboratory theory.
+
+
+10. TWO SCALES OF TEMPORAL EXPERIENCE
+
+
+There is a useful conceptual separation between local temporal organization and global passage of time. Local organization concerns how listeners hear a recurring beat, a phrase, a breath gesture or a pause. Global experience concerns whether a ten-minute recording felt brief, expansive, fast, slow or difficult to place in time.
+
+
+Local organization may contribute to global experience, but the relationship is not one-to-one. A highly stable beat can coexist with uncertainty about how much time has elapsed. A sparse drone can feel eventful because its changing harmonics draw attention. A busy passage can feel short because the listener becomes occupied following it. A quiet passage can feel long if attention shifts toward waiting for a change.
+
+
+These examples are plausible interpretations, not observations of KLAAT listeners. The research challenge is to avoid mistaking a vivid description for an established causal pathway.
+
+
+11. THE FOUR-PHASE LANGUAGE REMAINS OPTIONAL
+
+
+Ground Anchor, Threshold Gate, Rising Pulse and Return Path can still describe naturally emerging trajectories in a recording. They are not a mandatory score. This session adds one question to retrospective analysis of each possible phase, without instructing Paul to create it.
+
+
+If Ground Anchor is present, does sustained Amastacia continuity reduce the listener's awareness of elapsed clock time, or heighten awareness of waiting? If a Threshold Gate is heard, does Ankora's entrance become a memorable boundary that later expands remembered duration? If a Rising Pulse emerges, does increased density draw attention into the music, into bodily movement, or toward clock monitoring? If a Return Path occurs, does the thinning sound make the preceding passage seem longer or shorter in hindsight?
+
+
+None of these outcomes is guaranteed. A compelling KLAAT performance may not exhibit all four phases, and a listener may not hear the same boundaries Paul intended. The research should annotate the actual performance and ask the listener before applying labels.
+
+
+12. ESTABLISHED EVIDENCE
+
+
+Controlled studies show that attending and tapping to different metrical levels can alter duration estimates. Task load and movement can influence both duration estimates and passage-of-time ratings, sometimes differently. Musical material can shorten judged duration relative to nonmelodic controls under specific timing tasks. Background music can increase retrospective duration estimates when it creates more remembered segments. Performer flow and temporal distortion have a complicated, context-dependent relationship. These are empirical results, not evidence of KLAAT-specific altered states.
+
+
+13. CONTEXT-DEPENDENT EVIDENCE
+
+
+Many studies use 15–31-second excerpts, artificial timing judgments, prescribed tapping, conventional hip-hop or drum-kit recordings, or nonmusical tasks. Their effect sizes cannot simply be imported into 10–30-minute didgeridoo/frame-drum listening. Prior warning about duration, whether a participant moves, what they attend to, the presence of visible performers, genre familiarity, loudness, preference, and everyday activity can all change the result. Different studies operationalize “time flies” differently. A numerical estimate, a feeling-of-passage rating and a recalled event count are not interchangeable.
+
+
+14. PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
+
+
+Listeners who become absorbed in an authentic KLAAT recording may report fast passage of time without necessarily underestimating its duration. A listener who follows Ankora's larger rhythmic groupings may report different temporal experiences from one attending to every subdivision. Salient, remembered Amastacia and Ankora transitions may contribute to longer retrospective duration estimates, even if the passage felt swift while unfolding. A KLAAT take used as an everyday soundtrack may affect time judgments differently from the same take heard with undivided attention. Paul’s performer-time reports may correlate weakly, strongly, or not at all with listener-time reports. None of these predictions has been tested with KLAAT listeners.
+
+
+15. SPECULATION
+
+
+KLAAT's artistic “ancient time” quality may arise partly from the coexistence of a seemingly enduring drone, recurrent human pulse and a lack of conventional song boundaries. A listener might experience a feeling of suspended time while still detecting an unmistakable beat. Such a description may be artistically valuable even if it has no single neurological explanation. The archaeosonic aesthetic may shape expectations, imagery and retrospective memory, but it is not a demonstrated physical mechanism.
+
+
+16. UNSUPPORTED CLAIMS
+
+
+It would be unsupported to claim that KLAAT slows the brain's internal clock, induces theta rhythms, reliably changes time perception, treats anxiety, creates a special C# resonance, or forces listeners into trance. It would also be unsupported to infer that a faster passage-of-time rating proves stronger absorption; that a duration underestimate proves flow; that 137 BPM determines physiological arousal; or that a laboratory finger-tapping effect applies automatically to passive listeners. No KLAAT-specific timing or physiological dataset has yet been established.
+
+
+17. METHODOLOGY UPDATE — THE TWO-CLOCK REPORTING RULE
+
+
+The next listener protocol should separate at least four fields: (A) exact recording duration; (B) perceived passage of time, such as “very slow” to “very fast”; (C) estimated duration in minutes, if collected; and (D) remembered landmarks, collected in the listener's own words. Also preserve listening context, prior exposure, playback system, whether the person moved, and whether they knew in advance that time would be evaluated. Absorption, energy and pleasure remain separate ratings.
+
+
+This is not a new KLAAT state-vector dimension or a requirement to modify the music. It is a protection against an easy research mistake: combining incompatible kinds of temporal report into a single “trance score.” The existing four-phase labels remain optional retrospective descriptions. No session should report a neural effect based only on time estimates.
+
+
+For analysis, a simple duration ratio can be computed as estimated minutes / actual minutes. Values below 1 indicate underestimation, values above 1 overestimation. This is a behavioral measure of judgment, not a neural clock reading. Do not infer a causal relation from correlations in a tiny pilot. If a listener knew the duration in advance or glanced at a clock, record that rather than silently excluding the response. A report of “time vanished” can be preserved verbatim without translating it into a physiological claim.
+
+
+18. WHY THIS IS NOT A RECIPE FOR KLAAT
+
+
+A tempting but mistaken conclusion would be to prescribe slower accents to make time fly, or to insert musical landmarks to make a performance feel epic. The evidence does not justify those instructions. Prescribed tapping can change a laboratory task; it does not show that manipulating Ankora in the same way will improve KLAAT. Retrospective segmentation depends on memory and context; it does not imply that more obvious transitions are always artistically desirable.
+
+
+The most scientifically valuable move is to keep the sound authentic and learn how people experience it. If an unexpected texture causes a listener to lose track of time, that is a reason to examine the moment—not a reason to reproduce it mechanically in every performance. Technical growth in circular breathing and drum coordination can expand the range of spontaneous choices without making those choices compulsory.
+
+
+19. RESEARCH PRIORITIES AFTER THIS SESSION
+
+
+The first priority is to obtain a longer authentic recording with both instruments and clear file provenance. The September 66-second calibration reference remains useful for onset and spectral inspection, but it is too short to represent KLAAT's long-form temporal experience. The second is to gather a few independent listener reports without suggestive language. The third is to identify whether listeners spontaneously mention temporal distortion, remembered boundaries, imagery, movement or simple enjoyment. Only then should we decide whether a controlled metrical-attention comparison, repeated-exposure study or acoustic-landmark analysis is warranted.
+
+
+There is a substantive contradiction to preserve: short prospective musical timing tasks can show underestimation, while retrospective background-music segmentation can show overestimation. These are not mutually exclusive. They may reflect different questions and mechanisms. KLAAT's duration is not a single property of its tempo, its drone, or its listener's flow.
+
+
+PROVENANCE
+
+
+Before this study, the connected KLAAT Master Instructions, Curriculum Index, Research Ledger and Session Corpus were consulted. The ChatGPT Library Hourly Research folder was checked; the latest available note was October 5, 2026 at 18:33 CDT, earlier than Session 85, so no new hourly notes were available for incorporation. That note concerned multi-input mechanical coupling, a separate unresolved engineering direction not displaced by this session. Hourly notes were not edited. The last canonical published study was Session 85 (October 13, evening). Existing Drive synchronization backlogs for Sessions 80, 82 and 85 are separate from this publication.
+
+
+20. ONE OPTIONAL KLAAT OBSERVATION — KRX-086, ONE TAKE / TWO CLOCKS
+
+
+Choose one authentic, unedited KLAAT recording of about 8–15 minutes with Amastacia and Ankora. Invite approximately six to ten listeners who have not heard that exact take. Play it at a comfortable level, without showing its duration or a clock. Do not tell them beforehand that time perception is being investigated; simply ask them to listen naturally. Do not ask anyone to tap, breathe to the beat, or visualize a ritual.
+
+
+Immediately afterward, first ask, “What stayed with you?” Record the answer verbatim. Then ask separately, “Did time seem to pass slowly or quickly?” on a simple seven-point scale, and “About how many minutes do you think that lasted?” Only after those questions ask about absorption, felt energy, desire to replay, and whether they naturally moved or followed a pulse. Keep the actual file duration and playback conditions recorded. If someone checked a clock, knew the file length, or had to stop early, retain that context. Do not present the result as a blinded causal experiment: the order of questions and novelty of the listening situation can influence answers.
+
+
+Compare each person's passage-of-time rating with their numerical duration estimate; do not average away disagreements. Notice whether the people who remember more acoustic landmarks also estimate longer durations, but treat this only as an exploratory pattern. If Paul also listened to or performed the take, his temporal report is a separate performer observation, not the reference truth. No new performance or score is necessary.
+
+
+DECISIVE QUESTION
+
+
+WHEN ANKORA MAKES TIME AUDIBLE AND AMASTACIA MAKES SOUND FEEL CONTINUOUS, DOES A KLAAT LISTENER EXPERIENCE THE JOURNEY AS BRIEF, EXPANSIVE, OR OUTSIDE THE CLOCK—AND WHICH OF THOSE REPORTS ACTUALLY MEASURES WHAT?
+
+
+PRIMARY RESEARCH SOURCES (VERIFIED)
+
+
+[S1] Hammerschmidt, D., & Wöllner, C. (2020). Sensorimotor Synchronisation with Higher Metrical Levels in Music Shortens Perceived Time. Music Perception 37(4), 263–277. DOI: 10.1525/mp.2020.37.4.263. https://doi.org/10.1525/mp.2020.37.4.263
+[S2] Wöllner, C., & Hammerschmidt, D. (2021). Tapping to hip-hop: Effects of cognitive load, arousal, and musical meter on time experiences. Attention, Perception, & Psychophysics 83, 1552–1561. DOI: 10.3758/s13414-020-02227-4. https://pmc.ncbi.nlm.nih.gov/articles/PMC8084775/
+[S3] Wang, X., Burger, B., & Wöllner, C. (2023 online / 2024 issue). Tapping to drumbeats in an online experiment changes our perception of time and expressiveness. Psychological Research 88, 127–140. DOI: 10.1007/s00426-023-01835-7. https://doi.org/10.1007/s00426-023-01835-7
+[S4] Droit-Volet, S., Bigand, E., Ramos, D., & Oliveira Bueno, J. L. (2010). Time flies with music whatever its emotional valence. Acta Psychologica 135(2), 226–232. DOI: 10.1016/j.actpsy.2010.07.003. https://pubmed.ncbi.nlm.nih.gov/20674884/
+[S5] Bailey, N., & Areni, C. S. (2006). Background music as a quasi clock in retrospective duration judgments. Perceptual and Motor Skills 102(2), 435–444. DOI: 10.2466/PMS.102.2.435-444. https://pubmed.ncbi.nlm.nih.gov/16826665/
+[S6] North, A. C., Hargreaves, D. J., & Heath, S. J. (1998). Musical Tempo and Time Perception in a Gymnasium. Psychology of Music 26(1). DOI: 10.1177/0305735698261007. https://doi.org/10.1177/0305735698261007
+[S7] Gibbs, H. J., & Schiavio, A. (2025). Flowing between gongs: Mixed-methods insights into shared flow and temporal distortion in music performance. PLOS ONE 20(2), e0302769. N=36. DOI: 10.1371/journal.pone.0302769. https://doi.org/10.1371/journal.pone.0302769
+
+
+END OF SESSION 86

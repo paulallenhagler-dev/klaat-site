@@ -1,0 +1,259 @@
+KLAAT RESONANCE RESEARCH — SESSION 118
+FIVE CLIPS, ONE NIGHT
+Nested recordings, false replication, and what counts as a distinct KLAAT performance
+
+
+Published: October 24, 2026 — 19:16 CDT (America/Chicago)
+Guiding principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+RESEARCH STATUS
+This is a methodological synthesis grounded in published research on pseudoreplication, nested observations, participant–stimulus sampling, and replication. It introduces no measured KLAAT listener effect, neural effect, acoustic result, or estimate of how Paul's actual recordings are distributed. Numerical examples about KLAAT below are explicitly hypothetical. The aim is to protect the meaning of evidence gathered from the spontaneous music that already exists—not to change how it is played.
+
+
+OPENING: WHEN FIVE FILES ARE ONE EVENT
+
+
+Paul has described one-, two-, three-, four-, and five-minute phone videos made primarily for listening back and improving his playing. He is collecting older takes and making new ones. Suppose a future archive contains five attractive clips, each apparently a different piece of KLAAT. The filenames differ. Their lengths differ. Ankora may enter differently; Amastacia may acquire different textures. Five people may listen to all five and describe five different experiences.
+
+
+But suppose all five clips came from the same continuous twenty-minute improvisation, recorded in the same room with the same phone, on the same afternoon, with the same instrument conditions and the same performer state. They are five acoustic excerpts, but they are not five independent performances. Some may even overlap in time. The distinction is neither pedantic nor an objection to making excerpts. It determines which conclusions those excerpts can support.
+
+
+This session asks a narrower question than the earlier KLAAT work on whether listeners and recordings are both samples: WHAT IS THE DEPENDENCY STRUCTURE INSIDE THE RECORDING ARCHIVE ITSELF? If the research mistakes repeated fragments of one event for independent evidence of a stable KLAAT effect, it may acquire apparent certainty without acquiring genuinely new information.
+
+
+1. THREE LEVELS OF THE SOUND'S HISTORY
+
+
+A useful KLAAT archive has at least three acoustic levels.
+
+
+PERFORMANCE OCCASION: A distinct bout of playing, situated in a date, room, instrument state, performer condition, and acoustic environment. An occasion can contain several continuous takes. A day is not necessarily an occasion: two sessions on the same day can differ, and two days can share a venue and device.
+
+
+CONTINUOUS TAKE: One uninterrupted source recording, with its own start and stop. A five-minute video and a later three-minute video may be different takes. Conversely, two exported files may be fragments of the SAME underlying take.
+
+
+EXCERPT: A time interval selected from a take, with exact source start and end times. Multiple excerpts can share drone passages, drum strikes, reverberation tails, or adjacent temporal context. If their windows overlap, some of the same physical acoustic samples are literally reused.
+
+
+A fourth level may be needed: DERIVATIVE FILE. Cropping, equalization, loudness adjustment, noise reduction, audio-only export, compression, and video retiming can produce several files from the same source excerpt. Different derivatives are not independent performances. They are different presentations of a shared source, potentially useful for a specific playback comparison but dangerous if silently counted as new musical observations.
+
+
+The listener side has its own hierarchy: a person, a listening occasion, a repeated exposure, and a response. A person hearing five excerpts contributes five observations, not five independent people. When several people hear several excerpts, the design is crossed between people and stimuli; when excerpts belong to the same source take, the stimuli are ALSO nested. Both relationships matter.
+
+
+2. WHAT PSEUDOREPLICATION ACTUALLY MEANS
+
+
+Pseudoreplication is not simply 'having a small sample.' It is analyzing dependent observations as though they provided independent replications of the claim under test. Hurlbert's 1984 methodological examination defined the problem in the context of experimental treatment replication. He reviewed 176 ecological experiments and reported pseudoreplication in 27% of the studies overall, or 48% of those using inferential statistics. Those historical rates belong to that ecology sample; they are not prevalence estimates for music research or KLAAT [1].
+
+
+Lazic's 2010 investigation found definite pseudoreplication in 12% of a sample of neuroscience papers, with another 36% suspected but not confirmable from reporting. The exact classification is specific to that sampled journal issue and should not be generalized to all neuroscience. The transferable lesson is more precise: neurons from one animal, measurements from one person, and clips from one performance can be numerous while sharing an underlying source of variation [2].
+
+
+Aarts and colleagues examined 314 papers across five neuroscience journals and reported nested designs in 53%. Their methodological simulations showed that ignoring dependency can greatly inflate false-positive rates; in some simulated conditions the false-positive probability reached approximately 80% despite a nominal 5% test threshold. That is an extreme result from specified designs, not a prediction for a small KLAAT pilot [3].
+
+
+The principle is simple: an observation can be real, carefully measured, and still not be an independent replication.
+
+
+3. WHY KLAAT IS ESPECIALLY VULNERABLE TO THIS ERROR
+
+
+KLAAT's music is intentionally continuous, sparse, and improvised. Those are artistic strengths, but they create an unusual archival structure.
+
+
+A sustained Amastacia drone may extend through several neighboring clips. Ankora's rhythmic vocabulary may recur within one improvisation. The same microphone placement and phone processing may affect every excerpt from that session. The room may color every excerpt in similar ways. The same elk-hide moisture state, same agave bore conditions, and same performer's energy may persist across the take. None of these variables has to remain perfectly constant; they merely create reasons for excerpts to be correlated.
+
+
+A researcher who treats six clips from one evening as six independent demonstrations of 'KLAAT's bass' is conflating six selections with six source occasions. Likewise, six listener reports of bodily impact from those clips might reflect one unusually resonant room or one unusually forceful improvisation rather than a stable feature of the wider practice.
+
+
+That does not make the experience any less genuine. A single unforgettable recording can be a successful artwork. A single listener's powerful response can be a true report of their experience. The error arises only when the scope of the claim quietly expands beyond the evidence.
+
+
+4. AN ILLUSTRATIVE COUNTING TRAP
+
+
+Imagine an archive containing twenty excerpts, five drawn from each of four continuous takes. Suppose, purely for illustration, that the within-take intraclass correlation of a particular measured feature is 0.60. Under the simplified equal-cluster model, a conventional design-effect approximation is:
+
+
+DEFF = 1 + (m - 1) × rho
+
+
+Here m = 5 excerpts per take and rho = 0.60. The design effect is 1 + 4 × 0.60 = 3.4. For estimating a simple overall mean under that model, twenty clustered excerpts carry roughly the precision of 20 / 3.4 = 5.88 independent observations, not twenty. The arithmetic is a hypothetical illustration of dependency, not a measured KLAAT intraclass correlation, an exact effective sample size for a complex listener design, or a claim that all five excerpts are duplicates.
+
+
+If rho were zero, the simplified design effect would be 1. If rho approached one, taking additional excerpts from the same take would contribute very little independent information about a population of takes. Unequal cluster sizes, crossed listeners, serial dependence, overlapping windows, nonrandom selection, and different estimands complicate this arithmetic. The useful insight survives: MORE FILES is not necessarily MORE INDEPENDENT SOURCE INFORMATION.
+
+
+An even sharper case is literal overlap. Two excerpts that both contain the same Ankora strike are not merely correlated by circumstance; the physical event is duplicated. Counting both as separate instances of that strike would be double-counting. Overlap must be logged before any beat-event statistics, spectral averages, or listener-trial summaries are interpreted.
+
+
+5. WHAT IS THE CLAIM WE WANT TO MAKE?
+
+
+KLAAT can ask at least four different questions, each requiring a different unit of evidence.
+
+
+THIS EXCERPT: Does this exact recording evoke an unprompted report of bodily energy in these listeners? The excerpt may be artist-selected. That is legitimate. Results apply to the excerpt and the tested listeners under the tested playback conditions.
+
+
+THIS CONTINUOUS TAKE: Do different parts of this improvisation vary in acoustic density, harmonic brightness, or reported absorption? Several nonoverlapping excerpts from one take can be informative about its internal development. They are repeated observations within that take, not independent samples of the entire KLAAT repertoire.
+
+
+THESE PERFORMANCE OCCASIONS: Across multiple dates, rooms, or independently recorded improvisations, do certain features recur? Now occasion-level variability becomes central. Five clips from each of four nights can help describe four nights, but should not masquerade as twenty independent nights.
+
+
+KLAAT AS AN EVOLVING PRACTICE: Do findings hold for spontaneous performances beyond the particular recordings already selected? This requires new occasions, transparent selection, and ideally prospective material. Because KLAAT changes with Paul's technique and artistic development, 'the population of all KLAAT performances' is itself a moving target. Broad generalization should therefore remain cautious and time-bounded.
+
+
+Judd, Westfall, and Kenny's 2012 work demonstrates why sampling stimuli as well as participants matters for inference. Their 2014 work extends this to experimental power. A large number of people hearing only one piece does not solve uncertainty about other pieces [4, 5]. The new point in Session 118 is that even a nominally large NUMBER OF PIECES can conceal only a few source takes.
+
+
+6. NESTED IS NOT THE SAME AS CROSSED
+
+
+Suppose eight listeners each hear six KLAAT clips, three from Take A and three from Take B. The forty-eight responses are not forty-eight independent tests of KLAAT. Responses from the same listener may resemble one another because of personal taste, hearing, expectations, or mood. Responses to the same clip may resemble one another because of the audio. Clips from the same take may resemble one another because they share the same session. Order and repeated exposure can introduce still more structure.
+
+
+A descriptive conceptual model could be written:
+
+
+response = overall mean + listener effect + take effect + excerpt-within-take effect + listening-occasion/order effect + residual variation.
+
+
+If each listener hears several excerpts, listeners and excerpts are crossed. If excerpts are sourced from one take, excerpts are nested in take. If two clips overlap, an additional temporal dependence may remain even after take identity is modeled. If several takes occur in one session, take can be nested in session. This is a map of plausible sources of variation, not an instruction to fit an elaborate model to eight friends' comments.
+
+
+Barr and colleagues' 2013 simulations and arguments show that random-effects structure affects the generalizability and error rates of confirmatory analyses; they recommend representing design-justified random variation where feasible [6]. Yet in a tiny pilot, a maximal model may be unstable or unidentified. It is better to present an honest table of listener-by-take observations than a sophisticated model with more variance parameters than the data can support.
+
+
+7. THE TWO FORMS OF REPLICATION
+
+
+Replaying the same KLAAT excerpt to new listeners is PARTICIPANT REPLICATION. It tells us whether other people respond similarly to this sound. It does not test whether another spontaneous KLAAT performance evokes the same experience.
+
+
+Playing new, authentic KLAAT recordings to listeners is STIMULUS REPLICATION. It tests whether an observation persists across different sound sources. If those new recordings are independent performance occasions, it also helps establish occasion-level robustness.
+
+
+Westfall, Judd, and Kenny's 2015 analysis makes this distinction especially clear: replication with only new participants can leave an idiosyncratic original stimulus sample unchallenged, and statistical power can remain limited even as participant numbers grow [7].
+
+
+KLAAT may eventually want both forms. But they answer different questions, and neither is a demand that Paul standardize the music. Authentic variation is precisely what the study would seek to understand.
+
+
+8. A CONTRADICTION WORTH PRESERVING: ARTISTIC CURATION VERSUS SCIENTIFIC SAMPLING
+
+
+A release should not be chosen by lottery. Paul can select a performance because it is unusually beautiful, alive, unsettling, energetic, or technically accomplished. That is artistic judgment. The chosen piece can be representative of his intended artistic identity even if it is statistically unusual among the recordings he happened to make.
+
+
+A research claim about the frequency of a listener effect, however, cannot use a handpicked best-of collection as though it were a random sample. The selection process is itself informative: clips that felt powerful to Paul might be more likely to be saved, shared, and remembered. Files lost to deletion, failed recording, technical clipping, or ordinary disinterest are part of the archive's missingness.
+
+
+There is no contradiction in keeping TWO clearly labeled sets: a curated artistic showcase and a transparent research inventory. A particular clip may belong to both, provided the selection history is documented. The point is not to replace taste with statistics. It is to avoid presenting taste as probability sampling.
+
+
+9. WHAT CAN A PHONE VIDEO TELL US BEFORE ANY LISTENER TEST?
+
+
+Even before receiving a single response, source relationships can be reconstructed. An inventory can record: original file ID; file creation date if trustworthy; actual performance date if known; continuous-take ID; session/occasion ID; excerpt start/end time relative to source; whether windows overlap; room and microphone placement if remembered; processing and export history; instruments present; duration; and whether the clip was selected for artistic reasons.
+
+
+Do not infer that two files are separate performances merely because their names or creation timestamps differ. Phone applications and cloud exports can alter metadata. Conversely, two files created minutes apart may be genuinely independent takes. Video/audio continuity, visible clothing and room details, shared waveform segments, and Paul's recollection can help identify relationships, but uncertain provenance should remain marked 'unknown' rather than invented.
+
+
+If a future acoustic analysis detects repeated Ankora onset patterns in neighboring clips, first ask whether those are distinct events or the same waveform copied into both excerpts. Only then ask whether Paul's spontaneous musical vocabulary recurred. This prevents a file-management artifact from being mistaken for a compositional phenomenon.
+
+
+10. THE DIFFERENCE BETWEEN DESCRIBING AND ESTIMATING
+
+
+A descriptive archive report can say, 'Among the twelve clips examined, seven contained a sustained drone with no obvious audible break.' That is an exact count for those files, subject to the detection method. It need not claim a population frequency.
+
+
+A broader claim—'KLAAT maintains an unbroken drone in 58% of performances'—requires an appropriate performance denominator and sampling rationale. If twelve clips were drawn from only three continuous takes, seven clips are not seven independent performance successes. Even if the count is numerically correct, the population claim is not.
+
+
+The same applies to listener effects. 'Six of eight respondents described bodily sensation after Clip 04' is a report about those respondents and that clip. It is not evidence that 75% of all KLAAT listeners will feel bodily vibration, nor that the sound physically vibrated their skin, nor that the response reflects a neural trance state.
+
+
+The research can become more rigorous without becoming grandiose: preserve what was counted, define the denominator, show the hierarchy, and restrict the conclusion to the units actually observed.
+
+
+11. ESTABLISHED, CONDITIONAL, TESTABLE, SPECULATIVE, UNSUPPORTED
+
+
+ESTABLISHED OUTSIDE KLAAT
+Repeated observations from one experimental object can violate independent-sample assumptions. Nested and crossed structures matter for uncertainty. Methodological audits and simulations show that treating dependent observations as independent can inflate false-positive rates. Generalizing from a sample of stimuli requires attention to how the stimuli were sampled, not only to how many people heard them [1–7].
+
+
+CONTEXT-DEPENDENT
+The size of dependency depends on what is measured. Five clips from one take may be highly correlated in microphone frequency response and much less correlated in strike density. Adjacent excerpts may differ dramatically in improvisational character even while sharing source conditions. Mixed-effects models can help when the design and sample size support them; they do not automatically repair selection bias, overlap, unknown provenance, or an unrepresentative archive. A simple cluster-design approximation is not a universal listener-study formula.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT
+Paul's existing recordings may contain nested source relationships, overlapping windows, repeated export derivatives, and shared session effects. Treating those relationships explicitly may change estimated uncertainty in acoustic and listener-response comparisons. New spontaneous takes recorded on different occasions could test whether any observed effect extends beyond a single session. We have not yet inventoried the files, so these remain hypotheses about archive structure.
+
+
+SPECULATION
+Certain performance occasions may produce particularly intense listener reports because of transient combinations of instrument condition, room response, performer energy, and improvised sound. These combinations could become artistically defining without being statistically typical. We do not yet know whether occasion-to-occasion differences are large, small, or consistent in direction.
+
+
+UNSUPPORTED
+'Twenty clips prove twenty independent KLAAT effects'; 'the same listener hearing ten excerpts equals ten independent people'; 'a favorite clip predicts the average listener response to all KLAAT'; 'correlated excerpts prove a neurological mechanism'; 'a multilevel model proves trance'; 'a significant result on a selected clip is a general property of KLAAT.' None is established.
+
+
+12. WHY THIS MATTERS FOR THE ATLAS AND THE MUSIC
+
+
+The Atlas has increasingly clarified that source acoustics, reproduction, perception, physiological measurement, and artistic interpretation are different layers. Session 118 adds an archival layer that is easy to overlook: WHERE EACH APPARENT PIECE OF EVIDENCE CAME FROM. If that history is lost, later scientific precision can become decorative. A beautifully plotted response curve cannot recover the fact that three supposedly separate excerpts contained the same drum strike.
+
+
+This insight protects the central KLAAT principle. Paul's responsibility as the artist is not to generate statistically independent, interchangeable musical products. He should continue playing instinctively. The researcher's responsibility is to respect the real structure of those performances afterward, including the ways they are related.
+
+
+The first genuine KLAAT discoveries may be highly particular: a listener describing a sense of vastness in one recording; a repeated pulse contour within a long improvisation; an unusual physical impression at a certain listening position. Those observations are worth keeping even when they do not generalize. A claim that is small, accurate, and traceable is more useful than a large claim built by counting the same event several times.
+
+
+OPTIONAL, LOW-PRESSURE OBSERVATION — KRX-118: THE SOURCE-TAKE MAP
+
+
+As you collect old phone videos, do not change your playing or record anything specially for this test. If convenient, choose any five files and jot down whether each is (a) an original continuous take, (b) a nonoverlapping excerpt from a known take, (c) an overlapping excerpt, (d) a processed/exported derivative, or (e) unknown. Add the original take ID or a simple 'same recording as File 2' note wherever you know it. Nothing needs to be rated, timed to a prescribed pulse, or shown to listeners. The aim is simply to keep five files from accidentally becoming five invented performances.
+
+
+SELECTED PRIMARY AND METHODOLOGICAL SOURCES
+
+
+[1] Hurlbert, S. H. (1984). Pseudoreplication and the design of ecological field experiments. Ecological Monographs 54(2):187–211. DOI 10.2307/1942661. https://esajournals.onlinelibrary.wiley.com/doi/10.2307/1942661 . Historical methodological audit; ecological sample, not music.
+
+
+[2] Lazic, S. E. (2010). The problem of pseudoreplication in neuroscientific studies: is it affecting your analysis? BMC Neuroscience 11:5. DOI 10.1186/1471-2202-11-5. https://link.springer.com/article/10.1186/1471-2202-11-5 . Open methods critique and sampled-paper audit.
+
+
+[3] Aarts, E., Verhage, M., Veenvliet, J. V., Dolan, C. V., & van der Sluis, S. (2014). A solution to dependency: using multilevel analysis to accommodate nested data. Nature Neuroscience 17:491–496. DOI 10.1038/nn.3648. https://pubmed.ncbi.nlm.nih.gov/24671065/ . Methodological simulations and nested-design survey.
+
+
+[4] Judd, C. M., Westfall, J., & Kenny, D. A. (2012). Treating stimuli as a random factor in social psychology: a new and comprehensive solution to a pervasive but largely ignored problem. Journal of Personality and Social Psychology 103:54–69. DOI 10.1037/a0028347. https://pubmed.ncbi.nlm.nih.gov/22612667/ . Participant–stimulus generalization framework.
+
+
+[5] Westfall, J., Kenny, D. A., & Judd, C. M. (2014). Statistical power and optimal design in experiments in which samples of participants respond to samples of stimuli. Journal of Experimental Psychology: General 143:2020–2045. DOI 10.1037/xge0000014. https://pubmed.ncbi.nlm.nih.gov/25111580/ . Power and stimulus-sample dependence.
+
+
+[6] Barr, D. J., Levy, R., Scheepers, C., & Tily, H. J. (2013). Random effects structure for confirmatory hypothesis testing: keep it maximal. Journal of Memory and Language 68:255–278. DOI 10.1016/j.jml.2012.11.001. https://eprints.gla.ac.uk/79067/ . Simulation and theory; design-dependent modeling recommendation, not a tiny-pilot requirement.
+
+
+[7] Westfall, J., Judd, C. M., & Kenny, D. A. (2015). Replicating studies in which samples of participants respond to samples of stimuli. Perspectives on Psychological Science 10:390–399. DOI 10.1177/1745691614564879. https://pubmed.ncbi.nlm.nih.gov/25987517/ . Stimulus replication versus participant replication.
+
+
+INTERNAL PROVENANCE / NOVELTY AUDIT
+
+
+Before drafting, consulted connected KLAAT Master Instructions, Curriculum Index and Research Ledger through Session 117, and Session Corpus Volume II through Session 117. Confirmed canonical Library Session 117 as latest published study and empty Curation Queue at run start. Read the hourly research notes since Session 117 (October 24 at 16:18, 17:15, and 18:16 CDT): harmonic relative phase, variable video frame timestamps, and listener-data permission. Those are distinct unresolved topics, not repeated here. Also reviewed the older October 23 at 06:18 hourly stimulus-sampling note and Session 72 on ecological transfer. That note established that performances, not only listeners, must be sampled; this session addresses a DIFFERENT, narrower problem it did not resolve: excerpt-to-take-to-occasion nesting, overlapping time windows, derivative-file duplication, and the mathematical consequences of within-take dependence. Session 104 concerns spontaneous motif recurrence; this study prevents duplicated source samples from being misread as recurrence. No KLAAT files were analyzed or listeners tested. Sources checked October 24, 2026. The canonical text is the plain-text ChatGPT Library Published Studies copy.
+
+
+END OF SESSION 118

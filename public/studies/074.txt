@@ -1,0 +1,182 @@
+KLAAT RESONANCE RESEARCH — SESSION 74
+THE CLOCK CHANGES THE RULES
+How Pulse Acquisition Changes What Counts as a Musical Boundary
+Published: Saturday, October 10, 2026 — 08:16 CDT
+
+
+GOVERNING PRINCIPLE
+A listener may use different cues to organize Amastacia's unpulsed Field than to organize Ankora's established Clock. If so, a single boundary-detection rule applied to all four KLAAT phases may misread the architecture it is supposed to test.
+
+
+PROVENANCE AND STATUS
+This study follows Session 73, The Boundary Is Not the Score. The connected Master Instructions, Curriculum Index, Research Ledger and Session Corpus were consulted. The most recent Library hourly note remains October 5, 2026, 18:33 CDT; no hourly notes newer than Session 73 were found. The source notes remain untouched. No KLAAT participant experiment has been completed or verified. This session synthesizes a newly relevant September/October 2026 study with the unresolved methodological problem in Sessions 72–73. KSV-0.1 remains a hypothesis, not a validated model.
+
+
+1. THE UNRESOLVED QUESTION
+Session 73 asked whether listeners unfamiliar with KLAAT independently hear the three major transitions separating Ground Anchor, Threshold Gate, Rising Pulse and Return Path. It proposed blind boundary marking, predeclared transition windows, one-to-one matching and chance baselines. Necessary, but not sufficient. Those analyses risk assuming that the listener uses the same kind of boundary cue throughout the piece. KLAAT intentionally changes the conditions for perceiving structure: it begins with Amastacia's continuous Drone and only later establishes Ankora's regular Pulse. The arrival of a reliable Clock may change not only the music but the listener's strategy for understanding it.
+
+
+2. THE NEW EMPIRICAL CLUE
+Roger T. Dean and John R. Taylor's 2026 article, “Comparing perceptual segmentation in pulsed and unpulsed music with diverse event densities,” examined 65 non-music-program participants hearing 26 pulsed and unpulsed excerpts. Participants tapped when they perceived segment boundaries. Their analysis found that event density was especially important for segmentation of unpulsed music; spectral centroid, spectral flux, spectral complexity and RMS-related dynamics also predicted boundary judgments. Sparse and dense excerpts differed in their predictive patterns. The authors suggested that listeners may simplify structural processing in dense passages. These are findings for their stimuli and statistical model, not estimates of how KLAAT listeners will behave. [Dean & Taylor, Psychological Research 90, article 165 (2026), DOI 10.1007/s00426-026-02371-w.]
+
+
+3. WHY THIS IS NOT JUST ANOTHER DENSITY STUDY
+Sessions 66–67 separated Ankora's Clock Strength from Surface Pressure. Density is part of Surface, but it is not the same as beat rate, urgency or activation. Dean and Taylor introduce a more specific possibility: the importance of density for detecting boundaries may depend on whether an explicit Pulse is available. This creates an interaction hypothesis. A change in density might be a major organizing cue in an unpulsed passage but a minor local variation when a strong metrical framework persists. Or the reverse could occur for a particular listener and recording. We must test the direction rather than assume it.
+
+
+4. UNPULSED DOES NOT MEAN WITHOUT TIME
+Amastacia is sustained, not timeless. Her breath creates phrases, timbral shifts, pauses, amplitude envelopes and periodicities that listeners may notice. Ground Anchor can contain recurrent patterns even without Ankora. A slow breath cycle may organize attention, but it is not automatically equivalent to a clear, beat-based metrical Clock. Therefore the correct contrast is not “rhythm versus no rhythm.” It is “an acoustically evolving Field without a strong inferred beat” versus “a Field containing an established, listener-recoverable beat.” Pulse availability must be checked perceptually, not assigned by instrument name.
+
+
+5. WHAT COUNTS AS AN EVENT?
+An Ankora strike offers a relatively identifiable onset. Amastacia's changes may have no unique onset: a harmonic brightening can emerge gradually, and a breath opening can last seconds. Counting both as one event would be an arbitrary measurement decision. KLAAT needs a documented event ontology: Ankora attack, Ankora subdivision, Ankora omission relative to a learned rule, Amastacia breath onset, Amastacia spectral transition, and genuine silence or cessation. Each has different timing uncertainty. A density measure based only on drum attacks will falsely classify Ground Anchor as empty. A density measure based on every spectral fluctuation will overcount the Drone. Both errors would contaminate the comparison.
+
+
+6. THE PHASE-DEPENDENT CUE HYPOTHESIS
+Propose two families of segmentation cues. FIELD CUES: timbral change, breath-envelope discontinuity, spectral novelty, emergence/cessation of sustained energy, and long-duration continuity. CLOCK CUES: beat acquisition/loss, rhythmic regularity, subdivision density, accent hierarchy, expected-versus-omitted events, and meter stability. The hypothesis is that the weights assigned to these families shift as Ankora's Clock becomes perceptually available. This is a model of listener behavior to be tested, not a claim that the brain literally switches between two discrete systems.
+
+
+7. GROUND ANCHOR: STRUCTURE WITHOUT THE DRUM
+Ground Anchor gives Amastacia a demanding compositional role. If the only clearly detectable transition in a Ground Anchor excerpt is the moment Ankora arrives, we may have failed to characterize how listeners organize the Drone itself. Ask whether listeners mark Amastacia breath changes, harmonic openings, pauses or changes in spectral roughness as small boundaries. Record whether they hear any stable underlying beat. A stable Field may be compelling precisely because few strong boundaries occur; absence of clicks is not failure. It may represent successful continuity.
+
+
+8. THRESHOLD GATE: A CHANGE IN LISTENING STRATEGY
+Ankora's first physical strike is not the same as Clock acquisition. The Gate may span several beats as listeners infer a stable interval and metric level. At approximately 137 BPM, a nominal beat interval is about 438 milliseconds, but the listener might adopt a half-time interpretation. The experiment should distinguish the first drum attack, the first run of regular attacks, the earliest reliably recoverable beat, and the listener's reported transition. A Gate may be a zone in which the criteria for detecting subsequent boundaries change. This is more interesting than merely finding a large click peak near the first strike.
+
+
+9. RISING PULSE: MORE EVENTS, LESS INFORMATION?
+During Rising Pulse, Ankora can increase Surface density while holding the Scaffold relatively stable. The 2026 segmentation study raises a useful caution: a dense passage does not guarantee a corresponding increase in distinct perceived sections. Listeners may simplify the stream, tracking the stable Clock or larger gestures instead of every event. That is a plausible explanation for why a high-density Rising Pulse could feel continuous and urgent while generating relatively few macro-boundary taps. Density may shape the state without segmenting it.
+
+
+10. RETURN PATH: THE CLOCK CAN DISAPPEAR BEFORE THE DRUM
+Return Path reverses the relationship. Ankora may thin the Surface while maintaining a few predictable attacks; later the listener loses confidence in the Clock; finally the drum ceases. The strongest perceptual boundary may occur when the rhythmic rule becomes unreliable, not at the last strike. Once the Clock disappears, listeners may again rely more heavily on Amastacia's Field cues. A complete KLAAT journey might therefore change segmentation strategy twice: Field-dominant to Clock-organized, then back to Field-dominant. That trajectory is an especially clear KLAAT-specific prediction.
+
+
+11. THE SAME CHANGE CAN MEAN TWO DIFFERENT THINGS
+Imagine an increase in Amastacia's upper harmonics. During Ground Anchor it might be the dominant audible transformation. During dense Ankora activity it might be masked, ignored or integrated into the continuing rhythmic state. Conversely, a single displaced drum accent is meaningless before a Clock exists but can be structurally salient after many stable repetitions. The physical size of a change is not its perceptual importance. Its context matters. This links the current question to the Earned Wound and the Predictive Salience Gate without assuming those hypotheses have been validated.
+
+
+12. THE ACOUSTIC NOVELTY COMPETITOR
+Spectral flux, RMS change and event density can be calculated from recordings. They are valuable competing predictors, but a novelty peak is not automatically a perceived section boundary. Smith, Chuan and Chew (2014) found relationships between acoustic novelty and expert-annotated musical boundaries, while emphasizing dependence on feature and scale. KLAAT should compare acoustic novelty against a phase-dependent cue model. If novelty alone predicts listeners just as well, we do not get to claim a special Field/Clock mechanism.
+
+
+13. ANNOTATION TASKS CHANGE THE ANSWER
+Hartmann, Lartillot and Toiviainen (2016) compared real-time and retrospective musical segmentation. They reported task effects on the number and timing of boundary indications, with timing differences related to beat length and broader smoothing scales sometimes needed when Pulse clarity or event density was low. This directly challenges the idea that every click can be compared with a physical event to the nearest second without qualification. KLAAT must preserve which task generated each annotation. Real-time clicks, retrospective replay markings and open-ended post-performance descriptions are different measurements.
+
+
+14. A BOUNDARY CAN BE A ZONE
+A 2007 study of symphonic movement transitions described transitions as extended intervals rather than instantaneous events. More recent music-segmentation methods explicitly represent uncertainty about segment endpoints rather than forcing every boundary to a single frame. KLAAT should preregister a plausible transition interval for gradual Gates and Returns, alongside a narrower event window for abrupt onsets. The interval must be justified from the intended performance trajectory before listener data are examined. Making the window wider after seeing the clicks is not a legitimate rescue.
+
+
+15. DO NOT TREAT CLICK DENSITY AS A UNIVERSAL SALIENCE METER
+Some studies report that many listener clicks coincide with stronger rated boundaries; others find that the relationship varies by task and musical material. Click count can reflect salience, instruction compliance, or how readily a passage affords discrete timestamps. A gradual Rising Pulse may be experienced strongly while producing scattered clicks. A sharp drum entrance may generate synchronized clicks even if it is less emotionally important. Report boundary frequency and perceived strength separately.
+
+
+16. THE RESPONSE-LAG PROBLEM
+A listener presses a button after recognizing a change. The delay includes perception, decision and motor response. Retrospective marking has a different timing process. A measured click at 03:04 cannot automatically be interpreted as perception beginning at 03:04. A simple practice trial with abrupt, unambiguous sound changes can characterize each person's response delay, but it does not perfectly calibrate response to a gradual musical transformation. Retain raw click times and use latency-corrected times only as a labeled sensitivity analysis.
+
+
+17. A TWO-LEVEL ANNOTATION MODEL
+For KLAAT, define MACRO BOUNDARIES as transitions between large phases and MICRO BOUNDARIES as local changes inside a phase. Never combine them without identifying the analysis level. The first listening task should ask for the few largest changes without naming the four phases. A separate task can ask for smaller local changes. Otherwise, an especially attentive listener could generate many clicks in Rising Pulse, which might be misread as evidence of several extra phases.
+
+
+18. HOW TO COMPARE MODELS FAIRLY
+Model A: elapsed-time and phase-duration baseline. Model B: simple acoustic novelty, loudness and event density. Model C: a single cue-weighting rule applied throughout. Model D: a phase-dependent rule whose cue weights can change with independently measured Pulse clarity. Model D has more flexibility and must pay for it. Fit model parameters using one human-performed take, then evaluate on a second take; ideally repeat across additional takes. Do not infer four phases by telling the algorithm there must be exactly four. A model that discovers five or two perceptual regions may be reporting the data more faithfully.
+
+
+19. CHANCE, AUTOCORRELATION AND LEAKAGE
+Listener taps often cluster, and musical cues change smoothly. Randomly scattering taps across the full recording can provide one null baseline, but may destroy temporal dependencies. A circular-shift or block-based null preserving tap spacing provides a useful second sensitivity check, with care around start/end boundaries. If the same recording is used to choose features, select matching windows, tune smoothing and report final accuracy, the estimate will be optimistic. A held-out take is more informative than many shuffled windows from one performance.
+
+
+20. THE COMPOSITIONAL PAYOFF
+If the hypothesis survives testing, the performer gains a practical design principle. Ground Anchor can develop through breath and Field changes without prematurely suggesting a drum beat. Threshold Gate can deliberately teach the Clock rather than merely announce Ankora's arrival. Rising Pulse can intensify the Surface while keeping large-scale continuity intact. Return Path can progressively remove the Clock, allowing Amastacia's Field to become the primary organizer again. This is not a demand for rigid notation; it is a vocabulary for shaping attention with two acoustic instruments.
+
+
+21. ESTABLISHED EVIDENCE
+ESTABLISHED — Listeners segment continuous music into perceptually meaningful units, but the locations and numbers of boundaries vary among listeners and tasks.
+ESTABLISHED — In Dean and Taylor's 2026 pulsed/unpulsed study, event density was especially predictive for unpulsed excerpts, and acoustic features including spectral measures and RMS-related dynamics contributed to segmentation models.
+ESTABLISHED — Sparse and dense musical material can show different statistical predictors of segmentation in the studied sample.
+ESTABLISHED — Real-time versus retrospective boundary annotation can differ in timing and number of responses.
+ESTABLISHED — Musical transitions may be extended intervals rather than instantaneous points.
+ESTABLISHED — Acoustic novelty and listener-identified boundaries are related in some music, but the relationship depends on representation and scale.
+
+
+22. CONTEXT-DEPENDENT EVIDENCE
+CONTEXT-DEPENDENT — Dean and Taylor tested 65 non-music-program listeners with 26 diverse excerpts, not KLAAT's long-form C# didgeridoo and elk-hide drum.
+CONTEXT-DEPENDENT — Their statistical predictors should not be read as universal causal mechanisms or as a fixed ranking of features for every genre.
+CONTEXT-DEPENDENT — The label “unpulsed” does not imply the absence of breath rhythm, temporal grouping or low-frequency modulation.
+CONTEXT-DEPENDENT — Response delays and useful boundary windows depend on task, musical material and listener.
+CONTEXT-DEPENDENT — Spectral flux or RMS change may be confounded with instrument entrance, level and recording conditions.
+CONTEXT-DEPENDENT — A dense passage may be experienced as more urgent, less segmentable, both or neither.
+
+
+23. PLAUSIBLE AND TESTABLE KLAAT HYPOTHESES
+PLAUSIBLE/TESTABLE — Listener boundary reports rely more strongly on Amastacia Field changes when Ankora's Clock is not yet perceptually established.
+PLAUSIBLE/TESTABLE — As Clock clarity increases in Threshold Gate, beat and accent structure gain predictive value for listener segmentation beyond event density alone.
+PLAUSIBLE/TESTABLE — Increasing Surface density during Rising Pulse can increase urgency without proportionately increasing the number of macro-boundary reports.
+PLAUSIBLE/TESTABLE — During Return Path, listeners begin relying more on Field cues as their inferred Clock weakens, possibly before Ankora's last physical strike.
+PLAUSIBLE/TESTABLE — A phase-dependent cue model predicts blind listener transitions on held-out performances better than one fixed cue rule or simple loudness/density baselines.
+PLAUSIBLE/TESTABLE — Gradual phase transitions produce wider, less synchronized annotation distributions than abrupt, discrete onsets.
+
+
+24. SPECULATION
+SPECULATION — The four-phase KLAAT journey may be partly a journey through different ways of listening, not merely through four acoustic intensity states.
+SPECULATION — Amastacia could maintain perceptual continuity during dense Ankora activity even as the listener's segmentation strategy becomes more beat-oriented.
+SPECULATION — A future KLAAT notation system may represent “Clock acquisition” and “Clock release” as gradual trajectories rather than exact bar lines.
+SPECULATION — The most effective Rising Pulse may be one that feels increasingly urgent while remaining a single coherent macro-event.
+
+
+25. UNSUPPORTED CLAIMS
+UNSUPPORTED — Dean and Taylor's study proves that KLAAT listeners switch neural segmentation systems when Ankora begins.
+UNSUPPORTED — Amastacia alone has no pulse or meaningful internal events.
+UNSUPPORTED — More Ankora events necessarily produce more perceived boundaries or stronger activation.
+UNSUPPORTED — A spectral-novelty peak establishes a psychologically meaningful phase transition by itself.
+UNSUPPORTED — Four intended phases must produce exactly three synchronized listener clicks.
+UNSUPPORTED — A model's improved in-sample accuracy proves a unique mechanism or therapeutic effect.
+UNSUPPORTED — Phase segmentation, beat tracking or perceived urgency proves trance, healing, autonomic regulation or physical resonance.
+
+
+26. METHODOLOGY UPDATE — PULSE-CONDITIONAL SEGMENTATION GATE
+Preserve three distinct layers: (a) performed event/acoustic timeline, (b) listener-inferred Pulse clarity and metrical level, and (c) listener macro/micro boundary reports. Predefine Field and Clock cue families. Keep acoustic novelty, SPL, elapsed time and event density as competing predictors. Annotate the first Ankora strike, the interval of Clock acquisition, the onset of sustained Surface change, the beginning of Clock withdrawal and the last Ankora strike separately. Permit preregistered transition zones for gradual changes; retain raw timestamps and report sensitivity to response lag and matching tolerance. Evaluate models on independently performed takes, not shuffled fragments of one take. Keep KSV-0.1 = [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL] provisional. Pulse-conditional segmentation is a candidate interpretation layer, not a fifth KSV dimension.
+
+
+27. PRACTICAL KLAAT EXPERIMENT — KRX-074: THE CLOCK-DEPENDENT BOUNDARY CROSSOVER
+OBJECTIVE: Test whether the musical cues predicting perceived boundaries differ when listeners do and do not have a recoverable Ankora Clock, and whether the shift recurs during Return Path.
+
+
+RECORDING: On two different days, make two natural 12–15-minute KLAAT performances using only Amastacia and Ankora. Include all four phases. Keep them human-performed and unedited as primary stimuli. Privately record the intended phase-transition zones before collecting listener reports. Mark major Amastacia breath/spectral changes, all Ankora onsets, first regular beat run, increasing subdivisions, onset of withdrawal and last strike. Keep levels comfortable and record microphone placement.
+
+
+PRE-REGISTERED COMPARISONS: Select, before listening to participant responses, three kinds of windows in each take: (1) Amastacia Field changes without a strong Ankora Clock; (2) Amastacia Field changes during a clear Ankora Clock; and (3) Ankora accent/density changes during a clear Clock. Include two non-transition control windows matched as closely as practical for loudness and duration. These windows will not be perfectly matched: document the differences.
+
+
+LISTENERS: Recruit 8–12 consenting participants for a feasibility pilot, without teaching them KLAAT's four phase names. First hear each take without interruption. Collect a neutral free description and a rough drawn trajectory of change. On a later replay, ask for the few largest structural boundaries. Use a separate pass for local changes. Counterbalance take order and preserve which pass generated each response.
+
+
+PULSE CHECK: In a separate short task, ask listeners whether a regular beat is present in selected windows and, if present, tap or describe its approximate rate. Do not assume that a measured 137 BPM Scaffold is the beat each listener hears. Avoid making the Pulse check itself the primary uninterrupted listening task.
+
+
+ANALYSIS: Compare the rate of macro/micro boundary marks near preregistered Field changes in unpulsed versus pulsed windows; compare them with Ankora Clock-cue changes. Examine raw clicks and ±2 s/±5 s sensitivity analyses for abrupt changes; treat gradual Gate/Return as preregistered zones. Include count-preserving random and spacing-preserving shifted nulls. Compare simple acoustic predictors against a Pulse-conditional cue model. Treat participants and performances as distinct units; the pilot estimates feasibility and patterns, not definitive statistical proof.
+
+
+DECISION: If Field cues predict segmentation more strongly without a clear Clock and Clock cues gain importance when Ankora becomes perceptually established, retain the Pulse-Conditional Segmentation Gate as a promising KLAAT-specific mechanism. If cue weights do not change, prefer a simpler shared model. If listener boundaries remain broad or inconsistent, represent transitions as trajectories and revise the annotation method. If only loudness or obvious drum entrance predicts the results, say so and simplify the compositional theory.
+
+
+DECISIVE QUESTION: WHEN AMASTACIA HOLDS THE FIELD AND ANKORA TEACHES THEN RELEASES THE CLOCK, DOES THE LISTENER CHANGE HOW THEY HEAR MUSICAL STRUCTURE — AND CAN WE SHOW THAT CHANGE WITHOUT TELLING THEM WHERE THE FOUR PHASES ARE?
+
+
+PRIMARY SOURCES
+1. Dean RT, Taylor JR (2026). Comparing perceptual segmentation in pulsed and unpulsed music with diverse event densities. Psychological Research 90(5), article 165. DOI 10.1007/s00426-026-02371-w. https://doi.org/10.1007/s00426-026-02371-w
+2. Hartmann M, Lartillot O, Toiviainen P (2016). Multi-scale Modelling of Segmentation: Effect of Musical Training and Experimental Task. Music Perception 34(2), 192–217. DOI 10.1525/mp.2016.34.2.192. https://doi.org/10.1525/mp.2016.34.2.192
+3. Bruderer MJ, McKinney MF, Kohlrausch A (2009). The perception of structural boundaries in melody lines of Western popular music. Musicae Scientiae 13(2). DOI 10.1177/102986490901300204. https://doi.org/10.1177/102986490901300204
+4. Smith JBL, Chuan CH, Chew E (2014). Audio Properties of Perceived Boundaries in Music. IEEE Transactions on Multimedia 16(5), 1219–1228. DOI 10.1109/TMM.2014.2310706. https://doi.org/10.1109/TMM.2014.2310706
+5. Sridharan D et al. (2007). Neural Dynamics of Event Segmentation in Music. Neuron 55(3), 521–532. DOI 10.1016/j.neuron.2007.07.003. https://doi.org/10.1016/j.neuron.2007.07.003
+6. Guichaoua C, Lascabettes P, Chew E (2024). End-to-End Bayesian Segmentation and Similarity Assessment of Performed Music Tempo and Dynamics without Score Information. Music & Science. DOI 10.1177/20592043241233411. https://doi.org/10.1177/20592043241233411
+7. Wang C-i, Mysore G, Dubnov S (2017). Re-visiting the Music Segmentation Problem with Crowdsourcing. ISMIR 2017. https://research.adobe.com/publication/re-visiting-the-music-segmentation-problem-with-crowdsourcing/
+
+
+INTERNAL CONTINUITY
+Prior sessions: 63 (listener temporal baseline), 65 (architecture validation), 66 (KSV-0.1), 67 (two speeds), 70–71 (predictive omission and attention), 72 (ecological transfer), 73 (boundary validity). Latest hourly note: KLAAT_hourly_2026-10-05_1833_CDT.txt, previously incorporated into the mechanics track. No later hourly notes available at publication. No participant or sensor results are represented as having occurred.
+
+
+END OF SESSION 74

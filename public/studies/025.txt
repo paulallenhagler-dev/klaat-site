@@ -1,0 +1,17 @@
+SESSION 25 — TACTILE MASKING
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+Vibration can mask vibration just as sound can mask sound. Continuous tactile stimulation can make subtler changes harder to detect, and adaptation can reduce sensitivity over time.
+
+
+This suggests KLAAT should preserve tactile dynamic range rather than maximizing vibration continuously.
+
+
+Evidence boundary
+Established: vibrotactile masking and adaptation occur; tactile perception depends on receptor pathway and stimulus conditions. Plausible: removing a strong tactile component may reveal previously unnoticed subtler vibration.
+
+
+KLAAT test
+With a controlled vibration source or mechanically coupled setup, identify three levels: first detectable, clearly present, and dominant. Then test whether a weak tactile event is easier to detect before, during, or after a stronger continuous vibration.

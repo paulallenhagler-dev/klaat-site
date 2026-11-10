@@ -1,0 +1,100 @@
+KLAAT RESONANCE RESEARCH — SESSION 149
+THE NOTE THAT THE DRUM NEVER PROMISED
+Why Ankora's spectral peaks need not form a musical harmonic series
+4 November 2026 | 15:15 CST
+Guiding principle: Experience-led creation. Science-informed refinement.
+
+
+RESEARCH QUESTION
+When a spectrogram of an Ankora elk-hide frame-drum strike contains several prominent frequencies, is it defensible to describe them as the harmonics of one musical note? Or might the drum's vibrating membrane produce a collection of modes that cannot be reduced to one fundamental pitch? This distinction matters when the C# identity of Amastacia's drone is discussed alongside Ankora's rhythmic, tactile, and textural contribution.
+
+
+WHY THIS SESSION, AND WHAT IT DOES NOT REPEAT
+The latest hourly research note (November 4, 14:14 CST) isolated the membrane-mode-versus-note question. The immediately preceding published sessions 143–148 addressed masked strike detection, headset microphone mode, duplicate questionnaire submissions, visual influence on strike perception, performer versus listener bodily hearing, and recorder clock drift. Earlier hourly notes explored Amastacia pitch-tracker octave errors and percussion onset detection. Those are adjacent but not identical: the present issue concerns the physical *frequency relationships* within an individual drum strike, and the inferential leap from a frequency peak to a named note. This is a provisional novelty judgment based on the available index and recent notes, not a claim that every historical sentence was exhaustively compared.
+
+
+1. WHAT A SPECTRAL PEAK ACTUALLY ESTABLISHES
+A microphone converts changing sound pressure at its location into a waveform. A Fourier spectrum estimates the frequency content of a selected time interval. A prominent peak means that energy near that frequency was relatively strong in that recorded interval, subject to windowing, microphone response, room reflections, and interference. It does not, by itself, establish the physical source of that energy, a stable note, a fundamental frequency, or what a listener consciously hears.
+
+
+For an isolated drum strike, the early attack may be broadband and noisy; the later decay may emphasize particular resonances. A spectrogram may therefore change markedly depending on whether it samples the first 20 milliseconds, a later 100 milliseconds, or the entire decay. Analyzing a simultaneous Amastacia–Ankora performance is harder: the didgeridoo contributes sustained tonal components that can be misassigned to the drum, while the drum's attack can obscure the drone briefly. This is a source-separation problem, not evidence that the music is confused.
+
+
+2. WHY A STRING'S HARMONICS ARE THE WRONG DEFAULT MODEL
+An ideal flexible string fixed at both ends supports transverse standing waves whose frequencies are integer multiples of a fundamental: f, 2f, 3f, and so forth. Many pitched wind instruments also exhibit approximately harmonic partial series under particular conditions, although real instruments depart from ideality. A circular membrane is a two-dimensional vibrating surface. It supports radial and angular patterns, and their frequencies are determined by a different eigenvalue problem.
+
+
+For an ideal, uniformly tensioned, thin circular membrane with a fixed rim, the wave equation yields frequencies proportional to zeros of Bessel functions. The lowest axisymmetric mode has the first zero of J0, approximately 2.4048. The next distinct low modes use the first zero of J1, approximately 3.8317, and of J2, approximately 5.1356. Dividing by 2.4048 gives approximate frequency ratios 1 : 1.593 : 2.136. These are not the 1 : 2 : 3 harmonic series of an ideal string. They are mathematical predictions for a simplified membrane, not measured frequencies of Ankora.
+
+
+The distinction is important: a peak at 1.593 times another peak is not necessarily an 'overtone' in the everyday sense of a harmonic at 2 times the fundamental. 'Partial' or 'mode-associated peak' is safer until the source and relationships are verified. Likewise, 'inharmonic' describes frequency relationships, not aesthetic failure or the absence of musical expressiveness.
+
+
+3. ANKORA IS NOT AN IDEAL MEMBRANE
+Ankora has an elk-hide head, a wooden frame, air on both sides, a hand supporting it, and a performer whose contact changes continuously. The hide may vary in thickness, density, tension, and moisture content. The rim may not be perfectly rigid; the surrounding air loads the membrane; the support hand may damp selected motions; and the striking hand excites different spatial patterns depending on contact position and force. All of these can alter the spectrum relative to the ideal Bessel-mode prediction.
+
+
+Moreover, a strike is a transient rather than an indefinitely sustained sinusoid. A finite analysis window broadens spectral peaks; a short window gives better time localization but coarser frequency discrimination. Frequency estimates may also be contaminated by Amastacia, clothing sounds, the frame, the room, microphone processing, or automatic gain control. The ideal-mode ratios are therefore a diagnostic reference, not a tuning prescription or a fingerprint that Ankora must match.
+
+
+4. DOES AN INHARMONIC DRUM HAVE PITCH?
+Not necessarily a single, stable pitch; but neither is 'pitchless' a justified universal conclusion. Perceived pitch is a psychophysical judgment that depends on the sound's spectrum, temporal evolution, level, context, and listener. Some inharmonic instruments produce salient pitch percepts through prominent modes or spectral patterning. Others are perceived chiefly as impacts, low thuds, buzzing, or textured decay. A listener may also hear the drum in relation to Amastacia's sustained C# even if they cannot assign the drum an independent note.
+
+
+This separates three questions often collapsed into one: (a) What frequencies are measured? (b) What vibrational mechanism generated them? (c) What pitch, if any, does a person hear? None can be fully answered by a tuner screenshot. An automatic pitch-tracker is an algorithm applying assumptions about periodicity and harmonic structure. It can output a plausible note label even when the underlying input is a noisy or inharmonic percussion transient. A confident-looking number is not a validation experiment.
+
+
+5. WHY THE DISTINCTION MATTERS FOR KLAAT
+Amastacia's nominal C# is a useful identifying description of the drone instrument. Ankora's contribution may be more accurately described in terms of attack density, low-frequency energy, decay, spectral brightness, dynamic articulation, and how it interacts with the sustained drone. This is not a claim that the drum cannot be tuned or heard tonally; it is a refusal to assign it a definite note without evidence.
+
+
+KLAAT's artistic power does not require both instruments to share a key, a formal harmonic progression, or a mathematically optimized resonance relationship. Paul's simultaneous breathing and striking can create a compelling acoustic event precisely because pulse and drone have different physical behaviors. Research can explain those behaviors while leaving the improvisation intact.
+
+
+6. A MINIMAL MEASUREMENT PLAN WITHOUT REWRITING THE MUSIC
+First, preserve the original unedited phone audio and note whether it contains isolated or nearly isolated Ankora attacks. Second, identify a few naturally occurring attacks, not a specially composed pattern. Third, compare spectra for several time windows—early attack and later decay—and record the window length, sample rate, microphone path, and any obvious Amastacia overlap. Fourth, mark peaks as measured spectral features, not as 'drum notes.' Fifth, if an isolated close recording becomes available, compare its peak relationships against the ideal-membrane reference, explicitly expecting departures. Finally, if pitch matters to the research question, ask a few listeners independently whether they hear a definite note, a vague tonal center, or primarily percussive texture. Do not tell them the algorithm's answer first.
+
+
+A small sample can reveal whether a proposed pitch judgment is easy or difficult, but cannot establish a population-wide perceptual fact. Listeners may disagree without anyone being wrong about their subjective experience. Recording location and playback system must be documented, particularly because low-frequency energy can change dramatically across speakers and headphones.
+
+
+7. EVIDENCE GRADES AND BOUNDARIES
+ESTABLISHED: The ideal fixed circular membrane has non-integer modal frequency ratios derived from Bessel-function zeros. A Fourier peak is a feature of a measured signal, not a direct report of subjective pitch. Short-time spectral estimates depend on window selection.
+
+
+CONTEXT-DEPENDENT: A real frame drum's modal frequencies and audibility depend on membrane, frame, loading, contact, and measurement. Inharmonic percussion can sometimes produce pitch percepts. Automated note estimators may fail outside the sound classes for which they were designed.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT: Ankora's isolated attacks may show multiple inharmonically related resonances; these may vary with support, striking position, humidity, and time after attack. Amastacia may mask some modes in simultaneous recordings. Different listeners may disagree on whether Ankora has a stable pitch.
+
+
+SPECULATIVE: Particular modal relationships could contribute to the perceived heaviness, urgency, or absorption of the combined performance. Such relationships have not been measured in KLAAT and are not established causes of listener states.
+
+
+UNSUPPORTED: That Ankora produces a specific therapeutic frequency; that its spectral peaks prove neural entrainment; that the two instruments generate a uniquely trance-inducing harmonic relationship; that the ideal membrane ratios have been observed in Ankora; or that any KLAAT-specific listener neurological effect has been demonstrated.
+
+
+8. LIMITATIONS AND NEXT UNRESOLVED QUESTION
+This session does not analyze an actual Ankora recording. It uses a well-established idealized membrane model and general principles of signal analysis. The ideal model may fit a real hand-held hide drum poorly. The most useful next advance is empirical: which spectral features of Ankora remain stable across naturally varying strikes, and which are dominated by microphone placement, support contact, or overlap with Amastacia? That is a measurement question, not a request for a new composition.
+
+
+OPTIONAL OBSERVATION
+On one existing video, find a single drum strike that is relatively clear. Listen once for attack and decay without trying to name a note. Then, if convenient, inspect its spectrogram and notice whether the strongest frequency changes between the attack and the tail. Record what you observed without treating any tuner label as authoritative. No change in playing is necessary.
+
+
+SOURCES AND VERIFICATION
+- Standard circular-membrane wave-equation solution: Bessel-function zeros j(0,1)=2.4048256, j(1,1)=3.8317060, j(2,1)=5.1356223; ratios computed as approximately 1, 1.593, 2.136. These are mathematical reference values, not empirical Ankora measurements.
+- Fletcher, N. H., and Rossing, T. D., The Physics of Musical Instruments, 2nd ed., Springer (1998), chapters on membranes and percussion; foundational technical reference, not newly examined in full during this publication.
+- Rossing, T. D., Science of Percussion Instruments, World Scientific (2000); background reference for physical percussion acoustics, not newly examined in full.
+- KLAAT hourly note, 2026-11-04 14:14 CST, 'Ankora Membrane Modes Versus Musical Pitch Estimates'; canonical provenance retained in ChatGPT Library.
+
+
+No numerical KLAAT acoustic data, listener ratings, physiological measurements, or causal intervention results were available for this session. Scientific reference claims should be checked against original technical publications before external academic citation.
+
+
+CURATION — CURRICULUM INDEX
+Session 149 | Drum acoustics / interpretation | The Note That the Drum Never Promised | Ideal circular-membrane mode ratios are not integer harmonic ratios; do not infer a single Ankora musical note from spectral peaks or pitch-tracker output. Distinguish measured peaks, physical modes, and perceived pitch. No KLAAT-specific measurements.
+
+
+CURATION — RESEARCH LEDGER
+Session 149: Established mathematical reference: ideal fixed circular membrane low-mode ratios ~1:1.593:2.136; real elk-hide frame drum requires empirical testing. Open question: do naturally occurring Ankora strikes exhibit stable identifiable modal peaks, and do listeners hear pitch independently of Amastacia? Confounds: attack-window length, source overlap, frame/air loading, contact, microphone, room, and playback. No evidence of KLAAT-specific neural, trance, or therapeutic effects. Provenance: 2026-11-04 14:14 CST hourly note.

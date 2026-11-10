@@ -1,0 +1,222 @@
+KLAAT RESONANCE RESEARCH — SESSION 100
+THE MUSIC THAT CONTINUES AFTER THE ROOM GOES QUIET
+Involuntary musical imagery, internal pulse, and the limits of carrying KLAAT beyond playback
+Published: October 18, 2026 — 7:17 PM CDT
+Research principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+Status: Evidence synthesis, open questions, and optional KLAAT observation. No KLAAT-specific listener, neural, or physiological effect has been demonstrated.
+
+
+CENTRAL QUESTION
+
+
+A KLAAT performance ends. Amastacia's C# drone has stopped; Ankora's last membrane vibration has decayed; the playback device is silent. Yet a listener later notices a rhythm, a drone contour, a breath texture, or a short passage recurring in the mind without deciding to remember it. Is this possible in the ordinary science of music cognition? What would it mean if a sparse, improvised sound world remained mentally active after the external sound ended—and what would it NOT mean?
+
+
+The central distinction is between hearing KLAAT now, voluntarily recalling KLAAT, spontaneously experiencing an internal fragment of KLAAT later, and experiencing a sound that seems to come from the external environment. These are different events. The first is acoustic perception; the next two involve musical memory and imagery; the last requires careful distinction from ordinary imagery. None is, by itself, proof of entrainment, altered consciousness, therapy, or a continuing physical vibration.
+
+
+This is an investigation of what spontaneous listening can leave behind. It is not a suggestion that Paul make a catchy hook, repeat a fixed bar, or change the improvised sound of Amastacia and Ankora.
+
+
+1. WHY SESSION 100 IS A DISTINCT QUESTION
+
+
+The novelty audit consulted the connected Master Instructions, Curriculum Index, Research Ledger and Session Corpus through Session 99, plus the ChatGPT Library Published Studies and the newest hourly notes through October 18, 17:54 CDT. Sessions 84 and 85 examined familiarity, habituation, attention and imagery DURING listening. Session 86 examined experienced time; Session 97 separated immediate experience from retrospective and next-day memory. Session 99 examined bodily chills. Recent hourly notes investigate cross-frequency masking release, instrument hygiene, algorithmic source separation, recruitment selection and room rattles. None of these isolates the UNINVITED, repetitive return of internally heard music after the sound has ended.
+
+
+The new variable is not remembered intensity. It is the occurrence, content, timing, controllability and emotional character of involuntary musical imagery (INMI), often called an earworm. This is a well-studied phenomenon in conventional songs, but its application to a largely nonmelodic, drone-and-frame-drum practice is genuinely uncertain. That uncertainty is the point.
+
+
+2. WHAT SCIENTISTS MEAN BY AN EARWORM
+
+
+INMI refers to music coming to mind without a deliberate decision to retrieve it, commonly as a short recurring fragment. An individual may recognize the source immediately or may only notice a beat, contour or timbral impression. Voluntary mental rehearsal is not INMI; hearing the recording again is not INMI; simply remembering that a concert was powerful is not INMI. A mental musical image can also occur once without looping, so the narrower 'earworm' definition does not cover every spontaneous sound memory.
+
+
+A report such as 'I kept hearing that drum pulse in my head while doing dishes' is potentially relevant. 'I can remember the drone if I try' is a different, voluntary-recall observation. 'My ears were ringing after the concert' is not evidence of an earworm and raises a separate hearing-exposure question. A sound that seems genuinely external when no source is present also cannot simply be relabeled INMI without understanding the experience.
+
+
+The mechanism does not require the air in a room to keep vibrating. Involuntary musical imagery is a cognitive event that may occur after acoustic stimulation has ceased. Treating it as literal continuing resonance would confuse physical acoustics with memory.
+
+
+3. PRIMARY EVIDENCE: EXPOSURE CAN BE FOLLOWED BY UNINVITED REPLAY
+
+
+Liikkanen (2012) reported three internet-based experiments using cued recall and delayed reports. Under conditions where familiarity was controlled, INMI was induced in more than half of participants. Importantly, this was a particular laboratory-style induction paradigm using musical stimuli and prompts; 'more than half' is not the probability that any KLAAT listener will experience a drone or drum earworm. The experiments also suggested that rehearsal in the recent past could be a stronger predictor than immediate activation of a musical memory. Thus, exposure and later imagery are related but not equivalent.
+
+
+Byron and Fowles (2015) tested 36 participants with previously unfamiliar songs. Participants heard a song either twice or six times, then completed three days of probe-caught experience sampling. More familiarized songs appeared more often as INMI, and reports were more common earlier in the sampling period. A personal-life-processing manipulation did not produce the expected difference. This is particularly useful because it shows that familiarity need not be established over years, but the stimuli were songs, not a C# drone with elk-hide percussion.
+
+
+Hyman and colleagues (2013) combined surveys, diaries and laboratory experiments. Familiar, liked songs—not merely annoying ones—could recur involuntarily. Immediate continuation in the mind after listening was associated with recurrence during the following 24 hours. Environmental cues and cognitive context mattered. However, this was not a randomized test of KLAAT, and reports of 'intrusiveness' must not be equated with clinical pathology.
+
+
+Evidence tier: ESTABLISHED in studied musical populations and stimuli that recent exposure and familiarity can influence INMI. CONTEXT-DEPENDENT for which material, listeners and tasks produce it. UNTESTED for KLAAT.
+
+
+4. WHAT ACTUALLY COMES BACK: MELODY, TIMBRE, OR RHYTHM?
+
+
+This is the difficult KLAAT question. Conventional earworm research overwhelmingly studies recognizable songs with melody and often lyrics. Jakubowski, Finkel, Stewart and Müllensiefen (2017) examined tunes named as INMI by 3,000 survey respondents. They compared 100 frequently named INMI tunes with 100 comparison tunes matched for popularity and style, using 83 melodic features. INMI tunes showed relatively common global melodic contours, less common gradients between turning points, and faster average tempi. These are group-level associations in a song corpus; they are not a recipe for making music memorable, nor evidence that fast tempo causes an earworm.
+
+
+Amastacia is not a pop-song melody generator. It can sustain a pitch center while its harmonic emphasis, formant-like vowel character, breath articulation and noise surface shift. Ankora may supply a recurring temporal identity without a pitched tune. The essential empirical question is whether listeners spontaneously reproduce a particular acoustic feature, a rhythmic pattern, an imagined overall atmosphere, or something too vague to identify reliably.
+
+
+Bailes (2007) found in an experience-sampling study of music students that melody and lyrics were generally more vividly imagined than timbre and expression; 58% of sampled imagery episodes were associated by participants with recently hearing or performing the music. The 58% is a reported possible antecedent in that sample, not a causal effect or a universal prevalence. If timbre is less vivid than melody on average, KLAAT's most distinctive textures might be less likely to return as precise mental audio than its drum pulse. That is a plausible hypothesis, not a conclusion.
+
+
+A KLAAT listener might internally replay only the spacing of Ankora's attacks, only Amastacia's breath-colored drone, both as a coupled gesture, or nothing at all. The research should accept all four possibilities.
+
+
+5. THE INTERNAL CLOCK IS MEASURABLE, BUT NOT PERFECT
+
+
+One of the strongest methodological findings comes from Jakubowski and colleagues (2015). Seventeen volunteers who already experienced frequent earworms were asked to tap along to their involuntary music using a wrist-worn accelerometer for four days. They reported 275 episodes; 228 had usable tapping data. The measured internal-music tempi ranged from 42.0 to 196.5 beats per minute, with a mean of 100.9 bpm. Those are tempos of the participants' various remembered songs, not a biologically preferred tempo and not a KLAAT target.
+
+
+For 115 episodes with an identifiable canonical recording, after excluding likely half-time/double-time interpretations, tapped tempo correlated with recorded tempo at r = 0.77. Mean absolute deviation was 10.8%; 59.1% of episodes were within 10% of the recording's tempo, and 77.4% were within 15%. This is evidence that internal tempo can be surprisingly faithful, not perfectly fixed. The study also found regression toward the mean: faster originals tended to be recalled somewhat slower and slower originals somewhat faster.
+
+
+Crucial limitations: only 17 selected volunteers; repeated observations are not 228 independent people; participants were screened for reliable tapping; many songs lacked one canonical recording; half/double-time cases were removed; tapping may alter the mental experience. Within-person recurrences of the same eight songs showed a mean 19.6% slowest-to-fastest tempo difference, emphasizing variability.
+
+
+KLAAT's reference Ankora pulse of approximately 137 BPM is a provisional measurement of one recording, not a compulsory tempo. If a listener spontaneously 'hears' Ankora afterward and taps around 137 BPM, that could be interesting, but tapping at roughly 68.5 or 274 BPM could reflect metrical level rather than memory failure. Even an accurate match would demonstrate tempo memory or temporal reconstruction—not neural entrainment or a persisting physical pulse.
+
+
+6. THE CONTRADICTION: REPETITION HELPS MEMORY, BUT 'CATCHINESS' IS NOT A SINGLE PROPERTY
+
+
+Several findings coexist without collapsing into one rule. Familiarity and repeated exposure can increase the likelihood of later INMI in controlled song experiments. Yet melodic shape, popularity, recency, personal association, cognitive state and listening context also contribute. A slow piece may recur; a fast piece may not. A deeply absorbing piece may never recur; an ordinary radio fragment may return unexpectedly. The strongest 'catchiness' studies cannot tell us whether KLAAT's drone or pulse is mentally sticky.
+
+
+The study of INMI also reveals that more mental replay is not always desirable. Beaman and Williams (2010) found that earworms were widespread and usually not considered problematic, but some people found them difficult to control. They also observed that active attempts to suppress an earworm were less successful than passive acceptance, an association compatible with—but not definitive proof of—ironic mental-control processes.
+
+
+Scullin, Gao and Fillmore (2021) offer an important caution for KLAAT's daily-life ambitions. In one survey study (N = 199), nighttime earworms were associated with worse sleep. In a randomized laboratory study (N = 50), listening to instrumental versions of popular songs before bed increased nighttime earworm incidence and worsened polysomnographic sleep measures relative to lyrical versions under the tested conditions. That does not establish that KLAAT causes insomnia, nor that instrumental music is generally harmful. It does show why 'music stayed with the listener' is not automatically a positive outcome.
+
+
+The artistic aim should remain welcome engagement and genuine effect, not maximizing involuntary recurrence at any cost. An energizing soundtrack can be useful even if it leaves no mental loop, and a mental loop can be unwelcome even if the original listening experience was beautiful.
+
+
+7. THE LISTENER'S DAY MATTERS
+
+
+Floridou and Müllensiefen (2015) used experience sampling with 40 volunteers, six prompts per day for one week. Their findings associated INMI with the person's activity and mind-wandering context. Williamson and colleagues (2012) classified self-reported triggers into music exposure, memory cues, affective states and low-attention states. Such findings help explain why a listener might not think of KLAAT during an intense conversation but might notice a remembered Ankora figure while walking home, cleaning, drawing or sitting quietly.
+
+
+However, environmental associations are often retrospectively inferred. A person who notices a rhythm while walking might have begun the rhythm internally before walking; movement may cue it; or both may be associated with another variable. Likewise, spontaneous internal replay during chores is not proof that KLAAT improved task performance or elevated physiological arousal.
+
+
+A later study by Floridou and colleagues (2015) developed the Involuntary Musical Imagery Scale across three studies and 2,646 participants, identifying separate dimensions including negative valence, movement, personal reflections and perceived helpfulness. This is valuable because an occurrence count alone misses whether the episode was welcome, disruptive, energizing or emotionally neutral. But a standardized general-population questionnaire does not become a validated KLAAT outcome instrument simply because we borrow its conceptual distinctions.
+
+
+8. A KLAAT-SPECIFIC MODEL: THE AFTER-SOUND GATE
+
+
+The proposed AFTER-SOUND GATE separates six layers:
+
+
+A. PERFORMANCE SOURCE — Paul's authentic, improvised Amastacia/Ankora actions; no required structure or tempo.
+B. DELIVERED EXPOSURE — the actual recording, duration, listening level, context and number of prior hearings.
+C. POST-EXPOSURE INTERVAL — elapsed time, other music, tasks, movement, sleep and environmental cues.
+D. SPONTANEOUS INTERNAL EVENT — whether anything returned unbidden; whether it looped; its content, onset and approximate duration.
+E. PERSONAL APPRAISAL — welcome, neutral, intrusive, activating, soothing, distracting or difficult to classify.
+F. INFERENCE — a bounded statement about memory/imagery; no causal neural, physiological or trance claim without separate appropriate data.
+
+
+This gate guards against four category mistakes. Remembering that KLAAT was powerful is not the same as hearing it in the mind. Intentionally humming Ankora's rhythm is not an involuntary event. A recurring mental rhythm is not continuing airborne vibration. A mental beat that feels energetic is not evidence of measured heart-rate, motor, or neural synchronization.
+
+
+It also leaves open an interesting, less conventional possibility: the listener may not reproduce the exact sound but may retain a felt sense of its movement or contour. That would be worth describing in the listener's own words, not retrofitting to the label 'earworm.'
+
+
+9. TESTABLE KLAAT HYPOTHESES, WITHOUT WRITING TO THEM
+
+
+H1 — SOURCE IDENTITY: Some listeners exposed to an authentic KLAAT excerpt may later report involuntary imagery identifiable as an Ankora pattern, an Amastacia drone gesture, or their combination. Competing result: reports are vague, unrelated, or absent.
+
+
+H2 — EXPOSURE HISTORY: Repeated natural listening to the same authentic take may increase the frequency of recognizable KLAAT imagery compared with a first hearing, but this is confounded by familiarity, preference and selection unless exposure is assigned and controlled. No prescription to repeat material within the performance follows.
+
+
+H3 — INTERNAL METRICAL LEVEL: When a remembered Ankora pulse is tapped, apparent half-time or double-time responses may reflect metric interpretation rather than loss of temporal identity. A preregistered tolerance rule would need to specify what counts as matching before inspecting data.
+
+
+H4 — DAILY-LIFE FUNCTION: KLAAT imagery, if it occurs, might be welcome during a low-demand task yet distracting during concentrated work or sleep. The direction of effect may vary by person. Imagery occurrence is not equivalent to actual task benefit or harm.
+
+
+H5 — TIMBRE LIMIT: A listener may remember a pulse more precisely than a didgeridoo's changing spectral texture; alternatively, Amastacia's distinctive breath/vowel gestures may be the strongest remembered feature. Existing earworm studies do not resolve this for drone-and-frame-drum music.
+
+
+Each hypothesis has a null outcome worth preserving. A small convenience pilot cannot estimate prevalence in the public, and a listener's description is not an acoustic measurement of what is 'playing' inside their head.
+
+
+10. WHAT THE RESEARCH DOES NOT ESTABLISH
+
+
+ESTABLISHED: Ordinary listeners sometimes experience uninvited, repetitive internal music; exposure, familiarity and context influence its occurrence in studied materials. Internal tempo can often approximate the original song tempo in a selected sample, with meaningful errors and individual differences.
+
+
+CONTEXT-DEPENDENT: The role of song structure, melody, lyrics, familiarity, task load, personal meaning and sleep context; the direction and strength of reported affect; the fidelity of imagined timbre and rhythm.
+
+
+PLAUSIBLE / TESTABLE FOR KLAAT: A recurring Ankora pulse or Amastacia texture may sometimes return unbidden after listening; source-specific content and affect can be reported and compared against actual audio without altering Paul's performance.
+
+
+SPECULATIVE: KLAAT's minimal drone-and-pulse texture might create an especially persistent nonmelodic mental image; a distinctive breath timbre might function as a cue for internal replay. There is no direct evidence of either claim.
+
+
+UNSUPPORTED: KLAAT has demonstrated INMI, trance, neural entrainment, autonomic regulation, brainwave induction, altered consciousness, healing, productivity improvement or sleep effects. C# or 137 BPM does not have proven special earworm potency. More earworms do not necessarily mean deeper artistic value or a stronger listener response.
+
+
+11. INTERPRETING A REAL RESULT
+
+
+Suppose three of ten volunteers later say that Ankora's pulse returned to mind. That is three reports from those ten volunteers, not '30% of people experience KLAAT aftereffects.' We would need to know how they were recruited, whether they had heard KLAAT before, whether the description was spontaneous or prompted, whether the sound was mentally replayed or merely remembered, and whether it felt pleasant. Without a control condition, we cannot isolate KLAAT from generic music exposure or expectancy.
+
+
+Suppose one listener reports a pulse at 140 BPM after a recording with an Ankora reference around 137 BPM. A close match may be notable but not conclusive: the listener could have tapped from a remembered pulse, inferred a beat from general familiarity, or been affected by walking cadence. A recording of the tapping would be a behavioral measure; a written claim about inner sound would remain subjective; no brain activity would have been measured.
+
+
+Suppose nobody reports spontaneous imagery. That does not mean the performance failed. KLAAT's artistic purpose includes real-time immersion, bodily energy, attentive listening and ordinary daily use. A piece can matter deeply without repeating in the listener's head.
+
+
+12. HOW THIS FITS KLAAT'S ARTISTIC IDENTITY
+
+
+KLAAT's world is built from two sources that need not explain themselves: Amastacia, the Drone; Ankora, the Pulse. Their power is in actual playing—breath, hide, pressure, gesture, imperfect recurrence, duration, and the dense perceptual life of a sparse acoustic scene. Paul's spontaneous flow is not a research variable to be optimized out of existence. It is the source of the music that research can subsequently describe.
+
+
+The prospect that something might remain mentally alive after silence is artistically compelling, but the scientific question is modest: what, if anything, do real listeners involuntarily retrieve, under what conditions, and how does that experience differ from remembering, imagining deliberately, or feeling physically stimulated? The honest answer today is that general music research makes the question plausible and provides tools to investigate it; KLAAT itself has not been tested.
+
+
+This is a useful Session 100 milestone because it extends the inquiry beyond the room without claiming that sound physically escapes its limits. The continuation, if it occurs, is in the listener's mind, not in a mysterious residual vibration.
+
+
+OPTIONAL KLAAT OBSERVATION — KRX-100: THE UNINVITED RETURN
+
+
+Use one already-existing, unedited KLAAT recording. After one comfortable listen, do not mention earworms or tell the listener to listen for a remembered pulse. Invite a willing listener to go about an ordinary day. At a later neutral check-in, ask only: 'Did any part of the sound come to mind on its own after you stopped listening? If so, what was it like?' Record the exact words, whether it was deliberate or unbidden, approximate timing, any repetition, and whether it was welcome, neutral or unwanted. 'No' is a complete and useful answer. Do not ask someone to disrupt sleep, increase playback volume, repeat the recording, or manufacture an internal loop. Preserve the actual recording and note prior familiarity. This is a descriptive observation, not a controlled demonstration of cause.
+
+
+SELECTED PRIMARY SOURCES AND METHOD REFERENCES
+
+
+[1] Liikkanen, L. A. (2012). Inducing involuntary musical imagery: An experimental study. Musicae Scientiae 16(2), 217–234. DOI: 10.1177/1029864912440770. https://doi.org/10.1177/1029864912440770
+[2] Byron, T. P., & Fowles, L. C. (2015). Repetition and recency increases involuntary musical imagery of previously unfamiliar songs. Psychology of Music 43(3), 375–389. DOI: 10.1177/0305735613511506. https://doi.org/10.1177/0305735613511506
+[3] Hyman, I. E., Jr., et al. (2013). Going Gaga: Investigating, creating, and manipulating the song stuck in my head. Applied Cognitive Psychology 27, 204–215. DOI: 10.1002/acp.2897. https://doi.org/10.1002/acp.2897
+[4] Williamson, V. J., et al. (2012). How do earworms start? Classifying the everyday circumstances of involuntary musical imagery. Psychology of Music 40(3), 259–284. DOI: 10.1177/0305735611418553. https://doi.org/10.1177/0305735611418553
+[5] Jakubowski, K., Finkel, S., Stewart, L., & Müllensiefen, D. (2017). Dissecting an earworm: Melodic features and song popularity predict involuntary musical imagery. Psychology of Aesthetics, Creativity, and the Arts 11(2), 122–135. DOI: 10.1037/aca0000090. https://doi.org/10.1037/aca0000090
+[6] Jakubowski, K., Farrugia, N., Halpern, A. R., Sankarpandi, S. K., & Stewart, L. (2015). The speed of our mental soundtracks: Tracking the tempo of involuntary musical imagery in everyday life. Memory & Cognition 43, 1229–1242. DOI: 10.3758/s13421-015-0531-5. https://doi.org/10.3758/s13421-015-0531-5
+[7] Bailes, F. (2007). The prevalence and nature of imagined music in the everyday lives of music students. Psychology of Music 35(4), 555–570. DOI: 10.1177/0305735607077834. https://doi.org/10.1177/0305735607077834
+[8] Floridou, G. A., & Müllensiefen, D. (2015). Environmental and mental conditions predicting the experience of involuntary musical imagery: An experience sampling method study. Consciousness and Cognition 33, 472–486. DOI: 10.1016/j.concog.2015.02.012. https://doi.org/10.1016/j.concog.2015.02.012
+[9] Floridou, G. A., Williamson, V. J., Stewart, L., & Müllensiefen, D. (2015). The Involuntary Musical Imagery Scale (IMIS). Psychomusicology: Music, Mind, and Brain 25(1), 28–36. DOI: 10.1037/pmu0000067. https://doi.org/10.1037/pmu0000067
+[10] Beaman, C. P., & Williams, T. I. (2010). Earworms (stuck song syndrome): Towards a natural history of intrusive thoughts. British Journal of Psychology 101(4), 637–653. DOI: 10.1348/000712609X479636. https://doi.org/10.1348/000712609X479636
+[11] Scullin, M. K., Gao, C., & Fillmore, P. (2021). Bedtime music, involuntary musical imagery, and sleep. Psychological Science 32(7). DOI: 10.1177/0956797621989724. https://doi.org/10.1177/0956797621989724
+
+
+INTERNAL PROVENANCE AND CURATION
+
+
+Connected Google Drive Master Instructions, Curriculum Index, Research Ledger and Session Corpus consulted before topic selection. ChatGPT Library Published Studies through Session 99 and Hourly Research through October 18, 17:54 CDT reviewed. A dedicated Library search for earworms/involuntary musical imagery returned no existing numbered KLAAT study or recent hourly treatment. Primary source metadata and quantitative findings checked against journal/publisher and institutional abstracts, including the open-access full text of Jakubowski et al. (2015). Source-study samples and measurements are not KLAAT data. Canonical full text must be persisted to ChatGPT Library before any Google Drive curation. Outstanding Session 98 Corpus mirror remains separately queued; Session 97 was repaired and content-verified this run. Hourly provenance remains untouched. No retrospective alteration of KLS-001 or of Paul's performance practice.

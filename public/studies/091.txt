@@ -1,0 +1,289 @@
+KLAAT RESONANCE RESEARCH — SESSION 91
+THE HUMAN SPACE BETWEEN THE STRIKES
+Microtiming, attack shape, and why expressive timing cannot be reduced to an imperfect clock
+Published: October 15, 2026, 7:14 PM CDT
+
+
+GOVERNING PRINCIPLE: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+Research status: synthesis of published experiments, specific methodological predictions, and one optional KLAAT observation. No KLAAT-specific listener or physiological findings are asserted.
+Continuity: Session 89 distinguished groove from observed movement; Session 90 distinguished physical overlap from perceived compound-event unity. This session asks what happens between events and how listeners locate them in time. The most recent available Hourly Research note remains October 5, 2026, 6:33 PM CDT. No hourly provenance was changed.
+
+
+THE CENTRAL FINDING
+
+
+There is a tempting story about handmade music: the small timing imperfections make it alive. There is an equally tempting counterstory: rhythmic precision makes music compelling. Neither is a sufficient explanation of the research, and neither should become a rule for KLAAT.
+
+
+Controlled studies have found that deliberately shifting drum hits away from a grid can reduce groove ratings. Other studies find that the original timing of expert performances is rated about as highly as a quantized version, with exaggerated deviations rated worse. Yet a carefully structured delay between a jazz soloist and rhythm section can improve expert listeners' judgments of swing. Crucially, musicians also communicate timing by changing the attack, brightness, duration, and force of a sound, not only its digital onset timestamp.
+
+
+For Amastacia and Ankora, the stronger question is therefore not “How imperfect should the beat be?” It is: WHEN A HUMAN GESTURE IS HEARD AS EARLY, LATE, WEIGHTED, URGENT, OR RELAXED, WHAT COMBINATION OF ACTUAL ONSET, SOUND SHAPE, EXPECTATION, AND INSTRUMENT RELATIONSHIP CREATES THAT EXPERIENCE?
+
+
+KLAAT is improvised and bodily performed. The research should describe its naturally occurring timing language and help Paul develop freedom and control. It should not ask him to add random delay, follow a metronome, or copy a jazz swing recipe.
+
+
+1. THREE DIFFERENT CLOCKS IN ONE ACOUSTIC MOMENT
+
+
+Imagine an Ankora strike during Amastacia's drone. The hand touches the elk hide; the membrane begins moving; the microphone receives a waveform with an onset, a rapidly rising transient, and a longer decay. The listener hears a moment of impact. Those moments are closely related, but not necessarily identical.
+
+
+The physical onset is the earliest measurable sound associated with the event. The envelope peak is the point of maximum measured amplitude, which may occur later. The perceptual center, often called a P-center, is the moment listeners treat as the event's timing anchor. An attack with a sharp transient can feel earlier than a slower-rising sound whose waveform technically starts at the same instant.
+
+
+Amastacia complicates the situation. Her sustained drone has no clean start for every breath articulation. A tongue gesture, harmonic emphasis, pressure change, or growl can emerge gradually from a sound already present. If a listener hears that gesture “land with” Ankora, we cannot assume the two waveforms began together. Conversely, an objectively coincident change may not be experienced as simultaneous.
+
+
+This extends Session 90's compound-event analysis. A waveform comparison may establish when two signals changed. It cannot, by itself, tell us where the listener placed the event in time.
+
+
+2. THE EXPERIMENT THAT CHALLENGES THE IMPERFECTION MYTH
+
+
+Frühauf, Kopiez, and Platz (2013) asked 93 music students to evaluate simple rock drum patterns with bass-drum or snare-drum hits shifted by -25, -15, 0, +15, or +25 milliseconds. The quantized version received the highest perceived-quality ratings. Increasing offsets generally reduced ratings. Early offsets were penalized more than equivalent late offsets, and snare shifts were penalized more than bass-drum shifts [S1].
+
+
+The result is not that all handmade rhythms should be corrected. The study examined a short, simple, conventional rock pattern and a limited set of manipulated timing relationships. It measured judgments of that material, not the cultural value of irregularity or the quality of spontaneous long-form art. Still, it is strong evidence against claiming that adding small inaccuracies automatically creates groove.
+
+
+Davies, Madison, Silva, and Gouyon (2013) manipulated systematic microtiming in synthesized jazz, funk, and samba rhythms. Across two experiments, microtiming generally lowered ratings of groove, liking, and naturalness; a simple jazz shuffle condition was an important exception. Expert listeners showed stronger sensitivity to some manipulations [S2].
+
+
+A common mistake is to interpret these results as proof that a perfect grid is inherently musical. A more careful reading is that the effects of a timing deviation depend on the rhythmic pattern, style, sound design, and what listeners have learned to expect. The same numerical offset may create different perceptual relationships in different material.
+
+
+3. THE EXPERIMENT THAT CHALLENGES THE PERFECT-GRID MYTH
+
+
+Senn and colleagues (2016) recorded two professional rhythm-section performances in swing and funk styles, then scaled the original musicians' microtiming deviations. Their listeners included 79 music experts and 81 non-experts. Ratings separated aspects of groove experience including felt entrainment, enjoyment, and irritation. Original microtiming and full quantization both received high ratings; exaggerated deviations received lower ratings. Experts were more sensitive to the manipulations [S3].
+
+
+This is a useful corrective. A natural performance need not beat a quantized version in a laboratory rating to be artistically legitimate. Equally, the quantized version's success does not mean the live performance's timing was meaningless. The two may communicate similar beat stability while differing in nuances the questionnaire or brief stimulus did not capture. We cannot assume those unmeasured nuances were positive; that is a research question.
+
+
+A companion 2015 experiment with the same total sample size (160 participants) examined listeners' beat-related body movement under different microtiming conditions [S4]. It showed that some movement measures depended on timing manipulation and musical expertise. But movement changes and higher subjective groove are not the same result. This directly reinforces Session 89's separation of urge to move, actual movement, pleasure, and felt energy.
+
+
+The literature therefore refuses a simplistic answer. “More human” is not equivalent to “more irregular”; “more accurate” is not equivalent to “more compelling.”
+
+
+4. A REAL CONTRADICTION: SOME DELAYS HELP, BUT ONLY IN A PARTICULAR RELATIONSHIP
+
+
+Nelias and colleagues (2022) studied swing in jazz, combining analysis of 456 improvisations with a controlled listening experiment using manipulated piano performances. In the tested material, slightly delaying a soloist's downbeats relative to the rhythm section while retaining synchronized offbeats increased expert listeners' swing judgments [S5].
+
+
+This is stronger than a vague appeal to the magic of being behind the beat. The benefit concerned a particular relative timing configuration in a specific musical idiom. Delaying every note is not the same manipulation; neither is applying arbitrary random jitter. The researchers also reported that swing and groove judgments were related but not identical.
+
+
+For KLAAT, the lesson is methodological, not compositional. The meaningful unit may be a relationship between two ongoing acoustic roles rather than an isolated strike's distance from an external grid. Ankora can provide repeated attacks while Amastacia provides a continuous field punctuated by breath gestures. Whether any naturally occurring lag, anticipation, or alignment contributes to listener experience must be tested in that context. A jazz soloist/rhythm-section relationship is not a model Paul should imitate.
+
+
+5. “WHEN” IS PARTLY MADE OF “WHAT”
+
+
+The most consequential evidence for KLAAT may concern sound shape rather than millisecond offsets. Câmara, Nymoen, Lartillot, and Danielsen (2020) studied 21 expert electric guitarists and 21 bassists asked to play simple patterns in laid-back, on-beat, and pushed styles. As expected, physical onset and peak timing differed across intended styles. But the players also changed timbre and dynamics. Guitarists' laid-back strokes tended to be longer and less bright; bassists' pushed strokes tended to be more intense [S6].
+
+
+The musicians were not merely shifting the same sound backward or forward on a timeline. They were changing the physical gesture and its resulting acoustic shape. This helps explain why copying an onset position into a different instrument or synthetic sample may not reproduce the same perceived timing.
+
+
+A 2024 interdisciplinary research synthesis from the TIME project makes the broader point explicitly: dynamic envelope, timbre, frequency distribution, and onset timing jointly influence microrhythmic perception [S7]. This source synthesizes multiple empirical strands rather than constituting one new single controlled experiment; the underlying guitar/bass work is one concrete primary example.
+
+
+For Amastacia, a sharper tongue articulation may be experienced as more immediate even if the onset of the underlying drone never changes. A gradual harmonic swelling may feel as if it arrives later, although its energy began increasing earlier. For Ankora, a muted strike and a resonant open strike may occupy different perceptual positions even when the hand contacts the membrane at comparable moments. These are acoustic-perceptual hypotheses, not measurements from the September reference recording.
+
+
+6. QUANTITATIVE SCALE WITHOUT A PRESCRIBED TARGET
+
+
+The provisional Ankora reference of approximately 137 BPM corresponds to about 438 milliseconds per beat. An offset of 20 milliseconds would represent roughly 4.6% of that interval. But the calculation is merely a scale comparison, not a statement that Ankora has a verified 137 BPM throughout any particular take. KLAAT's pulse may vary, subdivide, or become ambiguous; a stable global beat cannot be assumed.
+
+
+A 2026 multi-instrumental funk experiment with 64 listeners (32 musicians and 32 nonmusicians), already examined in Session 90, reported approximate asynchrony detection thresholds of 19–24 milliseconds for percussion and 31–35 milliseconds for bass/guitar in its tested conditions [S8]. These numbers are not thresholds for Ankora or Amastacia. They are neither recommended timing offsets nor universal just-noticeable differences. They also do not tell us which timing feels better. Detectability is not desirability.
+
+
+The experimental logic is still useful. A measured 15-millisecond discrepancy in a KLAAT recording may be below the threshold for some listeners under one playback condition and salient for others under another. A larger discrepancy may be perceptually obscured by a slow attack or strong overlap. What matters is not whether a software cursor can find the offset, but what independent listeners actually experience.
+
+
+7. WHAT A GRID CAN AND CANNOT TELL US
+
+
+In a conventional drum loop, the analyst can define a metrical grid, identify expected beats, and measure how far each attack departs from them. In KLAAT, that approach may be useful for brief stretches with a clearly recurring Ankora pulse. But it can become misleading when Paul changes subdivision, pauses, doubles attacks, shifts accents, or moves through an improvisation without a stable global meter.
+
+
+A naive analysis might declare a meaningful rhythmic transition to be a collection of timing errors. If an onset-detection algorithm misses quiet strikes and overcounts resonant rebounds, it may invent an apparent acceleration or slowdown. If a slow Amastacia gesture is treated as a percussive onset, the resulting offset statistics may have little perceptual meaning.
+
+
+Three different phenomena must be kept apart. TEMPO DRIFT means the underlying event rate changes across a passage. MICROTIMING means a particular event occurs earlier or later relative to a defensible local reference. TIMBRAL TIMING means the sound's attack and envelope shift its perceived temporal center. A fourth phenomenon, RHYTHMIC REORGANIZATION, occurs when the listener starts grouping the same attacks into a different pulse or subdivision.
+
+
+These distinctions connect Session 88's changing expectations, Session 89's motor invitation, and Session 90's perceptual grouping. One event may be measured as early relative to one inferred grid and on time relative to another. That is not a paradox; it is a reminder that the analyst must not mistake an assumed grid for the listener's experienced rhythm.
+
+
+8. THE PERFORMER'S BODY IS NOT A METRONOME, AND THAT IS NOT A DEFECT
+
+
+KLAAT's technique has a special constraint: Paul's mouth and breath shape Amastacia while his hands and body coordinate Ankora. Circular breathing, lip tension, jaw position, arm movement, and drum striking compete for and share attention. Some transitions will be effortless; others will demand conscious correction. Flow can arise when the practiced actions are sufficiently fluent to remain responsive without constant explicit planning.
+
+
+A 2018 experiment with trained pianists found that temporal variability was lowest when they performed familiar material at their own spontaneous rate, compared with intentionally faster or slower rates; tempo drift under imposed starting rates tended toward the performers' natural rate [S9]. That study supports the existence of task-specific, performer-specific stable motor rates. It does not identify Paul's ideal Ankora tempo, and a natural rate for a piano melody is not automatically a natural rate for simultaneous didgeridoo and frame drum.
+
+
+The useful implication is to separate skill development from artistic output. Paul's circular-breathing fluency can improve. His ability to maintain an independent Ankora pulse while articulating Amastacia can improve. His transitions can become easier to execute. None of those developments requires smoothing every irregularity or converting a spontaneous take into a click-track performance.
+
+
+Technique is the ability to act freely and reliably when the music calls for it, including the ability to let a rough or asymmetrical moment remain rough.
+
+
+9. THE DIFFERENCE BETWEEN NATURAL AND INTENTIONALLY HUMANIZED
+
+
+A digital producer can take a quantized pattern and introduce random onset shifts. That procedure changes timestamps, but it does not necessarily reproduce the coupled changes in timbre, force, gesture, and rhythmic expectation produced by a musician. Nor does it reproduce the long-range relationship between performer effort, breathing, and musical direction.
+
+
+Conversely, the fact that a gesture comes from a human does not make it perceptually beneficial. A rushed Ankora strike could feel exciting, distracting, or entirely unremarkable. A slight mismatch with Amastacia might be experienced as a compelling friction, or simply as two separate sounds. The evidence does not allow us to rank those outcomes without actual listener reports.
+
+
+A useful research distinction is therefore HUMAN PROVENANCE versus PERCEIVED HUMAN PRESENCE. The first concerns how the sound was made. The second concerns what listeners infer or feel from the recording. The second cannot be proven by pointing to the first.
+
+
+KLAAT's archaeosonic aesthetic is artistically meaningful regardless of whether a listener can identify the exact source of each timing nuance. We should avoid replacing the real world of hand, hide, breath, and agave with a technical fetish for a particular number of milliseconds.
+
+
+10. WHY THIS MATTERS TO EVERYDAY LISTENING AS WELL AS IMMERSION
+
+
+The same timing language may serve different listening functions. During focused listening, a person might notice subtle tension between Amastacia's articulation and Ankora's attack. While drawing, working, or walking, they may register only the broader pulse and overall energy. Someone else may find irregularity distracting in one setting and stimulating in another.
+
+
+Session 85 distinguished absorption from external-task attention; Session 89 separated urge to move from actual movement. Session 91 adds another distinction: a listener's awareness of timing irregularity is not equivalent to the irregularity's influence on enjoyment, energy, or absorption. A participant may not consciously identify a lag yet still rate two passages differently. Conversely, noticing an offset need not change the experience at all.
+
+
+This is why future studies should collect open-ended impressions before technical questions. Asking “Did the imperfect timing make it feel alive?” would manufacture an interpretive frame. Asking “What stood out?” lets listeners describe the experience in their own terms.
+
+
+11. AN ACOUSTIC AND PERCEPTUAL MEASUREMENT PLAN
+
+
+If KLAAT eventually investigates timing quantitatively, start with a short unedited passage. Preserve its original sample rate and an untouched archival master. Mark Ankora attacks by listening and visual inspection, not by accepting automated detections uncritically. Where a local pulse is clear, calculate successive inter-onset intervals and describe their distribution. If the pulse is not clear, do not force one.
+
+
+For Amastacia, identify a small number of perceptually salient articulations rather than pretending every harmonic fluctuation is a note onset. If isolated tracks or synchronized video exist, they may clarify what changed. In a mixed recording, masking and reverberation limit source attribution. Report those limits explicitly.
+
+
+If later comparing versions, distinguish: (A) authentic unedited take; (B) any manipulated copy; (C) measured onset and envelope differences; (D) listeners' reported timing, groove, energy, and absorption. A quantized version is an intervention with potential artifacts, not a neutral truth condition. Altering the onset while keeping the same timbre may be technically difficult when a frame-drum strike has a long resonant decay. Any editing can also change overlap and masking.
+
+
+A causal claim requires more than finding that listeners prefer a naturally timed take. It would require a controlled manipulation, matched loudness and playback, suitable blinding, and sufficient observations to distinguish timing from other differences. For now, descriptive observation is the right scale.
+
+
+12. EVIDENCE CLASSIFICATION
+
+
+ESTABLISHED EVIDENCE
+
+
+In selected rock and synthesized rhythm experiments, deliberately introduced microtiming offsets often lowered perceived groove or musical-quality ratings. In an experiment with 160 listeners, natural expert timing and quantized timing could both be rated highly, while exaggerated deviations were less favored. Certain structured relative delays enhanced swing judgments in controlled jazz material. Expert musicians change timbre, attack, duration, and intensity along with onset timing when instructed to play laid-back or pushed. Detection of microrhythmic offsets varies with instrument and expertise. These are findings from their particular stimuli and tasks, not general laws of musical quality.
+
+
+CONTEXT-DEPENDENT OR MIXED EVIDENCE
+
+
+The role of microtiming differs across rock, funk, swing, and jazz conditions, listener training, relative instrumental roles, attack shape, and the particular outcome measured. “Swing,” “groove,” “naturalness,” “liking,” “perceived synchrony,” and physical movement are not synonyms. Perceptual centers and digital onset times can differ. Short controlled patterns are not long-form improvised drone-and-frame-drum music.
+
+
+PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
+
+
+H1. Some naturally occurring Ankora–Amastacia relationships may feel more unified or energetic because of attack shape and relational timing rather than increased strike density.
+H2. A passage with stable perceived pulse may contain measurable local timing variability without listeners experiencing it as unstable.
+H3. Timbral changes in Amastacia may alter the apparent timing of articulations without measurable change in the onset of the continuous drone.
+H4. Listeners may disagree about whether a particular naturally occurring delay feels relaxed, urgent, compelling, or distracting.
+H5. Paul's greater coordination fluency may reduce unwanted interruptions while preserving or expanding expressive variability; this concerns skill, not a predicted change in trance effects.
+
+
+SPECULATION
+
+
+KLAAT's felt “living presence” may be partly sustained by recognizable bodily gestures whose timing and timbre vary together. The combination of a continuous breath-driven source and a resonant hand-struck source may produce a distinctive sense of temporal elasticity. These are promising artistic-perceptual interpretations, not experimentally demonstrated KLAAT mechanisms.
+
+
+UNSUPPORTED CLAIMS
+
+
+There is no evidence that adding random jitter to Ankora improves trance, that a specific number of milliseconds creates bodily energy, that perfectly quantized rhythm is inherently superior, that a listener's urge to move proves neural entrainment, that performer flow is transferred to listeners, or that the C# drone or approximately 137 BPM has a unique consciousness-altering effect. KLAAT has not yet demonstrated any of those outcomes.
+
+
+13. METHODOLOGY ADVANCEMENT: THE GESTURE–SIGNAL–PERCEPTION GATE
+
+
+Future KLAAT timing claims should pass three distinct levels before reaching an artistic interpretation.
+
+
+GESTURE: What did the performer physically do, if known? Hand contact, breath articulation, circular-breathing transition, and posture may be visible in synchronized footage, but inferred gestures must be labeled as such.
+SIGNAL: What did the recording actually capture? Physical onset, attack envelope, spectral change, decay, local inter-onset intervals, source overlap, and recording limitations can be documented acoustically.
+PERCEPTION: What did independent listeners hear or feel? Timing, unity, pulse, groove, absorption, energy, irritation, and enjoyment require their own measures.
+
+
+Do not collapse these into one claim. An accurately measured offset is not proof of a perceived delay. A perceived delay is not proof of increased groove. A groove rating is not proof of physiological activation. And physiological change, if ever measured, would not itself establish a particular altered state of consciousness.
+
+
+This gate extends Session 90's Four-Level Unity Gate and Session 89's Four-Outcome Motor Gate. It is an investigative safeguard, not a new musical phase or composition instruction.
+
+
+14. TECHNIQUE THAT PRESERVES IMPROVISATION
+
+
+For Paul, the useful skill horizon is independence without rigidity. If circular breathing becomes more dependable, Amastacia's articulation can be shaped without a looming concern about air. If Ankora's striking becomes more fluent, pulse can persist or change without conscious counting. If transitions between the two instruments become more comfortable, their relationship can evolve as a consequence of the moment rather than a planned scheme.
+
+
+Nothing here requires metronomic training as the primary method, though a metronome can be an optional diagnostic tool in a separate practice setting if Paul ever wants one. It is not a performance standard. The important distinction is between an unwanted limitation and a chosen expressive irregularity; only Paul can decide which is which in his practice.
+
+
+15. KRX-091 — THE STRIKE THAT FELT EARLY
+
+
+One optional, low-pressure observation: choose a genuine, unedited 60–90-second KLAAT passage in which Ankora and Amastacia are both active. Listen once without looking at a waveform. Notice whether any moment feels especially urgent, relaxed, heavy, or as though one instrument arrives before the other. Write down one such moment—or write “none.” Do not try to fix it.
+
+
+Only afterward, if curious, inspect that moment in the recording. Compare the Ankora attack shape, the nearest Amastacia articulation, and a few neighboring strikes. If the sources cannot be separated, record that uncertainty rather than inventing an offset. An independent listener's unprompted impression would be more informative than Paul's analysis alone, but it is not required.
+
+
+The goal is not to discover the ideal millisecond discrepancy. It is to notice whether a meaningful felt timing relationship has an identifiable acoustic counterpart.
+
+
+THE DECISIVE QUESTION: WHEN ANKORA AND AMASTACIA FEEL AS IF THEY LEAN TOWARD OR AWAY FROM ONE ANOTHER, IS THE DIFFERENCE IN THEIR CLOCK TIME, IN THE SHAPE OF THEIR SOUNDS, OR IN THE EXPECTATION THE LISTENER BRINGS TO THE MOMENT?
+
+
+RESEARCH DIRECTION
+
+
+The strongest next step is to connect authentic KLAAT recordings with independent listener descriptions of relational timing, perceived pulse stability, and felt energy. Later controlled comparisons may separate onset placement from attack shape if the source recordings permit it. Before that, there is no reason to change the music. Paul should continue creating it instinctively; research can learn from what emerges.
+
+
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+PRIMARY RESEARCH AND TECHNICAL REFERENCES
+
+
+[S1] Frühauf J, Kopiez R, Platz F (2013). Music on the timing grid: The influence of microtiming on the perceived groove quality of a simple drum pattern performance. Musicae Scientiae 17:246–260. N=93; offsets -25, -15, 0, +15, +25 ms. DOI 10.1177/1029864913486793. https://doi.org/10.1177/1029864913486793
+[S2] Davies M, Madison G, Silva P, Gouyon F (2013). The effect of microtiming deviations on the perception of groove in short rhythms. Music Perception 30:497–510. DOI 10.1525/mp.2013.30.5.497. https://doi.org/10.1525/mp.2013.30.5.497
+[S3] Senn O, Kilchenmann L, von Georgi R, Bullerjahn C (2016). The effect of expert performance microtiming on listeners' experience of groove in swing or funk music. Front Psychol 7:1487. N=79 experts, 81 non-experts. DOI 10.3389/fpsyg.2016.01487. https://pmc.ncbi.nlm.nih.gov/articles/PMC5050221/
+[S4] Kilchenmann L, Senn O (2015). Microtiming in swing and funk affects the body movement behavior of music expert listeners. Front Psychol 6:1232. N=160. DOI 10.3389/fpsyg.2015.01232. https://doi.org/10.3389/fpsyg.2015.01232
+[S5] Nelias C, Sturm EM, Albrecht T, Hagmayer Y, Geisel T (2022). Downbeat delays are a key component of swing in jazz. Commun Phys 5:237. Observational sample 456 jazz improvisations plus controlled expert judgments. DOI 10.1038/s42005-022-00995-z. https://www.nature.com/articles/s42005-022-00995-z
+[S6] Câmara GS, Nymoen K, Lartillot O, Danielsen A (2020). Effects of instructed timing on electric guitar and bass sound in groove performance. J Acoust Soc Am 147:1028–1041. N=21 guitarists + 21 bassists. DOI 10.1121/10.0000724. https://pubmed.ncbi.nlm.nih.gov/32113267/
+[S7] Danielsen A, Brøvig R, Bøhler KK, Câmara GS, Haugen MR, et al. (2024). There's more to timing than time: Investigating musical microrhythm across disciplines and cultures. Music Perception 41:176–198. Integrative synthesis, not a single new randomized experiment. DOI 10.1525/mp.2024.41.3.176. https://doi.org/10.1525/mp.2024.41.3.176
+[S8] Câmara GS, Spiech C, Solli S, et al. (2026). Just noticeable difference thresholds of asynchrony and non-isochrony in a multi-instrumental groove-based context. J Acoust Soc Am 159:4668–4688. N=64. DOI 10.1121/10.0043887. https://doi.org/10.1121/10.0043887
+[S9] Zamm A, Wang Y, Palmer C (2018). Musicians' natural frequencies of performance display optimal temporal stability. J Biol Rhythms 33. DOI 10.1177/0748730418783651. https://doi.org/10.1177/0748730418783651
+
+
+PROVENANCE
+
+
+Consulted connected Google Drive Master Instructions, Curriculum Index, Research Ledger and Session Corpus, and the ChatGPT Library Hourly Research and Published Studies folders. Session 90 is the latest confirmed canonical study before this session. No hourly note newer than October 5, 2026, 6:33 PM CDT was found. The 66-second September reference recording was not available for new waveform measurements in this run. Quantitative examples are from published studies or clearly identified calculations, not measured KLAAT outcomes. Existing incomplete Google Drive mirrors from earlier sessions remain separate backlog items. Hourly notes remain unchanged.

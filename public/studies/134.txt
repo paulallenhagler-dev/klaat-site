@@ -1,0 +1,251 @@
+KLAAT RESONANCE RESEARCH — SESSION 134
+THE WORK AND THE FEELING PART COMPANY
+Perceived exertion, breathing unpleasantness, and why an energizing soundtrack need not make the body work less
+Published: October 30, 2026 — morning CDT
+
+
+GOVERNING PRINCIPLE
+Experience-led creation. Science-informed refinement.
+
+
+RESEARCH QUESTION
+
+
+KLAAT is an acoustic resonance ritual, but it is not restricted to ceremonial stillness. An unedited improvisation by Paul on Amastacia, the C# agave didgeridoo, and Ankora, the elk-hide frame drum, might accompany walking, making art, cleaning, carrying materials, or exercise. A listener might say the sound gave them energy, helped them continue, made effort feel less unpleasant, or simply made an ordinary task more enjoyable. These statements can all be sincere. They are not equivalent observations.
+
+
+Can music change the EXPERIENCE of doing physical work without reducing the work itself? Can it allow a person to sustain MORE work while reporting the SAME perceived effort? And when an experiment finds no change in measured heart rate or brain oxygenation, what exactly has—and has not—been ruled out?
+
+
+This is a listener-side question, not an instruction for Paul to compose fitness music. KLAAT's natural timing, breath textures, sustained harmonics, attack density, silences and physical irregularities are not experimental defects. We want to understand how an existing piece of sound might function in ordinary active life. No study cited below used KLAAT, and no KLAAT listener has yet demonstrated improved endurance, reduced exertion, altered breathing physiology, entrainment, or trance.
+
+
+1. NOVELTY GATE — THE UNSTUDIED DIFFERENCE
+
+
+The connected Master Instructions, Curriculum Index, Research Ledger and both Session Corpus volumes were consulted through Session 133. The canonical ChatGPT Library Published Studies and recent Hourly Research notes were searched, including the hourly notes through October 30 at 07:14 CDT. Session 103 distinguished walking speed and step-to-beat phase locking; Session 85 separated musical attention from everyday task focus; Session 113 examined driving-task benefits and hazards; Session 130 distinguished Paul's PERFORMER fatigue from his perceived effort; Session 79 separated the performer's internal state from listener experience. The October 19 21:11 hourly note addresses Paul's respiratory blood gases, and the October 21 15:14 note addresses audience inference of the performer's visible effort. Neither is a listener EXERCISING WHILE LISTENING.
+
+
+The present gap is narrower and different: listener physical workload versus perceived exertion, breathing intensity versus breathing unpleasantness, and work duration versus work RATE, including a new 2026 positive cycling experiment and a directly relevant 2026 null neuroimaging experiment. Targeted Library searches for KLAAT cycling, rowing, ratings of perceived exertion, exercise tolerance and music-associated dyspnea did not reveal a dedicated published or recent hourly treatment. This study is therefore not a reprise of 'music makes people move' or a second essay about performer fatigue.
+
+
+2. THE FIVE OUTCOMES THAT SOUND LIKE ONE
+
+
+A. WORKLOAD. On a bicycle this might be watts; on a rowing machine, distance and power; on a fixed walking route, distance, speed, incline or carried load. Work rate and total work are different. Doing the same 150 watts for 36 minutes rather than 30 minutes increases total work by 20% without changing power at any given moment.
+
+
+B. PERCEIVED EXERTION. A rating of perceived exertion (RPE) asks how hard the task feels. Common Borg scales include 6–20 and category-ratio formats, which cannot be casually interchanged. RPE is a legitimate subjective measure, not a direct wattmeter or a substitute for oxygen consumption. The wording, timing and scale must be reported.
+
+
+C. BREATHING SENSATION. The intensity of breathing (how strong or laborious it feels) and the unpleasantness of that sensation are separable dimensions. A person can notice heavy breathing but dislike it less. Dyspnea ratings are not direct measures of oxygen saturation, arterial CO2 or the acoustic frequency of a soundtrack.
+
+
+D. AFFECT AND MOTIVATION. Feeling energized, pleased, absorbed, determined or willing to continue is not the same as perceiving low effort. One can feel highly motivated and simultaneously acknowledge that a task is difficult. Conversely, a lower RPE does not prove enjoyment.
+
+
+E. PHYSIOLOGY AND MOVEMENT. Heart rate, ventilation, oxygen consumption, lactate, muscle activity, cadence and movement efficiency are separately measured variables. The same heart rate can accompany different power outputs; the same power can feel different across days. No single physiological number validates or refutes an entire reported musical experience.
+
+
+KLAAT's research vocabulary should therefore keep the following observation fields separate: acoustic delivery; self-reported energy; enjoyment; RPE; breathing intensity/unpleasantness; duration; work rate; movement timing; and independently measured physiology. 'Activation' is an umbrella artistic description until a particular outcome is defined.
+
+
+3. A LARGE SYNTHESIS FINDS BENEFITS, BUT NOT EVERYWHERE
+
+
+Terry, Karageorghis, Curran, Martin and Parsons-Smith's 2020 meta-analytic review pooled 139 exercise-and-sport studies, 598 effect sizes and 3,599 participants. They reported music-associated benefits in affective valence (Hedges g = 0.48, 95% CI 0.39–0.56), physical performance (g = 0.31, CI 0.25–0.36), perceived exertion (benefit-coded g = 0.22, CI 0.14–0.30), and oxygen consumption (g = 0.15, CI 0.02–0.27). The pooled heart-rate effect was not statistically distinguishable from zero (g = 0.07, CI -0.03 to 0.16). These are standardized pooled estimates across heterogeneous tasks and music, not percentage gains in KLAAT listeners and not evidence that lower oxygen use explains every performance result. [1]
+
+
+A newer 2026 review of aerobic-exercise experiments included 15 studies and 339 participants. It reported lower RPE with music (standardized mean difference -0.36, 95% CI -0.67 to -0.04) and a modest fixed-duration performance association (SMD 0.39, CI 0.08–0.70), but very high heterogeneity for time to exhaustion (I-squared = 95%) and no statistically significant pooled heart-rate change (-1.16 beats/min, CI -3.57 to 1.26). The authors rated certainty moderate for RPE, low for several other outcomes and very low for time to exhaustion. This is useful counterweight to a simplistic claim that a playlist reliably makes everyone physically more capable. [2]
+
+
+Neither meta-analysis can isolate KLAAT's drone, Ankora's attack texture, lack of lyrics, improvisational timing or unusual timbre. Most included music was not comparable to two simultaneously played acoustic instruments. A pooled average also conceals substantial individual variation. Still, the broad pattern makes one hypothesis worth testing: a listener may find KLAAT more energizing or effort-tolerable even if the body's instantaneous mechanical workload is unchanged.
+
+
+4. THE 2026 CYCLING RESULT: MORE WORK WITHOUT A FASTER WORK RATE
+
+
+Danso and colleagues (2026) recruited 29 recreationally active adults for two counterbalanced cycling-to-exhaustion trials at approximately 80% of peak power. One condition used self-selected music at 120–140 BPM; the other used no music. Average time to exhaustion was 35.61 minutes with music and 29.80 without: a 5.81-minute difference, approximately 19.5% longer relative to the no-music mean (t[28] = 3.62, p = .001, within-person dz = 0.67). [3]
+
+
+The detail that matters most is NOT that the music made their muscles more efficient. Total energy expenditure was 69 kJ higher (+17%) with music, while energy expenditure RATE did not significantly differ (+0.11 kJ/min, p = .652). Cumulative heart-rate exposure was higher (+15.4% area under the curve), largely consistent with a longer bout; at comparable elapsed time, heart rate was only about 2.9 beats/min higher. Terminal RPE, percent peak oxygen uptake, and several other terminal responses were similar between conditions.
+
+
+This supports a bounded interpretation: in this particular experiment, music accompanied longer TOLERANCE of sustained effort rather than demonstrably reduced energy cost per minute. It does not establish why participants continued longer. Music preference, motivation, expectancy, attention, and other psychological mechanisms could contribute; the design does not isolate a specific acoustic feature. Its 120–140 BPM selection is a stimulus property, not an instruction for Ankora or proof that KLAAT's provisional 137 BPM reference is optimal. Comparing two numbers that happen to be similar would be numerology, not mechanism.
+
+
+A listener who tells Paul, 'I kept going while that played,' might be describing a meaningful subjective effect. The stronger empirical question is whether a comparable task lasted longer than under a fair control, and whether work rate, RPE and enjoyment changed together or independently. That can be tested without changing the music.
+
+
+5. THE NULL RESULT THAT MUST STAY IN THE STORY
+
+
+Guérin, Karageorghis, Coeugnet, Bigliassi and Delevoye-Turrell (2026) used functional near-infrared spectroscopy (fNIRS) to examine prefrontal, motor and parietal hemodynamic responses during exhaustive cycling in 36 participants. Their comparison included motivational music, audiobook and silence. They found no statistically significant music-induced differences in the measured cerebral hemodynamics, endurance or subjective outcomes relative to the controls. [4]
+
+
+This study is especially valuable because it tests the tempting assumption that a motivational soundtrack must produce a recognizable 'brain activation' signature or reliably extend exercise. It did not in the measured regions, tasks and sample. The result is not proof that music has zero effects in every person, nor that fNIRS can detect all relevant neural processes. Motion, superficial blood flow, task intensity, measurement sensitivity and statistical uncertainty matter. But a credible null result should lower confidence in any universal mechanism.
+
+
+The contrast with Danso et al. is scientifically productive, not embarrassing. The trials used different stimuli, populations, protocols, comparisons, endpoints and likely expectations. A time-to-exhaustion effect in one sample can coexist with no detected effect in another. The honest KLAAT claim is therefore conditional: there is an empirical basis to investigate music-associated effort tolerance, but neither a universal effect nor a particular neural explanation has been established.
+
+
+6. THREE SMALL EXPERIMENTS THAT SEPARATE THE PIECES
+
+
+First, Gabler and colleagues (2022) studied 22 recreationally active adults cycling at two constant loads around their gas-exchange threshold and in an 8-km time trial. With self-selected headphone music, breathing UNPLEASANTNESS fell at selected minutes below threshold; above threshold both breathing intensity and unpleasantness decreased. During the time trial, breathing-unpleasantness relative to minute ventilation was attenuated by 9–13% while participants chose higher power and had higher heart rates. [5]
+
+
+This is an unusually clear example of a subjective breathing experience changing alongside, not necessarily because of a reduction in, physiological effort. The ratio of unpleasantness to ventilation must not be mistaken for a direct physiological gain: both numerator and denominator can change. It also concerns listeners cycling with music, not Paul circular-breathing into Amastacia. KLAAT's performer breath and the listener's exercise breath are different biological events.
+
+
+Second, Nixon and colleagues (2022) compared preferred and nonpreferred listening volume during a 2,000-m rowing time trial in physically active young women. Preferred volume was associated with lower RPE (p = .002, reported d = 0.86) and higher motivation (p < .001, d = 2.14), but NOT significantly different time to completion (p = .816), power (p = .287) or heart rate (p = .956). [6] The comparison was volume PREFERENCE, not a music-versus-silence contrast; it cannot show that louder is better or that KLAAT should be played loudly. It demonstrates that psychological improvement can occur without detectable performance improvement.
+
+
+Third, Schittenhelm and colleagues (2024) compared fast-beat and slow-beat self-selected music in 21 participants performing five 500-m high-intensity rowing intervals. Fast-beat music produced shorter total rowing time (p = .009), whereas average RPE did not significantly differ (p = .47). Slow-beat music was associated with lower average heart rate (p = .03) and different early recovery measures. [7] Critically, there was NO no-music condition. The experiment can compare two musical conditions but cannot establish whether either was better than silence. Faster rowing at the same RPE is not the same result as lower RPE at the same rowing time.
+
+
+Taken together, these three studies expose the false choice between 'music changes the body' and 'music only changes feelings.' Both work and feelings can change, but their relationships vary by task and listener. The appropriate causal model is multivariable, not mystical.
+
+
+7. THE TEMPO CONTRADICTION: WHY 137 BPM IS NOT A RECIPE
+
+
+The temptation to match a musical pulse to exercise intensity is strong, especially when KLAAT has previously exhibited an estimated ~137 BPM anchor and a later performance sample around 184 BPM. But 'tempo' is not a single listener variable in improvised music. An attack density of 280 events/min, a perceived beat of 137 BPM, a half-time beat, and a cycling cadence are different measures. A listener can feel propelled without synchronizing their movement at all, as Session 103 established.
+
+
+Jones and colleagues (2024) tested 24 people exercising at five intensities with unfamiliar, non-lyrical music at 90, 110, 130 and 150 BPM plus a no-music control. Contrary to an earlier expectation derived from familiar lyrical music, the investigators found no discernible intensity-by-preferred-tempo relationship in this experiment. Faster music yielded more favorable psychological responses, but the result did not establish an individualized optimal tempo curve or a universal 150-BPM prescription. [8]
+
+
+This study is unusually relevant because KLAAT is non-lyrical and may initially be unfamiliar. Yet it is still not KLAAT: its music had controlled tempos, and its participants were young adults on an exercise protocol. A person may find Amastacia's breath texture compelling at one moment and Ankora's denser attacks invigorating at another, without perceiving a conventional beat rate or wanting to match movement to it. The listener's preference is a result to discover, not a tempo instruction to impose on Paul.
+
+
+8. ATTENTION CAN REDIRECT EFFORT WITHOUT ERASING IT
+
+
+A plausible mechanism is attentional allocation. External music competes with or complements internal sensations of muscular strain and breathing. At moderate workload, a listener might attend more to the evolving drone, drum attack, or felt groove and less to bodily discomfort. At very high workload, physiological sensations can become harder to ignore. This does not imply that the brain stops receiving bodily signals or that an external rhythm 'overrides' them.
+
+
+Hutchinson and Karageorghis (2013) studied 34 participants across low, moderate and high treadmill intensities, with motivational music, neutral music and no-music control, also considering dominant attentional style. Attention shifted toward bodily/task-related sensations as intensity rose. Musical effects on RPE depended on intensity and attentional style; some benefits persisted at high intensity for participants characterized by associative attention. [9] The details are conditional, not a universal rule that music stops working beyond a particular threshold.
+
+
+For KLAAT, attention might be drawn by the sustained C# field, periodic Ankora impacts, breath grain or small timbral surprises. A listener might also dislike the texture, feel distracted, or stop hearing it while concentrating on a task. The specific mechanism cannot be assigned without asking where attention went and what the person experienced. Even then, introspection alone does not establish a neural pathway.
+
+
+9. A SOUNDTRACK CAN HELP WITHOUT BEING A FITNESS TOOL
+
+
+This is an important boundary for KLAAT's identity. The project is a living improvisational art practice. Its purpose is not to maximize rowing watts or optimize an exercise playlist. But ordinary-life usefulness is part of its artistic ambition. A sound can make a walk feel charged, support a drawing session, make cleaning less tedious, or provide a rhythmic environment for movement. Such experiences need not be clinical outcomes to be artistically important.
+
+
+The opposite outcomes are equally valid. A dense Ankora passage may feel energizing to one listener and distracting to another. Someone might prefer Amastacia's low continuous field while reading, but the same field may be nearly inaudible through a phone speaker. A listener may enjoy KLAAT at rest yet dislike it while exerting themselves. These differences are not failures of the music. They are properties of people, contexts and delivery chains interacting with an authentic artwork.
+
+
+There is also a safety distinction. Music that makes exertion feel more tolerable is not permission to ignore pain, dizziness, unsafe fatigue, traffic, equipment hazards or environmental warning signals. A headphone experiment conducted on a stationary laboratory cycle cannot justify reduced situational awareness outdoors. The research does not support using loud playback to intensify bodily effects; preferred volume and sound exposure remain separate considerations.
+
+
+10. AN INFERENCE LADDER FOR FUTURE KLAAT LISTENER REPORTS
+
+
+Level 1 — Acoustic stimulus: a specific unedited KLAAT take exists, with documented version, duration, audible content and playback route. The drone's fundamental, attack density and timbral envelope can eventually be measured. No physiological inference follows from a C# label or a phone waveform.
+
+
+Level 2 — Subjective experience: the listener spontaneously reports 'more energy,' 'less unpleasant effort,' 'more urge to continue,' 'more absorption' or 'I wanted it off.' Preserve exact wording before introducing rating categories. These are observations about experience, not mechanical work.
+
+
+Level 3 — Behavioral observation: for a comparable activity, the listener moves longer, chooses a different pace, returns to the track, or changes work output. An uncontrolled before/after change cannot distinguish music from practice, time of day, task variation or expectancy.
+
+
+Level 4 — Independent physiology: a validated device measures heart rate, ventilation, power, movement or other specified variables with timestamps and documented uncertainty. A wrist heart-rate trace is not a brain-state measurement. A higher heart rate can reflect increased workload rather than a musical 'resonance' effect.
+
+
+Level 5 — Causal contrast: randomized or counterbalanced exposure to authentic KLAAT versus an appropriate control, with the same task, clear outcome definitions, attention to order and preference, and enough independent listeners to characterize variability. A within-person pilot can identify feasibility and effect direction but cannot establish population prevalence or generalize beyond its stimulus and listeners.
+
+
+The ladder matters because these endpoints can disagree without any participant being dishonest. If someone reports greater energy but performs the same task, that is a meaningful Level 2 observation. If someone works longer with unchanged terminal RPE, that is a different pattern. If the same listener shows no change, that is equally informative.
+
+
+11. WHAT KLAAT MIGHT DISTINCTIVELY OFFER — TESTABLE, NOT ESTABLISHED
+
+
+HYPOTHESIS A: A sustained drone with intermittent attacks may provide a continuous attentional background without requiring exact movement-to-beat matching. It could make low-to-moderate tasks feel more engaging, but it could also interfere with concentration. A single average BPM is not the explanatory variable.
+
+
+HYPOTHESIS B: Breath articulation and rough timbral texture may increase perceived bodily urgency or energy for some listeners independently of measured heart rate or workload. The same textures may be fatiguing or unpleasant to others. Acoustic roughness, subjective urgency and autonomic response must be measured separately.
+
+
+HYPOTHESIS C: Enjoyment and familiarity may mediate tolerance. Someone who chooses KLAAT voluntarily may experience it differently from someone required to listen for research. Preference is not an inconvenience to remove blindly; it is a possible mechanism and moderator to document.
+
+
+HYPOTHESIS D: The same recording could function as foreground ritual for one listener and a background energizing soundtrack for another. The task context might alter which sonic features are noticed. The presence of a ritual visual identity or descriptive label could change expectations, so a neutral first listen remains important.
+
+
+SPECULATION: Some listeners might use Ankora's pulse as a subjective pacing resource without overt synchrony, or experience a sense of bodily momentum that lasts after playback. These are possible phenomenological reports, not established effects, and must not be converted into neural entrainment claims.
+
+
+UNSUPPORTED: KLAAT reduces oxygen consumption; improves athletic performance; increases endurance; lowers pain or breathlessness; induces a particular brainwave; causes cardiac synchronization; works best at 137 or 184 BPM; or produces therapeutic effects. None of these has been measured in KLAAT listeners. The 2026 cycling findings concern self-selected conventional music, not Amastacia and Ankora.
+
+
+12. THE METHODOLOGICAL CONTRADICTION TO PRESERVE
+
+
+A study that finds longer exercise with music may observe greater cumulative cardiovascular load, simply because the participant exercised longer. A study that finds lower RPE may observe no performance difference. A study that compares fast and slow music without silence cannot establish that music itself helped. A study that finds no fNIRS difference cannot exclude subjective enjoyment, but it does challenge claims of a robust universal brain mechanism. These are not errors to average away; they reveal which causal questions the studies actually asked.
+
+
+For KLAAT, the strongest next step is not a new scientific composition. It is the arrival of actual unaltered audio and a few genuine listener descriptions. The KLS-001 baseline remains focused on authentic takes, neutral reporting and exploratory inference. This session adds a future OPTIONAL context module for active listening rather than expanding KLS-001 into a clinical or sports-science protocol. Keep the performer state, delivered audio, listener appraisal, measured behavior and physiology in separate records.
+
+
+13. WHAT THIS MEANS FOR THE ART
+
+
+The defining force of KLAAT is the lived relationship between Amastacia's resonant breath and Ankora's hide pulse. The music may feel like an ancient mechanism in motion, but that is an aesthetic interpretation, not a laboratory account of the listener's nervous system. It can be a resonance ritual in a focused setting and a source of daily energy without needing to prove it makes people faster, healthier or neurologically altered.
+
+
+The most useful research outcome would be a more precise language for genuine responses. 'I felt energized' is not an inferior result because a heart monitor was absent. It is simply a subjective result. 'I kept moving longer' is a behavioral result that needs a comparison. 'My heart rate changed' is a physiological result that needs a workload and sensor context. Each deserves its own label. None tells Paul what phrase to play next.
+
+
+OPTIONAL KRX-134 — SAME WALK, DIFFERENT FEELING
+
+
+Only if naturally convenient: choose one already-recorded, unedited KLAAT excerpt and take two ordinary, safe walks on comparable routes and at roughly comparable times, one with the excerpt at comfortable volume and one without music. Do not try to synchronize steps, walk faster, exhaust yourself or change the composition. After each walk, jot three independent impressions: (1) enjoyment/energy, (2) how hard the walk felt, and (3) whether the sound helped, distracted or made no difference. Note obvious differences in weather, distance, route, playback and mood. Do not use headphones where situational awareness is important. This is a personal observation, not a blinded causal trial; an unchanged or negative response is a useful result. If no authentic KLAAT audio is available yet, simply defer the test.
+
+
+PRIMARY SOURCES AND EVIDENCE NOTES (reviewed October 30, 2026)
+
+
+[1] Terry PC, Karageorghis CI, Curran ML, Martin OV, Parsons-Smith RL (2020). Effects of Music in Exercise and Sport: A Meta-Analytic Review. Psychological Bulletin 146:91–117. DOI 10.1037/bul0000216. 139 studies, 598 effect sizes, 3,599 participants. https://doi.org/10.1037/bul0000216 ; institutional abstract https://research.usc.edu.au/esploro/outputs/journalArticle/Effects-of-Music-in-Exercise-and/99450838702621 . SYNTHESIS, not KLAAT-specific.
+
+
+[2] Yang L, Zhao B, Teng X, Chen Z, Qiu D (2026). Effects of listening to music during aerobic exercise on performance, fatigue, and psychological responses in physically active adults: a systematic review and meta-analysis. Frontiers in Sports and Active Living 8:1860752. DOI 10.3389/fspor.2026.1860752. Fifteen studies, n=339; GRADE and heterogeneity limitations. https://pubmed.ncbi.nlm.nih.gov/42630397/ . SYNTHESIS, not independent KLAAT data.
+
+
+[3] Danso A et al. (2026). Feel the beat, not the burn: Effects of self-selected music in time-to-exhaustion cycling. Psychology of Sport and Exercise 85:103116. DOI 10.1016/j.psychsport.2026.103116. Counterbalanced crossover n=29; selected 120–140 BPM music, not KLAAT. https://pubmed.ncbi.nlm.nih.gov/41825580/ . PRIMARY.
+
+
+[4] Guérin SMR, Karageorghis CI, Coeugnet MR, Bigliassi M, Delevoye-Turrell YN (2026). Effects of auditory stimuli during exhaustive exercise on cerebral oxygenation and psychophysical responses. Imaging Neuroscience 4. DOI 10.1162/IMAG.a.1166. fNIRS exercise experiment n=36; music vs audiobook vs silence, null detected effects. https://pubmed.ncbi.nlm.nih.gov/41878267/ . PRIMARY; not evidence of universal zero effect.
+
+
+[5] Gabler MC, Goss CS, Freemas JA, Baranauskas MN, Sogard AS, Chapman RF (2022). Dyspnea Is Attenuated by Auditory Distraction via Music with Headphones during Exercise in Healthy Individuals. Medicine & Science in Sports & Exercise 54:1973–1981. DOI 10.1249/MSS.0000000000002982. Randomized crossover n=22; breathing unpleasantness and intensity separate. https://pubmed.ncbi.nlm.nih.gov/36007166/ . PRIMARY.
+
+
+[6] Nixon KM et al. (2022). Effects of Music Volume Preference on Endurance Exercise Performance. Journal of Functional Morphology and Kinesiology 7:35. DOI 10.3390/jfmk7020035. Preferred vs nonpreferred volume in a rowing crossover; psychological outcomes differed without performance changes. https://www.mdpi.com/2411-5142/7/2/35 . PRIMARY; volume preference is not a loudness prescription.
+
+
+[7] Schittenhelm A, Brandt T, Andres D, Adler P, Fairhurst MT, Schmidt A (2024). Music influences performance without increasing perceived exertion during high-intensity rowing intervals: a cross-over design study. Frontiers in Psychology 15:1427373. DOI 10.3389/fpsyg.2024.1427373. n=21, fast vs slow music, no silence arm. https://pmc.ncbi.nlm.nih.gov/articles/PMC11363260/ . PRIMARY.
+
+
+[8] Jones L et al. (2024). The exercise intensity–music-tempo preference relationship: A decennial revisit. Psychology of Sport and Exercise 74:102644. DOI 10.1016/j.psychsport.2024.102644. n=24, unfamiliar non-lyrical music, five exercise intensities, four tempos and silence. https://pubmed.ncbi.nlm.nih.gov/38608851/ . PRIMARY; no universal tempo prescription.
+
+
+[9] Hutchinson JC, Karageorghis CI (2013). Moderating influence of dominant attentional style and exercise intensity on responses to asynchronous music. Journal of Sport & Exercise Psychology 35:625–643. DOI 10.1123/jsep.35.6.625. n=34, intensity/attentional-style interactions. https://pubmed.ncbi.nlm.nih.gov/24334323/ . PRIMARY.
+
+
+PROVENANCE AND NEXT OPEN QUESTION
+
+
+Connected Google Drive Master Instructions, Curriculum Index, Research Ledger, Session Corpus and Volume II were read before writing; canonical Library Published Studies and Hourly Research through October 30 07:14 CDT were checked for novelty. The Curation Queue was empty at the beginning of this publication run. Original hourly notes remain untouched. No KLAAT audio, physical exercise, physiological record or listener dataset was supplied or analyzed. Next research gap: whether individual preference, perceived timbral intensity and attentional target predict the direction of authentic KLAAT listener energy reports independently of the objectively measured sound level, and how to test that without instructing people to synchronize or exhaust themselves.
+
+
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+END OF SESSION 134

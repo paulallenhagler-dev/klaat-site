@@ -1,0 +1,247 @@
+KLAAT RESONANCE RESEARCH — SESSION 124
+THE SOUND IS NOT THE FINGER
+Attentional focus, improvised motor fluency, and the research finding that became less certain
+Published: October 26, 2026 — 19:13 CDT (America/Chicago)
+
+
+GOVERNING PRINCIPLE
+Experience-led creation. Science-informed refinement.
+
+
+CENTRAL QUESTION
+
+
+When Paul is playing Amastacia and Ankora, should his attention be on the lips, breath, hand, and coordination mechanisms—or on the sound those mechanisms are making? And does scientific evidence really justify telling an improviser that one kind of attention is always better?
+
+
+The short answer is that a performer can legitimately use different attentional targets at different moments, but the evidence does not support a universal rule. Several music experiments favor attention directed toward the audible effect of movement rather than its bodily mechanics. A major 2024 publication-bias-adjusted reanalysis, however, sharply reduced the estimated average advantage of external focus across the wider motor-learning literature. A 2026 experiment found an advantage for internal attention in a different, proprioception-heavy adaptation task. The scientifically useful conclusion is not to pick a permanent focus. It is to separate the question of repairing a technical gesture from the question of allowing an already available gesture to become part of spontaneous music.
+
+
+This is a study of technique and attentional control—not a proposal for a score, an obligatory structure, a new tempo, or a correction to KLAAT's artistic instincts.
+
+
+1. WHY THIS SESSION, AND WHY IT IS NEW
+
+
+The novelty audit reviewed the connected KLAAT Master Instructions, Curriculum Index, Research Ledger, and Session Corpus Volume II through Session 123, as well as canonical Library hourly notes created after the afternoon publication. Sessions 79 and 120 already distinguish performer flow from listener absorption and rest-related skill changes from temporary recovery. Sessions 82, 101, and 116 examine breath continuity and breathing–movement relationships. The October 21 hourly note examines simultaneous-task expertise; the October 19 cognitive-load note cites one attentional-focus study incidentally. Neither a published session nor a recent hourly note was found that directly evaluates the contradictory evidence for INTERNAL versus EXTERNAL attentional focus, especially the 2024 bias-adjusted reanalysis and the 2026 proprioceptive counterexample.
+
+
+The most recent hourly work has instead concentrated on website audio controls, source identity, room-probe identifiability, and short-clip loudness. Those questions remain valuable and preserved, but the present session takes a genuinely different unresolved direction: the relationship between attention, spontaneous technique, and what it means to improve without becoming more mechanically prescribed.
+
+
+2. THREE DIFFERENT TARGETS OF ATTENTION
+
+
+INTERNAL MOVEMENT FOCUS means directing attention toward bodily actions: the shape of the embouchure, pressure of the tongue, cheek compression during circular breathing, hand trajectory before an Ankora strike, or the sensation of a particular muscle group. These observations may be important when learning an unfamiliar physical maneuver or investigating discomfort.
+
+
+EXTERNAL MOVEMENT-EFFECT FOCUS means directing attention toward what the action does: whether Amastacia's audible drone remains continuous, how a drum impact blooms and decays, whether a transition sounds fluid, or how the sound occupies the room. The word 'external' does not mean emotionally detached. The sound is an external consequence of the body's action.
+
+
+OPEN, IMPROVISATIONAL ATTENTION is not simply the same as an experimental external-focus instruction. During KLAAT, attention may move among sound, bodily sensation, felt pulse, room, emerging imagery, and other experiences without verbal instruction. Paul's deep flow-like state is a genuine report of his experience, but it is not a measured attentional category or proof of a specific neural state.
+
+
+These three are not mutually exclusive across an entire performance. An instant of lip awareness need not ruin flow. Listening to Ankora's decay does not guarantee technical accuracy. And not monitoring every movement consciously does not mean the performer lacks technique.
+
+
+3. THE CLASSIC RESEARCH RESULT: SOUND CAN GUIDE THE HAND
+
+
+Duke, Cash, and Allen (2011) tested 16 music majors playing a short keyboard passage under four counterbalanced focus conditions: fingers, keys, piano hammers, and produced sound. Across 64 experimental sessions, the researchers used MIDI to quantify performance. Their reported pattern favored attention to the effects of movement, with more distal effects generally associated with more accurate, generalizable motor control [1].
+
+
+This is directly intelligible for KLAAT: an experienced player might listen for the unbroken sound of Amastacia instead of mentally checking every muscle involved in the breath handoff. But the experiment used a short, predetermined keyboard task with an explicit accuracy criterion. It did not involve a didgeridoo, an elk-hide drum, simultaneous playing, prolonged improvisation, or subjective trance. The result cannot be used to say that Paul should think about his sound at every instant.
+
+
+Atkins (2017) examined 20 trained singers under six attentional instructions while they performed a vocalise, a familiar song phrase, and a prepared solo. Expert raters evaluated seven dimensions of tone. Ratings for ring and overall tone quality tended to improve as attention was directed farther away from the singer, including toward imagined room-filling sound [2]. That is a useful analogy for a wind-driven drone: a player can sometimes coordinate a complex body by orienting toward its audible result. It is not proof that vocal-tract resonance in Amastacia changes in the same way or that a particular room-imagery instruction improves circular breathing.
+
+
+Mornell and Wulf (2019) tested skilled musicians playing chosen prepared works under external, internal, and normal-performance instructions. In two experiments, expert raters favored the external-focus condition for musical expression. Technical precision did not improve in the first experiment; in the second, it was higher for external than internal focus under more detailed rating criteria [3]. This is an especially important distinction: musical expression and technical precision were not the same dependent variable, and they did not always move together.
+
+
+For KLAAT, this protects the possibility that a passage can be compelling while imperfect, and that a technical improvement need not make the passage more moving. An improvisation's success cannot be inferred solely from the absence of an audible breath seam or from regularity of Ankora's strikes.
+
+
+4. A QUANTITATIVE MUSIC EXPERIMENT: WHAT CHANGED, AND WHAT DID NOT
+
+
+Jentzsch and Braun (2023; published online 2022) asked amateur pianists to practice a specified Bach piece for seven days, then perform it under no-instruction, internal-focus, and external-focus conditions. In their analysis, external focus was associated with fewer pitch errors than internal focus: mean 6.8 versus 8.6, F(1,47)=5.789, p=.020, partial eta-squared=.110. Error corrections averaged 2.2 under external focus versus 3.0 under internal focus, F(1,47)=5.776, p=.020, partial eta-squared=.109 [4].
+
+
+Two other outcomes did NOT show statistically significant focus effects: hesitations, p=.220, and note deletions, p>.10. The authors did not find evidence that the focus difference varied with the expertise split in their sample. They also cautioned that the study measured score deviations in a relatively low-pressure context, not interpretive quality, long-term retention, or a public concert. The work is a good example of why 'better performance' must be unpacked: some errors decreased; other errors did not.
+
+
+The numerical comparison is not a prediction that Paul will make 21% fewer mistakes or play better KLAAT when listening outward. His music has no fixed note score against which to count piano-style pitch errors. A deliberate, expressive breath crackle may be an important KLAAT texture rather than an error. A naturally uneven drum pattern may be the music, not a failure to synchronize to a grid.
+
+
+5. THE MAJOR CONTRADICTION: THE META-ANALYSIS THAT CHANGED THE CLAIM
+
+
+For years, influential reviews and experiments advanced a broad claim: focusing on the intended effect of movement usually improves performance and learning compared with focusing on body mechanics. Wulf's 2013 review synthesized much of this positive literature [5]. It offered a plausible account, often called the constrained-action hypothesis: concentrating on the mechanics of an already learned action can interfere with automatic coordination.
+
+
+But positive studies are not the entire evidence landscape. McKay and colleagues (2024) reanalyzed the external-focus literature using robust Bayesian meta-analytic models that explicitly allowed for publication bias [6]. Across the analyses, they found moderate-to-strong evidence of selective reporting or publication patterns. Their bias-adjusted mean standardized effects were approximately:
+
+
+Immediate performance: Hedges' g = 0.01.
+Retention: g = 0.15.
+Transfer: g = 0.09.
+Electromyographic activity: g = 0.06.
+More distant versus nearer external focus: g = -0.01.
+
+
+For orientation, a standardized mean difference of g=.01 is effectively zero at the group-average scale; g=.15 is small. Their Bayes factors favoring the null ranged from approximately 1.3 for retention to 5.75 for performance. The 1.3 figure is weak evidence, not decisive proof of no retention benefit. The authors also reported heterogeneity, meaning effects varied across tasks and studies [6].
+
+
+The careful interpretation is NOT 'external focus never works.' It is that the previous claim of a reliable, general superiority may have been overstated. A pooled average near zero can coexist with meaningful positive effects for some tasks, negative effects for others, and differences that current studies cannot explain. Bias corrections depend on modeling assumptions, and a reanalysis does not retroactively invalidate every individual positive experiment. But neither should a small, favorable piano study be elevated into a universal law of artistic performance.
+
+
+This contradiction is unusually valuable for KLAAT. It supports exactly the kind of scientific refinement Paul wants: examine a useful technique idea, retain what is credible, and refuse to let a broad theory dictate the art.
+
+
+6. THE 2026 COUNTEREXAMPLE: WHEN THE BODY'S POSITION MATTERS
+
+
+Wijeyaratnam and Cressman (2026) studied a visuomotor adaptation task in which participants reached toward targets while the displayed cursor was rotated 40 degrees from actual hand movement [7]. In the analyzed sample, 33 participants were assigned external focus, 31 internal focus, and 33 no-instruction control. The internal-focus group adapted its reaches more than the external-focus group during training: mean adjusted hand angle approximately 33.4 versus 31.4 degrees, p=.021. Neither group differed significantly from the control. Post-training explicit and implicit adaptation measures did not differ significantly among groups.
+
+
+This is not a music study, and the 2-degree group difference is not a musical effect size. The authors initially recruited 147 participants but excluded 50 for completion or instruction-adherence reasons; the final analyzed N was 97. That selection is a meaningful methodological limitation when generalizing the result. Nevertheless, the finding illustrates an important counterexample: when learning requires accurate proprioceptive information about one's hand, attending internally may be useful.
+
+
+Circular breathing is not rotated-cursor reaching. Still, the analogy identifies a plausible distinction. If Paul is trying to discover exactly how cheek pressure and tongue placement cooperate during a new circular-breathing transition, awareness of internal movement may supply information that simply 'listen to the sound' does not. Once a movement is reliable enough to occur without scrutiny, its sonic result may become the more useful attentional target during improvisation. That sequence is a TESTABLE KLAAT hypothesis, not a demonstrated universal training progression.
+
+
+7. THE OTHER CONTRADICTION: EXPERTISE IS NOT A SINGLE SWITCH
+
+
+Perkins-Ceccato, Passmore, and Lee (2003) compared ten highly skilled and ten less skilled golfers pitching to targets at several distances. The skilled group showed less performance variability under external-focus instructions, while the low-skill group did better under internal-focus instructions [8]. This is one of the clearest early demonstrations that skill level and task demands can interact.
+
+
+But Jentzsch and Braun's piano experiment did not find an expertise-by-focus interaction [4]. Moreover, the amateur piano sample did not include complete beginners or top professional performers. The 2026 adaptation study's results further suggest that sensory requirements—not merely years of practice—can matter [7]. It is therefore too simple to tell Paul, 'You are experienced, so always focus outward,' or 'You are still refining circular breathing, so always focus inward.' Different components of the same KLAAT session can be at different stages of fluency.
+
+
+Paul may be highly experienced at hearing the natural development of his music and at feeling Ankora's pulse, while a specific cheek-to-lung air transfer is still technically fragile. Expertise is multidimensional. The scientific task is to identify the particular coordination question, not assign the whole artist a single level.
+
+
+8. WHAT COUNTS AS A KLAAT TECHNICAL OUTCOME?
+
+
+For a fixed piano score, a wrong note can be counted. For KLAAT, a predetermined note sequence is the wrong measurement frame. Instead, technique can be assessed against the player's own immediate intention without defining what the composition must be.
+
+
+Possible acoustic observables include the duration and spectral change of a breath handoff; whether the drone audibly drops out when the player intended continuity; the timing and strength of Ankora attacks during an independently identified transition; or whether unwanted contact noise appears during a new hand movement. These are properties of a recording, not verdicts about the artwork. An intentionally audible breath, a momentary drone interruption, or a rough strike can remain artistically right.
+
+
+Possible performer-reported observables include perceived effort, freedom of movement, fatigue, tension, ease of returning to the drone, and whether attention felt captured by a troublesome gesture. Those are subjective reports, not acoustic measurements. Video may show hand placement, but a camera angle cannot directly measure lip pressure, airflow, or muscle coordination. Physiological sensors would be a third, separate category; none are currently available for this session.
+
+
+Most importantly, a listener's sense of activation, absorption, physical vibration, or trance is a fourth category. It cannot be inferred from Paul's attention strategy or from improved motor accuracy. No study cited here measured a KLAAT listener or demonstrated that an attentional cue creates a listener-state effect.
+
+
+9. THE TWO-LEVEL PROBLEM: TRAINING AND MAKING ART
+
+
+A common mistake is to confuse the goal of a five-minute technique investigation with the goal of a complete improvised performance. The former may ask, 'Can I produce a stable handoff when I intend to?' The latter may ask nothing verbally at all. The music can unfold through repetition, breath, texture, and physical response without a list of targets.
+
+
+In a technique investigation, it can be legitimate to examine one specific movement consciously. In a performance, it can be legitimate to let that movement recede from awareness and follow the sound. Neither mode is morally or artistically superior. They answer different questions.
+
+
+There is a further subtlety: the musician's felt flow is not an objective guarantee that the technique was more accurate. Conversely, being momentarily conscious of a difficult transition does not prove that the musical result was less affecting. The literature contains measures of performance accuracy, expressive ratings, and motor adaptation—not a validated equation linking attention to improvisational flow and listener trance.
+
+
+KLAAT's living identity is not a puzzle to be optimized into identical outputs. Amastacia's continuous C#-centered drone can be steady while its harmonics, breath noise, and intensity evolve. Ankora's elk hide can produce varied attacks, damping, and resonance. Paul's instinctive response to those changes is part of the work. The purpose of technical development is to expand the range of things he can do freely, not to eliminate the human irregularity that makes the music his.
+
+
+10. WHAT THE ATTENTIONAL THEORY CANNOT EXPLAIN
+
+
+Even if Paul discovers that listening to Amastacia's outgoing sound makes a breath transition easier, several mechanisms remain possible. The sound may give him a clearer error signal. He may reduce unhelpful self-monitoring. The cue may simply be easier to remember. Familiarity with the transition may be increasing across repetitions. Fatigue, warm-up, room acoustics, microphone processing, and his expectations may change the result. An attentional-focus experiment can establish a difference under its conditions; it does not automatically identify the mechanism.
+
+
+A one-person observation also cannot separate all these causes. Randomizing brief cue conditions could help in a later controlled skill study, but it would be invasive to impose that on a valued improvisation. We should first use low-pressure observations from ordinary practice. A technical exercise can remain private, optional, and distinct from the music offered to listeners.
+
+
+11. A REALISTIC KLAAT RESEARCH DESIGN, IF THE QUESTION GROWS
+
+
+A later, voluntary N-of-1 comparison could distinguish three contexts without prescribing a musical structure: (A) no attentional instruction, (B) brief awareness of a specific physical handoff, and (C) brief awareness of the resulting continuous sound. Short technique-only attempts, if Paul already practices them, could be recorded in varied order on more than one day. The same capture position, gain settings, and instrument conditions would matter. A blinded reviewer could mark clearly defined audible dropouts only where Paul intended continuity. Paul could independently note effort and ease.
+
+
+This design would still not prove an effect on full improvisations. A focus cue can alter the act of being tested, and repeated attempts may improve with practice. More than one day helps avoid confusing a lucky attempt with a stable difference. One should report raw counts, the number of attempts, the intended criterion, and variability rather than a dramatic percentage from a tiny sample. If no meaningful difference appears, that is useful evidence against treating the cue as necessary.
+
+
+For a future listener experiment, a separate question would be whether a spontaneous passage made during different technique conditions sounds different to independent listeners. That would require adequate recording control, blind presentation, genuine independent takes, and multiple listeners. The first question is about Paul's fluency; the second is about audible expression; a third is about subjective listener experience. None should be substituted for another.
+
+
+12. EVIDENCE STATUS
+
+
+ESTABLISHED OUTSIDE KLAAT
+- Controlled music studies have found benefits of attention directed toward sound or other movement effects for selected performance outcomes [1–4].
+- A 2024 robust Bayesian reanalysis of the broader attentional-focus literature reported near-zero bias-adjusted average effects for several outcomes and substantial between-study heterogeneity [6].
+- A 2026 visuomotor adaptation experiment found more adaptation during training under internal than external focus in its analyzed sample, with no significant group differences in its post-training explicit/implicit assessments [7].
+
+
+CONTEXT-DEPENDENT
+- Benefits differ by task, participant, attentional instruction, measured outcome, and possibly skill level [4,7,8].
+- Piano pitch errors, singer tone ratings, golf accuracy, and cursor adaptation cannot be pooled conceptually into a single measure of KLAAT artistic quality.
+- Bias-adjusted average effects do not exclude task-specific benefits; positive individual experiments do not establish a universal law.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT
+- Sound-directed attention might help an already familiar Amastacia breath handoff remain fluent during spontaneous performance.
+- Brief movement-directed attention might help diagnose an unfamiliar or uncomfortable cheek, lip, or hand coordination problem.
+- Technical practice that improves reliable options might increase Paul's sense of freedom without imposing regularity on the actual music.
+
+
+SPECULATION
+- A fluid shift between attention to the body and attention to the emerging sound may contribute to Paul's reported absorption. No KLAAT data establish this mechanism.
+- Increased technical ease might eventually change what listeners notice, but the direction could be positive, neutral, or negative depending on expression and context.
+
+
+UNSUPPORTED
+- External focus always improves KLAAT.
+- Internal focus necessarily destroys flow.
+- The published meta-analysis proves that attentional focus never matters.
+- A technical cue directly produces listener trance, neurological entrainment, autonomic change, or healing.
+- A more technically consistent improvisation is automatically a better KLAAT performance.
+
+
+13. WHAT THIS CHANGES IN THE RESEARCH PROGRAM
+
+
+Session 120 asked why a gesture may improve after rest. Session 124 adds a different control variable: what the performer attends to during the gesture. The most durable conclusion is a methodological correction. Future KLAAT technique observations should not silently assume that an 'external focus' instruction is evidence-based best practice in every setting. The relevant endpoint, learning stage, and baseline condition must be named. When citing classic positive findings, the 2024 publication-bias critique should be acknowledged.
+
+
+This also strengthens the broader research philosophy. We do not need a theory to grant permission for Paul's instinctive playing. We need science to make specific claims more accurate, to improve capture and technical understanding, and to protect the difference between an artist's inner experience and a listener's actual response.
+
+
+The sound is not the finger. The finger is not irrelevant. The relationship is alive, and the appropriate attentional target may change without requiring the music itself to obey a plan.
+
+
+OPTIONAL OBSERVATION — KRX-124: THE MOMENT ATTENTION RETURNS TO THE SOUND
+
+
+During an ordinary, unscored practice occasion—not a performance—notice one circular-breathing transition that already occurs naturally. If you happen to catch yourself concentrating on cheek or lip mechanics, simply note afterward whether attention returned to the audible drone on its own, and whether the handoff felt easier, harder, or unchanged. Do not force the transition, count repetitions, change tempo, or interrupt an improvisation to make a comparison. One sentence is enough. No change is required if nothing interesting happens.
+
+
+PRIMARY RESEARCH AND CRITICAL SYNTHESIS
+
+
+[1] Duke RA, Cash CD, Allen SE (2011). Focus of attention affects performance of motor skills in music. Journal of Research in Music Education 59(1):44–55. DOI 10.1177/0022429410396093. https://doi.org/10.1177/0022429410396093
+[2] Atkins RL (2017). Effects of focus of attention on tone production in trained singers. Journal of Research in Music Education 64(4):421–434. DOI 10.1177/0022429416673842. https://doi.org/10.1177/0022429416673842
+[3] Mornell A, Wulf G (2019; online 2018). Adopting an external focus of attention enhances musical performance. Journal of Research in Music Education 66(4):375–391. DOI 10.1177/0022429418801573. https://doi.org/10.1177/0022429418801573
+[4] Jentzsch I, Braun Y (2023; online 2022). Effects of attention focus instructions on amateur piano performance. Psychology of Music 51(2). DOI 10.1177/03057356221101431. https://doi.org/10.1177/03057356221101431
+[5] Wulf G (2013). Attentional focus and motor learning: A review of 15 years. International Review of Sport and Exercise Psychology 6(1):77–104. DOI 10.1080/1750984X.2012.723728. https://doi.org/10.1080/1750984X.2012.723728 (historical synthesis, not primary experiment)
+[6] McKay B, Corson AE, Seedu J, De Faveri CS, Hasan H, Arnold K, Adams FC, Carter MJ (2024). Reporting bias, not external focus: A robust Bayesian meta-analysis and systematic review of the external focus of attention literature. Psychological Bulletin 150(11):1347–1362. DOI 10.1037/bul0000451. https://pubmed.ncbi.nlm.nih.gov/39480294/ (critical reanalysis; not a primary intervention experiment)
+[7] Wijeyaratnam DO, Cressman EK (2026). The advantages of adopting an internal focus of attention in visuomotor adaptation. Perceptual and Motor Skills, OnlineFirst. DOI 10.1177/00315125261459499. https://doi.org/10.1177/00315125261459499
+[8] Perkins-Ceccato N, Passmore SR, Lee TD (2003). Effects of focus of attention depend on golfers' skill. Journal of Sports Sciences 21(8):593–600. DOI 10.1080/0264041031000101980. https://pubmed.ncbi.nlm.nih.gov/12875310/
+[9] Beilock SL, Carr TH (2001). On the fragility of skilled performance: What governs choking under pressure? Journal of Experimental Psychology: General 130(4):701–725. DOI 10.1037/0096-3445.130.4.701. https://pubmed.ncbi.nlm.nih.gov/11757876/ (related mechanistic context; no KLAAT-specific transfer)
+
+
+PROVENANCE AND LIMITATIONS
+Sources checked October 26, 2026. Quantitative findings above belong to the cited external studies, not to measured Amastacia, Ankora, Paul, or KLAAT listeners. No KLAAT recording was acoustically analyzed for this session. Connected Drive Master Instructions, Curriculum Index, Research Ledger, and Session Corpus Volume II were consulted through Session 123; ChatGPT Library Hourly Research notes after Session 123 were reviewed, and targeted novelty searches checked prior notes on cognitive load, motor learning, and performer attention. Hourly notes remain intact. The canonical safety copy of this complete text is the timestamped ChatGPT Library Published Studies file. Drive copies are secondary curation mirrors.
+
+
+END OF SESSION 124

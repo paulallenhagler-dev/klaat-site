@@ -1,0 +1,80 @@
+KLAAT RESONANCE RESEARCH — SESSION 158
+November 8, 2026 | 08:15 CST
+THE LISTENER WHO CHANGED BEFORE THE SOUND DID
+Why repeated exposure can change absorption ratings without any change in Amastacia or Ankora
+
+
+Guiding principle: Experience-led creation. Science-informed refinement.
+
+
+RESEARCH QUESTION
+Suppose Paul plays one spontaneous KLAAT improvisation, records it once, and a listener hears that identical recording several times. On the third hearing, the listener says it feels more absorbing, less strange, and easier to move with. Has KLAAT's sound become more effective? No acoustic property changed. What changed could be the listener's familiarity, temporal predictions, emotional associations, attention, expectations, or the listening situation. The inverse is possible too: an initially overwhelming drone-and-drum texture can become less engaging after repetition. This study asks how to separate these mechanisms in future KLAAT listening tests.
+
+
+WHY THIS QUESTION NOW; NOVELTY GATE
+The latest published study, Session 157, concerned false anticorrelation introduced by harmonic/percussive source separation. Sessions 150–156 addressed rhythm statistics, bass weighting, hearing aids, modulation versus beat, background listening, spectral averaging, and intersample peaks. The recent hourly notes from November 8 address centroid attribution, membrane radius, overlap-add artifacts, hide anisotropy, and timestamp quantization. None of those directly answers the within-listener repeated-exposure question: what happens when the physical audio is held exactly constant but experience changes? The present topic is deliberately distinct from the November 6 study on background-versus-focused listening: the task here is longitudinal change during repeated encounters with the SAME recording, not differences between listening contexts. A targeted archive search is still a bounded novelty check, not proof that no historical study ever mentioned familiarity.
+
+
+THE ESTABLISHED FOUNDATION
+Repeated exposure can alter preferences and processing fluency. Zajonc's classic experimental paper (1968) reported that repeated presentation of initially unfamiliar stimuli can increase positive evaluation under some conditions. This is not a universal law: stimuli, initial liking, repetition schedule, and context all matter. Berlyne's psychobiological approach to aesthetics anticipated that complexity and arousal can interact with preference, and that increasing familiarity may initially help but later produce boredom. Musical familiarity can improve prediction of event timing and structure without requiring that a listener consciously identify a beat. But familiarity is not identical to groove, nor does improved prediction establish trance.
+
+
+Primary research is more specific than the slogan 'repetition makes things better.' Margulis (2013), in experimental studies of musical repetition, found that repetition can alter perceived engagement and musicality; the direction and magnitude depend on the excerpt and procedure. In an influential behavioral experiment, Huron's expectation framework and subsequent empirical work distinguish anticipation, prediction, and response, but a framework is not direct proof of a KLAAT-specific mechanism. Salimpoor and colleagues (2011) reported measurable autonomic and reward-system correlates during intensely pleasurable music experiences; their study does NOT establish that repetition itself causes the same effects, or that any KLAAT listener experiences them.
+
+
+THE CRITICAL DISTINCTIONS
+1. Physical signal: the digital waveform, playback gain, equalization, and acoustic environment. If these are fixed, the presented recording can be physically identical across trials (within playback tolerances).
+2. Perception: what is heard as foreground, pulse, texture, predictability, or threat/comfort. Perception can change while the signal does not.
+3. Self-report: absorption, energization, urge to move, enjoyment, unease, and boredom are separate ratings. A listener may report high bodily activation but low enjoyment.
+4. Behavior: spontaneous foot tapping, continuing to listen when given a choice, and voluntary replay are observable outcomes, but each has multiple possible explanations.
+5. Physiology: heart rate, respiration, skin conductance, and neural measures require independent instrumentation and suitable controls. They cannot be inferred from subjective descriptions or audio spectra.
+6. Causality: a before/after increase cannot by itself isolate familiarity from expectation, time of day, changing mood, or demand effects.
+
+
+A QUANTITATIVE EXAMPLE — NOT KLAAT DATA
+Imagine eight listeners rate absorption on a 0–10 scale after their first and fourth exposure to one unchanged recording. Hypothetical first scores: 3,4,5,5,6,6,7,8. Hypothetical fourth scores: 5,5,6,6,7,7,7,7. The mean rises from 5.50 to 6.25: +0.75 points. Yet the individual changes are +2,+1,+1,+1,+1,+1,0,-1. One listener declines, another does not change. A paired comparison is more informative than treating the 16 scores as independent; the sample is tiny, the scale is ordinal in practice, and repeated measurements are correlated. More importantly, even a reliable change in ratings would show a change in response across exposures, NOT a change in the acoustic efficacy of the recording. A comparison condition is needed to estimate the contribution of repetition itself.
+
+
+A stronger small-scale design would randomly assign order across two naturally occurring KLAAT recordings and include an unfamiliar comparison sound matched approximately for duration and playback level. Record exposure count, headphones/speakers, listening activity, and whether the participant already knows the instruments or Paul. Ask the same few questions immediately after each hearing, with a delayed follow-up if feasible. A randomized counterbalanced order helps separate repetition from general acclimatization to the testing procedure. It does not remove all expectation bias; participants know when they hear a familiar excerpt. A test–retest change in a single person can be a valuable case description without being a generalizable effect estimate.
+
+
+WHAT COULD BE HAPPENING IN KLAAT
+Amastacia's continuous C#-centered acoustic drone may initially sound unfamiliar, even before the listener identifies its breath articulation and moving harmonics. Ankora's attacks may first dominate attention as isolated surprises; after a few hearings, the listener may anticipate their relationships to the drone and experience the same improvisation as a coherent field. This is a plausible prediction-learning hypothesis, not an observation from KLAAT listeners. Alternatively, repeated listening could flatten the sense of discovery, particularly if the listener values unpredictability or dislikes the timbre. Some people may experience both effects at once: greater rhythmic intelligibility alongside reduced emotional intensity.
+
+
+The performer's deep flow state is a different construct. Paul's absorption while producing simultaneous breath-driven drone and hand-played pulse may depend on motor control, sensorimotor feedback, effort, and immediate improvisational decisions. A passive listener need not reproduce that state. The aesthetic of ancient/ritual resonance is a meaningful artistic context, but the label 'ritual' can also alter expectations. A future study could present the same anonymous recording with or without a neutral descriptive introduction; any rating difference would concern framing and expectancy, not an acoustic alteration.
+
+
+CONTRADICTIONS AND LIMITS
+The mere-exposure literature includes nonlinear effects, negative effects for unpleasant stimuli, and methodological concerns about demand characteristics and selection. Repeated musical exposure is not a dose-response guarantee. A listener who voluntarily repeats a favorite excerpt is not equivalent to one required to hear an initially disliked sound four times. Familiarity can increase processing ease without increasing liking. A physiological change across trials might reflect adaptation or fatigue, not beneficial regulation. No finding reviewed here demonstrates that KLAAT induces trance, neural entrainment, therapeutic outcomes, or a unique effect of the C# drone. The relevant published studies use other stimuli and populations; their effect sizes cannot be transferred to KLAAT.
+
+
+IMPLICATION FOR THE ART
+Nothing about this question asks Paul to engineer repetition, impose a score, smooth the noise, or alter Ankora's pulse. The research changes how we interpret listeners, not how KLAAT must be played. A powerful first encounter and a compelling fifth encounter are different achievements. KLAAT may be music that reveals its internal logic over time, music whose intensity is strongest on first contact, or both for different listeners. Treat that diversity as information. The next step is to learn which descriptions correspond to actual people hearing actual recordings.
+
+
+EVIDENCE REGISTER
+Established: Repeated exposure can affect preference and perceptual processing in controlled studies; responses are context dependent.
+Context-dependent: Musical repetition may change engagement and expectation; direction varies by stimulus, listener and procedure.
+Plausible and testable for KLAAT: Some listeners may hear Amastacia–Ankora coordination more coherently after repeated exposure, with altered absorption or movement ratings.
+Speculative: Such familiarity might explain part of a perceived 'trance-like' progression in certain listeners.
+Unsupported: KLAAT is proven to entrain brains, regulate autonomic physiology, heal, or reliably deepen trance with each replay.
+
+
+PRIMARY RESEARCH AND TECHNICAL LEADS
+Zajonc, R. B. (1968). Attitudinal effects of mere exposure. Journal of Personality and Social Psychology, 9(2, Pt.2), 1–27. DOI: 10.1037/h0025848.
+Margulis, E. H. (2013). Aesthetic responses to repetition in unfamiliar music. Empirical Studies of the Arts, 31(1), 45–57. DOI: 10.2190/EM.31.1.c. [Bibliographic details should be checked against publisher before formal citation.]
+Salimpoor, V. N. et al. (2011). Anatomically distinct dopamine release during anticipation and experience of peak emotion to music. Nature Neuroscience, 14, 257–262. DOI: 10.1038/nn.2726. This concerns pleasure, not a KLAAT or repetition intervention.
+Berlyne, D. E. (1971). Aesthetics and Psychobiology. Appleton-Century-Crofts. Theoretical background, not direct primary KLAAT evidence.
+
+
+OPTIONAL OBSERVATION
+Pick one existing unedited KLAAT clip you already like. If a friend is willing, let them hear the identical clip twice on different days, without telling them what they should feel. Ask separately whether it felt absorbing, energizing, and movement-inducing, and what caught their attention. A changed answer is a starting observation, not proof of a mechanism. Keep the recording unchanged and let the listening experience speak first.
+
+
+END SESSION 158
+
+
+
+
+========== SESSION 159 | 2026-11-08 15:11 CST ==========

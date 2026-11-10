@@ -1,0 +1,211 @@
+KLAAT RESONANCE RESEARCH — SESSION 107
+THE SOUND BEHIND CLOSED EYES
+Eye closure, music-evoked imagery, emotional intensity, and why a changing EEG rhythm is not proof of trance
+Published: October 21, 2026 — 08:20 CDT (America/Chicago)
+
+
+GOVERNING PRINCIPLE
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+RESEARCH STATUS
+Critical synthesis of six published primary studies and their methodological boundaries. No new KLAAT-specific listener, neural, physiological, or acoustic measurements were collected. This is a research session, not an instruction to stage, score, or alter an improvised performance.
+
+
+CENTRAL QUESTION
+When a listener closes their eyes during Amastacia's sustained C# agave-didgeridoo drone and Ankora's elk-hide pulse, does the sound become more absorbing, more emotionally intense, or more vividly imagined? If the experience changes, what changed: the sound, the listener's visual environment, the allocation of attention, the construction of mental imagery, or a measurable neural state? Most importantly, how would we know which explanation is justified?
+
+
+1. THE ROOM STAYS THE SAME; THE LISTENING CONTEXT DOES NOT
+
+
+A person can hear the same performance twice and encounter two different worlds. With eyes open, they may see Paul's breath, the movement of the drum hand, the room, the light, the floor, the people nearby. With eyes closed, much of that visual input disappears. The drone remains. The pulse remains. The listener may become more aware of internal imagery, breathing, bodily sensations, or the temporal relationship between sounds. Or they may become restless, sleepy, anxious, or distracted. None of those outcomes is predetermined.
+
+
+This is a particularly important question for KLAAT because its ritual/archaeosonic atmosphere can invite a listener to close their eyes, but KLAAT also aspires to be music for walking, working, and ordinary energetic life. An eye-closed experience is one possible mode of listening, not the canonical or superior one. If a difference exists, it belongs partly to the listener's context rather than exclusively to Amastacia or Ankora.
+
+
+The new variable is EYE STATE. It is not interchangeable with darkness, visual distraction, performer visibility, ritual suggestion, or meditation instruction. Closing the eyes while seated in a quiet room differs from watching a performance with eyes open; both differ from staring at a fixed cross on a blank screen, following a moving visual target, or listening in complete darkness. Studies that manipulate these different conditions must not be treated as one uniform 'visual deprivation' experiment.
+
+
+2. THE NEURAL RESULT THAT SOUNDS STRONGER THAN IT IS
+
+
+Wöstmann, Schmitt and Obleser (2020) provide an unusually useful caution. In their main experiment, 22 participants attended to one of two alternating streams of spoken numbers with eyes open or closed in a darkened chamber. EEG measurements showed increased overall alpha-band power (roughly 10 Hz) with eye closure and stronger alpha-power modulation associated with attending versus ignoring auditory streams. Yet the behavioral endpoints did not improve: neither perceptual sensitivity nor response criterion changed reliably with eye closure. A second experiment with 19 participants detecting a near-threshold tone in noise also found no eye-state advantage on those behavioral measures [1].
+
+
+This is not a trivial null. It separates a measurable neural-state change from a claimed functional benefit. An EEG signal can differ while the participant performs no better on the actual auditory task. Alpha power is not a thermometer of trance, nor does a stronger alpha response mean that the auditory system has become universally more accurate. Eye closure is itself a major determinant of ongoing alpha activity. Therefore, if future KLAAT listeners show more alpha activity with eyes closed, the first explanation to exclude is the ordinary eye-state effect—not a special frequency, a pulse-induced brainwave, or a uniquely KLAAT-generated altered state.
+
+
+The experiment also does not prove that eye closure cannot change musical absorption. Its tasks were selective speech attention and tone detection, not long-form drone-and-drum listening. The scientifically correct reading is narrower: under those tested conditions, a clear neural change did not translate into improved auditory detection. That gap is the important lesson.
+
+
+3. THE MUSIC MAY FEEL STRONGER, BUT STRONGER IS NOT ALWAYS MORE PLEASANT
+
+
+Lerner and colleagues (2009) used fMRI with 15 healthy participants listening to short negative and neutral music excerpts under different eye and visual conditions. Closing the eyes increased reported emotional intensity for the negative material and was associated with greater amygdala responses. The behavioral follow-up on the same sample included comparisons of eyes closed, eyes open with a black screen, and eyes open with scrambled video. The reported negative-music comparison between closed and open eyes reached t(11) = -2.1, one-tailed p < .05 for valence, and a comparable arousal contrast was t(11) = -2.04, one-tailed p < .05 [2]. These are small-sample, stimulus-specific results, not a general law of music.
+
+
+The study's additional complete-darkness comparison matters: an eyes-closed neural difference remained even when both visual conditions were dark. That argues against the simplistic claim that eyelids merely block light. Eye state can also change the style of attention, expectation, and internal processing. But the study's modeled connectivity does not demonstrate that the amygdala 'caused trance,' and an amygdala response is not a unique index of fear, healing, or a spiritual state.
+
+
+A later EEG experiment by Chang and colleagues (2015) tested 30 participants listening to positive- and negative-valence musical excerpts with eyes open and closed. Their overall eye-state effect went in a direction that should resist romantic overinterpretation: listeners rated the excerpts more positively with eyes OPEN, F(1,29) = 10.45, p < .01. EEG alpha asymmetry and frontal theta also varied with eye state and musical valence [3]. The experiment does not establish that closed eyes make all music worse; it does establish that 'eyes closed = more positive experience' is not a valid universal assumption.
+
+
+Together, these studies suggest that the same eye-state manipulation may intensify negative affect in one setting, shift positive/negative ratings in another, and alter neural measurements in ways that do not map one-to-one onto pleasure or detection. For KLAAT, 'activation' should never be reduced to a single emotion scale. A listener might report bodily energy, wonder, tension, apprehension, pleasantness, or a vivid inner scene in different combinations. More intense is not necessarily better. More absorbed is not necessarily calmer.
+
+
+4. AN IMAGE CAN APPEAR WITHOUT HAVING BEEN PLACED IN THE SOUND
+
+
+KLAAT's sonic language can evoke imagined landscapes, moving structures, old spaces, bodily motion, or scenes that Paul never intended to depict. This is not evidence that a particular image is encoded in the waveform. It is evidence that listeners can construct meaning from sound. Session 102 distinguished autobiographical remembering from imagined scenes. The present session asks a different question: can eye state alter the VIVIDNESS of that imagery while the music stays unchanged?
+
+
+Hashim, Stewart and Küssner (2020) tested 35 participants listening to short film-music excerpts while either looking at a blank screen or tracking a rapidly shifting visual target. The moving-target task reduced self-reported prevalence of visual mental imagery, F(1,34) = 34.23, p < .001, partial eta-squared = .50, and vividness, F(1,34) = 11.69, p = .002, partial eta-squared = .26. Reported control over imagery did not change reliably, F(1,34) = 1.55, p = .222. Of nine measured music-emotion categories, the corrected comparison was significant for nostalgia, not for the other eight [4].
+
+
+That pattern is more informative than saying 'distraction kills emotion.' The visual task strongly affected imagery reports, but most emotion ratings were not reliably changed. It also was NOT an eyes-open-versus-eyes-closed study: both conditions used open eyes. The manipulation added visuospatial tracking and attentional demands. We cannot attribute the effect solely to retinal input, nor claim that every loss of visual imagery would weaken KLAAT's emotional impact.
+
+
+The finding matters because an apparent KLAAT listener-state difference might be produced by competing visual demands rather than by a change in sound. Watching a moving animation, watching the performer's hands, scanning a phone, and gazing at an unmoving wall all place different demands on vision. The research question is not which is the 'correct' way to experience the art. It is which experience a given listener actually has.
+
+
+5. THE STRONGER EVIDENCE FOR IMAGERY IS ALSO A WARNING ABOUT TASKS
+
+
+Herff, McConnell, Ji and Prince (2022) studied 100 participants in a within-person experiment combining eyes open versus closed with silence, relaxing orchestral music, and arousing orchestral music [5]. Participants first saw a short visual scene and were asked to imagine the continuation of a journey. Music and eye closure increased the reported vividness of this DIRECTED imagery; the eye-closure effect was larger with music than with silence. In the authors' standardized mixed models, the eye-closure effects on vividness were approximately beta = .19 for silence, .50 for the relaxing music, and .40 for the arousing music. Interaction contrasts relative to silence were beta = .31 and .24 for the two musical conditions. These are model coefficients on a standardized outcome, not percentages of KLAAT listeners who would 'enter trance.'
+
+
+Crucially, the outcomes separated. Music increased reported imagined travel distance compared with silence, but eye closure did not show the same strong distance effect in both music conditions. There was little evidence for a reliable eye-closure effect on imagined passage of time, and positive sentiment increased with eye closure for one of the two musical pieces, not both. The authors explicitly noted that the work did not establish the mechanism, and that the analyses were not preregistered. Participants were mostly young university students and listened remotely on their own equipment. The pieces were Western orchestral music, not Amastacia and Ankora.
+
+
+This is the most useful study here for a methodological reason: it shows how music and eye closure can interact rather than simply adding two independent boosts to 'immersion.' It also shows why vividness, imagined distance, imagined time, and emotional sentiment must remain distinct outcomes. A person who pictures an enormous desert under KLAAT may report strong imagery without reporting changed time perception or heightened physical energy. A person who feels the pulse through their body may report no visual images at all.
+
+
+There is an additional boundary: the experiment asked participants to imagine a journey. That instruction actively shaped their reports. KLAAT's first-listen research should NOT instruct listeners to imagine ruins, a portal, a shamanic journey, or any specific visual scene before asking what arose spontaneously. Directed imagery and unsolicited imagery are not the same phenomenon.
+
+
+6. A SIXTH STUDY: EYE CLOSURE CAN HELP ONE KIND OF MEMORY WITHOUT PROVING BETTER HEARING
+
+
+Perfect, Andrade and Eagan (2011) asked 60 participants to recall a staged event while eyes were open or closed, with or without distracting sound. Eye closure reduced errors associated with auditory distraction in the retrieval task [6]. This supports the broader possibility that changing visual monitoring demands can free resources for certain forms of mental work. But it was a memory-retrieval experiment, not a music-absorption or auditory-acuity experiment. It cannot be used to overturn Wöstmann and colleagues' null detection results, because the measured endpoints and task demands differ.
+
+
+This apparent contradiction is instructive. Eyes closed may help someone reconstruct an event, may make an imagined scene more vivid, may alter emotional evaluation, and may leave auditory target detection unchanged. Those are four different claims. KLAAT's scientific vocabulary must preserve the distinction rather than forcing every outcome into a single 'deepened consciousness' story.
+
+
+7. FOUR MECHANISMS THAT SHOULD NOT BE CONFUSED
+
+
+MECHANISM A — VISUAL COMPETITION. Closing the eyes reduces some incoming visual information and removes some demands of monitoring the environment. If the listener had been watching a complex scene, this can change what attention is available for sound or imagery. But looking at a quiet wall is not equivalent to scrolling a phone.
+
+
+MECHANISM B — INTERNAL IMAGERY. With fewer competing visual demands, a listener may more readily form images, memories, spatial impressions, or narratives. Imagery is a reportable subjective experience; it is not automatically a veridical memory, a hallucination, or a neural signature of trance.
+
+
+MECHANISM C — EMOTIONAL APPRAISAL. The same sound may be interpreted as more threatening, intimate, vast, safe, or moving in a different eye state. The direction can depend on the sound's valence, personal associations, context, and listener. Emotional intensity, pleasantness, and arousal should be rated separately.
+
+
+MECHANISM D — STATE-DEPENDENT NEURAL ACTIVITY. Eye closure changes EEG alpha even without music. Auditory attention can modulate alpha activity, but an alpha difference is not proof of improved perception, physiological entrainment, altered consciousness, or a KLAAT-specific causal mechanism.
+
+
+The mechanisms may interact. A vivid image may change emotion. A change in emotion may direct attention toward a particular Ankora strike. A listener who feels tense may notice breathing and interpret a low drone differently. But interaction is not identity. A chain of plausible stories is not evidence that the chain occurred in any actual KLAAT listener.
+
+
+8. WHAT THIS DOES TO THE IDEA OF 'TRANCE'
+
+
+Paul's flow-like experience while playing is a first-person performer report. The listener's absorption is a separate first-person report. Eye state is a manipulable listening condition. EEG alpha is a physiological measurement. None can stand in for the others. A listener might describe time dilation with eyes open, or enter an absorbing reverie with eyes closed; either description deserves recording as experience, not instant elevation to a neural diagnosis.
+
+
+It would be tempting to turn the current literature into a rule: close your eyes for the strongest KLAAT experience. That would be premature and artistically narrowing. Eye closure can increase imagery vividness in some settings, but it has not reliably improved auditory detection, and the emotional direction is not universally positive. It may also be impractical or unsafe while walking, driving, cooking, or doing other tasks. The energetic daily-life soundtrack version of KLAAT is no less authentic than an eyes-closed listening session.
+
+
+A more honest artistic interpretation is that the listener is an active participant in making the experience. The sound provides materials: Amastacia's living harmonics, breath noise, continuity and changing pressure; Ankora's strike and decay, irregular human placement, and physical pulse. The listener brings a visual world, bodily condition, memory, expectation, and attention. The resulting experience is a relationship, not a property stored in one note.
+
+
+9. WHAT WOULD ACTUALLY COUNT AS KLAAT EVIDENCE?
+
+
+ACOUSTICALLY MEASURED: The recording's amplitude envelope, spectral content, pulse events and timing are the same across the compared listening conditions. That establishes stimulus identity at the file level; it does not prove identical ear-level sound if playback devices, volume, posture or room position change.
+
+
+SUBJECTIVELY REPORTED: A listener describes imagery, felt bodily energy, absorption, pleasantness, unease, or temporal experience. Such reports are real observations about experience, but they do not identify the neural cause. A listener can report 'nothing visual' and still be deeply engaged.
+
+
+BEHAVIORALLY MEASURED: In a specific detection, memory or response-time task, eye state may change accuracy or latency. That would be a task-specific performance result, not a universal listening benefit. Repeated measures and order controls are necessary.
+
+
+NEURALLY OR PHYSIOLOGICALLY MEASURED: EEG, heart rate, breathing or skin conductance may vary with eye state, sound, task or arousal. Eye-closure alpha changes and muscle/movement artifacts must be accounted for. Without appropriate controls, those measurements do not establish a KLAAT-generated trance mechanism.
+
+
+CAUSAL HYPOTHESIS: If the same unedited excerpt produces systematically different reports when eye state is assigned in a counterbalanced design, the eye-state manipulation may be causally relevant to that measured endpoint under those conditions. It still does not establish whether the mediator was reduced visual competition, imagery, emotion, expectation or another factor. Those would require separate manipulations and measurements.
+
+
+The most important negative result to preserve is this: if eyes-open and eyes-closed KLAAT listening yield no reliable difference in absorption, that does not make the performance weak. It means eye state was not a demonstrated determinant of that outcome in that test. Nulls protect the project from inventing powers it has not earned.
+
+
+10. CLAIM-ELIGIBILITY LADDER
+
+
+ESTABLISHED OUTSIDE KLAAT
+Eye closure changes ongoing neural alpha activity. In one controlled auditory-attention study, that neural difference did not improve target detection. Music and eye state can alter reported emotion and imagery in particular tasks. Visuospatial tracking can reduce music-evoked imagery reports. Directed mental imagery can be more vivid when music and closed eyes are combined.
+
+
+SUPPORTED BUT CONTEXT-DEPENDENT
+The size and direction of subjective effects depend on music, emotional valence, imagery instruction, visual task, listener, playback, and outcome. Eyes-closed emotional intensification is not necessarily pleasant; eyes-open listening can produce more positive ratings. Evidence from short speech tasks, film music, orchestral excerpts and staged-event recall does not numerically transfer to long improvised drone and frame drum.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT
+Some listeners may report greater spontaneous imagery or absorption with eyes closed during an unchanged KLAAT recording, while others may report greater energy or connection with eyes open. Eye state may influence what listeners notice in Amastacia's harmonic motion or Ankora's pulse, but no such difference has been measured in KLAAT.
+
+
+SPECULATION
+For a listener already inclined toward inward imagery, the stable drone might support an imagined spatial field while Ankora's attacks punctuate it. That story is an interpretation to test, not a property of C#, a guaranteed psychological pathway, or an instruction to change performance.
+
+
+UNSUPPORTED / DO NOT CLAIM
+Closing the eyes activates a special KLAAT trance; alpha at roughly 10 Hz means the brain has synchronized to a 137-BPM drum; eye closure improves hearing in general; more vivid images prove more physical resonance; all listeners will feel better with eyes closed; negative affect is therapeutic; an fMRI amygdala response proves a spiritual or clinical effect; the performer must design an eyes-closed ritual to make the sound work.
+
+
+11. THE ARTISTIC CONSEQUENCE: KEEP THE MUSIC; LEARN ABOUT THE LISTENING
+
+
+There is a useful inversion here. The research does not tell Paul how to build a more effective 'eyes-closed section.' It suggests that an unchanged improvisation may offer more than one legitimate experience because the listener can encounter it under different sensory and attentional conditions. The ancient/ritual quality is part of KLAAT's artistic identity, but it need not become an instruction delivered to the audience. The same living sound can be listened to inwardly, watched as a physical performance, or carried through an ordinary day.
+
+
+Science-informed refinement means describing those differences accurately, not eliminating them. It can improve how KLAAT is documented, how a listener is asked about an experience, and how future claims are bounded. It may also reveal that visual access to Paul's hands and breath adds something that closing the eyes removes—an outcome compatible with Session 96's audiovisual causality findings, but not a duplication of them. Session 96 asked how seeing a strike changes what the strike seems to sound like. This session asks how eye state changes imagery, emotion and attention while the same audio continues.
+
+
+OPTIONAL OBSERVATION — KRX-107: THE SAME TAKE, TWO WAYS OF LISTENING
+
+
+If a willing friend wants to try it, choose one existing, unedited KLAAT excerpt and play it twice at the same comfortable level on the same system, seated safely in the same position. Randomize whether the first listen is eyes open (looking at an unchanging, non-distracting point) or eyes closed; reverse the order for another listener when possible. Before explaining any theory, ask one open question after each play: 'What, if anything, happened in your experience?' Only afterward invite separate 0–10 ratings of imagery vividness, bodily energy, absorption, pleasantness and tension, with 'none' and 'not sure' allowed. Note prior familiarity, order, room, playback and any drowsiness. Do not ask anyone to force a trance, picture a desert, or change how they breathe. A one-person comparison is exploratory; repeat listening and expectation can explain differences. Preserve nulls and contradictions. Do not change the recording to fit the observation.
+
+
+PRIMARY RESEARCH SOURCES — VERIFIED OCTOBER 21, 2026
+
+
+[1] Wöstmann, M., Schmitt, L.-M., & Obleser, J. (2020; online 2019). Does Closing the Eyes Enhance Auditory Attention? Eye Closure Increases Attentional Alpha-Power Modulation but Not Listening Performance. Journal of Cognitive Neuroscience, 32(2), 212–225. DOI: 10.1162/jocn_a_01403. https://pubmed.ncbi.nlm.nih.gov/30912726/ . Primary EEG/behavioral experiments, n=22 and n=19; neural modulation without a behavioral eye-closure benefit.
+
+
+[2] Lerner, Y., Papo, D., Zhdanov, A., Belozersky, L., & Hendler, T. (2009). Eyes Wide Shut: Amygdala Mediates Eyes-Closed Effect on Emotional Experience with Music. PLOS ONE, 4(7), e6230. DOI: 10.1371/journal.pone.0006230. https://doi.org/10.1371/journal.pone.0006230 . Primary fMRI/behavioral study, 15 healthy participants; small-sample negative/neutral-music context.
+
+
+[3] Chang, Y.-H., Lee, Y.-Y., Liang, K.-C., Chen, I.-P., Tsai, C.-G., & Hsieh, S. (2015). Experiencing affective music in eyes-closed and eyes-open states: an electroencephalography study. Frontiers in Psychology, 6, 1160. DOI: 10.3389/fpsyg.2015.01160. https://doi.org/10.3389/fpsyg.2015.01160 . Primary EEG/ratings, n=30; eyes-open valence ratings more positive on average.
+
+
+[4] Hashim, S., Stewart, L., & Küssner, M. B. (2020). Saccadic Eye-Movements Suppress Visual Mental Imagery and Partly Reduce Emotional Response During Music Listening. Music & Science, 3. DOI: 10.1177/2059204320959580. https://doi.org/10.1177/2059204320959580 . Primary n=35 visual tracking versus blank-screen study; both conditions eyes open.
+
+
+[5] Herff, S. A., McConnell, S., Ji, J. L., & Prince, J. B. (2022). Eye Closure Interacts with Music to Influence Vividness and Content of Directed Imagery. Music & Science, 5. DOI: 10.1177/20592043221142711. https://doi.org/10.1177/20592043221142711 . Primary n=100, six-condition within-participant guided-imagery experiment; analyses not preregistered; data/scripts provided.
+
+
+[6] Perfect, T. J., Andrade, J., & Eagan, I. (2011). Eye closure reduces the cross-modal memory impairment caused by auditory distraction. Journal of Experimental Psychology: Learning, Memory, and Cognition, 37(4), 1008–1013. DOI: 10.1037/a0022930. https://doi.org/10.1037/a0022930 . Primary n=60 memory-retrieval study; not music-specific and not a test of auditory sensitivity.
+
+
+PROVENANCE AND HARD NOVELTY GATE
+Before assigning Session 107, reviewed the connected KLAAT Master Instructions, Curriculum Index and Research Ledger through Session 106, and the Google Drive Session Corpus Volume II; confirmed no Session 107 marker. Inspected canonical Library Published Studies and all newly accumulated Hourly Research notes since Session 106, including October 20 at 20:15, 21:17, 22:21 and 23:15 CDT and October 21 at 00:13, 01:12, 02:18, 03:14, 04:16, 05:19, 06:15 and 07:14 CDT. Those notes address measurement artifacts, multiple-testing validity, auditory reflexes, footwear, venue propagation and safety, and playback/measurement issues; none is an eye-state/listener-imagery session. Targeted Library search also found no prior dedicated closed-eyes versus open-eyes KLAAT session. Sessions 79, 85, 96, 102 and 106 provide neighboring foundations (performer/listener distinction, imagery and attention, visual strike causality, memory versus imagery, and background-task interference), but none answers the present eye-state contradiction using the six primary studies above. Quantitative anchors and limitations were checked against primary articles or their institutional/PubMed records. This study does not constitute KLAAT-specific empirical evidence. Hourly Research provenance remains unchanged. Canonical Library publication must precede any Google Drive mirror.
+
+
+END OF SESSION 107

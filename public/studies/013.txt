@@ -1,0 +1,15 @@
+SESSION 13 — MECHANICAL COUPLING: FLOOR AS PART OF SOUND
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+Core lesson
+Vibration can reach a listener through structures as well as air. A drum, loudspeaker, or performer can excite a stage or floor; the floor can then move a chair, feet, or body. Mass, stiffness, damping, contact geometry, and resonance determine how strongly vibration transfers.
+
+
+This gives KLAAT another design dimension: increase tactile intensity through mechanical coupling without necessarily increasing airborne SPL by the same amount.
+
+
+Evidence boundary
+Established: structure-borne and airborne vibration are distinct transmission paths; resonant structures can amplify motion at certain frequencies. Safety boundary: stronger whole-body vibration is not automatically beneficial and can become uncomfortable or harmful at sufficient exposure.
+
+
+KLAAT test
+Compare Ankora on a highly rigid surface and on a more resonant or mechanically connected surface. Keep listener distance similar and separately rate audible loudness and vibration through the floor/body.

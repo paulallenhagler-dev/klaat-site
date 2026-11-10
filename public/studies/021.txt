@@ -1,0 +1,17 @@
+SESSION 21 — BEAT PERCEPTION ≠ ACOUSTIC FREQUENCY
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+A pulse at 150 BPM corresponds to 2.5 events per second, but that does not mean the music contains a 2.5-Hz acoustic tone. Musical beat frequency, acoustic carrier frequency, amplitude modulation rate, and neural oscillation are different physical and perceptual quantities.
+
+
+Listeners can also group a fast pulse at slower metrical levels. A 150-BPM pattern may be felt at 75 BPM or another hierarchical level depending on accents and structure.
+
+
+Evidence boundary
+Established: beat and meter are perceptual organizations of event timing; rhythmic event rate is distinct from acoustic frequency. Unsupported: saying a 2.5-Hz beat automatically puts the brain into a 2.5-Hz named brainwave state.
+
+
+KLAAT test
+Play a steady ~150-BPM pattern while changing accents so listeners might group it in 2s, 4s, or 8s. Ask them to tap the pulse that feels most natural and compare their chosen level.

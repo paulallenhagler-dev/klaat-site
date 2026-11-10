@@ -1,0 +1,15 @@
+SESSION 8 — THE ROOM IS PART OF THE INSTRUMENT
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+Core lesson
+Rooms have resonant modes and standing-wave patterns. A simple axial-mode estimate is f = c/(2L); a 12-foot room dimension gives a first mode around the high-40-Hz range. Because low-frequency wavelengths are comparable to room dimensions, a few feet of listener movement can produce large differences in bass level and spectral balance.
+
+
+Amastacia therefore excites not only the air but the geometry of the venue. The same performance can feel radically different at different audience positions.
+
+
+Evidence boundary
+Established: enclosed spaces produce modal reinforcement and cancellation; reverberation and position alter perceived sound. Unsupported: treating a room mode as a biological “healing resonance.”
+
+
+KLAAT test
+Hold one stable Amastacia configuration and map at least six positions in the room. Rate loudness, bass weight, overtone clarity, and bodily vibration separately.

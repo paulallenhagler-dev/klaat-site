@@ -1,0 +1,20 @@
+SESSION 35 — VIBROTACTILE THRESHOLDS
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+The point where vibration becomes consciously detectable depends on frequency, amplitude, body site, contact area, posture, and receptor pathway. There is no single universal frequency or level at which humans “feel sound.”
+
+
+Pacinian sensitivity is often high around roughly 200–300 Hz under many controlled conditions, but lower-frequency vibration can be strongly perceived through other pathways and larger mechanical movements.
+
+
+KLAAT should separate three levels: physical mechanical vibration exists; the listener consciously feels it; the vibration produces a broader physiological change. One level does not prove the next.
+
+
+Evidence boundary
+Established: vibrotactile thresholds vary with stimulus parameters and anatomy. Unsupported: equating measurable floor vibration with a demonstrated therapeutic bodily effect.
+
+
+KLAAT test
+Place a listener at increasing distances from Ankora or a coupled source. Record the point where vibration is first detectable, clearly present, and dominant relative to hearing.

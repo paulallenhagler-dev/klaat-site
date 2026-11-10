@@ -1,0 +1,215 @@
+KLAAT RESONANCE RESEARCH — SESSION 72
+THE PERFORMANCE IS NOT THE CLIP
+Ecological Transfer, Live Presence, and the Difference Between a Detected Event and a Meaningful Transition
+
+
+Publication date: Friday, October 9, 2026, approximately 3:12 PM CDT
+Program: KLAAT Resonance Research | Sequential Published Study 72
+Status: Research synthesis and proposed protocol; no KRX-070 or KRX-071 participant results have been supplied.
+
+
+GOVERNING PRINCIPLE
+A MECHANISM THAT WORKS IN A SHORT, DIRECTED LISTENING TEST HAS NOT YET BEEN SHOWN TO ORGANIZE A LONG, UNINTERRUPTED KLAAT PERFORMANCE. THE REVERSE IS ALSO TRUE: A LIVE MOMENT CAN MATTER WITHOUT THE LABORATORY TEST IDENTIFYING ITS CAUSE.
+
+
+1. THE QUESTION LEFT BY SESSION 71
+Sessions 70 and 71 examined the Earned Wound: a deliberately absent Ankora strike after a Clock has made that strike likely. They also established that prediction, attention and repetition cannot be collapsed into one explanation. The unresolved question is not simply whether an omission can be detected in a controlled clip. It is whether that omission retains structural importance when the listener is immersed in a full performance, without being told to search for missing strikes.
+
+
+No new hourly notes were present in the Library Hourly Research folder after October 5, 2026, at 6:33 PM CDT when this session was prepared. The strongest available direction therefore comes from the prior session's unresolved ecological-transfer problem and the wider archive, not an invented new observation. The research program has not recorded a verified outcome from KRX-070 or KRX-071; the current work remains protocol development rather than an experimental discovery.
+
+
+2. THREE DIFFERENT QUESTIONS THAT MUST NOT BE CONFUSED
+DETECTION: Did the listener notice that a strike was absent?
+STRUCTURE: Did the moment create a meaningful boundary, change in tension or change in perceived phase?
+EXPERIENCE: Did the moment alter urgency, bodily salience, attention, movement impulse or engagement?
+A listener may detect a missing beat and find it musically trivial. Another may experience a strong transition without identifying the precise omitted event. These results are not contradictions. They are different dependent variables.
+
+
+3. WHY A CLIP CAN MISLEAD
+A fifteen-second comparison magnifies a local event by removing the surrounding performance. It may invite analysis instead of immersion. The listener is aware that the excerpt is short, and may be asked to search for a target. A twenty-minute KLAAT performance establishes longer histories of expectation, acoustic continuity, fatigue, absorption, spatial adaptation and changing attention. Therefore, a strong clip effect cannot be presumed to survive intact in the complete work.
+
+
+4. WHY LIVE PERFORMANCE CAN ALSO MISLEAD
+Live performance is not one manipulable variable. It bundles physical presence, visual gesture, room acoustics, audience awareness, social expectation, performer adaptation, and different acoustic details. Comparing one live take with a different recording can confound every one of those factors. If a live KLAAT audience reports more impact, we must not conclude that 'liveness' itself caused the difference until the relevant alternatives are addressed.
+
+
+5. WHAT THE CONCERT LITERATURE ACTUALLY SHOWS
+In a 2025 concert study, Czepiel and colleagues compared audio-only recorded and audio-visual live piano performances while measuring audience cardiorespiratory responses. Inter-subject correlation of heart rate was higher in the audio-visual condition, particularly around structural boundaries. Yet average physiological synchrony did not correspond straightforwardly to average self-reported engagement. The comparison included both visual presence and recording/live status, so it cannot isolate the effect of either alone. The study also did not find universal beat-to-heartbeat or beat-to-breath phase locking.
+
+
+This is a methodological lesson, not a forecast for KLAAT: the important signal may be time-localized around transitions, and physiological correlation should not be treated as a universal measure of immersion or activation.
+
+
+6. THE 2026 LIVE-VERSUS-LIVESTREAM PILOT
+A randomized 2026 pilot with 130 participants compared live concerts with simultaneous cinematic livestream presentation. Participants in the live condition reported greater appreciation, feeling moved, arousal and valence. Of the physiological variables reported, mean heart rate differed significantly, while other heart-rate-variability measures did not. This supports the relevance of performance context under those conditions. It does not show that live music invariably produces stronger autonomic effects, nor does it isolate the mechanism that might matter for Amastacia and Ankora.
+
+
+7. LIVE MOVEMENT IS NOT SIMPLY BEAT FOLLOWING
+Hochgesand and Egermann's 2025 concert work measured audience movement in realistic settings. Their models identified contributions from measurement location (arm versus torso), metrical level, musical piece, seated versus unseated condition and individual urge to dance. This is directly relevant to KLAAT: one accelerometer or one nominal BPM cannot represent audience movement. Movement is an outcome influenced by the person and setting, not proof of a shared physiological state.
+
+
+8. NATURALISTIC BOUNDARIES EXIST, BUT VARY
+Research on perceived segmentation in a contemporary-music concert found some listener agreement about section boundaries, especially around changes in texture, register, dynamics and pattern. Listeners also reported perceived speed changes in a piece whose tempo was constant, possibly because note density changed. Earlier work on popular-music segmentation likewise showed meaningful individual differences. Thus KLAAT should not require every listener to identify the same four boundaries at exactly the same second.
+
+
+9. THE TRANSFER LADDER
+A useful KLAAT mechanism should pass progressively harder contexts:
+RUNG 1 — CONTROLLED TARGET: a short comparison establishes whether the event can be discriminated.
+RUNG 2 — UNINTERRUPTED RECORDING: the same kind of event matters without immediate target instructions.
+RUNG 3 — CONTINUOUS AUDIOVISUAL PERFORMANCE: gesture and visible breath are present.
+RUNG 4 — SMALL LIVE AUDIENCE: room, performer, shared attention and genuine duration are present.
+RUNG 5 — REPLICATION: another day, another audience and eventually another venue.
+A finding at one rung is evidence for that rung, not an automatic pass for the next.
+
+
+10. WHY KRX-071 CANNOT BE SKIPPED
+Session 71's proposed neutral-versus-directed listening and learned-rest control remains necessary. We do not yet know whether the Earned Wound survives those controls. Session 72 does not declare that it does. Instead, it defines how a candidate effect could be transported into natural performance and how to interpret a failure to transport. If the short-clip contrast is null, the live study can still test whether a structurally meaningful omission exists, but it must not be described as a replication of a demonstrated mechanism.
+
+
+11. KEEP THE PERFORMANCE INTACT
+KLAAT's artistic identity depends on the accumulation of time. An uninterrupted take should be the ecological reference. Do not interrupt the audience every time Ankora changes density or omits a strike. Frequent prompts may convert the audience from participants in an experience into analysts monitoring targets. Time-resolved reports are valuable, but the measurement method itself can alter attention.
+
+
+12. THE LOW-INTRUSION MEASUREMENT PRINCIPLE
+For the first ecological pilot, use a clean audio/video recording, performer event log, and brief post-performance response. Optional passive measures can include discreet video of movement with consent or wearable signals, but they are not required. Collect a separate boundary-marking task later during playback, so the uninterrupted live encounter is not repeatedly interrupted. Distinguish immediate remembered experience from later analytic reconstruction.
+
+
+13. THE TIMING PROBLEM IN A HUMAN PERFORMANCE
+Amastacia's breath cycles and Ankora's attacks are not rigid computer events. The performer may lengthen a phrase, shift a strike or alter the Field in response to the room. This variability is part of the music. Record the actual onset times and spectral changes, not merely the intended beat grid. The intended event, delivered event and listener-inferred event remain different timelines. An omission only has a target time relative to a learned rhythmic context.
+
+
+14. PRE-REGISTER THE MOMENT BEFORE HEARING THE REPORT
+For each performance, privately annotate candidate transition windows and the intended phase boundaries before inspecting listener responses. Include several comparison windows that have similar duration but no planned omission or phase change. Otherwise, any large audience response can be retrospectively labeled an Earned Wound. A claim that can fit every moment after the fact is not an effective test.
+
+
+15. THE PHASE BOUNDARY IS NOT THE SAME AS THE OMITTED BEAT
+Ankora may omit a strike inside Rising Pulse without creating a new phase. Threshold Gate may become perceptually clear several beats after Ankora enters. Return Path may begin when Surface pressure declines, not when the last strike occurs. KLAAT should compare omission salience and phase segmentation separately. A local surprise does not automatically create a global structural boundary.
+
+
+16. GROUND ANCHOR — THE LIVE FIELD
+Amastacia establishes the C# drone and the breath-shaped continuous Field. In a live room, the audience also sees effort and receives spatially variable sound. A recorded version can preserve much of the airborne acoustic structure but not the entire physical and social context. The testable question is whether the Field establishes a similar perceptual baseline across listening modes, not whether every listener feels the same bodily region vibrate.
+
+
+17. THRESHOLD GATE — WHEN ANKORA BECOMES A RULE
+Ankora's first strike is a physical onset. The listener's acquisition of a Clock may take several repetitions. The live audience may hear a half-time pulse rather than the provisional 137 BPM reference. Visible striking gestures could alter anticipation. Record both the measured Scaffold and the listener's inferred metric level, ideally using a separate post-performance tapping task so tapping does not change the primary experience.
+
+
+18. RISING PULSE — TEST THE EARNED WOUND WITHOUT FORCING IT
+Ankora increases Surface Pressure through human-played subdivisions, accents or density while Amastacia sustains or intentionally transforms the Field. One rare omission can be placed at a preplanned, high-expectation point. The central outcome is not 'Did they hear the mistake?' but whether that window gains boundary or suspension salience beyond comparable windows without omissions. The performer must avoid an exaggerated compensating gesture or breath accent unless those cues are explicitly part of the artistic condition being studied.
+
+
+19. RETURN PATH — LOCAL OMISSION VERSUS RULE WITHDRAWAL
+Return Path gradually removes Ankora's established event structure. The audience may continue to anticipate strikes briefly after the drum stops. That is different from a single missing beat during Rising Pulse. In analysis, compare the moment of last physical strike, the last inferred continuation of the Clock, and the listener's reported structural transition. Amastacia may remain audible throughout. No persistent sensation proves persistent physical vibration.
+
+
+20. WHAT HAPPENS TO THE STATE VECTOR
+KSV-0.1 remains [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL]. The ecological test asks whether those delivered variables help explain listener boundaries beyond elapsed time, overall level and mere event count. Listener familiarity, sight lines, seating, metrical level, room position and attention remain moderators. Engagement, urgency, bodily salience and movement remain outcomes. Do not expand the State Vector because the concert is more complex.
+
+
+21. TWO FORMS OF GENERALIZATION
+WITHIN-PERFORMANCE: Does a candidate mechanism predict meaningful responses at different points in the same take?
+ACROSS-PERFORMANCE: Does the relationship recur when Paul performs again on a different day, possibly in a different room?
+The second is much stronger. Treating many windows from one recording as independent performances is pseudoreplication. Treating ten people in one room as ten independent venues is equally misleading. Participant and performance identity must remain explicit in analysis.
+
+
+22. THE REPLAY PARADOX
+A recorded replay gives identical source material to multiple listeners, improving control. But replay also removes live co-presence and may change attention, room acoustics and the listener's sense of contingency. A live performance offers ecological realism but introduces source variability. The correct answer is not to declare one 'more scientific.' Use each to answer a different question, and connect them through a clearly described transfer test.
+
+
+23. A CAUSAL CLAIM NEEDS A CONTRAST
+If a live audience notices a planned omission, that observation alone does not prove the omission caused the response. The same time window may contain a breath accent, loudness change, visual movement or naturally occurring phase transition. Better controls include preplanned comparison windows, another take with a learned rest instead of a rare omission, and counterbalanced listener assignment where feasible. Never pretend that two different human performances are acoustically identical; measure their differences and report them.
+
+
+24. ESTABLISHED EVIDENCE
+ESTABLISHED — Naturalistic concert studies can measure time-varying audience responses and identify responses around salient structural boundaries.
+ESTABLISHED — In a 2025 concert study, audio-visual/live piano presentation produced higher inter-subject heart-rate correlation than audio-only/recorded presentation; average synchrony did not simply equal self-reported engagement.
+ESTABLISHED — A 2026 randomized live-versus-livestream pilot reported stronger subjective responses in the live group but limited differences among measured cardiac indices.
+ESTABLISHED — In concert movement research, metrical level, measurement location, seating and individual movement preference contributed to measured movement entrainment.
+ESTABLISHED — Musical boundary judgments show meaningful between-listener variation, and perceived speed need not equal physical tempo.
+ESTABLISHED — Experimental context and task instructions can change what a listener attends to and reports.
+
+
+25. CONTEXT-DEPENDENT EVIDENCE
+CONTEXT-DEPENDENT — Live-versus-recorded contrasts may combine performer visibility, source performance differences, room reproduction, audience context and expectations.
+CONTEXT-DEPENDENT — Heart-rate correlation, neural tracking, movement synchronization and subjective engagement are different constructs; none is a universal KLAAT activation score.
+CONTEXT-DEPENDENT — Findings from piano, violin, rock/pop and big-band concerts cannot establish the effect of C# didgeridoo plus elk-hide drum.
+CONTEXT-DEPENDENT — Smartphone boundary taps or continuous ratings can provide temporal detail while changing the natural listening task.
+CONTEXT-DEPENDENT — A full performance may strengthen, weaken or qualitatively transform a short-clip omission effect.
+CONTEXT-DEPENDENT — Replaying the same take improves source control but not equivalence of acoustic exposure across loudspeakers, headphones and live rooms.
+
+
+26. PLAUSIBLE AND TESTABLE KLAAT HYPOTHESES
+PLAUSIBLE/TESTABLE — A rare Ankora omission that is detectable in a neutral clip test also produces above-baseline boundary or suspension salience during uninterrupted KLAAT, but with smaller or more variable effects.
+PLAUSIBLE/TESTABLE — Some listeners experience a structural change at the Threshold Gate even when they do not identify Ankora's first physical strike as the boundary.
+PLAUSIBLE/TESTABLE — Amastacia Field changes and visible breath gestures moderate whether an Ankora omission is noticed.
+PLAUSIBLE/TESTABLE — Return Path is more reliably identified through the trajectory of Clock/Surface withdrawal than through the last individual strike.
+PLAUSIBLE/TESTABLE — Listener metrical level and seating/visibility explain part of the variance in live boundary reports.
+PLAUSIBLE/TESTABLE — KSV-0.1 predicts blind phase segmentation beyond elapsed time, loudness and event density across at least two different human-performed takes.
+
+
+27. SPECULATION
+SPECULATION — A rare omission may matter most when a listener has acquired the Clock incidentally, without deliberate beat counting.
+SPECULATION — Live sight of Ankora and Amastacia may make the Gate and Return Path feel more causally coherent than audio-only playback.
+SPECULATION — The four-phase KLAAT architecture may eventually be represented as trajectories that remain identifiable even when local omission effects do not generalize.
+SPECULATION — A practical KLAAT notation could preserve intended trajectories and expectation windows while allowing human timing variability.
+
+
+28. UNSUPPORTED CLAIMS
+UNSUPPORTED — KRX-071 has already shown a robust KLAAT omission effect; no such result has been provided.
+UNSUPPORTED — Live KLAAT is necessarily more activating, immersive or therapeutic than recordings.
+UNSUPPORTED — Inter-subject heart-rate correlation proves beat-to-heart entrainment, shared trance, healing or autonomic regulation.
+UNSUPPORTED — Every listener should identify exactly four phases at the same moments.
+UNSUPPORTED — An omitted Ankora strike creates a mechanical impact or physical resonance at the expected instant.
+UNSUPPORTED — A stronger response during a live take proves that visual presence or performer adaptation caused it.
+UNSUPPORTED — A statistically better-fitting complex model establishes a unique biological mechanism.
+UNSUPPORTED — One successful venue test generalizes to other rooms, listeners or cultural contexts.
+
+
+29. METHODOLOGY UPDATE — ECOLOGICAL TRANSFER GATE
+Before promoting a KLAAT-specific laboratory mechanism to the performance manual, document its passage through: (1) neutral controlled detection, (2) uninterrupted audio listening, (3) audiovisual/live context, and (4) a second performance or audience. Each step must specify the primary outcome and a plausible competing explanation. Preserve original human-performed takes and actual event timing; preregister candidate moments; include matched comparison windows; collect low-intrusion responses first and analytical responses afterward. Treat participant, take and venue as distinct units. Record null and mixed findings. Do not interpret correlation as causal entrainment. Keep the composition strictly Amastacia, Ankora, breath, silence, repetition and duration; sensors and playback edits are research apparatus only.
+
+
+30. KRX-072 — THE UNINTERRUPTED TRANSFER PILOT
+OBJECTIVE: Test whether a preplanned Ankora omission and the four-phase trajectory remain perceptually meaningful when the listener is not hunting for experimental targets, while explicitly acknowledging that the KRX-071 short-clip effect is not yet established.
+
+
+MATERIAL: Paul performs two separate 12–15-minute human-played KLAAT takes on different days. Both contain Ground Anchor, Threshold Gate, Rising Pulse and Return Path. Both use a comfortable performance level. In one take, Rising Pulse contains one deliberately rare omission after a stable learned Clock; in the other, use a musically natural comparison moment with a predictable rest or no omission. Do not force the takes to be identical. Record stereo audio and fixed-view video; annotate actual Ankora onsets and Amastacia breath/spectral changes. Privately mark the intended four phase boundaries, omission window and two comparison windows before seeing audience reports.
+
+
+LISTENERS: Recruit a small consenting pilot audience, ideally 8–12 listeners. Randomize or counterbalance which take is heard first where practical. Avoid asking them to count beats or detect omissions during the uninterrupted experience. Do not require sensors, and do not claim statistical proof from a small pilot.
+
+
+FIRST RESPONSE: Immediately after each take, ask: 'What moments changed the experience for you?' Collect a brief free description, an approximate timeline or drawn arc of tension/urgency, and optional unprompted bodily descriptions. Do not mention the omission until after these responses are locked.
+
+
+SECOND RESPONSE: Later, present the recorded takes and ask participants to mark meaningful section boundaries. Only after that ask whether they noticed any missing or expected strikes. Record metrical interpretation and prior familiarity with KLAAT. Preserve which reports came from live experience versus retrospective replay.
+
+
+PRIMARY ANALYSIS: Compare the pre-registered omission window against the comparison windows for spontaneous mention and boundary/suspension marking, while accounting descriptively for Amastacia changes, SPL, event density and visible gestures. Separately examine whether blind listener boundaries align with intended Ground Anchor → Threshold Gate → Rising Pulse → Return Path transitions more than simple elapsed-time or loudness baselines. Report each listener's pattern; do not inflate sample size by counting every marked window as an independent listener.
+
+
+DECISION RULE: If the omission is reliably noticed in neutral listening and is associated with a structural report across both performances, advance it to a better-controlled replication. If it is noticed only after directed questioning, classify it as task-dependent. If four-phase boundaries are detectable while omission salience is weak, prioritize the broader Field/Clock/Surface/Withdrawal grammar rather than forcing the Earned Wound theory. If neither survives, revise the performance or the model; do not invent a physiological mechanism.
+
+
+DECISIVE QUESTION: WHEN AMASTACIA HOLDS THE FIELD AND ANKORA TEACHES, PRESSURIZES AND FINALLY WITHDRAWS THE CLOCK, DOES THE LISTENER EXPERIENCE A STRUCTURED JOURNEY WITHOUT BEING TOLD WHERE TO LOOK?
+
+
+PRIMARY SOURCES (VERIFIED FOR THIS SESSION)
+1. Czepiel AM et al. (2025). Audio-visual concert performances synchronize audience's heart rates. Annals of the New York Academy of Sciences 1543:117–132. DOI: 10.1111/nyas.15279. https://doi.org/10.1111/nyas.15279
+2. Musician presence and its effects on physiological and psychological well-being in live versus livestreamed concerts (2026). Scientific Reports 16, article 7889. DOI: 10.1038/s41598-026-38194-3. https://doi.org/10.1038/s41598-026-38194-3
+3. Hochgesand M, Egermann H (2025). Exploring movement entrainment in an ecologically valid concert setting. Scientific Reports 15, article 31796. DOI: 10.1038/s41598-025-13376-7. https://doi.org/10.1038/s41598-025-13376-7
+4. What Determines the Perception of Segmentation in Contemporary Music? (2020). Frontiers in Psychology. DOI: 10.3389/fpsyg.2020.01001. https://doi.org/10.3389/fpsyg.2020.01001
+5. Bruderer MJ, McKinney MF, Kohlrausch A (2009). The perception of structural boundaries in melody lines of Western popular music. Musicae Scientiae. DOI: 10.1177/102986490901300204. https://doi.org/10.1177/102986490901300204
+6. Trost W et al. (2024). Live music stimulates the affective brain and emotionally entrains listeners in real time. PNAS 121:e2316306121. DOI: 10.1073/pnas.2316306121. https://doi.org/10.1073/pnas.2316306121 — this used adaptive neurofeedback performance and is NOT an ordinary KLAAT live-versus-recorded comparison.
+
+
+INTERNAL PROVENANCE AND STATUS
+Consulted: Google Drive KLAAT Master Instructions, Curriculum Index, Research Ledger and Session Corpus through Session 71; ChatGPT Library Published Studies through Session 71; ChatGPT Library Hourly Research folder. Latest hourly note found: KLAAT_hourly_2026-10-05_1833_CDT.txt. No hourly note created since Session 71 was found. Earlier methodological dependencies: Sessions 63–71, particularly KRX-065, KRX-066, KRX-070 and KRX-071. No hourly source files were modified. No participant experiment was run in preparing this study.
+
+
+NEXT UNRESOLVED DIRECTION
+The immediate bottleneck is not another theory of entrainment. It is whether KRX-071 and KRX-072 can produce interpretable data without distorting the performance. If no data arrive, next investigate the smallest reliable annotation protocol and inter-rater agreement method for KLAAT phase boundaries, with an explicit negative-control baseline. Do not claim validation in advance.
+
+
+END OF SESSION 72

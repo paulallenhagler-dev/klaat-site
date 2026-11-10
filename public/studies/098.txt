@@ -1,0 +1,310 @@
+KLAAT RESONANCE RESEARCH — SESSION 98
+THE DRUM THAT RADIATES IN TWO DIRECTIONS
+Ankora's open-back membrane, acoustic cancellation, and the distance between felt impact and heard bass
+Published: 2026-10-18, morning CDT
+
+
+GOVERNING PRINCIPLE
+Experience-led creation. Science-informed refinement.
+
+
+RESEARCH QUESTION
+
+
+When Ankora's elk-hide head moves powerfully beneath Paul's hand, how much of that motion becomes sound traveling into the audience? Is a frame drum's open back merely a visual feature, or can it change the bass and spatial character of the pulse before any microphone, mixer, loudspeaker, or listener is involved?
+
+
+This is not a proposal to alter how Paul plays. It is an inquiry into a property of the instrument he already plays: a stretched vibrating membrane mounted in a frame, with air accessible to both sides. The distinction matters for KLAAT because the musical world is unusually spare. Ankora's attacks and decay can be exposed against Amastacia's persistent harmonic field. What sounds powerful close to the instrument may not radiate the same way across a room.
+
+
+1. THE NEW QUESTION, AND THE NOVELTY GATE
+
+
+The previous four sessions approached other links in the chain. Session 94 examined comb filtering created when already-recorded microphone channels are summed. Session 95 asked why equal playback does not mean equal auditory access. Session 96 considered how seeing Ankora struck may alter perceived percussive duration. Session 97 separated momentary musical experience from later memory. Earlier room work examined spatial pressure variation, and recent hourly notes considered strike position, instrument orientation, and room reflections.
+
+
+This session isolates a different mechanism: the conversion of a moving, two-sided membrane into an external sound field. Some acoustic energy may be reduced by cancellation between pressure contributions from opposite sides before it reaches a microphone. The question is not whether a recording engineer can accidentally subtract the drum afterward. It is whether the instrument's own geometry makes radiation frequency- and direction-dependent.
+
+
+The immediate research seed was the October 18, 06:43 CDT hourly note on Ankora front/back radiation. This publication advances that note by integrating direct frame-drum measurements, a second controlled frame-drum experiment, an open-back source study that complicates the simple dipole story, quantitative scaling, and a falsifiable KLAAT measurement design. It is not a new experiment on Ankora.
+
+
+2. WHY MEMBRANE MOVEMENT IS NOT THE SAME AS AUDIBLE BASS
+
+
+A drumhead moves air. But three quantities must remain distinct:
+
+
+A. Membrane displacement or velocity: how the hide physically moves at a location on its surface.
+B. Radiated sound pressure: what a receiver at a specified position and frequency measures in air.
+C. Perceived weight or bodily impact: what a listener experiences under a particular acoustic, tactile, and attentional condition.
+
+
+A large membrane displacement can coexist with comparatively inefficient radiation at some frequencies. Conversely, a smaller displacement distributed over a favorable radiation pattern may produce more sound at a particular listener position. The mechanical energy of a strike can be divided among radiation, internal losses, frame movement, air loading, and continued vibration. None of these routes is captured by the word "resonance" alone.
+
+
+Ankora also has two local audiences. Paul hears the drum at short distance and feels impact through the striking hand, supporting hand, and body. Someone several meters away hears the radiated field after room propagation and reflections. A microphone a few centimeters from the hide samples a third situation. These observations can differ without any observer being mistaken.
+
+
+3. THE FRONT/BACK PRESSURE RELATION
+
+
+Consider a simplified circular membrane moving forward. On one side it tends to compress adjacent air while, at that same instant, its rearward side tends toward rarefaction. If the membrane is surrounded by a very large rigid baffle, the front and rear waves cannot easily wrap around the edge to meet. In an open, unbaffled configuration, they can interact in the surrounding air. When their phases and path lengths favor cancellation, net low-frequency radiation is reduced relative to an otherwise comparable baffled source.
+
+
+This is sometimes called an acoustic short circuit. The term does not mean the sound vanishes everywhere, or that the drum cannot have bass. It means that a vibrating surface's ability to launch pressure waves depends on its boundary conditions and geometry, not just how hard it moves.
+
+
+An ideal, acoustically small dipole provides a useful first model. Its far-field pressure amplitude is proportional to cos(theta), where theta is measured from the dipole axis. The idealized result is strongest along the axis and zero in the plane perpendicular to it. Its front and rear lobes have opposite pressure phase. Real frame drums do not obey this figure-eight law at every frequency. A wooden frame has depth; the hide bends in modes; hands and bodies obstruct one side; the surrounding room returns reflected sound; and the receiver may be in the near field rather than the far field.
+
+
+The useful principle is therefore directional and conditional, not a fixed microphone-position prescription.
+
+
+4. A QUANTITATIVE SCALE CHECK — ILLUSTRATION, NOT ANKORA DATA
+
+
+A convenient measure of how small a vibrating surface is relative to wavelength is ka = 2*pi*f*a/c, where a is a characteristic radius, f is frequency, and c is sound speed. For an entirely hypothetical 40-centimeter-diameter membrane, a = 0.20 m. At c = 343 m/s:
+
+
+At 100 Hz, ka ≈ 0.366 and the wavelength is 3.43 m.
+At 300 Hz, ka ≈ 1.10 and the wavelength is about 1.14 m.
+The ka = 1 crossover is approximately 273 Hz.
+
+
+These numbers do NOT measure Ankora, which has not been dimensioned or acoustically mapped in this research. They show why a low-frequency compact-radiator approximation can be plausible in one band and poor in another. At higher frequencies, multiple spatial vibration modes and directionally complicated radiation become increasingly important. The onset of this complexity is not a sharp universal cutoff.
+
+
+The model also explains why one "bass" number is too crude. A frame drum can radiate one mode efficiently in a particular direction and another poorly. An averaged spectrum may hide the change in angular distribution. A player may hear one mixture of modes and an audience member another.
+
+
+5. DIRECT PRIMARY EVIDENCE: REAL FRAME DRUMS DO NOT RADIATE AS ONE SIMPLE POINT
+
+
+Rolf Bader's 2010 Journal of the Acoustical Society of America paper reconstructed radiating sound fields from microphone-array measurements. Among the instrument cases were a duff frame drum and the directivity of the first seven modes of an Uzbek tambourine. This matters because it moves the discussion from a purely textbook dipole to experimentally studied percussion instruments. The radiating field was complex and modal, and the paper also addressed reconstruction stability and unwanted room reflections.
+
+
+This paper does not tell us that Ankora has a specific null at a specific angle, nor does it supply an Ankora radiation-efficiency number. The tested instruments, modes, excitation conditions, and measurement system differ. Its durable contribution is methodological: a frame drum's radiated field can be spatially reconstructed, and different modes can require different radiation descriptions.
+
+
+A second primary experiment by Bader, Fischer, Münster, and Kontopidis (2019) studied a 40-cm frame drum with added circular rings of small masses. The team combined microphone-array and high-speed laser interferometry measurements. In that deliberately modified drum, the masses created a strong spectral band gap, with lower boundaries around 300–400 Hz and upper boundaries around 700–800 Hz depending on ring size. Striking inside and outside the mass ring produced very different vibrational and audible outcomes. The 8-cm-diameter ring produced the strongest attenuation within the reported band gap.
+
+
+This is a vivid demonstration that where a membrane vibrates, which modes are excited, and how sound is radiated are related but not interchangeable. It is NOT evidence that ordinary unmodified elk-hide frame drums have the same band gap. It is certainly not a recommendation to put magnets or masses on Ankora. The study's modifications were designed precisely to change the drum; KLAAT's question is to understand Ankora as she exists.
+
+
+6. A MORE SUBTLE THEORETICAL RESULT: SHAPE AND EDGES MATTER
+
+
+Soares and Debut (2024, research preprint) used finite-element models to compare unbaffled vibrating pistons of equal area but different shapes. They found that low-frequency radiation efficiency depended on edge geometry and compactness, described using area relative to perimeter. In their model, equal vibrating area did not guarantee equal acoustic output; lower area-to-perimeter ratios generally radiated less efficiently in the studied regime.
+
+
+This is a model-based result, and the accessible work is a preprint rather than a peer-reviewed measurement of Ankora. It also models simplified pistons, not a flexible hide with many modes. Nevertheless, it makes a valuable correction to an intuitive mistake: "same area of moving membrane" does not mean "same bass in the room." A vibrating surface's edge can be acoustically consequential.
+
+
+That correction matters if KLAAT later compares Ankora to the synthetic Remo frame drum or another membrane instrument. Different frames, diameters, skin tension, mounting, and hand contact can alter the radiation problem before timbre preference enters. Any comparison must avoid assuming that matching diameter or apparent strike strength makes the instruments acoustically equivalent.
+
+
+7. THE CONTRADICTION THAT PREVENTS A SIMPLE DIPOLE STORY
+
+
+A third line of primary work is deliberately unlike a frame drum. Bellows and Leishman (2023) developed a model of a vibrating cap on a rigid spherical shell with an opening, and validated it with an open-back spherical loudspeaker. Their model predicted dipole-like radiation at very low frequencies, monopole-like radiation near a Helmholtz resonance, and increasing directivity at higher frequencies.
+
+
+This is important precisely because it is NOT Ankora. It demonstrates that "open back" is not synonymous with "pure dipole at every frequency." Geometry, openings, and resonant behavior can change the effective radiation type. The model is not transferable wholesale to a wooden frame with elk hide, but it defeats a seductive oversimplification.
+
+
+A single statement such as "Ankora cancels her bass because the back is open" therefore outruns the evidence. The defensible statement is narrower: two-sided radiation makes low-frequency cancellation and direction-dependent output plausible; actual strength and pattern must be measured for this drum, in this configuration.
+
+
+8. THREE DIFFERENT KINDS OF CANCELLATION
+
+
+KLAAT now has three separate interference problems worth keeping apart.
+
+
+SOURCE RADIATION CANCELLATION: pressure contributions from different parts or sides of a vibrating source interfere before or during outward propagation. This session's primary subject.
+
+
+ROOM INTERFERENCE: direct and reflected sound, including standing-wave behavior, creates different pressure fields at different audience positions. The same instrument can sound fuller or thinner in different seats.
+
+
+RECORDING SUMMATION INTERFERENCE: microphone signals captured at different delays are combined electronically and produce comb filtering or coloration. This was Session 94's subject.
+
+
+These mechanisms can interact, but they are not interchangeable diagnoses. A weak 120-Hz band at a side microphone might reflect source directivity, a room null, microphone response, different strike excitation, or a mixture. If it appears only after mixing channels, recording summation becomes a stronger explanation. If it follows the drum when the instrument is rotated while the microphone stays fixed, source orientation becomes more plausible—but even then, room and hand-position changes must be considered.
+
+
+The provenance question is always: at which link did the difference arise?
+
+
+9. ANKORA AGAINST AMASTACIA: WHY THE RELATIONSHIP MATTERS
+
+
+Amastacia sustains a drone and changing upper harmonics. Ankora offers a succession of strikes with attack, decay, and possible low-frequency body. In a sparse KLAAT performance, the ear can track the drum's entrance and persistence against the continuity of the drone. But the two sources do not necessarily distribute their acoustic energy through a room in the same way.
+
+
+Ankora's front/back field could make the pulse relatively strong for some seats and less bass-heavy for others. Meanwhile Amastacia's own directionality, harmonics, and the room's modal response may produce another spatial map. The perceived drone-to-pulse balance is therefore not just Paul's instantaneous coordination. It can also be a property of source orientation, microphone placement, and audience position.
+
+
+A particularly useful distinction is between pulse intelligibility and pulse weight. Ankora's higher-frequency attack can remain clear when low-frequency radiation is weaker. A listener may easily recover the rhythm yet report less physical impact. Another listener may perceive substantial low-frequency pressure without a correspondingly clear temporal pattern. Neither report is proof of neural entrainment or trance.
+
+
+This gives KLAAT a new measurement axis: rhythm recognition, spectral low-frequency level, tactile/mechanical contact, and subjective physicality should not be collapsed into one variable called "strength."
+
+
+10. WHY THE PLAYER'S BODY CAN MISLEAD A DISTANT-MICROPHONE INFERENCE
+
+
+The striking hand receives contact force. The supporting hand carries static load and frame vibration. Paul's torso and nearby surfaces may receive local airborne pressure and mechanical vibration. These channels can produce an immediate sense of impact, even if the drum radiates comparatively little low-frequency sound into a distant part of the room.
+
+
+Conversely, a distant listener may hear an impressively resonant strike after room reinforcement despite having no direct mechanical contact with the drum. That listener's bodily report can arise through several routes, including hearing, environmental vibration, expectation, and attention. The report is meaningful as experience but does not identify a pathway.
+
+
+A contact microphone or accelerometer on Ankora would characterize local movement at its attachment point, not whole-head displacement, radiated sound power, or listener vibration. A close microphone measures local pressure at one location. A far-field microphone measures one received field. No one sensor owns the whole event.
+
+
+11. WHAT A VALID KLAAT-SPECIFIC TEST WOULD NEED TO SEPARATE
+
+
+The simplest scientific claim to test is not "Ankora is a dipole." It is: under specified conditions, do comparable Ankora strikes produce repeatable frequency-dependent differences among front, side, and rear listening positions?
+
+
+A useful source-side study would log:
+- the actual membrane diameter, frame depth, hide condition/tension, and whether the rear is partially blocked;
+- how Ankora is supported or held, including contact with Paul's hand, arm, leg, or torso;
+- strike position and broad effort, without forcing a musical pattern;
+- microphone model/calibration, distance from the drum's center, angle, height, and room;
+- repeated strikes, with natural variation retained;
+- frequency-band level and decay rather than a single undifferentiated loudness value;
+- whether channels were measured simultaneously or sequentially;
+- any contact-vibration measure as a separate stream.
+
+
+For a first approximation, a single calibrated omnidirectional microphone could be moved among matched-radius front, side, and rear positions while comfortable comparable strikes are repeated. A synchronized multi-microphone arrangement is preferable if accurate phase comparisons are needed, but it introduces its own calibration and summation issues. Rotating the instrument and repeating at a second location can help separate source orientation from fixed room coloration. Short-window/gated measurements can reduce reflection contamination, but very short windows sacrifice low-frequency resolution: the FFT-window caution in the October 18, 07:14 hourly note is directly relevant.
+
+
+A frequency-dependent front/side/rear pattern repeated across reasonable trials would support a KLAAT-OBSERVED directivity finding. It would not yet identify a unique dipole model. An apparent side null in only one seat could be a room null. A difference caused by the supporting hand is part of the real played-instrument configuration, not automatically an error.
+
+
+12. THE LISTENER TEST IS A SEPARATE STUDY
+
+
+Once the source field is understood, a later listener study could ask whether two positions with measurably different Ankora low-frequency output yield different reports of pulse weight, urge to move, enjoyment, or absorption. These are separate outcomes. The study would need matched or documented Amastacia exposure, visual conditions, overall level, room location, and listener differences. Changing a seat changes more than Ankora's source angle, so this is observational unless stronger controls are used.
+
+
+A cleaner controlled playback comparison might use accurately captured, source-separated Ankora material with documented reproduction, but such playback would no longer be identical to standing in the original acoustic field. It would answer a different question: whether a selected spectral or spatial difference is perceptually consequential in that playback setup.
+
+
+The proper ladder is:
+
+
+MEASURED: directional and spectral differences in Ankora's radiated field.
+REPORTED: listeners' descriptions and ratings under known delivery conditions.
+PHYSIOLOGICAL: independent body or neural measurements, if ever collected.
+CAUSAL: claims supported only by a design that actually isolates the relevant manipulation.
+
+
+No level on that ladder may be silently promoted to the next.
+
+
+13. EVIDENCE CLASSIFICATION
+
+
+ESTABLISHED PHYSICS
+A vibrating surface's motion and its radiated sound are distinct; opposed front/back radiation from an unbaffled source can interfere; simple compact dipoles have an angular cos(theta) far-field pattern under ideal assumptions. Source geometry and frequency affect radiation efficiency.
+
+
+DIRECT PRIMARY EXPERIMENTS, CONTEXT-DEPENDENT
+Bader (2010) mapped/reconstructed radiation from real percussion instruments, including a duff and seven modes of a tambourine. Bader et al. (2019) showed that a deliberately modified 40-cm frame drum could exhibit large, position-dependent modal and spectral changes. Bellows and Leishman (2023) showed, in an open-back spherical loudspeaker model and validation experiment, that low-frequency radiation character can shift with resonance and geometry. None of these studies measured Ankora.
+
+
+MODELING EVIDENCE, NOT YET ANKORA EVIDENCE
+Soares and Debut (2024 preprint) found low-frequency radiation efficiency of modeled unbaffled pistons depended on edge compactness, not just area. This is an informative theoretical analogue with material and geometry limits.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT
+Ankora's front, side, and rear low-frequency spectra may differ repeatably; Paul's felt strike strength may diverge from distant radiated bass; audience pulse clarity may be preserved despite reduced bass at some positions; a close microphone may exaggerate or underrepresent the sound heard elsewhere.
+
+
+SPECULATION
+Because KLAAT is so sparse, small directional changes in Ankora's radiated spectrum may be unusually noticeable against Amastacia's sustained background. This is an artistic-perceptual possibility, not a demonstrated enhancement mechanism.
+
+
+UNSUPPORTED
+Ankora has a measured dipole null; her bass is canceled at every seat; open-back drums cannot be physically powerful; 137 BPM or C# creates special body resonance; microphone proximity proves listener vibration; drum directivity causes trance, vagal activation, neural synchronization, healing, or an altered state; an engineered radiation pattern should dictate Paul's spontaneous performance.
+
+
+14. THE RESEARCH IMPLICATION: SOURCE-RADIATION VALIDITY GATE
+
+
+The new control is called the SOURCE-RADIATION VALIDITY GATE.
+
+
+Before attributing a recorded or listener-reported difference to the performance itself, identify the chain:
+
+
+MEMBRANE/FRAME MOTION -> FRONT/BACK ACOUSTIC RADIATION -> ROOM/RECEIVER POSITION -> CAPTURE OR PLAYBACK -> LISTENER REPORT.
+
+
+Record what was measured at each stage. If the source field is unknown, mark it unknown. Do not repair uncertainty with a story about a frequency, a ritual, or an assumed dipole. This gate strengthens KLAAT's existing source/delivery/receiver architecture while leaving the art alone.
+
+
+The artistic consequence is not "turn the drum this way." It is "understand why the same spontaneous strike may reach different people differently." If a future recording setup can preserve more of Ankora's actual presence, that is a fidelity decision. If a future live space has uneven bass, that is a venue question. If listeners respond differently, that is an empirical question. None requires a score.
+
+
+15. OPEN QUESTIONS WORTH KEEPING
+
+
+Does Ankora exhibit a stable low-frequency front/side/rear pattern when held and played naturally, or does room influence dominate at practical distances? How much does Paul's supporting hand or torso change the rear field? Are low-frequency and attack-band radiation patterns different enough to explain listener differences between rhythmic clarity and felt weight? Would the synthetic Remo drum show a different pattern under the same basic test, and could that difference be attributed to construction rather than merely tuning? Which direction-dependent differences survive a realistic recording and playback chain? Could a listener report a strong physical pulse where calibrated airborne low-frequency level is modest, and what other pathways would need testing?
+
+
+These questions are now sharper. They are not answered by the literature alone.
+
+
+16. OPTIONAL OBSERVATION — KRX-098: ONE DRUM, THREE SIDES
+
+
+On a day when it feels interesting, not as a new performance obligation, make a few comfortable Ankora strikes in an ordinary room while a phone records from the front, then the side, then behind the open frame at roughly similar distances. Keep the same general playing posture and don't attempt to manufacture identical strikes. Listen back at matched comfortable levels and note whether the attack, low body, and decay seem different. If possible, repeat in another location. No difference is a valid observation.
+
+
+This informal phone comparison cannot prove dipole radiation: the phone may apply automatic gain control, the room may dominate, and the strikes are not identical. Its value is to make the spatial question tangible. If it seems interesting, a calibrated and repeatable study can follow later. Otherwise, leave it there and play KLAAT.
+
+
+FINAL THESIS
+
+
+The force that Paul feels when Ankora answers his hand is not identical to the sound that travels away from her. Between hide motion and the audience lies a directional, frequency-dependent acoustic field. Learning its shape can help KLAAT preserve what already exists, without telling the music what it must become.
+
+
+Experience-led creation. Science-informed refinement.
+
+
+PRIMARY SOURCES AND RESEARCH TRAIL
+
+
+1. Bader, R. (2010). Reconstruction of radiating sound fields using minimum energy method. Journal of the Acoustical Society of America, 127(1), 300–308. DOI: 10.1121/1.3271416. https://pubmed.ncbi.nlm.nih.gov/20058977/
+   Direct primary reconstruction including duff frame drum and seven tambourine modes; not Ankora.
+
+
+2. Bader, R., Fischer, J., Münster, M., & Kontopidis, P. (2019). Metamaterials in musical acoustics: A modified frame drum. Journal of the Acoustical Society of America, 145(5), 3086–3094. DOI: 10.1121/1.5102168. https://doi.org/10.1121/1.5102168
+   Modified 40-cm drum, microphone array and laser interferometry, band-gap measurements. Distinguish the full article from a separate 2019 conference abstract (DOI 10.1121/1.5101271).
+
+
+3. Soares, F., & Debut, V. (2024). On the radiation from unbaffled pistons and their dipole equivalent. Research preprint, arXiv:2403.13401. https://arxiv.org/abs/2403.13401
+   Finite-element modeling of low-frequency radiation and edge compactness; preprint, not Ankora data.
+
+
+4. Bellows, S. D., & Leishman, T. W. (2023). Low-frequency radiation from a vibrating cap on a rigid spherical shell with a circular aperture. Journal of the Acoustical Society of America, 154(6), 3883–3898. DOI: 10.1121/10.0023936. https://pubmed.ncbi.nlm.nih.gov/38112486/
+   Model plus open-back loudspeaker validation; caution against universal dipole assumptions.
+
+
+5. Staelin, D. H. Acoustic radiation and antennas, Section 13.3. MIT course-text derivation of ideal acoustic dipole angular dependence. https://phys.libretexts.org/Bookshelves/Electricity_and_Magnetism/Electromagnetics_and_Applications_(Staelin)/13:_Acoustics/13.03:_Acoustic_radiation_and_antennas
+   Pedagogical theory, not a primary Ankora experiment.
+
+
+INTERNAL PROVENANCE AND NOVELTY RECORD
+
+
+Connected Google Drive Master Instructions, Curriculum Index, Research Ledger, and Session Corpus were consulted on 2026-10-18. The Corpus's verified complete sequence currently ends at Session 93; the Library Published Studies folder has complete Sessions 94–97, each with its own canonical text. Existing Corpus mirror repairs for 94–97 remain queued and must not be falsely marked complete. Hourly Research notes through 2026-10-18 07:14 CDT were inspected, especially the 06:43 front/back radiation note, 07:14 FFT window note, and adjacent October 17 source/orientation and recording notes. External primary and modeling sources were independently checked. No hourly provenance was changed. No KLAAT-specific source-radiation measurement, listener result, physiological measure, or therapeutic effect was collected in this session. KLS-001 is not silently amended.

@@ -1,0 +1,15 @@
+SESSION 11 — WHY YOU CAN FEEL A BEAT THAT ISN’T IN THE DRUM
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+Core lesson
+A drumbeat is not only its tempo. The attack, decay, silence between strikes, accent pattern, and onset sharpness shape temporal perception. The nervous system is especially sensitive to onsets because they provide precise temporal landmarks.
+
+
+Two passages at the same BPM can therefore feel radically different if one uses rounded attacks and the other sharp attacks. Perceived speed and urgency can change without changing the metronomic rate.
+
+
+Evidence boundary
+Established: onset timing contributes strongly to beat perception and auditory-motor prediction. Plausible: sharper Ankora attacks may increase activation or temporal precision at equal BPM.
+
+
+KLAAT test
+Keep one constant pulse and move through rounded attacks → normal attacks → sharply articulated attacks → rounded again. Have listeners rate urgency and perceived speed without being told the BPM never changed.

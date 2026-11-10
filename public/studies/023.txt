@@ -1,0 +1,17 @@
+SESSION 23 — ROUGHNESS: WHY SOME SOUNDS FEEL PHYSICALLY URGENT
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+As interacting frequency components produce faster amplitude fluctuations, the percept can move from slow beating toward roughness. Roughness is a sensory texture related to rapid modulation within auditory filters and can contribute to urgency or aversiveness.
+
+
+Biological alarm sounds can contain roughness, but that does not make any one roughness rate a universal fear frequency.
+
+
+Evidence boundary
+Established: rapid modulation and close-frequency interactions contribute to roughness. Supported but context-dependent: rough sounds often receive higher urgency or unpleasantness ratings. Unsupported: universal emotional decoding from one roughness band.
+
+
+KLAAT test
+Create pure, moderately rough, and strongly rough Amastacia passages at similar loudness. Randomize playback and collect separate ratings for loudness, tension, activation, bodily intensity, and roughness.

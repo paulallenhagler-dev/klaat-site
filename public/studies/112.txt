@@ -1,0 +1,237 @@
+KLAAT RESONANCE RESEARCH — SESSION 112
+THE STRIKE THE CAMERA CANNOT TIME
+Seeing, hearing, and measuring one improvised event
+Published: 2026-10-22 19:15 CDT
+
+
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+THE QUESTION
+
+
+Ankora is struck. The hand moves, the drumhead responds, the room receives an impulse, and a phone turns the performance into synchronized-looking pictures and sound. When someone watches the clip, those events seem to belong together. That impression is usually useful. But is it accurate enough to tell us when the strike happened, how closely it coincided with Amastacia's articulation, or whether the listener's feeling of tightness or looseness came from the performance rather than the recording?
+
+
+This question has become urgent for a practical reason. Paul has years of short, informal phone videos of KLAAT and intends to gather them alongside fresh recordings. These clips are a valuable archive of spontaneous technique. They are not, by default, calibrated motion-capture records. We need a defensible way to use them without asking Paul to recreate a performance under laboratory rules.
+
+
+The central distinction of Session 112 is between four different clocks: (1) the physical clock of hand contact, air movement, and radiated sound; (2) the acquisition clock of camera exposures and microphone samples; (3) the playback clock that presents encoded video and audio; and (4) the perceptual clock that binds a seen gesture to a heard event. These clocks are related, but none is a transparent substitute for another.
+
+
+Our research question is not whether KLAAT's pulse should be mathematically perfect. It is whether the evidence used to describe an existing pulse is trustworthy. A spontaneous, human-feeling performance deserves measurement that does not accidentally manufacture or erase its timing.
+
+
+WHY THIS IS A NEW SESSION
+
+
+Session 91 examined human microtiming and the perceptual time of acoustic attacks. Session 96 examined how seeing a percussion gesture can alter perceived sound. Session 80 treated the playback system as a participant in delivered sound; Session 94 examined summation and multi-microphone provenance. Recent Hourly Research separately addressed animation-clock quantization (October 18, 10:47), rolling-shutter row timestamps (October 20, 02:17), and ambisonic capture (October 22, 16:20). None of these, alone, settles the present problem: how the viewer's judgment of AUDIOVISUAL SIMULTANEITY interacts with tempo, event density, musical expertise, gesture, and potentially imperfect phone-video alignment when interpreting natural Ankora/Amastacia coordination. The novelty is the combined PHYSICAL–RECORDED–PERCEIVED TIMING ATTRIBUTION GATE, with primary studies that experimentally shift sound relative to seen musical action. This is not a repeat of a rolling-shutter hardware explanation or a claim that sight merely changes duration.
+
+
+1. A STRIKE DOES NOT HAVE ONE OBVIOUS TIMESTAMP
+
+
+What is the time of a drum strike? A researcher might label the first visible hand-to-head contact, the maximum downward velocity of the hand, the instant the drumhead begins moving, the earliest acoustic pressure change at a microphone, or the perceptual onset of the resulting sound. These are operational definitions, not interchangeable names for an absolute event.
+
+
+Ankora's elk-hide head has a finite response. The hand may remain in contact briefly, or it may rebound. The drumhead, shell, and air radiate sound over different timescales. A microphone at a distance receives that radiation after propagation through air. At roughly 343 meters per second, a one-meter additional path contributes about 2.9 milliseconds of acoustic delay; that figure is an illustrative physical calculation, not a measurement of Paul's setup. Reflections add later arrivals. The earliest detectable waveform change is also affected by background noise, the continuous Amastacia drone, microphone position, and how an onset detector is defined.
+
+
+A visible gesture can precede contact and convey strong information about the expected impact time. A video frame in which a hand appears nearest the drumhead may occur before or after physical contact, depending on exposure, blur, frame interval, and camera viewpoint. If the video and audio are later offset by a platform, transcoder, or editing operation, the displayed correspondence can change without any change in the performance.
+
+
+This is why a plotted difference between 'the frame with contact' and 'the loudest audio peak' is not automatically Paul's rhythmic error. The two markers may refer to different stages of a physical process, recorded on different timelines, and chosen using different thresholds. For research, we must state which marker we are measuring and its uncertainty.
+
+
+2. THE EYE AND EAR DO NOT DEMAND PERFECT SIMULTANEITY
+
+
+The brain commonly combines sights and sounds that are not precisely simultaneous. That flexibility is useful because light and sound have different propagation speeds, neural pathways have different processing delays, and the sensory evidence from real events is noisy. It also means that a performance video can appear convincingly synchronized despite a measurable offset, or appear wrong at a delay that another viewer scarcely notices.
+
+
+Arrighi, Alais, and Burr (2006) studied natural conga-drumming video sequences and manipulated the relative timing of sound and image. Under most tested conditions, subjective simultaneity required the sound to be delayed relative to the visual stream. Critically, the preferred delay was not fixed: it declined from approximately 100 milliseconds at a 1-Hz drumming rate to around 30 milliseconds at 4 Hz. Randomized drumming produced a similar relationship with rate. A moving disk following the drummer's motion profile produced closely related effects, whereas constant-speed disk movement shifted the timing relationship. This is evidence that temporal structure and motion prediction matter, not proof that one universal video correction of 30 or 100 milliseconds is appropriate. [1]
+
+
+Those numbers have a particularly direct relevance to KLAAT. If Ankora's density rises naturally during an improvised take, the viewer's tolerance for a particular audio-video relationship may change within the same performance. The camera has not necessarily become less accurate; the perceptual criteria for 'together' may have changed. Conversely, a phone clip that looks rhythmically convincing does not guarantee that its streams are physically aligned.
+
+
+Vatakis and Spence (2006) presented brief audiovisual events involving speech and musical performance, including guitar and piano notes, at systematically varied offsets. Participants judged which modality came first. Temporal-order discrimination was better for speech than for either musical condition. The offset at which the streams seemed simultaneous also differed across instruments: piano and guitar conditions did not yield the same direction of preferred lead/lag. [2]
+
+
+A follow-up using music, speech, and object actions found temporal-order judgments were best for object actions, then speech, then musical clips in the tested conditions. The result challenges the idea that people possess a single audiovisual simultaneity threshold that applies equally to every sound-making event. [3] The studies were not tests of didgeridoo plus frame drum, and their stimuli were more controlled and brief than KLAAT's continuous field. Still, they make a crucial point: a viewer's report that the drum 'looks in time' is a perception with stimulus-dependent limits, not a certified timestamp.
+
+
+3. DENSITY CAN HIDE A MISMATCH
+
+
+Heins and colleagues (2021) compared audiovisual simultaneity judgments for whole-body actions producing sound: hurdling, tap dancing, and drumming. They then varied event density and rhythmicity in drumming stimuli. Across the experiments, shorter offsets and visual-leading-audio offsets were more likely to be judged synchronous. Most importantly for KLAAT, greater event density increased the tendency to integrate sight and sound even when the channels were separated by relatively large offsets. Rhythmicity showed a weaker, conditional influence, particularly at low event density. The authors argue that dense streams make the mismatch harder to detect; a high synchrony rating is not necessarily more precise timing perception. [4]
+
+
+Imagine two ordinary excerpts from an unedited KLAAT recording. In one, Ankora produces isolated, spacious strikes against a nearly continuous C# drone. In another, it produces a quick succession of strikes, hand motions, and accents. A viewer may be more able to notice a visible/acoustic discrepancy in the sparse excerpt, because each event has a clear correspondence. In the dense excerpt, several plausible visual gestures may be available for every sound, and the brain may bind them into a coherent stream despite timing ambiguity. That is a testable application, not a demonstrated KLAAT effect.
+
+
+There is a tempting but invalid conclusion here: 'Dense KLAAT rhythm creates stronger neural synchronization.' The cited experiment did not measure neural entrainment to KLAAT. It measured decisions about audiovisual simultaneity in specific stimuli. High apparent synchrony could reflect perceptual integration, task difficulty, expectations, or event matching. It says nothing directly about trance, healing, bodily vibration, or listener activation.
+
+
+This result also changes how we should read Paul's videos. A clip with rapid Ankora playing might look impressively unified. That may reflect excellent coordination. It may also partly reflect the viewer's greater tolerance for crossmodal mismatch. We cannot distinguish those possibilities from appearance alone.
+
+
+4. EXPERIENCE CHANGES WHAT COUNTS AS 'TOGETHER'
+
+
+Petrini and colleagues (2009) tested audiovisual asynchrony judgments with point-light displays of drumming. In their first experiment, four jazz drummers and four novices saw variations in tempo, accent, and delay; each of the three-tempo by three-accent by nine-delay conditions was repeated 21 times. In a second experiment, 13 drummers and 13 novices judged congruent and incongruent drumming displays across nine delays. Experts were more sensitive to asynchrony, particularly at slower tempos. Audiovisual incongruence improved sensitivity in the novice group, but not the expert group, in the second experiment. [5]
+
+
+This is not a general verdict that experts always hear or see timing 'correctly.' The first experiment was tiny, and expertise was operationalized by specific drumming backgrounds. The more useful insight is that practice can change which variations a listener discounts. An experienced percussionist may recognize a gesture-to-sound relationship that a casual listener interprets differently. Someone familiar with Amastacia's mouth and breath movements may also assign different significance to visual cues than someone seeing a didgeridoo for the first time. The latter possibility remains untested.
+
+
+Jicol and colleagues (2018) examined audiovisual simultaneity before and after exposure to fixed offsets, comparing drummers, other musicians, and non-musicians. The direction of recalibration differed: musicians and drummers shifted toward sound-leading-vision, while non-musicians shifted toward vision-leading-sound in the tested paradigm. The association with musical training and perceptual accuracy indicates that a listener's history matters. [6]
+
+
+This finding cuts against the idea that a first-time viewer's synchrony judgment is an invariant readout of the file. It also cautions us not to overinterpret Paul's own assessment of his recordings. He is the performer and is familiar with the motor act that produced the sound. His experience is indispensable for technique and flow analysis, but it is not an independent observer's perception.
+
+
+5. CONGRUENCE IS NOT A SIMPLE MASTER SWITCH
+
+
+One might predict that when the seen and heard sources match, audiovisual integration should always be stronger and timing discrimination worse. That intuitive prediction has mixed experimental support. Vatakis and Spence (2007) compared matching versus mismatching audiovisual musical notes and object actions. Unlike a previously studied speech effect, the congruence manipulation did not significantly alter temporal-order accuracy in their non-speech tests. [7]
+
+
+This is a useful contradiction. It prevents a simplistic claim that 'showing Ankora must always make its timing harder to judge' or that 'seeing the wrong instrument must always reveal a timing error.' Perceptual binding depends on stimulus type, task, experience, density, and the particular mismatch. The evidence is not a universal algorithm for how the eye and ear combine musical events.
+
+
+There is another adjacent finding, already discussed in KLAAT Session 96, worth keeping separate. Schutz and Lipscomb (2007) showed that watching a percussionist's long versus short gesture influenced judgments of a note's duration, even when the auditory notes were crossed independently. [8] That experiment concerned perceived duration, not physical audio-video offset. It illustrates why a moving body can influence hearing, but it cannot establish that Paul's audio and video tracks are correctly aligned. We must not merge distinct perceptual endpoints just because they all involve sight and sound.
+
+
+6. THE PHONE IS AN OBSERVER WITH ITS OWN TIMING ERRORS
+
+
+An ordinary phone recording is more than a microphone and camera. It is a capture pipeline: sensor exposures, frame timestamps, microphone buffers, audio encoding, video encoding, and a file container with presentation timestamps. A subsequent app may edit, compress, or re-encode the streams. Playback hardware adds further scheduling and display delays. The important distinction is between sample spacing and absolute timing accuracy.
+
+
+At 48,000 audio samples per second, adjacent samples are approximately 20.8 microseconds apart. That does not mean the entire system knows physical impact time to 20.8 microseconds. Microphone response, filtering, sound propagation, buffering, and unknown audio-video offsets can dominate. Likewise, a nominal 30-frame-per-second video has frames roughly 33.3 milliseconds apart, while 60 frames per second corresponds to about 16.7 milliseconds. Those intervals do not certify contact timing, because exposure duration, rolling-shutter readout, frame scheduling, and motion blur are additional uncertainties. Variable-frame-rate files must be read from their actual presentation timestamps rather than forced into evenly spaced frame numbers.
+
+
+The October 20 KLAAT hourly note already documented rolling-shutter row-time: pixels on different rows may correspond to different exposure instants. That issue is distinct from the present perceptual problem, but it compounds it. Even if a viewer reliably detects a 20-millisecond audiovisual mismatch in a laboratory, a single uncontrolled phone file may not allow a 20-millisecond physical contact-to-sound inference. The uncertainty in the instrument, capture chain, and annotation must be measured or bounded first.
+
+
+Akhmetyanov and colleagues (2021) demonstrated a specialized approach to synchronizing multiple Android cameras. Their work modeled timestamping across 47 physical devices and reported camera drift below approximately 1.2 milliseconds per minute for most devices in that particular evaluation. Their synchronized system could achieve sub-millisecond accuracy with a dedicated method. [9] This is an existence proof for engineered camera synchronization, NOT a guarantee that Paul's native phone camera, its audio channel, or social-media exports have that accuracy. It concerns synchronization of multiple video devices rather than validation of acoustic impact onset. A precise camera clock does not eliminate acoustic propagation or perceptual binding differences.
+
+
+We should therefore preserve the original phone file and its metadata. A compressed clip sent through a messaging service can still be useful for artistic feedback or broad rhythm descriptions, but it is weaker evidence for detailed event timing unless the export chain is known. No amount of clever analysis can recover timing information that was never recorded reliably.
+
+
+7. WHAT WE CAN LEARN FROM REAL KLAAT CLIPS
+
+
+A practical analysis can proceed in layers without imposing a score.
+
+
+Layer A — Acoustic observation. In the audio track, mark clear Ankora onset candidates and describe their uncertainty. Characterize the drone's harmonic continuity and amplitude envelope. For ambiguous moments, label 'mixed event' rather than confidently assigning the transient to Ankora or Amastacia. Spectrograms, waveform envelopes, and repeated listening can improve annotations, but source attribution may remain uncertain when instruments overlap.
+
+
+Layer B — Visual observation. In the video, mark intervals when the hand visibly approaches, contacts, and leaves Ankora, where the angle permits. A frame interval is a bound, not a point estimate. Note camera orientation, hand occlusion, motion blur, and whether Amastacia's breath articulation is visually interpretable. Visible circular-breathing movement is not automatically proof of uninterrupted acoustic pressure.
+
+
+Layer C — Stream alignment. Examine the file's original audio and video presentation timestamps. If a calibration event exists naturally in the same recording—a clear isolated impact visible and audible—compare several such events across the clip for a possible consistent offset. This is an exploratory internal check, not independent proof of true synchronization. Do not 'fix' the video based on one ambiguous strike, and do not silently time-shift the canonical source.
+
+
+Layer D — Performer report. Paul can mark passages that felt effortless, demanding, intensely focused, or unusually coherent while playing. Those notes concern his experience. Compare them with audio-only acoustic features and video-coded movement only after establishing the provenance of each signal. A visually dramatic gesture may correspond to a modest acoustic event, and an acoustically intense moment may look almost still.
+
+
+Layer E — Listener report. Eventually, independent listeners can describe whether an unchanged clip feels tight, spacious, energizing, absorbing, or physically present. Their descriptions should not be recoded as millisecond timing measurements. If the question is whether seeing the performance changes the experience, an audio-only versus audio-plus-video comparison can be informative, but only with matched sound and a counterbalanced order. A first-time audio-only judgment and a later video judgment are not independent blind trials because familiarity changes.
+
+
+The aim is not to turn spontaneous playing into a collection of numbers. The aim is to stop numbers from masquerading as experiences and experiences from masquerading as numbers. Both are legitimate observations when correctly named.
+
+
+8. A CAUSAL MAP FOR KLAAT
+
+
+We can express the core problem as a series of transformations:
+
+
+Physical performance: hand/skin contact, lip oscillation, breath, body movement.
+        ↓
+Acoustic field: onset, decay, spectral change, room reflections, propagation.
+        ↓
+Recorded evidence: microphone signal, camera exposures, timestamps, processing.
+        ↓
+Presented stimulus: device playback, sound level, screen timing, visibility.
+        ↓
+Perceptual organization: visual prediction, audiovisual binding, musical familiarity.
+        ↓
+Report: 'together,' 'loose,' 'powerful,' 'I felt it,' 'I lost track of time.'
+
+
+Each arrow is a place where information can be transformed. The final report is real as a report. It does not uniquely identify every cause above it. This is especially important for KLAAT because the work is both music and an aesthetic world: the visible body, organic instruments, and stark visual language can influence what a listener expects. That influence is artistically valid. Scientifically, we should keep it distinct from the effect of the acoustic signal alone.
+
+
+AUDIO-VISUAL TIMING CLAIM LEVELS
+
+
+ESTABLISHED OUTSIDE KLAAT
+Natural-action audiovisual simultaneity judgments depend on temporal offset, tempo, density, stimulus category, and experience in the cited experiments. Musical experts can differ from novices; exposure can recalibrate the preferred temporal relationship. Ordinary frame and sample intervals are not whole-system timing accuracy.
+
+
+CONTEXT-DEPENDENT OR CONTRADICTORY
+The visual-first bias is common but not universal. Preferred delays differ across conga tempos and across musical instruments. Dense event streams can look more synchronous because mismatches are harder to detect, not because timing is objectively tighter. Audiovisual matching does not always impair temporal-order discrimination. A specialized calibrated multi-camera method cannot be generalized to an untested phone audio/video recording.
+
+
+PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
+Viewers may judge naturally dense Ankora passages as more audiovisually coherent than sparse passages even with comparable capture offsets. Familiarity with the instruments may change how people align visible gestures with heard attacks. Seeing Paul play might alter impressions of timing, effort, presence, or absorption without changing the audio. These hypotheses have not been tested on KLAAT.
+
+
+SPECULATION
+A compelling alignment between a visible hand and an organic pulse could contribute to the sense of a single 'living field.' That is an artistic model of perceptual unity, not a demonstrated brain state or a proof of a specific acoustic cause.
+
+
+UNSUPPORTED
+A phone video's visible strike frame is a precise contact timestamp; a 48-kHz audio track proves microsecond-accurate audio/video alignment; every viewer has one universal synchrony threshold; more drum hits prove tighter performer coordination; a perceived audiovisual match demonstrates neural entrainment; a listener's 'I felt it' report proves mechanical vibration; a strong-looking performance proves a trance state in its audience; or KLAAT has already demonstrated any of these effects.
+
+
+WHAT WOULD CHANGE OUR MINDS?
+
+
+Evidence of a stable and independently validated phone audio-video offset would let us interpret more of the gesture-to-sound relationship. A reproducible listener difference between audio-only and audiovisual presentations, with unchanged audio and controlled order, would support a visual-context effect. A measured relationship between event density and synchrony judgments would support a KLAAT-specific application of Heins and colleagues' finding. Null or reversed effects would be equally valuable: they would tell us not to import the laboratory effect into this sound world.
+
+
+9. THE ARTISTIC IMPLICATION
+
+
+KLAAT is not a metronome demonstration. Amastacia's C# agave drone, breath, harmonics, and noise form a continuous field; Ankora's elk-hide attacks give that field punctuations, physical gestures, and possible temporal anchors. Paul often plays in a flow-like state, and the music evolves without a mandatory score. None of this requires precise video editing, artificially fixed pulse, prescribed acceleration, or a phase diagram.
+
+
+But if KLAAT is going to become a research object as well as an artistic world, we should be precise about what a phone clip can testify to. It can preserve a particular performance, provide a valuable record of developing technique, and reveal broad coordination patterns. It cannot automatically serve as a calibrated record of every hand contact, breath pressure change, or millisecond-scale sound onset. And a listener who sees the clip is hearing the sound through a perceptual system informed by the moving image.
+
+
+This distinction may seem technical. In fact it protects the artistic premise. We do not want to 'correct' a naturally expressive Ankora phrase because a misaligned export made it look late. Nor do we want to attribute a listener's sense of extraordinary coordination solely to timing if visual integration helped construct that sense. Experience-led creation means letting the performance remain what it was. Science-informed refinement means being careful about how we observe it.
+
+
+OPTIONAL KRX-112 — ONE CLIP, TWO CLOCKS
+
+
+When an original, unedited phone video is available, choose a naturally occurring 30–60-second excerpt with a few visible, reasonably isolated Ankora strikes. Do not record a special passage or change the playing. Preserve the original file. First listen to audio alone and note only clearly audible impact candidates and ambiguous intervals. Then inspect the corresponding video and mark broad visible-contact intervals rather than a single 'exact' frame. Check the original file's frame presentation timestamps if accessible. Compare the two annotation layers and write down what remains uncertain: source overlap, exposure blur, sound propagation, microphone processing, and unknown stream offset. If the result is inconclusive, record that as the finding. Do not time-shift the source file or infer anything about listener trance. This is a provenance exercise, not a performance test.
+
+
+PRIMARY RESEARCH AND TECHNICAL REFERENCES
+
+
+[1] Arrighi R, Alais D, Burr D (2006). Perceptual synchrony of audiovisual streams for natural and artificial motion sequences. Journal of Vision 6(3):260–268. DOI 10.1167/6.3.6. https://pubmed.ncbi.nlm.nih.gov/16643094/
+[2] Vatakis A, Spence C (2006). Audiovisual synchrony perception for speech and music assessed using a temporal order judgment task. Neuroscience Letters 393:40–44. DOI 10.1016/j.neulet.2005.09.032. https://pubmed.ncbi.nlm.nih.gov/16213656/
+[3] Vatakis A, Spence C (2006). Audiovisual synchrony perception for music, speech, and object actions. Brain Research 1111:134–142. DOI 10.1016/j.brainres.2006.05.078. https://pubmed.ncbi.nlm.nih.gov/16876772/
+[4] Heins N et al. (2021). Surmising synchrony of sound and sight: Factors explaining variance of audiovisual integration in hurdling, tap dancing and drumming. PLOS ONE 16:e0253130. DOI 10.1371/journal.pone.0253130. https://pmc.ncbi.nlm.nih.gov/articles/PMC8298114/
+[5] Petrini K et al. (2009). Multisensory integration of drumming actions: Musical expertise affects perceived audiovisual asynchrony. Experimental Brain Research 198:339–352. DOI 10.1007/s00221-009-1817-2. https://pubmed.ncbi.nlm.nih.gov/19404620/
+[6] Jicol C, Proulx MJ, Pollick FE, Petrini K (2018). Long-term music training modulates the recalibration of audiovisual simultaneity. Experimental Brain Research 236:1869–1880. DOI 10.1007/s00221-018-5269-4. https://pubmed.ncbi.nlm.nih.gov/29687204/
+[7] Vatakis A, Spence C (2007). Evaluating the influence of the 'unity assumption' on the temporal perception of realistic audiovisual stimuli. Acta Psychologica 127:12–23. DOI 10.1016/j.actpsy.2006.12.002. https://pubmed.ncbi.nlm.nih.gov/17258164/
+[8] Schutz M, Lipscomb S (2007). Hearing gestures, seeing music: Vision influences perceived tone duration. Perception 36:888–897. DOI 10.1068/p5635. https://journals.sagepub.com/doi/10.1068/p5635
+[9] Akhmetyanov A, Kornilova A, Faizullin M, Pozo D, Ferrer G (2021). Sub-millisecond video synchronization of multiple Android smartphones. Technical primary research, arXiv:2107.00987. https://arxiv.org/abs/2107.00987 . Multi-camera synchronization, NOT a study of phone audio capture or KLAAT.
+
+
+PROVENANCE AND LIMITS
+
+
+Sources [1]–[9] were checked against primary-paper abstracts, original publications or author/institutional records on October 22, 2026. The most specific numbers reported here belong to their experimental conditions, not to KLAAT. Connected KLAAT Master Instructions, Curriculum Index through Session 111, Research Ledger, Session Corpus Volume II through Session 110, and recent Hourly Research through October 22 18:16 CDT were reviewed. No KLAAT recording was analyzed in preparing this session. No KLAAT listener or physiological outcomes are claimed. The canonical ChatGPT Library plain-text study must be saved before Google Drive curation. Prior queue entries remain separate. This study introduces the PHYSICAL–RECORDED–PERCEIVED AUDIOVISUAL TIMING GATE and does not change the improvisational practice.
+
+
+END OF SESSION 112

@@ -1,0 +1,17 @@
+SESSION 26 — CROSSMODAL INTEGRATION
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+The brain can bind sound and touch into one event when their timing and structure are sufficiently coherent. Auditory and tactile signals do not have to be physically identical to be experienced as belonging together.
+
+
+This explains why a moderate acoustic strike plus strong mechanical coupling can feel more impactful than a louder strike with weak coupling.
+
+
+Evidence boundary
+Established: multisensory integration depends strongly on temporal coherence and context. Plausible: synchronized auditory and tactile KLAAT events can increase perceived unity and impact. Unsupported: assuming all simultaneous sound and vibration are automatically fused.
+
+
+KLAAT test
+Compare one KLAAT recording under three conditions: headphones only, speakers with weak body coupling, and speakers with strong floor/chair coupling. Rate loudness, vibration, impact, and how much the sound and body sensation felt like one event.

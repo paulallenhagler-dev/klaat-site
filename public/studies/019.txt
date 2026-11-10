@@ -1,0 +1,17 @@
+SESSION 19 — RESPIRATORY ENTRAINMENT: CAN DRONE CHANGE BREATHING?
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+A change in breathing rate is not automatically entrainment. True entrainment requires a reproducible temporal relationship between the stimulus and respiration, potentially including phase locking or a stable n:m ratio.
+
+
+Amastacia may influence breathing through phrasing, attention, relaxation, activation, or imitation of performer breath. Ankora provides a separate rhythmic reference. These effects need to be distinguished.
+
+
+Evidence boundary
+Established: auditory rhythm and attention can influence behavior and timing; breathing rate is modifiable by context. Plausible: some listeners may stabilize breathing relative to KLAAT timing. Unsupported: claiming that a listener has “entrained” merely because respiration slowed.
+
+
+KLAAT test
+Record two minutes of baseline breathing followed by a KLAAT passage. Mark inhalation onsets and Ankora strikes, then look for stable relationships across time rather than simply comparing average breaths per minute.

@@ -1,0 +1,197 @@
+KLAAT RESONANCE RESEARCH — SESSION 70
+THE STRIKE THAT NEVER CAME: Temporal Expectation, Omission, and the Difference Between Bodily Anticipation and Physical Impact
+Published: 2026-10-08 19:20 CDT
+Status: Research synthesis; KLAAT-specific experimental claims remain untested.
+
+
+RESEARCH CONTINUITY
+Session 69 established the Somatic Attribution Gate: physical exposure, reported bodily experience, context/attention, and warranted causal inference must remain distinct. Session 67 separated beat speed from event urgency. Session 64 described the Earned Wound—an omitted event that matters because repetition has taught the listener to expect it. The hourly note of October 5, 02:32 CDT identified a still-unresolved confound: an Ankora strike can feel important because of temporal expectation rather than its measured amplitude. No Hourly Research note newer than October 5, 18:33 CDT was found. This session develops that unresolved question instead of presenting the old notes as fresh data.
+
+
+GOVERNING PRINCIPLE
+THE ABSENCE OF A STRIKE CAN BE A REAL PERCEPTUAL EVENT. IT IS NOT A PHYSICAL STRIKE.
+
+
+1. THE QUESTION AFTER SESSION 69
+A listener can report pressure, impact, anticipation, or a bodily afterstate while a contact accelerometer detects little corresponding motion. Session 69 told us not to collapse subjective reports into mechanical exposure. But what, specifically, might organize those reports during KLAAT? Temporal expectation is a strong candidate. Ankora repeatedly tells a listener when something should happen. If an expected strike arrives, arrives early, arrives late, or fails to arrive, its meaning changes even when the surrounding acoustic Field is similar. This makes prediction a plausible bridge between the four-phase composition and embodied reports—without claiming a mysterious form of vibration.
+
+
+2. THREE EVENTS, NOT ONE
+KLAAT must keep separate (A) the physical event, such as Ankora's actual attack and any measurable sound/contact motion; (B) the expected event, a listener's inferred probability of an attack at a given moment; and (C) the reported event, such as a perceived jolt, missed-beat feeling, movement impulse, or conscious recognition of absence. These can coincide, but they need not. No physical attack occurs at an omission. The expected moment can nevertheless be salient. A listener's report cannot by itself reveal which neural process generated that salience.
+
+
+3. WHAT THE OMISSION LITERATURE ESTABLISHES
+Controlled studies of repeated sounds show that an unexpectedly missing sound can elicit measurable brain responses even though no sound occurs at the expected time. Prete and colleagues (2022) reported mismatch-negativity and P3a responses to unexpected silences in regular tone streams, while emphasizing that effects were small and variable. Musical-rhythm fMRI research (2021) reported omission-related activity under its particular design, with a small sample of ten. This is evidence for predictive processing of absent events—not proof of a KLAAT-specific phantom tactile strike, trance state, or health effect.
+
+
+4. A CORRECTION ABOUT SURPRISE
+Not every omission is equally surprising. If a pattern includes a predictable rest every fourth cycle, the rest becomes part of the rule. If an expected downbeat is unexpectedly omitted once, it may violate the learned pattern. If omissions happen constantly, the listener may stop predicting a strike at that position. Surprise therefore depends on learned local probability and metrical hierarchy, not simply on the fact that the waveform contains silence. An event may be physically identical across passages yet have a different conditional probability in each.
+
+
+5. THE EARNED WOUND BECOMES MEASURABLE
+Session 64's artistic concept can now be given a disciplined definition: an EARNED WOUND is a deliberately omitted or displaced event at a time when a stable rhythmic context makes that event reasonably expected. 'Earned' refers to the established predictive model; 'wound' is metaphorical, not medical. An omission in an unpredictable improvisation may be just empty space. The same absence after twenty reliable cycles may become an event in the listener's experience. This is a compositional hypothesis requiring listener confirmation.
+
+
+6. THE PREDICTION IS HIERARCHICAL
+Ankora's approximately 137 BPM reference is a physical performance estimate, not a guarantee of listener meter. A listener may adopt 137 BPM, approximately 68.5 BPM half-time, or another level. An omitted event that Paul considers a strong beat might fall on a weak position in the listener's inferred meter. This is why KLAAT cannot assign surprise from a notated beat grid alone. The inferred Clock must be checked by tapping, boundary judgments, or other perceptual measures when practical.
+
+
+7. SYNCOPATION IS NOT JUST MISPLACED ENERGY
+Fram and Berger's 2023 work treats syncopation as a probabilistic relationship between auditory events and a learned metrical hierarchy. Their behavioral findings implicate both event density and deviation from metrical expectation, including interactions. For KLAAT, this means Surface Pressure is not reducible to how many Ankora attacks occur. A sparse, well-placed deviation may be more structurally disruptive than many regular subdivisions. The model is informative, but it has not been validated for KLAAT's live didgeridoo/frame-drum combination.
+
+
+8. PREDICTIVE SALIENCE VERSUS MECHANICAL DOSE
+Imagine two Ankora attacks with very similar onset, spectrum, peak level, and contact-motion response. One arrives where the listener strongly expects it. The other follows a deliberately omitted beat or appears slightly early. The second might be noticed more strongly even if its physical energy is comparable. That would be a difference in perceived salience, not evidence of increased mechanical dose. Conversely, a more unexpected attack might disrupt rather than enhance groove. Direction and effect size remain unknown for KLAAT.
+
+
+9. WHY THE BODY MAY ANTICIPATE ANKORA
+Beat perception and movement prediction are closely related in experimental rhythm research. Listeners can prepare actions around expected moments even when they are not actually tapping. A KLAAT listener might therefore experience an urge to move or a sense of suspended action during an omitted strike. That is not the same as experiencing a literal tactile impact. KLAAT should offer distinct report options: 'I expected a hit,' 'I felt an urge to move,' 'I noticed an absence,' 'I felt a physical vibration,' and 'nothing changed.' Avoid collapsing these into one 'impact' scale.
+
+
+10. AN IMPORTANT NEGATIVE FINDING
+Lauzon, Russo, and Harris (2020) compared auditory and vibrotactile asynchrony judgments in regular, irregular, and absent rhythmic contexts. Regular context improved auditory asynchrony detection relative to no rhythm, but their study did not find the same improvement for vibrotactile targets. This directly limits any sweeping claim that rhythm boosts tactile temporal precision. Auditory prediction may be strong while tactile judgments remain comparatively variable. KLAAT must test modalities separately.
+
+
+11. AUDIO–TACTILE RHYTHM IS POSSIBLE, NOT AUTOMATIC
+Bernard and colleagues (2022) showed shared characteristics and conditional interaction of auditory and haptic rhythm perception using controlled surface-haptic stimuli. That supports a possible crossmodal route. It does not demonstrate that an ordinary Ankora strike creates detectable contact vibration at every listener's body, or that a missing strike generates tactile sensation. First verify the actual acoustic and mechanical exposure; only then test whether physical and perceived timing align.
+
+
+12. AMASTACIA'S ROLE: THE FIELD THAT MAKES ABSENCE LEGIBLE
+Amastacia is not just a backing note. Her sustained C# Field may hold continuity while Ankora establishes and violates a Clock. When an Ankora strike disappears, Amastacia remains, making the absence a contrast within a continuous environment rather than a total stop. Her breath-driven spectral changes could either stabilize the listener's temporal reference or distract from the omission. This is a specific, testable KLAAT interaction—not established psychophysics. Record Amastacia's spectral envelope during omission windows so a breath accent is not mistaken for an Ankora prediction effect.
+
+
+13. ANKORA'S ROLE: TEACH, TEST, WITHDRAW
+Ankora can first teach a simple periodic rule, then test the rule with rare deviations, then restore it or remove it altogether. That is an actionable human performance grammar. Crucially, the 'test' should be sparse enough to remain interpretable. If every cycle contains a surprise, surprise becomes the new norm. An effective omission is not simply a missing strike; it is a missing strike relative to a well-learned structure.
+
+
+14. GROUND ANCHOR: BEFORE THERE IS AN EARNED OMISSION
+Ground Anchor establishes Amastacia's Field, breath timescale, and the room's acoustic continuity. Ankora's expected attack probability should be low or undefined before a Clock has been learned. A silent moment here is not automatically an omission. This matters methodologically: do not label all silence as prediction error. First demonstrate that the listener has learned a specific temporal expectation.
+
+
+15. THRESHOLD GATE: THE CLOCK BECOMES A PROMISE
+Threshold Gate is when Ankora becomes predictively legible, not necessarily the first drum strike. Repeated stable attacks let listeners anticipate the next onset. A listener may begin to tap or report knowing where the next hit belongs. The Gate therefore creates the precondition for an Earned Wound. If the Clock never becomes clear, an omitted strike may have little predictive significance.
+
+
+16. RISING PULSE: VIOLATION WITHOUT MORE VOLUME
+Rising Pulse can increase Surface density, accent displacement, or rare omissions while keeping the Scaffold approximately stable. This offers a possible path to greater urgency without a systematic SPL increase. But higher reported urgency is not equivalent to increased bodily vibration, therapeutic activation, or pleasant groove. Keep event rate, average level, peak level, perceived beat, and reported surprise separate. This also preserves Session 67's Two-Speed Gate.
+
+
+17. RETURN PATH: THE DIFFERENCE BETWEEN AN OMISSION AND AN END
+An unexpected missing hit within an otherwise continuing Clock differs from the final cessation of Ankora. After several omissions, a listener may revise the rule. During Return Path, the performance intentionally changes from 'one hit is missing' to 'the Pulse itself is leaving.' Amastacia may remain while the learned Clock continues internally for a time. The duration of that continuation is a listener report or tapping measure, not proof of a continuing physical signal.
+
+
+18. THE TIMING PROBLEM
+At 137 BPM, the nominal beat interval is about 438 milliseconds. If a strike is omitted, its expected time can be marked in the performance timeline, but the listener's subjective timing may be shifted. Early/late hits introduce additional timing changes and alter the surrounding inter-onset intervals. When comparing salience, document the local history of at least several preceding beats and the next beat. Otherwise a 'surprise' effect may really be a timing-density or phrase-boundary effect.
+
+
+19. ATTENTION AND ADAPTATION ARE COMPETING EXPLANATIONS
+Repeated Ankora strikes may become less noticeable because of sensory adaptation, attentional reallocation, stronger predictability, or a combination. Session 69 already established that body-focused instructions can alter reports. Session 70 therefore requires a low-interruption design: no continuous instruction to 'feel your abdomen' during the passage. Use sparse post-block judgments and separate forced-choice timing tasks. Declining impact ratings alone do not identify adaptation or predictive suppression.
+
+
+20. ESTABLISHED EVIDENCE
+ESTABLISHED — Regular temporal structure supports expectations about when auditory events should occur.
+ESTABLISHED — Unexpected sound omissions can elicit measurable electrophysiological responses in controlled sequences; effects and components depend on paradigm.
+ESTABLISHED — Musical syncopation perception relates to metrical hierarchy, density, and their interaction, not solely strike count.
+ESTABLISHED — Auditory and haptic rhythm can interact under controlled stimulus conditions.
+ESTABLISHED — Regular rhythmic context can improve some auditory timing judgments; an analogous vibrotactile improvement is not universal.
+ESTABLISHED — A missing physical sound event does not itself deliver that event's sound pressure or contact impulse.
+
+
+21. CONTEXT-DEPENDENT EVIDENCE
+CONTEXT-DEPENDENT — Laboratory omission-ERP or fMRI findings do not establish conscious somatic 'phantom hits' in KLAAT.
+CONTEXT-DEPENDENT — Surprise depends on listener meter, training, local probability, attention, and whether the omission has become part of the pattern.
+CONTEXT-DEPENDENT — Acoustic editing can improve physical control but may change the human timing context and performance ecology.
+CONTEXT-DEPENDENT — Comparable attack levels do not guarantee equivalent acoustic spectra, contact acceleration, or perceived loudness.
+CONTEXT-DEPENDENT — A single listener may switch between half-time and full-time metrical interpretations.
+CONTEXT-DEPENDENT — A perceived jolt during silence may reflect anticipation, motor preparation, memory, or report framing; it does not isolate a neural cause.
+
+
+22. PLAUSIBLE / TESTABLE KLAAT HYPOTHESES
+PLAUSIBLE/TESTABLE — An unexpected Ankora omission following a well-learned Clock produces more reliable omission detection or expectancy ratings than the same silence embedded in an irregular passage.
+PLAUSIBLE/TESTABLE — A physically matched Ankora attack has different reported salience when it occurs at high versus low conditional probability.
+PLAUSIBLE/TESTABLE — Sparse omissions increase urgency or felt suspension without requiring higher average SPL.
+PLAUSIBLE/TESTABLE — Stable Amastacia Field improves the listener's ability to maintain the Clock through an Ankora omission compared with a simultaneous major Field change.
+PLAUSIBLE/TESTABLE — Return Path produces a distinguishable change from isolated missed beats to loss of the learned Clock.
+PLAUSIBLE/TESTABLE — Listener meter selection and familiarity explain part of the between-person variance in omission salience.
+
+
+23. SPECULATION
+SPECULATION — A defining KLAAT experience may be the bodily expectation of an event that never arrives, rather than a physically stronger strike.
+SPECULATION — The strongest Rising Pulse moment might sometimes be a single carefully earned absence within a stable Amastacia Field.
+SPECULATION — Ordered Return Path may be powerful partly because it changes what the listener expects next, not just how much acoustic energy remains.
+SPECULATION — A validated omission grammar could become a minimal, human-playable notation mark in a future KLAAT score.
+
+
+24. UNSUPPORTED CLAIMS
+UNSUPPORTED — A missing Ankora strike creates a real mechanical impact in the listener.
+UNSUPPORTED — An omission-induced EEG response proves a felt chest/abdomen vibration.
+UNSUPPORTED — Prediction error is a nervous-system reset, healing mechanism, or proof of trance.
+UNSUPPORTED — Unexpected hits always feel stronger, are always more pleasurable, or always improve groove.
+UNSUPPORTED — More omissions necessarily produce more activation.
+UNSUPPORTED — Rhythm reliably improves vibrotactile temporal discrimination in every modality or setting.
+UNSUPPORTED — KLAAT's approximately 137 BPM has a unique biological significance.
+UNSUPPORTED — A listener's reported surprise can be computed from the performance waveform without testing the listener's inferred meter.
+
+
+25. METHODOLOGY UPDATE — PREDICTIVE SALIENCE GATE
+Add PREDICTIVE SALIENCE as a candidate explanatory mechanism and mandatory covariate in event-impact experiments, NOT as a new validated KSV dimension. Retain KSV-0.1 = [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL]. Preserve four synchronized timelines: (1) physical onset/omission and measured exposure, (2) intended beat grid and local event probability, (3) listener-inferred meter/expected timing, (4) subjective salience and bodily report. Classify physical energy as exposure; expectancy as candidate mediator/moderator; felt impact, urgency, and movement impulse as outcomes. Predefine whether the primary question is detection, timing, salience, or bodily location. Do not substitute one for another.
+
+
+Rules:
+THE EXPECTED STRIKE IS NOT THE DELIVERED STRIKE.
+SILENCE ONLY BECOMES AN OMISSION RELATIVE TO A LEARNED RULE.
+MATCH PHYSICAL ATTACKS BEFORE ATTRIBUTING DIFFERENT IMPACT RATINGS TO PREDICTION.
+DO NOT INTERPRET A MISSED BEAT AS TACTILE STIMULATION.
+PRESERVE THE HUMAN PERFORMANCE; USE EDITING ONLY FOR CLEARLY LABELED CONTROLLED EXCERPTS.
+
+
+26. THE COMPOSITIONAL CONSEQUENCE
+Amastacia and Ankora remain the only core instruments. Amastacia holds the Field. Ankora teaches the Clock. Repetition creates probability. An omitted strike tests expectation. The Return Path withdraws the system that made the expectation possible. This gives KLAAT a potentially powerful low-material technique: produce a strong compositional change by altering WHEN a human-played event occurs—or by withholding it—rather than by adding a sound, instrument, amplifier, or AI-generated musical layer. The hypothesis is meaningful precisely because it can fail under blind testing.
+
+
+27. KRX-070 — THE EARNED OMISSION CROSSOVER TEST
+OBJECTIVE: Determine whether learned Ankora timing changes perceived salience and bodily anticipation independently of the presence or physical magnitude of a strike.
+
+
+MATERIAL: Paul records short, naturally performed Amastacia + Ankora passages at comfortable levels. Preserve an 8–12-minute four-phase reference performance and extract several short, clean Ankora patterns for controlled testing. No AI-generated music. Use the same actual human-played Ankora hit, with carefully documented editing only in the controlled comparison; retain unedited reference takes as ecological controls.
+
+
+CONDITIONS: (A) REGULAR CLOCK: 12–20 stable Ankora beats followed by a target beat or one unexpected omission; (B) IRREGULAR CLOCK: comparable overall number of attacks and overall level but unpredictable onset history before the same target/omission; (C) LEARNED REST: a regularly repeating rest at the same metrical location, so the missing event is expected. Include no-event catch trials and ordinary present-hit trials. Counterbalance block order. If possible, add a small Amastacia Field-stable versus Field-changing comparison only after the main effect is established.
+
+
+PHYSICAL VALIDATION: For present-hit targets, verify similar onset waveform, peak level, spectrum and, if a support sensor has signal above noise, contact-motion characteristics at the listener interface. For omission trials, verify no Ankora target attack occurs; do not describe the omission as physically matched to a hit. Preserve the surrounding musical context and actual timing. Ensure safe, comfortable playback.
+
+
+LISTENER TASKS: First ask a neutral question about when a change occurred and whether a strike was present. Separately ask about certainty of the expected beat, urge to move, perceived suspension, surprise, and bodily sensations in the listener's own words. Use a simple beat-tapping block outside the main immersion block to determine half-time/full-time meter selection. Do not prime listeners with 'phantom vibration' or 'chest impact.'
+
+
+PRIMARY COMPARISON: Unexpected omissions after a stable Clock versus predictable rests at the same position. Does omission detection, reported expectancy, or felt suspension differ? A secondary comparison asks whether the SAME physically verified target strike is rated differently after regular versus irregular histories. Evaluate listener-level variation and repeat on another day. Do not infer causality from a single vivid anecdote.
+
+
+FOUR-PHASE INTEGRATION: Ground Anchor establishes Amastacia's Field without a drum expectation. Threshold Gate establishes the Clock. Rising Pulse introduces one or two sparse, high-probability omissions while keeping volume and Scaffold stable. Return Path transitions from isolated violations to orderly Clock withdrawal. Compare the isolated omission with the final disappearance of Ankora: do listeners distinguish a missing event from the end of the rule?
+
+
+DECISION RULE: If unexpected omissions reliably differ from learned rests, retain the Earned Wound as a testable perceptual mechanism. If physically matched hits differ in salience by context, promote predictive salience as a supported KLAAT-specific moderator only after replication. If neither effect survives, treat omission as an artistic choice without claiming a distinctive embodied mechanism. If reports occur only after leading questions, revise the protocol rather than claiming success.
+
+
+DECISIVE QUESTION:
+CAN AMASTACIA HOLD THE WORLD STEADY WHILE ANKORA MAKES A MOMENT OF SILENCE FEEL STRUCTURALLY PRESENT—WITHOUT CONFUSING EXPECTATION WITH PHYSICAL VIBRATION?
+
+
+PRIMARY SOURCES
+Prete G et al. (2022). The sound of silence: Predictive error responses to unexpected sound omission in adults. European Journal of Neuroscience. DOI 10.1111/ejn.15660. https://doi.org/10.1111/ejn.15660
+Suppression, Maintenance, and Surprise: Neuronal Correlates of Predictive Processing Specialization for Musical Rhythm (2021). Frontiers in Neuroscience. DOI 10.3389/fnins.2021.674050. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.674050/full
+Fram NR, Berger J (2023). Syncopation as Probabilistic Expectation: Conceptual, Computational, and Experimental Evidence. Cognitive Science. DOI 10.1111/cogs.13390. https://onlinelibrary.wiley.com/doi/10.1111/cogs.13390
+Lauzon AP, Russo FA, Harris LR (2020). The influence of rhythm on detection of auditory and vibrotactile asynchrony. Experimental Brain Research 238:825–832. DOI 10.1007/s00221-019-05720-x. https://link.springer.com/article/10.1007/s00221-019-05720-x
+Bernard C et al. (2022). Rhythm perception is shared between audio and haptics. Scientific Reports 12:4188. DOI 10.1038/s41598-022-08152-w. https://www.nature.com/articles/s41598-022-08152-w
+
+
+INTERNAL PROVENANCE
+KLAAT Master Instructions; Curriculum Index and Research Ledger through Session 69; Session Corpus through Session 69; Library Hourly Research notes through 2026-10-05 18:33 CDT, especially 2026-10-05 02:32 CDT (predictive salience); Sessions 64, 65, 67, 68 and 69. Hourly files were not modified.
+
+
+NEXT UNRESOLVED DIRECTION
+Once KRX-070 has been piloted, separate omission-driven prediction from attentional gain and ordinary sensory adaptation in a preregistered, low-interruption repeated-exposure design. Then test whether the effect generalizes from controlled playback to a complete live four-phase KLAAT performance.
+
+
+END OF SESSION 70

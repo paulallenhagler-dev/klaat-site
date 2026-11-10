@@ -1,0 +1,17 @@
+SESSION 20 — RESPIRATORY SINUS ARRHYTHMIA
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+Respiratory sinus arrhythmia describes the common tendency for heart rate to rise during inhalation and fall during exhalation. It is one expression of cardiorespiratory interaction and is influenced by vagal mechanisms, breathing rate, age, posture, and many other variables.
+
+
+Heart-rate variability is therefore not a single “nervous-system score.” Its interpretation depends heavily on breathing and measurement conditions.
+
+
+Evidence boundary
+Established: respiration modulates heart-rate timing; slow breathing can increase the amplitude of certain heart-rate oscillations. Context-dependent: the magnitude varies greatly across individuals. Unsupported: treating a smartwatch HRV number as proof that KLAAT increased vagal tone or produced healing.
+
+
+KLAAT test
+With a consenting participant using a wearable, compare heart rate and visible respiration across silent baseline, drone, and drone-plus-pulse conditions. Treat the result as exploratory and note any breathing changes before interpreting HRV.

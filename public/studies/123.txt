@@ -1,0 +1,238 @@
+KLAAT RESONANCE RESEARCH — SESSION 123
+THE PULSE THAT THE PICTURE INVENTED
+Visual rhythm, silent access, and the difference between expressive motion and an accurate representation of Ankora
+Published: 2026-10-26, 15:13 CDT
+
+
+GOVERNING PRINCIPLE
+Experience-led creation. Science-informed refinement.
+
+
+RESEARCH QUESTION
+
+
+KLAAT now exists not only as a physical encounter with Amastacia, the C# agave didgeridoo, and Ankora, the elk-hide frame drum, but also as a recorded and visual world: sparse nodes, animated circles, oscillating lines, and short audio excerpts embedded in its website. The visual language is an artwork in its own right. But if a circle pulses on screen, what, precisely, does it tell a visitor about the improvised drum event that may—or may not—have occurred at that moment?
+
+
+This session investigates a distinction that matters artistically and scientifically: a visual movement can be compelling, rhythmically useful, acoustically faithful, and accessible, but those are four different claims. A beautiful animation may not report the actual hand-drum pulse. A precise flash may report an event but be hard to follow. A natural-looking moving shape may help a person synchronize a movement without making that person better at judging temporal irregularities. And a silent animation can provide one kind of access to music without reproducing its tactile or acoustic experience.
+
+
+The question is not whether KLAAT should become a visual metronome. It should not. The question is how to understand the experience created by an already-improvised Amastacia–Ankora performance when it is translated into another sensory medium—and how to be accurate about what that translation conveys.
+
+
+1. WHY THIS SESSION IS NEW
+
+
+The novelty audit checked the connected Master Instructions, Curriculum Index, Research Ledger, and Session Corpus through Session 122, plus Library hourly notes from the October 26 morning through 14:16 CDT. Session 96 addressed how visible post-impact gestures can alter perceived drum-tone duration; Session 112 addressed physical-versus-recorded audiovisual timing; Session 119 addressed anticipation from the actual player's pre-strike movements. Those questions concern observing the real performer or the fidelity of audiovisual capture. This session instead asks whether a SYNTHETIC, silent, potentially event-linked visual can transmit information about an EXISTING, irregular improvisation, especially to Deaf and hard-of-hearing visitors. It extends the 13:25 CDT hourly visual-rhythm-access note with controlled studies showing that movement synchronization and temporal judgment can dissociate. The 14:16 CDT hourly note on keyboard and screen-reader discovery of hidden nodes is a separate interface-operability problem, retained for future work.
+
+
+No live KLAAT site source code, event-to-animation timestamp map, verified recording analysis, or visitor study was examined here. The present study is a literature-informed research design, not a website audit or a claim of KLAAT accessibility compliance.
+
+
+2. FOUR THINGS THAT A MOVING NODE MIGHT MEAN
+
+
+Imagine a cream-colored circle on KLAAT's near-black background. It swells, contracts, releases small particles, and then becomes still. The visual event can be interpreted in at least four ways:
+
+
+(A) EXPRESSIVE: the circle evokes pressure, breath, impact, release, and the archaeosonic world. It need not correspond one-to-one to a sound event. Its validity is primarily artistic.
+
+
+(B) EVENT-FAITHFUL: a change in the circle is caused by an identified, time-stamped event in a particular recording, such as an Ankora attack. This is a claim about source mapping and timing.
+
+
+(C) BEAT-INTERPRETIVE: the circle conveys a perceived periodic beat or metric level, which may differ from the sequence of individual drum strikes. A listener may hear a half-time beat, subdivisions, or no stable meter during a transition. This is a perceptual interpretation, not a raw acoustic event list.
+
+
+(D) ACCESS-ORIENTED: a visitor who cannot hear the recording can use the visual to discover some of its timing or organization. This is a functional claim about an actual user's performance and experience, not a property conferred by the animation's appearance.
+
+
+One artwork may occupy more than one category. The danger begins when the categories are quietly substituted for one another. An artistically resonant particle burst is not automatically a faithful Ankora transcription. A faithful transcription is not automatically an effective cue for movement. An effective movement cue is not proof that a visitor understood the whole musical phrase, felt a bodily resonance, or entered an altered state.
+
+
+3. THE OLD 'HEARING BEATS VISION' STORY IS TOO SIMPLE
+
+
+Classical sensorimotor-synchronization experiments often show more stable finger tapping to auditory clicks than to static visual flashes. That difference is real in the tested tasks, but it does not establish that all visual rhythms are intrinsically poor timing signals. Visual movement provides trajectory information: a moving object can approach an anticipated contact point before the contact occurs. A flash, by contrast, gives little or no continuous information about when the next event will happen unless the observer extrapolates from earlier intervals.
+
+
+Iversen, Patel, Nicodemus, and Emmorey (2015) compared auditory tones, discrete visual flashes, and an animated bouncing ball. The primary inter-event interval was 600 ms, corresponding to 100 events per minute; visual flashes lasted 100 ms. In the study, hearing participants could synchronize to a colliding ball nearly as accurately as to sound. The study also compared 23 early/profoundly deaf signers and 22 hearing nonsigners in its participant sample. Deaf participants synchronized better than hearing participants to flashes; their responses to the bouncing ball also suggested that experience with auditory input is not the only route to higher-order beat timing. These were controlled tapping tasks with simple periodic events. The findings are not a demonstration that a Deaf person can infer a spontaneous, multilayered KLAAT phrase from arbitrary motion. [1]
+
+
+Gan and colleagues (2015) developed a realistic moving-ball trajectory and tested tapping to isochronous events, including 600- and 900-ms intervals. Their results found a strong advantage of the moving ball over flashes and, in their tested conditions, no significant disadvantage relative to auditory tones. A repeated-measures analysis in one experiment reported a sequence-type effect, F(2,28)=11.283, p=.001, partial eta-squared=.545. That is a study-specific effect on synchronization stability, not a prediction of KLAAT audience behavior. [2]
+
+
+Huang and colleagues (2018) then challenged a tempting shortcut: perhaps simply giving any object the correct speed profile is enough. In experiments involving 15 participants for the main comparisons, a contracting ring with matched movement-speed characteristics did not support synchronization as effectively as the bouncing ball; the gap was more evident for difficult 300-ms intervals than for 600-ms intervals. The motion's shape, implied physical event, and ecological plausibility mattered. The lesson for KLAAT is subtle. A swelling archaeosonic ring may be visually perfect for KLAAT while conveying less predictable event timing than a recognizable collision. That does not make the ring a design failure. It means aesthetic coherence and temporal-cue efficiency must be evaluated separately. [3]
+
+
+4. THE CRUCIAL CONTRADICTION: MOVING WELL IS NOT THE SAME AS KNOWING WHEN
+
+
+A particularly useful experiment for KLAAT was conducted by Silva and Castro (2016). Thirty-four participants aged 19–25 experienced four kinds of 600-ms periodic sequences: short auditory beeps, continuously changing auditory tones, visual flashes, and bouncing balls. Participants first synchronized their tapping, then continued without the external cue. In separate tasks, they judged whether a later interval was rhythmically appropriate. The perception task contrasted an expected 300-ms half-beat with deviant intervals of 167 or 433 ms. [4]
+
+
+In the externally paced tapping condition, bouncing balls outperformed flashes and resembled beeps—the celebrated moving-visual-cue advantage. But the advantage did not generalize to the perceptual tasks: moving balls did not confer the same superior ability to judge whether a sequence's timing was correct. When participants continued tapping without the cue, the patterns changed again. The authors interpreted the movement advantage as related to sensorimotor coupling rather than a general enhancement of time perception. This interpretation is plausible, but it does not identify a single neural circuit from behavioral data alone. [4]
+
+
+This is the session's strongest result. If a KLAAT visitor taps accurately along with a silent animation, that does not by itself show they correctly understood which movements represent real Ankora strikes, how subdivisions were organized, or whether a quiet drone articulation occurred between impacts. Conversely, someone who does not tap accurately may still recognize important expressive changes or find the imagery compelling. Motor accuracy, event recognition, perceived groove, aesthetic appreciation, and absorption are distinct outcomes.
+
+
+The experimental contradiction is not that visual movement 'works' in one paper and 'fails' in another. It is that the outcome being tested changes. This is why a KLAAT visual pilot should not have a single generic 'rhythm conveyed' score.
+
+
+5. A DIFFERENT KIND OF NONAUDITORY ACCESS: TOUCH
+
+
+Tranchant and colleagues (2017) studied dancing-like bouncing to vibrotactile electronic dance music, delivered through a vibrating platform without ordinary audible presentation. The final analyzed sample was seven early/profoundly deaf and fourteen hearing participants. Most could synchronize their body movement to the tactile music; within the hearing group, auditory-only presentation yielded more consistent synchronization than the tactile conditions. The authors also documented participant exclusions and trial-level failures, an important reminder that not everyone synchronized reliably. The electronic tracks used regular bass-drum beats at 110, 115, and 120 BPM. [5]
+
+
+This does not mean a screen animation is equivalent to floor vibration, or that a home speaker necessarily delivers tactile Ankora energy. A screen presents optical motion; a tactile platform presents mechanical acceleration; headphones and speakers present different airborne fields. Deaf and hard-of-hearing people are not a single homogeneous listening population. Hearing histories, residual hearing, tactile preferences, visual experience, device use, and musical interests vary.
+
+
+Cavdir's 2022 participatory design study involved a Deaf dancer and a hearing musician across four workshops and a performance/demonstration. It is valuable because it foregrounds a Deaf artist's agency in shaping a tactile musical interface. It is not a large controlled trial proving universal benefit. Its relevance to KLAAT is methodological: if accessible presentation becomes an artistic goal, involve people who will actually use it in deciding what matters, rather than imposing a hearing person's assumptions about what 'feeling the music' should mean. [6]
+
+
+6. THE RECORDING IS NOT A READY-MADE SCORE
+
+
+KLAAT's actual playing is spontaneous. Ankora's attacks can be isolated, grouped, irregular, doubled, softened, or partially masked by Amastacia's breath and harmonics. An audio onset detector may identify a drum strike, a breath burst, a click, a phone-processing artifact, or a transient room reflection. A low-frequency energy peak may belong to the drone rather than the drum. And the felt pulse may occur at a metrical level not equal to every strike.
+
+
+A scientifically defensible visual translation must first specify WHAT it represents. There are at least three candidate source layers:
+
+
+1) PHYSICAL ACTION: Paul's hand contacts Ankora at a given time. This requires appropriately timed video or a contact sensor, not simply an audio peak.
+2) RECORDED ACOUSTIC ONSET: a particular recording contains a measurable transient at a defined timestamp. This is dependent on microphone, room, mixing and detector settings.
+3) PERCEIVED MUSICAL EVENT: an independent listener reports hearing a beat, accent, phrase boundary or texture change. This requires a listener task; it cannot be deduced perfectly from waveform peaks.
+
+
+An animation can use any one of these layers, but the layer must be declared. A fixed 184-BPM pulse would be an invented timing track if the underlying performance did not sustain that periodicity. Even the earlier ~137-BPM reference recording does not justify imposing one beat grid on every later improvisation. Nor should the four historical KLAAT architectural labels be used as mandatory compositional stages. The performance leads; any annotation follows it.
+
+
+7. WHAT 'EVENT-FAITHFUL' WOULD REQUIRE
+
+
+Suppose an unchanged 30-second clip contains N manually verified Ankora attacks. Let a_i denote the annotated acoustic-onset times, and v_j the animation events that explicitly claim to represent those attacks. A basic audit can match each v_j to at most one a_i within a stated tolerance. The tolerance is a chosen engineering criterion, not a universal human simultaneity threshold. The audit then reports:
+
+
+- HIT COUNT: how many annotated attacks receive a corresponding visual event.
+- MISSED ATTACKS: acoustic events with no assigned visual event.
+- EXTRA VISUAL EVENTS: visual pulses with no corresponding annotated attack.
+- TIMING ERROR: median and spread of v_j minus a_i for matched events, including whether the visual generally leads or lags.
+- AMBIGUITY: quiet/overlapping events for which two annotators disagree about what counts as an Ankora onset.
+
+
+For example only, if 20 verified attacks were present and 18 visual pulses matched within a declared window, there would be at least two missed attacks; if three further visual pulses lacked matches, there would also be three extra events. Those are invented illustration counts, not KLAAT measurements. Precision and recall can summarize a detector, but a low-error animation can still feel wrong if its event shape, anticipation, and grouping conflict with how the music is perceived. Conversely, a deliberately abstract animation can be artistically successful while scoring poorly as a transcription. That is acceptable if it is presented as expressive rather than event-faithful.
+
+
+Video frames, browser animation loops, audio-buffer latency, and rendering performance add timing uncertainty. A nominal 60-Hz display refresh interval is about 16.7 ms; it does not guarantee that an audio-reactive node is aligned to within 16.7 ms, because event detection, scheduling, playback and actual display onset contribute further delay and jitter. A browser-based audit should log the version and delivery context, not treat animation code timestamps as measured photons. Session 112 covered audiovisual timing in phone recordings; this is a different end-to-end chain, from annotated audio event to rendered symbolic display.
+
+
+8. WHAT A VISITOR COULD ACTUALLY BE ASKED
+
+
+There are two complementary questions, and they should not be confused.
+
+
+The INFORMATION question is: 'Can you identify when Ankora strikes occur, or tell which of two silent clips contains the true event timing?' A test might present an event-linked visual and a visually similar time-shuffled control. The response could be marked event locations, a choice between two versions, or a confidence rating. The test must not accidentally reveal the answer through more intense or more numerous flashes in one condition. The participant's task and instruction should be understandable without relying on hearing.
+
+
+The EXPERIENCE question is: 'Does this visual world feel engaging, expressive, comprehensible, overwhelming, or personally meaningful?' Open descriptions are especially valuable. A participant may prefer a less literal animation because it preserves mystery. That preference is not an error. KLAAT is not obligated to trade away its near-black negative space, delicate linework, or organic drifting particles to maximize onset recognition.
+
+
+A small, voluntary pilot can learn about usability and interpretation. It cannot establish a population-wide Deaf preference or KLAAT-induced trance. Counterbalancing display order and retaining null or negative responses would make the results more useful. Any repeated clips from one take should remain identified as related observations, consistent with Session 118's anti-pseudoreplication rule.
+
+
+9. ACCESSIBILITY IS MORE THAN A FLASHING DOT
+
+
+The World Wide Web Consortium's WCAG 2.2 success criterion 1.2.1 calls for an equivalent alternative for prerecorded audio-only content. For a musical excerpt without words, a brief text description can identify observable information such as sustained low drone, separate hand-drum impacts, texture changes, and any actually present silence. Text cannot recreate the whole experience of timbre, bodily impact or artistic meaning. It should be truthful about that limit. [7]
+
+
+The separate 14:16 CDT hourly note highlights another issue: a visitor must be able to FIND and ACTIVATE the authentic audio, including by keyboard or assistive technology. That is interface operability, not visual rhythm comprehension. A glowing dot that cannot be activated without a mouse is a different barrier from an accessible control that plays a clip but conveys no timing to a person who cannot hear it. These problems may coexist; neither is established as a defect on the live site without an actual audit.
+
+
+Motion sensitivity and photosensitivity also matter. A rhythm visualization need not become a rapid full-screen strobe. Reduced-motion and low-flash alternatives can be provided without eliminating the original expressive version. Visual accessibility is not merely maximizing brightness, contrast, or movement; it includes user choice and a clear account of what the presentation represents.
+
+
+10. WHAT THE STUDIES DO NOT TELL US
+
+
+The experiments above used deliberately controlled periodic stimuli. KLAAT's drum is not a sequence of identical beeps, and Amastacia is not a silent backdrop. The continuous drone may shape grouping, anticipation, attention and the salience of the next impact. An animation that marks every high-amplitude transient might misrepresent the perceived beat, while one that follows an inferred meter might suppress genuine irregularities. Neither error can be resolved solely by importing the 600-ms laboratory tempo.
+
+
+Most of the studies tested synchronization in hearing adults; the 2015 Iversen study and the 2017 Tranchant study provide specific evidence involving Deaf participants, but their samples and recruitment do not represent every Deaf or hard-of-hearing visitor. The 2022 co-design work is qualitatively rich but small. None measured KLAAT's actual website, visual style, acoustic recordings, subjective activation, interoception, flow, neural oscillations or autonomic responses.
+
+
+The strongest unresolved empirical question is not 'Which animation induces trance?' It is more elementary and more valuable: 'Does this animation preserve any verifiable information about the actual improvisation, and what does a real visitor perceive from it?' Answering that question would strengthen future interpretation of listener reports. A visitor who saw a time-scrambled pulse did not receive the same temporal information as someone hearing the unedited performance. We cannot attribute differences between them to Amastacia's acoustic properties without controlling the presentation.
+
+
+11. EVIDENCE STATUS: KEEP THE CATEGORIES SEPARATE
+
+
+ESTABLISHED OUTSIDE KLAAT
+- Controlled visual trajectories can support more stable motor synchronization than static flashes; some optimized moving cues approach auditory-click performance in the tested tasks. [1–3]
+- In one 34-participant study, the moving-ball advantage in externally paced tapping did not generalize to temporal error judgments. Motor synchronization and timing perception are not interchangeable endpoints. [4]
+- Deaf and hearing participants can synchronize bodily movement to sufficiently salient vibrotactile music under laboratory conditions; auditory synchronization was superior to tactile synchronization within the hearing group in the 2017 experiment. [5]
+- WCAG specifies an alternative for prerecorded audio-only information; it does not certify that decorative animation alone provides that alternative. [7]
+
+
+CONTEXT-DEPENDENT EVIDENCE
+- Motion trajectory, collision cues, inter-event interval, sensory experience, task instructions and device presentation change synchronization performance.
+- Tapping accuracy is not equivalent to beat understanding, aesthetic preference, or absorption.
+- Co-design with Deaf participants offers grounded design insight, not universal accessibility efficacy. [6]
+
+
+PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
+- A visual whose impacts are linked to verified Ankora acoustic onsets will enable more accurate event identification than a time-shuffled but visually comparable control.
+- Some visitors may prefer a deliberately expressive animation to a literal timing trace, even if the literal trace improves event identification.
+- Actual Amastacia–Ankora irregularity, dense accents, or quiet drum tails may reduce the accuracy of simple automatic event mapping; this requires annotated authentic clips to test.
+- Different visitors may value accurate timing, atmosphere, optional text, or tactile access differently.
+
+
+SPECULATION
+- A temporally faithful visual could increase a sense of connection to KLAAT's physical action for some people. It might also diminish mystery for others. Neither outcome has been measured.
+- A multimodal website might create a distinctive form of engagement that is not reducible to either a sound recording or a visualization. This is an artistic possibility, not a demonstrated neurophysiological mechanism.
+
+
+UNSUPPORTED CLAIMS
+- KLAAT's current nodes already convey accurate Ankora timing.
+- A Deaf viewer experiences the same beat, tactile sensation, or emotional state as a hearing listener merely by seeing animated pulses.
+- Better visual tapping demonstrates stronger trance, neural entrainment, therapeutic effect, or bodily energy.
+- The laboratory 600-ms beat, ~137-BPM archival reference, or 184-BPM visual preference prescribes how Paul should play.
+- The best KLAAT animation must be the most literal one.
+
+
+12. THE ARTISTIC CONSEQUENCE: THE VISUAL IS ALLOWED TO BE ITS OWN ART
+
+
+KLAAT's archaeosonic world can remain asymmetrical, spare, and slightly enigmatic. The left-heavy resonant geometry and large voids do not need to become a conventional waveform dashboard. If a circle deforms on an authentic Ankora impact and particles drift into Amastacia's sustained field, that is a beautiful possible translation of the sound. But the artist can decide that some particles move for their own visual reasons, too. The research obligation is simply to label the relationship honestly.
+
+
+One can preserve a free, expressive layer and separately offer a faithful event-information layer when useful. Neither layer governs the musical performance. This separation is the central methodological advance: a visual may be an interpretation of KLAAT without pretending to be a measurement of KLAAT. The spontaneous performance remains the source; the visualization is a chosen encounter with it.
+
+
+This matters for daily-life listening as much as for ceremonial presentation. Some people will play KLAAT while working or walking, without looking at the screen. Others will sit with the visuals. Others may encounter the website silently. These are different encounters, not failed versions of one 'correct' ritual. The research program should respect that plurality while keeping its factual descriptions testable.
+
+
+OPTIONAL OBSERVATION — KRX-123: DOES THE CIRCLE TELL THE TRUTH?
+
+
+Choose ONE existing, unchanged 20–40-second KLAAT recording and its associated visual, if one already exists. Without altering the music or redesigning the artwork, watch once with the audio muted and write down which circle changes seem to indicate Ankora strikes. Then listen to the original recording and mark, roughly, whether those moments correspond to actual drum attacks, to drone/breath changes, or to purely expressive motion. 'Unclear' is a valid result. This is an informal provenance observation, not a test of Deaf access or brain activity. If the mapping proves ambiguous, simply classify the animation as expressive for now. No tempo grid, score, forced playing exercise, website overhaul, or new equipment is required.
+
+
+PRIMARY SOURCES AND TECHNICAL REFERENCES
+[1] Iversen JR, Patel AD, Nicodemus B, Emmorey K (2015). Synchronization to auditory and visual rhythms in hearing and deaf individuals. Cognition 134:232–244. DOI 10.1016/j.cognition.2014.10.018. https://pubmed.ncbi.nlm.nih.gov/25460395/ ; author full text https://sccn.ucsd.edu/~jiversen/pdfs/iversen_synchronization_2015.pdf
+[2] Gan L, Huang Y, Zhou L, Qian C, Wu X (2015). Synchronization to a bouncing ball with a realistic motion trajectory. Scientific Reports 5:11974. DOI 10.1038/srep11974. https://www.nature.com/articles/srep11974
+[3] Huang Y, Gu L, Yang J, Zhong S, Wu X (2018). Relative contributions of the speed characteristic and other possible ecological factors in synchronization to a visual beat consisting of periodically moving stimuli. Frontiers in Psychology 9:1226. DOI 10.3389/fpsyg.2018.01226. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.01226/full
+[4] Silva S, Castro SL (2016). Moving stimuli facilitate synchronization but not temporal perception. Frontiers in Psychology 7:1798. DOI 10.3389/fpsyg.2016.01798. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01798/full
+[5] Tranchant P, Shiell MM, Giordano M, Nadeau A, Peretz I, Zatorre RJ (2017). Feeling the beat: Bouncing synchronization to vibrotactile music in hearing and early deaf people. Frontiers in Neuroscience 11:507. DOI 10.3389/fnins.2017.00507. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2017.00507/full
+[6] Cavdir D (2022). Touch, Listen, (Re)Act: Co-designing vibrotactile wearable instruments for Deaf and hard of hearing. Proceedings of NIME, article 45. DOI 10.21428/92fbeb44.b24043e8. https://nime.org/proc/nime2022_45/
+[7] W3C (WCAG 2.2), Understanding Success Criterion 1.2.1: Audio-only and Video-only (Prerecorded). Normative guidance, not a behavioral experiment. https://www.w3.org/WAI/WCAG22/Understanding/audio-only-and-video-only-prerecorded.html
+
+
+PROVENANCE AND LIMITS
+Literature checked October 26, 2026. Primary study effects are external, not measurements of Paul, Amastacia, Ankora, the KLAAT site, or KLAAT visitors. Recent canonical Library hourly notes: October 26 13:25 CDT (visual-rhythm access) and 14:16 CDT (keyboard/screen-reader node access); both remain intact. Prior published Sessions 55, 96, 112, 118, 119, 121, and 122 provide distinct background. The current session's full plain-text ChatGPT Library copy is the canonical record; Google Drive Session Corpus, Curriculum Index and Research Ledger are secondary mirrors.
+
+
+END OF SESSION 123

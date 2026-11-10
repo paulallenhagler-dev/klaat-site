@@ -1,0 +1,211 @@
+KLAAT RESONANCE RESEARCH — SESSION 106
+THE SOUND THAT INTERRUPTS WITHOUT ASKING FOR ATTENTION
+Changing-state auditory distraction, serial-order memory, and the limits of KLAAT as an everyday soundtrack
+Published: 2026-10-20, 19:13 CDT
+
+
+GUIDING PRINCIPLE
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+RESEARCH STATUS
+Critical synthesis of published experiments on irrelevant sound, auditory organization, and background music. No new KLAAT acoustic analysis, cognitive task, listener experiment, or neural/physiological measurement was performed. Numerical findings belong to the cited non-KLAAT experiments. The study proposes a narrow empirical question about authentic, unchanged KLAAT recordings; it does not claim that Amastacia or Ankora has already improved or impaired anyone's memory.
+
+
+CENTRAL QUESTION
+
+
+KLAAT is meant to be more than an object of concentrated ceremonial listening. A long, improvised Amastacia–Ankora performance might accompany drawing, walking, sorting objects, driving through an ordinary day, or working on something demanding. The same listener may find the music energizing and still make more mistakes on a task that requires remembering a sequence. Can sound interfere with the order of thoughts even when the person feels that they are successfully ignoring it?
+
+
+This is not a question about whether KLAAT is pleasant, whether it creates trance, or whether the drone is soothing. It is a more specific question about an established experimental phenomenon: an irrelevant auditory sequence can reduce accuracy on a visual serial-recall task. The disruptive quality need not be speech, a startling noise, or a conscious distraction. Sometimes the important variable is how the sound changes from one recognizable event to the next.
+
+
+The apparent paradox is worth keeping: a soundtrack can support a person's desired mood while competing with one particular kind of mental work. Those two experiences are not mutually exclusive. The artistic task is not to make KLAAT less alive. The research task is to discover where it belongs in daily life, and where it does not.
+
+
+1. THREE DIFFERENT MEANINGS OF 'IT HELPS ME FOCUS'
+
+
+Someone may say, 'I focus better with this on.' That statement can mean at least three things. First, the sound makes an activity more enjoyable, and the person is more willing to stay with it. Second, the sound changes the person's subjective sense of distraction or mental effort. Third, the sound measurably improves accuracy, speed, or retention on a particular task. These are different outcomes. A fourth possibility is that enjoyment improves while objective performance gets slightly worse.
+
+
+Session 85 distinguished musical absorption, imagery, task focus, and mind-wandering. Session 103 separated a feeling of activation from measured walking speed and step synchronization. Session 106 makes a narrower move: it asks whether sound that is not consciously attended can compete with the ordering processes required by a short-term memory task. This is not another general meditation on attention. It identifies a specific cognitive endpoint, a particular class of auditory variation, and rival mechanisms that can be tested.
+
+
+The standard laboratory example is deliberately simple. A participant sees a series of digits, then tries to reproduce them in the correct order. During the visual presentation or brief retention interval, an irrelevant sound plays. The participant is told to ignore it. If accuracy declines relative to silence, the result is called an irrelevant sound effect. A reduction in serial recall is not a measure of trance, intelligence, creative ability, or general productivity. It is a task-specific difference under defined conditions.
+
+
+2. WHY 'CHANGING-STATE' IS NOT THE SAME AS LOUD OR CHAOTIC
+
+
+The auditory changing-state effect is a classic observation: sequences that vary across successive tokens often disrupt serial recall more than a repeated, relatively unchanging token. Jones, Macken, and Murray (1993) showed that a continuous random pitch glide could fail to produce the usual disruption, whereas breaking the glide with regular silent gaps made it disruptive. Their second experiment showed that a physically continuous synthesized-vowel stream could still disrupt recall. Thus the key was not simply that the waveform changed or contained gaps; it was how the auditory system organized the changes into perceptible events [1].
+
+
+This distinction matters immediately for KLAAT. Amastacia may sustain a fundamental while its harmonics, breath noise, and resonant emphasis shift. Ankora adds discrete attacks and decays. A spectrum analyzer will register many changes, but not every physical change necessarily becomes a separately organized auditory event. A continuously evolving drone is not equivalent to a string of discrete drum strikes; a drum pulse with changing articulation is not equivalent to speech syllables. Nor does a highly regular pulse automatically count as harmless 'steady state.' The relevant laboratory concept concerns the organization of the unattended sequence, not a verdict on whether music sounds repetitive.
+
+
+Jones and Macken (1995) sharpened the point with spatial and temporal manipulations. When three syllables were presented as distinct, spatially stable streams, the same overall sequence was less disruptive than when it was organized as one changing stream from one location. Irregular timing also made a repeated syllable more disruptive [2]. The physical tokens did not determine the result by themselves; their perceived organization mattered.
+
+
+There is no general equation of the form 'more changes = more disruption.' Some intensity variations fail to add interference. Large spectral changes can be less disruptive than smaller ones under particular arrangements. The scientific problem is to identify the changes that generate order information or capture attention, rather than merely count acoustic differences.
+
+
+3. A MUSICAL EXPERIMENT THAT COMPLICATES THE SIMPLE STORY
+
+
+Schweppe and Knigge (2020) tested an especially relevant question: what happens when the irrelevant sound is music rather than a sequence of isolated tones or spoken digits? Participants tried to recall visually presented digits in order while hearing four repetitions of a short instrumental melody. Across conditions, the melody remained unchanged, changed tempo, changed mode, or changed both. A silent condition served as a comparison [3].
+
+
+Thirty non-music students and twenty-seven music students contributed to the combined analysis after technical exclusions (N = 57). Correct serial recall averaged 57% in silence and 50% across the sound conditions. Even the repeated-melody condition, with no additional changes between renditions, was associated with poorer recall than silence: 52% versus 57%. Within the sound conditions, a tempo-changing sequence yielded 49% correct compared with 52% when tempo did not change, F(1,55) = 9.58, p = .003, partial eta-squared = .148. The approximately three-percentage-point difference is a task-specific absolute accuracy difference, not a prediction that changing KLAAT's tempo would reduce daily productivity by three percent.
+
+
+The counterintuitive result was the absence of an additional mode-change cost: roughly 50% correct with and without mode changes, F(1,55) = 0.37, p = .547. The reported Bayesian comparison favored the null for mode variation (BF01 about 16.95). Musical expertise did not reliably change that pattern. The authors also noted that their 'unchanged' repeated melody was already a succession of eleven tones, not a featureless steady signal. Their participants' baseline serial recall was relatively low; this complicates broad generalization, although the tempo effect and mode null were not confined to the final list positions [3].
+
+
+This result resists two attractive but unsupported KLAAT stories. One is that a stable beat necessarily becomes cognitively invisible. The other is that every new color, overtone, or melodic change must pull attention away from work. Neither follows. In this experiment, tempo changes had an additional effect, but mode changes did not. That is an important contradiction for any theory that treats acoustic novelty as one undifferentiated force.
+
+
+It is equally important not to reverse-engineer a performance instruction from the result. The experiment used a familiar nursery melody rendered as piano samples and repeated in a short laboratory trial. KLAAT's long-form improvisation is not a piano loop; Ankora's expressive microtiming is not the study's programmed tempo manipulation; Amastacia's harmonic shifts are not changes between Western musical modes. Nothing here requires Paul to stabilize, simplify, or regulate his playing. It does give us a reason to measure the everyday consequences of the music he already makes.
+
+
+4. TWO COMPETING MECHANISMS: CAPTURE AND INTERFERENCE
+
+
+One account says that sound captures attention. A change occurs; attention briefly turns toward it; the memory task suffers. This is plausible, particularly for surprising or personally salient events. It connects to KLAAT's earlier research on orienting responses, novelty, and perceptual boundaries. But an interruption need not feel dramatic to the listener.
+
+
+A second account is interference by process. The auditory system automatically organizes a changing sequence into ordered events. Meanwhile the participant is trying to preserve the order of visually presented digits. The irrelevant sound and the focal task may compete because both involve order processing, even when the sound's meaning is irrelevant. This account explains why serial-order recall can be especially sensitive to changing sound and why a listener's sincere report of 'I wasn't paying attention to the music' is not decisive.
+
+
+These accounts are not synonyms. Attention capture predicts that particularly salient changes may interfere with a range of tasks. Order interference predicts stronger effects where the task itself requires retaining sequence information. The mechanisms can coexist, and a single task may not separate them. The 2020 melody experiment explicitly left open whether tempo changes produced more perceptual segmentation, captured attention, or interfered with internal rehearsal rhythm [3]. KLAAT should not choose the most poetic explanation before testing its alternatives.
+
+
+A 2022 experiment on speech-like sounds offers a useful boundary. Two groups of seventy participants performed verbal and visual-spatial serial-recall tasks while hearing changing or repeated syllables, with phonological properties manipulated using sine-wave speech. Changing-state and phonological characteristics made independent contributions. For verbal serial recall, the reported changing-state main effect was F(1,69) = 29.22, p < .001, partial eta-squared = .30. For visual-spatial recall it was smaller, F(1,69) = 7.66, p = .01, partial eta-squared = .10. Crucially, phonological content did not affect the two task types in the same direction [4]. A listener's task, not only the soundtrack, helps determine the result.
+
+
+This is why 'background music improves concentration' is too blunt a scientific claim. Concentration on what? Repeating digits? Reading sentences? Working through an image? Sustaining a long, monotonous job? Staying motivated to keep moving? Each outcome requires its own measurement.
+
+
+5. LIKING THE SOUND DOES NOT CANCEL THE TASK
+
+
+Perham and Vizard (2011) compared serial recall in quiet, with liked and disliked music, with steady repeated speech, and with changing speech. Both music conditions and changing speech impaired serial recall relative to quiet and steady repeated speech. Liked music did not produce a reliable advantage over disliked music [5]. This is not evidence that personal taste never matters. It is evidence that preference did not remove the irrelevant sound effect in that particular serial-recall design.
+
+
+For KLAAT this matters because the intended listener may genuinely love the sound. Paul may feel unusually productive while working with Amastacia's drone and Ankora's pulse in the background. That subjective benefit deserves respect as experience, but it cannot be used to infer that working memory was unaffected. Conversely, a measurable cost on a nine-digit sequence would not invalidate the value of the soundtrack for creative drawing, physical work, or mood regulation. A scientific result must be attached to its actual task.
+
+
+6. A CONTRADICTORY MODERN RESULT THAT MUST STAY IN VIEW
+
+
+Souza and Barbosa (2023) compared silence, instrumental lo-fi hip-hop, and popular songs with lyrics across verbal memory, visual memory, reading comprehension, and arithmetic tasks in an online, within-participant study. Depending on task and session, analyzed participant counts were 113–123. Music with lyrics produced small negative effects on verbal memory, visual memory, and reading comprehension, around d = -0.3; the estimated arithmetic effect, d = -0.19, was not credible under their analysis. The instrumental music condition did not show a credible overall benefit or harm on the tested tasks [6].
+
+
+This does not 'disprove' the 2020 melody experiment. The stimuli were different, the tasks were different, and the studies asked different questions. One centered on precise serial-position recall with short manipulated melodies; the other included free recall, visual color memory, reading, and arithmetic with lo-fi instrumental music. Their comparison illustrates why the word 'memory' conceals several distinct processes. Remembering which digit came fourth is not the same as recalling words in any order, understanding a passage, or enjoying a work session.
+
+
+There is a further methodological complication: the 2023 experiment was conducted remotely, with participants setting comfortable listening levels on their own equipment. That improves the relevance of the setting to ordinary music use but limits control over exact acoustic delivery. The authors found that participants sometimes rated instrumental music as helpful despite no credible measured improvement. Such a mismatch is not a reason to dismiss the participant's feeling; it is a reason to measure subjective benefit and objective performance separately [6].
+
+
+A 2022 study with children and adults similarly found that changing classroom noise impaired serial recall but not paired-associate recall in the tested conditions; the sample comprised fifty-seven children aged 8–10, seventy-three aged 11–12, and fifty-two adults [7]. This adds another task-specific boundary. It does not establish that KLAAT would produce the same result across ages, settings, or acoustic levels.
+
+
+7. WHAT COUNTS AS A 'STATE CHANGE' IN AN IMPROVISED DRONE?
+
+
+There are at least four levels at which a KLAAT recording can change. At the physical level, Amastacia's harmonic amplitudes and breath-noise spectrum evolve; Ankora's attacks differ in force, placement, and decay. At the perceptual-event level, a listener may hear one continuous drone and many separate drum events, or may hear breath accents as additional events. At the musical level, a listener may hear a return, a buildup, or a new texture. At the task level, any of these may or may not interfere with the listener's separate mental activity.
+
+
+These levels should not be collapsed. An onset-density graph is not a working-memory cost. A spectral novelty curve is not a measurement of attentional capture. A listener's feeling that the performance is 'hypnotic' is not a serial-recall score. The research can relate these variables, but only after obtaining the separate observations.
+
+
+One possible KLAAT hypothesis is that discrete Ankora attack patterns will produce more auditory order cues than a slowly changing Amastacia passage. Another is that familiar, recurring drum gestures will become easier to ignore over time. A competing possibility is that recurrence makes the music more inviting to follow, even when its acoustics are relatively stable. A third is that no meaningful difference appears once playback level, task difficulty, and order effects are controlled. All are hypotheses. None is a measured property of a KLAAT listener.
+
+
+Importantly, 'changing-state' is not a synonym for expressive playing. Paul's instinctive microtiming, harmonic articulation, and living drum sound are artistic values independent of whether a particular cognitive task becomes more difficult. A result showing interference would inform how a listener uses the recording, not what Paul is allowed to play.
+
+
+8. THE EVERYDAY-SOUNDTRACK PROBLEM IS A MATCHING PROBLEM
+
+
+The strongest application is not a promise that KLAAT will optimize every activity. It is a more honest map of uses. The same unedited performance might be deeply engaging for deliberate listening, energizing for a walk, welcome during repetitive hands-on work, neutral during drawing, and distracting while someone memorizes ordered information. The pattern could differ across listeners, familiarities, playback levels, and days.
+
+
+We should not assume that KLAAT's lack of lyrics makes it cognitively neutral. Non-speech sound can interfere with serial recall. Nor should we assume that a rough, loud, or rhythmically dense passage is automatically more disruptive: auditory organization, task demand, and individual experience matter. A silent control is essential, but a listener may also want to compare KLAAT with the ordinary background sound they would otherwise choose.
+
+
+The performer/listener separation remains intact. Paul may enter a deep flow-like state while creating the music. That says nothing directly about a listener's accuracy in a cognitive task. A listener may enter absorption during deliberate listening and later prefer quiet for reading. Neither observation diminishes the art.
+
+
+9. A CLAIM-ELIGIBILITY LADDER
+
+
+ESTABLISHED OUTSIDE KLAAT
+Irrelevant auditory sequences can impair visual serial recall. Auditory changing-state effects depend on perceptual organization, not merely physical variation. Some instrumental musical sequences impair serial recall. The 2020 melody experiment found a small additional cost of tempo variation and no additional mode-variation cost in its tested conditions. Music with lyrics can impair several cognitive tasks under some conditions.
+
+
+CONTEXT-DEPENDENT AND CONTRADICTORY
+The magnitude and even presence of background-music interference depend on the focal task, stimulus, listening history, playback, and experimental design. Liked music did not protect serial recall in one study, while instrumental lo-fi showed no credible harm or benefit across several other tasks in another. These results are not contradictory estimates of one universal 'music productivity' effect; they sample different outcomes.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT
+An unedited KLAAT recording may affect serial-order memory differently from silence, and the result may depend on its acoustic/perceptual event organization. Subjective enjoyment, motivation, absorption, and measured task accuracy may diverge. These possibilities require KLAAT-specific listener data.
+
+
+SPECULATION
+The continuous Amastacia drone might sometimes supply an unobtrusive emotional frame while Ankora's differentiated attacks supply order cues that compete with a serial task. Familiarity might shift the balance. This is a proposed interpretation, not an established KLAAT mechanism.
+
+
+UNSUPPORTED
+KLAAT improves intelligence, productivity, memory, creativity, or focus in general; KLAAT necessarily impairs cognition; its C# drone or an approximately 137-BPM pulse creates a special memory or neural state; greater acoustic complexity always causes greater distraction; liking the music guarantees protection from interference; performer trance is transmitted to passive listeners; or laboratory serial-recall effects justify changing the composition.
+
+
+CAUSAL BOUNDARY
+Even if one KLAAT excerpt produces lower recall scores than silence, that difference alone will not tell us whether the mechanism is auditory order interference, attentional capture, increased arousal, fatigue, expectation, or a delivery-level difference. A carefully matched design can narrow the explanation. The art does not have to become a controlled composition to make the listening comparison informative.
+
+
+10. WHY THIS MATTERS FOR THE ART, NOT JUST THE TEST
+
+
+KLAAT's aesthetic has always allowed an unusually alive kind of minimalism: a drone that is not static, a pulse that is not mechanical, a ritual atmosphere without a compulsory ritual script. This study adds an unexpected practical dignity to that position. The very details that make the performance worth listening to may also make it impossible to label as universally 'background.' Sometimes a listener wants a world that asks for attention. Sometimes they want one that can remain nearby while they work. The two desires can coexist without one invalidating the other.
+
+
+The scientific goal is not to make the music obedient. It is to identify what happens when authentic KLAAT encounters real activities. A soundtrack's success cannot be reduced to how quietly it disappears behind a task. It may succeed because it changes mood, sustains engagement, invites movement, or becomes a companion. If it also costs a few serial-recall errors in a controlled task, that result should be reported without embarrassment. Science-informed refinement can mean choosing the right listening context, not editing away the music's character.
+
+
+OPTIONAL OBSERVATION — KRX-106: THE UNCHANGED SOUNDTRACK AND THE ORDER TASK
+
+
+On a day when a consenting friend already wants to try a brief listening comparison, use the same unedited KLAAT excerpt and a quiet condition in a randomized or counterbalanced order. Give several equally difficult visual digit-order lists in each condition; ask for the digits in their original order, and score position accuracy. Keep volume comfortable and unchanged, use distinct lists, and note practice/fatigue and playback equipment. Separately ask how pleasant, energizing, distracting, or helpful each condition felt. A small pilot cannot establish an effect or mechanism; it can show whether this is worth testing with more people and repetitions. Record improvement, harm, mixed outcomes, and nulls alike. Do not change a single note of the original performance to suit the test.
+
+
+PRIMARY RESEARCH SOURCES (checked 2026-10-20)
+
+
+[1] Jones, D. M., Macken, W. J., & Murray, A. C. (1993). Disruption of visual short-term memory by changing-state auditory stimuli: The role of segmentation. Memory & Cognition, 21, 318–328. DOI 10.3758/BF03208264. https://doi.org/10.3758/BF03208264 . Three experiments using pitch glides, interruptions, and synthesized vowels; not music-specific KLAAT data.
+
+
+[2] Jones, D. M., & Macken, W. J. (1995). Organizational factors in the effect of irrelevant speech: The role of spatial location and timing. Memory & Cognition, 23, 192–200. DOI 10.3758/BF03197221. https://doi.org/10.3758/BF03197221 . Spatial-stream and temporal-regularity manipulations.
+
+
+[3] Schweppe, J., & Knigge, J. (2020). Irrelevant music: How suprasegmental changes of a melody's tempo and mode affect the disruptive potential of music on serial recall. Memory & Cognition, 48, 982–993. DOI 10.3758/s13421-020-01037-1. https://link.springer.com/article/10.3758/s13421-020-01037-1 . N=57 analyzed; data and stimuli linked in article. Primary quantitative anchor.
+
+
+[4] Georgi, M., Leist, L., Klatte, M., & Schlittmeier, S. J. (2023 issue; online 2022). Investigating the Disturbance Impact of Background Speech on Verbal and Visual-Spatial Short-Term Memory: On the Differential Contributions of Changing-State and Phonology to the Irrelevant Sound Effect. DOI 10.1080/25742442.2022.2127988. https://doi.org/10.1080/25742442.2022.2127988 . Two separate groups of n=70; changing-state and phonological effects vary by task.
+
+
+[5] Perham, N., & Vizard, J. (2011). Can preference for background music mediate the irrelevant sound effect? Applied Cognitive Psychology, 25, 625–631. DOI 10.1002/acp.1731. https://doi.org/10.1002/acp.1731 . Liked versus disliked music and serial recall; preference did not remove disruption.
+
+
+[6] Souza, A. S., & Barbosa, L. C. L. (2023). Should We Turn off the Music? Music with Lyrics Interferes with Cognitive Tasks. Journal of Cognition, 6(1), 24. DOI 10.5334/joc.273. https://journalofcognition.org/articles/10.5334/joc.273 . Within-participant online study of four tasks, music types and subjective judgments; analyzed task samples n=113–123.
+
+
+[7] Meinhardt-Injac, B., Imhof, M., Wetzel, N., Klatte, M., & Schlittmeier, S. J. (2022). The Irrelevant Sound Effect on Serial Recall Is Independent of Age and Inhibitory Control. Auditory Perception & Cognition, 5, 25–45, DOI 10.1080/25742442.2022.2064692. https://doi.org/10.1080/25742442.2022.2064692 . Primary study comparing children and adults; classroom noise disrupted serial but not paired-associate recall.
+
+
+PROVENANCE AND NOVELTY AUDIT
+Before assigning Session 106, verified the canonical Library sequence through Session 105 and consulted connected Google Drive Master Instructions, Curriculum Index, Research Ledger and Corpus Volume II. Read all four new Hourly Research notes since Session 105 (2026-10-20 15:17, 16:16, 17:17 and 18:12 CDT); those concern cochlear distortion, coupled-room doors, apparent source width versus envelopment, and outdoor ground reflection, respectively. Session 106 does not reproduce any of them. Searched the Library for irrelevant sound, changing-state interference, serial recall, working memory and background music. Session 85 and the consolidated manuscript already discuss broad task-focus contradictions, but neither numbered session establishes the specific changing-state/serial-order validity gate developed here. Checked original primary studies and publisher/institutional records for quantitative anchors. The study is a critical synthesis, not new empirical evidence. Hourly notes remain unchanged. The canonical plain-text Library copy must be persisted before any Drive mirror; incomplete downstream writes are tracked separately.
+
+
+END OF SESSION 106

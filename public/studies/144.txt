@@ -1,0 +1,276 @@
+KLAAT RESONANCE RESEARCH — SESSION 144
+THE HEADSET THAT TURNED MUSIC INTO A CALL
+How opening a listener's microphone can change the KLAAT sound reaching their ears without changing the recording
+
+
+Publication date: 2026-11-02 (America/Chicago)
+Research lineage: Session 131 (unequal playback), Session 129 (signal-chain integrity), Session 143 (selectively lost drum events); hourly research 2026-11-02 11:18 CST (Bluetooth two-way audio).
+Guiding principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+ABSTRACT
+
+
+Imagine a listener hearing an untouched Amastacia-and-Ankora improvisation through wireless headphones. They are asked to describe what they feel while the music continues. A browser opens their headset microphone to record the answer. Nothing changes in the stored audio file, and Paul does not change a single breath or strike. Nevertheless, on some combinations of headset, operating system, Bluetooth connection and application, the sound arriving at the listener's ears may change dramatically: a stereo, media-oriented audio route can become a mono, speech-oriented route with lower bandwidth. The switch may happen automatically and may reverse when the microphone closes. A listener's report of diminished brightness, softened attacks, reduced spatial width, or a sudden sense of disconnection could then be a response to the DELIVERY PATH rather than the musical passage. This is an established device capability and operating-system behavior, not a demonstrated effect in any KLAAT listener. The research question is not whether Bluetooth is bad, or whether KLAAT should be mixed for one headset. It is whether the experimental act of collecting a response can change the stimulus under examination. The strongest lesson is practical: preserve spontaneous performances, distinguish the master recording from the delivered signal, and treat simultaneous voice capture as an experimental condition that needs verification, not as an invisible administrative detail.
+
+
+1. THE SOUND THAT EXISTS IN THREE PLACES
+
+
+A recording exists at least three relevant levels. First is the acoustic event: Paul's breath, lips and resonating agave bore, alongside the physical contact and radiated response of Ankora's elk-hide membrane. Second is the stored representation: a phone recording, audio export, or file served by a listening application. Third is the sound reconstructed at a particular listener's ears. The first is the performance; the second is evidence of the performance; the third is what a listener actually receives. None is automatically identical to the others.
+
+
+This distinction is easy to overlook because a file can retain the same name, length and sample-rate metadata throughout an experiment. The player may still display the same waveform. Yet the operating system can resample, remix, compress, equalize, route, attenuate or interrupt the audio between file decoding and the headphone transducer. A change in this last stage does not rewrite the original file. Conversely, a bit-for-bit identical file does not guarantee an identical auditory stimulus.
+
+
+For KLAAT this matters more than a generic fidelity slogan. Amastacia's drone is not just a fundamental pitch: it contains breath articulation, changing resonant emphasis, noise and higher harmonics. Ankora is not just an onset count: attack texture, decay, soft contacts and the interaction between struck membrane and drone all contribute to what the listener may call momentum or presence. A playback route that disproportionately removes high-frequency information could leave a low fundamental audible while altering precisely the textures that distinguish two moments in the same improvisation. Whether a given listener notices, and whether any resulting change affects absorption or energy, remains unmeasured.
+
+
+2. THE CLASSIC BLUETOOTH TRADE-OFF
+
+
+Bluetooth Classic has historically offered different profiles for different jobs. The Advanced Audio Distribution Profile (A2DP) is designed for one-way media playback and can carry stereo music. The Hands-Free Profile (HFP) provides a two-way voice path: microphone capture and playback at the same time. On Windows Bluetooth Classic, HFP playback and capture are mono, and the system supports narrowband operation at an 8 kHz sample rate or wideband operation at 16 kHz, depending on host, radio, headset and negotiated codec. Microsoft documents that opening the headset's microphone input can cause Windows 11 to select HFP instead of A2DP, automatically resampling other application audio for the selected profile. On Windows 10, separate stereo and hands-free endpoints were exposed; selecting the hands-free path or opening its microphone could disrupt the stereo stream. These are concrete platform behaviors, not hypothetical audio-processing possibilities.
+
+
+Crucially, 'using the microphone' does not necessarily mean that a person has spoken. A conferencing application, voice-response interface or other program can open the headset's input endpoint and keep it active. Under the documented Windows Classic route, that endpoint state can be enough to trigger a profile change. The musician may hear no indication that it happened. A listener who is focused on a questionnaire might not recognize the change as a technical event, either.
+
+
+It would be inaccurate to generalize this into 'all Bluetooth listening becomes telephone quality.' Not every headset is using Bluetooth Classic, not every application selects the headset microphone, and not every device offers the same profiles. A browser requesting permission is not proof that a particular Bluetooth input route actually opened. The audio route has to be observed or tested on the relevant device.
+
+
+3. WHAT 8, 16 AND 32 kHz ACTUALLY MEAN
+
+
+A sampling rate specifies the number of digital samples per second; it is not the audible frequency of the music and not a direct measure of loudness. The Nyquist limit for a properly sampled signal is half the sampling rate. Therefore an 8 kHz stream cannot faithfully represent source components at or above 4 kHz, and a 16 kHz stream cannot faithfully represent components at or above 8 kHz. Real voice codecs, filters, bitrates and hardware may impose still narrower effective passbands. These are upper mathematical ceilings, not promises of perfectly flat transmission below them.
+
+
+Suppose an original file is decoded at 48,000 samples per second. A Windows Classic HFP path negotiated at 16,000 samples per second requires the operating system to convert that playback stream to the active endpoint format. A competent resampler suppresses content above the new Nyquist limit before downsampling, rather than letting it fold into lower frequencies as aliasing. That means information can be intentionally removed to prevent a different distortion. The original 48 kHz file remains untouched. The listener hears the converted stream.
+
+
+For a purely illustrative harmonic series, a 69.3 Hz tone (approximately C-sharp in the second octave under conventional equal temperament) has a 50th harmonic near 3.47 kHz and an 80th near 5.54 kHz. A route whose usable bandwidth ends near 4 kHz could preserve the former while removing the latter. This is an arithmetic illustration only: no measured fundamental, harmonic count or radiated spectrum of Amastacia is asserted here. A didgeridoo's sound is shaped by the lip-driven bore, vocal tract and nonlinear source interactions; its audible character is not a row of equal-strength harmonics. Nor is Ankora's broadband strike a harmonic series of this sort. The example shows why preserving a fundamental does not guarantee preserving timbre.
+
+
+The perceptual result cannot be read directly from sample rate. A muted harmonic may have been weak or masked already. A sharp drum attack may remain identifiable even if some upper spectrum disappears. The headphone's own response, level, fit and listener hearing also matter. The defensible claim is narrower: the available signal bandwidth changes, and that creates a plausible route to changes in timbre, attack salience and perceived separation. It does not establish a particular KLAAT effect.
+
+
+4. MONO IS A SEPARATE CHANGE FROM BANDWIDTH
+
+
+Stereo and frequency bandwidth describe different properties. A two-channel recording can encode left-right differences, room cues or spatial placement. A mono output has one program channel presented to both ears. A mono downmix can change the apparent width of a stereo recording, but it need not make a true mono recording spatially worse: if the source is already mono and is reproduced equally in both ears, the loss of two distinct channels may be negligible. There can still be bandwidth, compression, gain and processing differences.
+
+
+This distinction prevents two errors. The first is attributing every Bluetooth profile difference to lost 'immersion' from stereo collapse. The second is assuming that a mono KLAAT phone recording cannot be affected because it was mono already. Even mono material can lose high-frequency detail or undergo processing when routed through a voice-oriented connection. Conversely, a stereo file may show almost no meaningful spatial difference if its channels are nearly identical.
+
+
+There is also a technical edge case: when two stereo channels contain out-of-phase material, a particular mono sum can cancel some components. This does not imply that KLAAT recordings have such cancellation, and it is not a universal feature of HFP. It simply means that channel mapping should be considered separately from sample-rate conversion. The relevant variables are channel count, channel relationship, effective frequency response, dynamic processing and actual output level—not a single 'Bluetooth quality' label.
+
+
+5. THE EXPERIMENTAL TRAP: MEASURING EXPERIENCE WHILE CHANGING IT
+
+
+Consider a future KLAAT listener pilot that plays an uninterrupted improvisation and asks participants to speak their impressions aloud while listening. The design seems attractive: comments might be more immediate and less vulnerable to memory loss. But on a susceptible Bluetooth Classic setup, enabling the headset microphone could alter the audio at the very moment the listener starts reporting. The apparent transition might then align with the act of reporting, not with a musical event.
+
+
+A possible chain is: authentic KLAAT master -> decoded playback -> A2DP stereo route -> listener hears ordinary music stream -> voice-capture app opens headset microphone -> HFP route activates -> output becomes mono and/or narrower-band -> listener notices altered brightness or impact -> listener reports 'the energy dropped.' The reported experience may be entirely sincere. The causal attribution to KLAAT's spontaneous music would still be unwarranted without checking the route.
+
+
+This is a special kind of measurement reactivity: the observation apparatus can change the stimulus. It is not merely that questions prime a listener to think about trance, or that an app distracts them. Those are additional possibilities. Here the physical acoustic input to the ears may change. One can avoid leading language and still fail to hold the listening stimulus constant.
+
+
+A more complete causal sketch includes microphone-open state, selected Bluetooth profile, output channels, effective bandwidth, processing, perceived acoustic features and the listener's response. Background applications, device capabilities and operating-system version can influence the route. Speaking itself may also alter attention and breathing, and hearing one's own voice may mask the music. Those factors are different from a profile switch and should not be conflated. The route is a plausible mediator in a particular setup, not proof that all differences in reported energy are technical artifacts.
+
+
+6. AN OBSERVATION IS NOT AN EXPLANATION
+
+
+Imagine that three people describe the same KLAAT take differently. One calls the Ankora attacks sharp and propulsive. Another hears a duller pulse. A third says the sound briefly became distant. These are valid reports of what each person experienced, but they do not uniquely identify the mechanism. Different headphones, levels, hearing histories, attention, expectations, room noise and route selection are all possible contributors. A sudden technical transition is one candidate; a gradual difference in listener interpretation is another.
+
+
+This distinction connects directly to Session 143. There, the issue was that a drum onset detector might miss faint Ankora strikes in a mixed recording. Here, the problem is earlier in the chain of listening: a real listener may receive a modified signal before making any judgment at all. A detector's false negative and a listener's reduced high-frequency access are not interchangeable, although both can create a false impression that something in the performance changed. Session 131 established that playback devices vary; Session 144 isolates a dynamic, microphone-triggered route change that can occur WITHIN one listening session, even when device and file remain constant.
+
+
+The difference is scientifically useful. A fixed poor headset might introduce a relatively stable bias across a session. An automatic profile switch can introduce a time-varying discontinuity. If the researcher timestamps a comment at the moment of the switch, the coincidence can look like evidence of a musical turning point. A strong claim about 'Threshold Gates' would then require evidence that the gate is in the performance rather than in the playback apparatus.
+
+
+7. THE IMPORTANT EXCEPTIONS: LE AUDIO AND NEWER ROUTES
+
+
+Bluetooth Low Energy Audio changes the technical landscape. Microsoft's documentation says compatible Windows 11 PCs and LE Audio devices can, with appropriate operating-system builds and drivers, preserve stereo output while the microphone is active. In the documented communications route, some Telephony and Media Profile devices use a 32 kHz stream. Microsoft Support specifies that stereo-while-microphone-active requires compatible Windows 11 24H2 or later, suitable Bluetooth LE hardware and drivers, and a supporting headset. Merely owning a Bluetooth 5.2 device does not establish that all these conditions are met.
+
+
+A 32 kHz stream has a theoretical Nyquist limit of 16 kHz, but the codec and output chain still determine actual audible bandwidth. It is not identical to an untouched 48 kHz stereo music path, nor is it necessarily an unacceptable path for listening. The point is that a modern system can avoid the specific Classic HFP mono downgrade, so the risk must be evaluated by platform rather than presumed universally.
+
+
+Apple also documents the classic practical symptom on Mac: when an app uses the Bluetooth headphones' microphone, music playback quality and volume can fall until microphone use stops. Apple's developer materials additionally describe explicit support for higher-quality Bluetooth recording on compatible AirPods and application routes. Those newer capabilities make broad claims about all Apple devices unreliable. A platform support page and a developer option do not prove that a particular participant's app chose the high-quality path.
+
+
+The most accurate statement is conditional: some common systems can change output format when the headset microphone opens; other systems or configurations can avoid or mitigate the change. The only reliable way to classify a real KLAAT listening session is to inspect or test the actual device route used.
+
+
+8. WHAT CONTROLLED LISTENING RESEARCH DOES AND DOES NOT TELL US
+
+
+There is external evidence that spatial and timbral changes can influence perceived audio quality, but it must be handled carefully. Dick and colleagues' 2025 audio-quality study presented stereo-processing conditions to sixteen expert listeners. They reported that judgments depended on stimulus spatial characteristics and comparison context. An added mono anchor averaged approximately 65 on their MUSHRA quality scale in the tested material. This is a result from particular audio stimuli, expert participants and evaluation instructions, not a universal 35-point penalty for mono and certainly not a KLAAT listener effect.
+
+
+The study's useful implication is methodological. People do not judge an audio transformation in isolation from its context: a listener may focus on timbral impairments when spatial differences are small, or attend to stereo image when timbre is comparable. A switch that changes both channels and bandwidth simultaneously cannot tell us which dimension caused any reported difference. Separating those mechanisms requires a more controlled comparison than a casual 'the Bluetooth sounded worse' impression.
+
+
+This is why a KLAAT pilot should not promise that every technical difference is audible, nor conclude that an absence of complaints means the delivered signals were equivalent. A listener may fail to notice a route change, may notice it but describe it as musical, or may find the change irrelevant to the particular take. Each is possible. Without direct device observation and independent listener reports, the project has no basis for estimating their frequencies.
+
+
+9. A CONCRETE EXAMPLE THAT IS NOT KLAAT DATA
+
+
+Suppose a two-minute file is 48 kHz stereo. For its first minute, a particular Windows Classic headset uses A2DP. At sixty seconds a voice-response app opens the headset microphone, and the system switches to a 16 kHz mono HFP route. The music file still runs for two minutes. A listener later reports that the second half sounded less airy. An investigator who sees only the master file might attribute the contrast to a change in Amastacia's harmonic spectrum or Ankora's attack texture.
+
+
+But the stimulus at the ears was not held constant. The output route changed at exactly sixty seconds. The alternative explanation is not that the listener lied, nor that KLAAT's music has no real dynamic changes. It is that the recording's artistic evolution and the playback system's transformation have become confounded. The example contains no measured KLAAT signal, no measured headset output and no observed listener response. Its purpose is to show how a credible causal mistake can arise.
+
+
+Now change one condition. Suppose the recording was mono to begin with. A switch to mono output may produce little channel-related change, but 16 kHz endpoint sampling and voice-path processing can still matter. Or suppose the headset uses a supported LE Audio stereo route during microphone capture. The dramatic Classic HFP explanation may no longer apply. The same design question has different answers depending on actual hardware and software. This is why the route must be documented rather than guessed from the word 'wireless.'
+
+
+10. THE FORM OF THE LISTENER PILOT MATTERS
+
+
+KLAAT's October 16 baseline-and-listener protocol already contains a strong safeguard: the first exposure should be followed by open-ended responses before structured ratings or mechanism explanations. It asks what happened, what stayed with the listener, whether the experience changed, and what they noticed in their body. Nothing in that protocol requires participants to activate a headset microphone DURING playback. The existing first-listen/open-report sequence can therefore be retained without adding a new audio-route hazard.
+
+
+If participants type responses after the clip ends, the risk of microphone-triggered route switching during the clip may be absent, though other playback differences remain. If they record a spoken response after playback, a profile switch during the subsequent response does not retroactively change the sound already heard. If a future study wants continuous verbal reports, then simultaneous voice capture becomes part of the stimulus-delivery protocol and should be tested explicitly. That does not make continuous reporting forbidden; it makes it a different experiment.
+
+
+The smallest useful metadata record includes the master-file ID, playback device model, operating system and app, headphones or speakers, whether the headset microphone was active during the audio, and any observed output-route or channel-format change. If the listener does not know the codec or route, mark it unknown. Never replace an unknown with an assumed 'A2DP' just because the participant used earbuds. If the app cannot reveal a format, a simple route-switch check can still establish whether a visible or audible change occurs under the relevant conditions.
+
+
+11. WHY THIS IS ABOUT ARTISTIC FREEDOM, NOT A NEW RULE FOR PLAYING
+
+
+KLAAT is deliberately made through embodied improvisation. Paul need not choose a fixed tempo, reserve a special breath gesture for a predetermined moment, or arrange the drum to survive an inferior phone-call codec. The artistic event comes first. The research should follow it and document how it is delivered. A change to a headset setting is not a change to the music; it is a change to the research apparatus.
+
+
+There is a legitimate artistic question beyond the technical one. Some people will encounter KLAAT in imperfect environments: inexpensive earbuds, car speakers, a noisy kitchen, a phone speaker while walking around the house. The work is intended to be energizing in ordinary life as well as immersive in focused listening. Those contexts should not be dismissed as 'wrong.' The distinction is between ecological listening—how the music naturally reaches people—and controlled comparison—what can be inferred when comparing reactions across conditions. Both are worth studying, but they answer different questions.
+
+
+An everyday listener's reaction to a narrow-band device may still be artistically informative. It tells us something about their experience with that delivery route. It simply cannot be used as though they heard the same stimulus as someone on a stable full-bandwidth route. The project gains credibility by preserving that difference, not by declaring one listener more authentic than another.
+
+
+12. WHAT WE CAN MEASURE, AND WHAT WE CANNOT INFER
+
+
+MEASURABLE TECHNICAL PROPERTIES include the source file's channels and sample rate, the selected operating-system endpoint, the codec/profile when exposed, whether the microphone input is open, and—if instrumented—the actual headphone-output waveform or an electrical/acoustic proxy. Some of these may be observable only indirectly on consumer devices. A file header is evidence about the source file, not the output stream.
+
+
+SUBJECTIVE PROPERTIES include whether the listener reports brightness, warmth, attack sharpness, pulse clarity, bodily sensation, energy, absorption, discomfort, or an urge to move. These are experiences, not device diagnostics. Their language should be collected before teaching the participant what a 'correct' technical difference ought to sound like.
+
+
+NEURAL OR PHYSIOLOGICAL PROPERTIES would require independent measurements and appropriate analysis. A profile switch does not demonstrate autonomic activation, neural entrainment, altered consciousness, or a loss of trance. Even a measured change in an autonomic signal would require attention to timing, anticipation, speech, breathing, movement and sensor artifacts. This study reports no such measurements.
+
+
+CAUSAL HYPOTHESES are narrower still. One could hypothesize that switching from A2DP to HFP reduces perceived Ankora attack definition, or that the change reduces reported absorption for some listeners. These are testable predictions, not established outcomes. A null result would be meaningful: perhaps the original clip has little energy in the removed band, perhaps the participant's headphones were already limited, or perhaps the listener's response is robust to the technical difference. Negative results must not be edited out of the research narrative.
+
+
+13. THE DIFFERENCE BETWEEN A ROUTE CHECK AND A LISTENER-EFFECT STUDY
+
+
+A route check asks a mechanical question: when this microphone input opens, does this output endpoint change format or audible behavior? It can be answered with a controlled sequence on one device. A listener-effect study asks a human question: does that change reliably alter perceived pulse, timbre, absorption or activation? It requires listeners, comparable presentations and careful interpretation. Combining both questions prematurely can produce a misleading conclusion.
+
+
+For a route check, a simple A–B–A sequence is informative: play a short unedited recording with the headset microphone closed; open that microphone while playback continues; close it and listen again. Note any operating-system profile or channel information and audible discontinuity. The test should use comfortable volume and require consent before capturing any voice. The purpose is to detect a device behavior, not to judge KLAAT's artistic quality. The order is not randomized, and expectation is not blinded, so subjective differences in this check do not establish a population-level effect.
+
+
+If a future formal comparison is justified, one might record the actual delivered outputs for controlled playback at matched comfortable levels, verify frequency and channel changes, then obtain blind judgments on predeclared attributes. Even then, deliberately degraded audio is a technical control, not a second KLAAT composition. The listener study would need to distinguish timbre, spatial width, loudness and processing artifacts, and account for repeated ratings by the same person. None of this is required before Paul continues making ordinary recordings.
+
+
+14. A SMALL NUMERICAL INFERENCE EXERCISE
+
+
+Suppose a music file has spectral energy at 2, 6 and 10 kHz. A hypothetical ideal low-pass conversion to an 8 kHz sampling rate would retain the 2 kHz component and remove the 6 and 10 kHz components because they exceed the 4 kHz Nyquist limit. A conversion to 16 kHz sampling could retain 2 and 6 kHz but not 10 kHz, subject to anti-alias filtering. A 32 kHz sampling route could, in principle, represent all three, though actual codec passband and transducer response remain separate questions. These are simple theoretical cases, not observations from a headset or KLAAT recording.
+
+
+The point is that a low C-sharp pitch is not protected from all audible change merely because it lies far below 4 kHz. The low fundamental can remain while its upper partials and breath/noise details change. Similarly, a frame drum's low body resonance can remain while its attack edge changes. The music may retain its pulse and lose some texture. Or it may retain enough texture that the difference is inconspicuous. Which outcome occurs depends on the real spectrum and listening chain.
+
+
+A second example shows why route status is a time variable. Let R(t) denote the output profile at time t. If R(t) changes from media to hands-free at 60 seconds, the heard signal H(t) depends on both the original recording X(t) and the route-specific transformation T_R(t): H(t) = T_R(t)[X(t)]. The notation is conceptual; actual systems may use time-varying buffers and filters rather than an instantaneous transformation. The main lesson is that the original recording X(t) alone does not specify H(t). A timestamped comment about a 'change in the sound' should be compared with both musical events and route events.
+
+
+15. CONTRADICTIONS THAT PREVENT A SIMPLE VERDICT
+
+
+First, higher nominal sample rate does not guarantee greater perceived quality. Codec design, bandwidth allocation, processing and output hardware matter. Second, a switch to mono is not equivalent to a switch to low bandwidth; the two often co-occur in Classic HFP but are logically distinct. Third, microphone permission does not prove microphone capture, and capture does not always prove the headset microphone was the selected input. Fourth, supported LE Audio and newer application-specific routes can retain stereo during voice capture. Fifth, a technically poorer output may not be perceptually worse for a particular listener or musical passage.
+
+
+Sixth, the music itself may undergo genuine changes at the same time as the device route. Discovering a route switch does not prove that all perceived change was technical. Seventh, a participant may react to the demand to speak, to their own voice, or to interruptions independently of any profile change. Eighth, a researcher may hear a change while actively listening for it, whereas an ordinary listener may not. These are reasons to document and separate mechanisms, not reasons to distrust listeners.
+
+
+The evidence base here is unusually clear about the device behavior because operating-system vendors specify it directly. It is much weaker about its consequences for KLAAT. The latter cannot be imported from a Windows support article or a general stereo-quality experiment. It must be tested using KLAAT recordings and actual listeners, or remain a carefully bounded possibility.
+
+
+16. WHAT THIS ADDS TO THE RESEARCH CORPUS
+
+
+The novelty gate matters because KLAAT already has sessions on recording fidelity, source separation, masking, headset differences and listening-task effects. This study is not a rebranding of those topics. Its primary mechanism is an APPLICATION-TRIGGERED, BIDIRECTIONAL AUDIO ROUTE CHANGE DURING STIMULUS DELIVERY. It identifies a specific way that collecting a verbal response can alter the sound being judged. That is distinct from a permanently limited speaker, a file's lossy compression, the microphone used to capture Paul's performance, or an onset detector missing Ankora events in postproduction.
+
+
+The durable research rule is simple: distinguish MASTER FILE / SELECTED OUTPUT ROUTE / DELIVERED AUDIO / LISTENER REPORT. If the microphone is active during playback, do not assume the delivered audio stayed unchanged. Record what is known, mark what is unknown, and resist causal claims when the path is unverified. This rule protects KLAAT's artistic identity precisely because it refuses to blame or credit the improvisation for an artifact introduced after the performance.
+
+
+17. EVIDENCE CLASSIFICATION
+
+
+ESTABLISHED: On Windows Bluetooth Classic, A2DP provides media-oriented stereo playback, whereas HFP supports bidirectional mono audio with documented 8 or 16 kHz modes; opening the headset microphone can trigger the switch. The sample-rate Nyquist limits are mathematical facts. Apple documents comparable quality reduction on Mac under certain Bluetooth microphone-use conditions. Compatible newer LE Audio routes can preserve stereo with active microphones.
+
+
+CONTEXT-DEPENDENT: Whether a particular listener's device switches; whether the output audibly changes; whether Amastacia's upper partials or Ankora's attacks are affected; whether a mono recording loses any meaningful spatial information; whether a participant notices or cares; whether the act of speaking changes attention independently of the route.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT: A headset-microphone-triggered route change might reduce perceived breath detail or attack sharpness, alter reported continuity, or create a false listener-marked transition. A pre/post route audit could identify such changes before formal listener testing.
+
+
+SPECULATIVE: Some of KLAAT's distinctive low-frequency rhythmic identity might remain perceptually robust even when its upper texture is degraded; other listeners might rely heavily on that texture for absorption or activation. Neither direction has been measured.
+
+
+UNSUPPORTED: Bluetooth always ruins KLAAT; all wireless headphones switch to mono; any particular listener lost trance because a microphone opened; a reduced bandwidth proves altered neural activity; C-sharp carries special therapeutic information that a codec removes; a phone-call profile explains any currently reported KLAAT response; KLAAT has demonstrated autonomic or neurological entrainment.
+
+
+18. ONE OPTIONAL, LOW-PRESSURE OBSERVATION
+
+
+Use any existing, untouched KLAAT phone recording at a comfortable volume on ONE headset and device that may be used for future listener testing. Listen briefly with the headset microphone inactive. Then, with your own consent and without recording anyone else, open that same headset's microphone in a voice app while the recording continues; close it again. If the operating system reveals channel count, sample rate or Bluetooth profile, note the before/during/after values. If it does not, simply record 'route not visible' and whether you noticed any change. Do not edit the music, prescribe a tempo, adjust your improvisation, or interpret the result as evidence of listener trance. This is a single-device delivery-path check, not a KLAAT-effect experiment.
+
+
+The performance remains free. The research follows the sound all the way to the ears.
+
+
+PRIMARY AND AUTHORITATIVE SOURCES (checked 2026-11-02)
+
+
+1. Microsoft Learn. 'Bluetooth Classic audio' (Windows driver documentation; updated 2024-11-14). Specifies A2DP stereo, HFP mono capture/playback, 8/16 kHz Classic modes, microphone-triggered profile selection and automatic resampling. https://learn.microsoft.com/en-us/windows-hardware/drivers/bluetooth/bluetooth-classic-audio
+
+
+2. Microsoft Learn. 'Detect audio format capabilities for communications scenarios' (updated 2025-08-26). Specifies Classic HFP mono and conditional LE Audio stereo while microphone active; 32 kHz TMAP and other LE communications modes. https://learn.microsoft.com/en-us/windows/win32/coreaudio/communications-audio-format-capabilities
+
+
+3. Microsoft Support. 'Configuring Bluetooth LE Audio quality settings on Windows 11' (accessed 2026-11-02). Specifies Windows 11 24H2, build 26100.4484 or later, compatible drivers/hardware and 'Format when microphone is active' stereo/mono settings. https://support.microsoft.com/en-us/windows/hardware/bluetooth/configuring-bluetooth-le-audio-quality-settings-on-windows-11
+
+
+4. Apple Support. 'If sound quality is reduced when using Bluetooth headphones with your Mac' (published 2025-04-23). Documents quality/volume reduction when Bluetooth headphone microphone is active and restoration after microphone use stops. https://support.apple.com/en-us/102217
+
+
+5. Apple Developer Documentation. 'configuresApplicationAudioSessionForBluetoothHighQualityRecording' (accessed 2026-11-02). Documents opt-in high-quality AirPods microphone recording in supported application audio sessions; not proof of any specific participant route. https://developer.apple.com/documentation/avfoundation/avcapturesession/configuresapplicationaudiosessionforbluetoothhighqualityrecording
+
+
+6. Bluetooth SIG. 'Hands-Free Profile 1.10' (adopted specification; accessed 2026-11-02). Defines the bidirectional phone/headset voice-profile purpose; operating-system behavior comes from platform documentation above. https://www.bluetooth.com/specifications/specs/hands-free-profile-1-10/
+
+
+7. Dick S, Thompson C, Wu C-W, Delgado P, Williams PA, Torcoli M (2025). 'Investigating the impact of stereo processing—a study for extending the Open Dataset of Audio Quality (ODAQ).' Audio Engineering Society / arXiv:2512.14259. Controlled audio-quality listening work with 16 expert listeners; context-dependent stereo/timbre judgments and a mono-anchor mean around 65 MUSHRA in their tested conditions. Preprint/conference work, not KLAAT validation. https://arxiv.org/abs/2512.14259
+
+
+INTERNAL RESEARCH PROVENANCE AND NOVELTY AUDIT
+
+
+Read connected Google Drive Master Instructions, Curriculum Index, Research Ledger, Session Corpus Volume II through Session 143, and KLAAT Baseline Recording + Listener Pilot Protocol v1.0. Audited canonical Library Published Studies through Session 143 and the Curation Queue before drafting. Inspected hourly notes from 2026-11-02 10:13, 11:18, 12:15, 13:16 and 14:19 CST plus adjacent 06:18–09:23 notes. The 11:18 hourly note establishes this particular unresolved Bluetooth profile-switch mechanism and is preserved intact. Earlier sessions 129, 131 and 143 are adjacent but do not isolate microphone-triggered listener OUTPUT profile switching. No original KLAAT audio, actual listener audio-route telemetry, or listener physiological measurements were available. This study does not claim such data.
+
+
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+END OF SESSION 144

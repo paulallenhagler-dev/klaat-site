@@ -1,0 +1,15 @@
+SESSION 6 — BREATH IS A BRIDGE TO THE AUTONOMIC NERVOUS SYSTEM
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+Core lesson
+Breathing is unusual because it is both automatic and voluntarily controllable. It interacts with heart-rate variability, blood-pressure regulation, vagal influences, and attention. Slow breathing near roughly 4.5–6.5 breaths per minute often strengthens cardiorespiratory oscillations in many adults, but there is no universal magic rate.
+
+
+For KLAAT, the important question is whether the performance alters breathing without explicit instruction. That could provide one plausible pathway from sound and attention to broader physiological change.
+
+
+Evidence boundary
+Established: respiration affects heart-rate dynamics and autonomic measures. Supported but individual: slow breathing often increases certain HRV measures and baroreflex-related oscillations. Unsupported: claiming KLAAT automatically “activates the vagus nerve” in a specific therapeutic way.
+
+
+KLAAT test
+Use a sequence of silent baseline, drone, drone-plus-pulse, return to drone, then silence. Count visible breaths or use a consenting participant’s self-count and compare breathing rate across phases.

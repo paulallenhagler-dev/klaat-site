@@ -1,0 +1,217 @@
+KLAAT RESONANCE RESEARCH — SESSION 114
+THE FREQUENCY THAT THE SKIN DID NOT HEAR
+Relative acoustic–tactile frequency, perceptual interference, and the difference between sound, contact, and bodily meaning
+
+
+Published: October 23, 2026 — 15:15 CDT (America/Chicago)
+Governing principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+
+
+RESEARCH QUESTION
+
+
+When Amastacia's C# agave drone and Ankora's elk-hide pulse occupy a room, a listener can hear a low sound, feel a seat or floor move, sense an urge to move, or describe the music as something they can “feel.” These descriptions may coincide. They are not equivalent measurements. Does the frequency relationship between what arrives at the ears and what actually moves against the skin matter to how hearing and touch combine? If it does, is the effect about detecting a weak signal, hearing its pitch, judging its loudness, or being moved emotionally? The distinction is not academic bookkeeping. It determines whether a claim about KLAAT's physicality is an observation, a testable explanation, or an attractive but unsupported story.
+
+
+This session advances the program beyond the earlier temporal/spatial audiotactile-coherence studies and the warning against treating the name C# as a privileged bodily frequency. The new object is RELATIVE SPECTRAL CONTENT: whether two independently measured physical signals have similar or different frequency components, and how that relationship influences specific perceptual tasks. The evidence is unusually informative because experiments reveal both positive interactions and limits that prevent us from saying that matching frequencies always make an experience stronger.
+
+
+Nothing in the research requires Paul to tune, arrange, accelerate, or compose according to a frequency rule. KLAAT remains an improvised acoustic world. The scientific task is to learn what its actual sounds and actual listener environments permit us to infer.
+
+
+1. FIVE THINGS OFTEN COLLAPSED INTO ONE WORD
+
+
+“Frequency” is not one phenomenon. Acoustic frequency is the rate of pressure oscillation in air, usually measured in hertz. Mechanical vibration frequency is the rate at which a contacting surface moves or accelerates; it can be measured in the same units but travels through a different physical path. The repetition rate of Ankora strikes is yet another quantity: a drum hit every half-second corresponds to two events per second, but each hit contains much faster membrane oscillations and a broadband transient. A didgeridoo's named musical pitch identifies a tonal relationship; it does not tell us the distribution of pressure at every listener position, or which components are transmitted into a chair. Finally, the subjective feeling of energy or physical presence is an experience, not a frequency meter.
+
+
+Even within the acoustic signal, a fundamental, its harmonics, amplitude modulation, and broadband breath noise are different features. Amastacia may sustain a recognizable tonal center while its spectral envelope and rhythmic articulations change. Ankora can deliver a relatively slow sequence of impacts whose individual attacks and decays occupy many frequencies. Their spectra overlap at times, but overlapping sounds are not proof of overlapping skin stimulation. Airborne low-frequency sound, structure-borne vibration through a floor, and the performer's direct tactile contact with Ankora are distinct pathways.
+
+
+For a listener standing on a concrete floor, the mechanically felt signal may be negligible even when the music sounds enormous. On a resonant wooden platform, a particular floor mode might transmit strongly at some frequencies and weakly at others. A phone recording played through small speakers can preserve audible rhythm while largely failing to reproduce deep acoustic bass or meaningful seat vibration. Headphones can reproduce some low-frequency pressure at the ears without vibrating the listener's chair. None of these cases is a contradiction. They illustrate why a KLAAT recording is not a physical dose measurement.
+
+
+The present question is therefore conditional: IF audible and tactile stimulation are both genuinely present, does their relative frequency content influence perception?
+
+
+2. THE NEAR-THRESHOLD EXPERIMENT THAT MAKES FREQUENCY RELATIONSHIP MATTER
+
+
+Wilson, Reed, and Braida (2010) examined combined auditory and vibrotactile detection under tightly controlled conditions [1]. They presented sinusoidal vibrations to the left middle fingertip and tones to both ears through headphones, against 50 dB SPL broadband masking noise. Levels were chosen so that either modality alone yielded approximately 63–77% correct detection in a two-interval, two-alternative forced-choice task. That detail matters: the investigators were not asking whether music was emotionally powerful. They were testing whether participants could identify the interval containing weak sensory stimulation.
+
+
+Their three experimental manipulations separated absolute and relative frequency. In one, the tactile stimulus remained at 250 Hz while the auditory tone varied from 125 to 2,000 Hz. In another, the auditory tone stayed at 250 Hz while touch varied from 50 to 400 Hz. In a third, both frequencies changed together, remaining matched from 50 to 400 Hz. Detection of the combined auditory–tactile stimulus was strongest when the two frequencies were equal or close, particularly in the range where the fingertip's Pacinian-sensitive pathway was engaged.
+
+
+The investigators compared different mathematical descriptions of combination. At nearby frequencies, their results generally agreed better with an algebraic-sum account of sensitivity; at wider separations, a Pythagorean-sum account was often more suitable. These are models of performance in a specific discrimination task. They do not establish that all sounds with matching tactile frequencies fuse into one conscious object, that every participant feels more vibration, or that a frequency-matched musical passage is more absorbing.
+
+
+This is the first important finding for KLAAT: relative frequency can be a genuine perceptual variable. Merely knowing that sound and vibration occur together is insufficient to predict the outcome of a near-threshold detection task. The relationship between their frequencies mattered in this controlled setting. But the experiment used a fingertip actuator, tones, noise, and weak signals. It did not use an acoustic didgeridoo, a frame drum, a vibrating floor, a seated audience, or a musical performance.
+
+
+3. A RELATED EXPERIMENT: TIMING HELPS, PHASE DOES NOT NECESSARILY
+
+
+Wilson, Reed, and Braida's earlier experiment (2009) held auditory and tactile tone frequency at 250 Hz and used 500-ms pulses [2]. Participants again detected near-threshold signals against masking noise. Combining sound and vibration improved performance when presented synchronously. Relative phase between the two sinusoidal signals did not materially change detection in their tested conditions. When the two stimuli did not overlap, improvement occurred only in the tested ordering where the tactile stimulus preceded the auditory one.
+
+
+The practical correction is subtle. It is tempting to imagine that if the acoustic wave and the chair vibration peak at precisely the same point in their cycles, they must feel stronger. That is not what this experiment found. Temporal co-occurrence mattered; fine relative sinusoidal phase did not determine the measured benefit. Phase relationships at one sensor also vary with location, reflection, and propagation, so a single “in phase” statement for a whole room would be misleading.
+
+
+For KLAAT, Ankora's audible attack and any accompanying support movement might share an onset, but that is a different issue from the phase of two 250-Hz sinusoids. A single natural drum strike is not a laboratory sine pulse. A resonant support may ring after the acoustic attack, and the listener may detect or interpret the two signals differently. The finding tells us to measure onset, phase, and relative spectrum separately rather than treat them as one form of “resonance alignment.”
+
+
+4. FREQUENCY CAN ALSO INTERFERE, NOT JUST HELP
+
+
+A different line of experiments turns the story around. Yau, Olenczak, Dammann, and Bensmaia (2009) studied what happens when an irrelevant sound accompanies a tactile-frequency judgment [3]. Auditory distractors interfered with the ability to discriminate tactile vibration frequency when auditory and tactile frequencies were similar. The interference occurred with pure-tone distractors and band-pass noise; a clearly heard musical pitch was not necessary. Crucially, distractors that disrupted tactile-frequency judgments did not equivalently disrupt tactile-intensity judgments.
+
+
+This finding is almost the opposite of a simplistic marketing slogan that says matching sound and vibration always enhance touch. In one task, matched or nearby frequencies improved combined detection; in another, related frequencies made a tactile discrimination harder. The studies are not logically inconsistent. The observer's question changed. Detecting whether any weak event occurred and distinguishing the frequency of a tactile event are different computations. A shared or interacting representation can sometimes help one decision and hinder another.
+
+
+This matters for KLAAT because “stronger experience” is not a single scientific outcome. A listener might find a passage more coherent, yet become worse at separately identifying a vibration frequency. Or a tactile cue might help detect a weak tone without increasing enjoyment. We cannot infer the direction of an effect from the existence of crossmodal interaction alone.
+
+
+The experiment also cautions against equating frequency-specific effects with a particular consciously identified pitch. Similarity in the stimulation frequency could matter even when the acoustic distractor was noise. Amastacia's rich breath noise and harmonics, and Ankora's transient spectrum, might therefore be relevant in ways a simple C# label does not capture. That is a plausible line of inquiry, not a result established for these instruments.
+
+
+5. TACTILE INPUT CAN BIAS WHAT THE EAR REPORTS
+
+
+Yau, Weber, and Bensmaia (2010) examined the reverse direction: could tactile vibration alter judgments of an auditory tone [4]? In frequency-discrimination tasks using 200-Hz and 400-Hz auditory standards, tactile distractor frequency systematically shifted listeners' auditory pitch judgments. In a separate auditory-intensity task, tactile distractor intensity—not its frequency—was the relevant source of bias. Manipulating the relative onset and offset by 250 ms disrupted the loudness interaction while leaving the frequency-bias interaction comparatively robust in their tested conditions.
+
+
+This is a strong warning against a single generalized “hearing and touch combine” explanation. Perceived pitch and perceived loudness responded differently to stimulus frequency, intensity, and timing. The underlying operations may differ. The study provides behavioral evidence consistent with separable mechanisms; it does not supply a direct neural recording of a particular KLAAT brain state.
+
+
+Suppose a listener on a mechanically responsive platform hears Amastacia while the surface vibrates. A reported deepening of the tone might reflect an acoustic spectral change, a tactilely influenced pitch judgment, an emotional metaphor, or a change in playback. A reported increase in loudness might arise from another combination of cues. Without independent measurements and controlled comparisons, those explanations cannot be sorted out from the report alone.
+
+
+This also changes how we should hear an anecdote such as “I could feel the music.” It is useful as an authentic listener statement. It is not a calibrated observation of a 200-Hz skin vibration, and it is not evidence that the listener's auditory pitch changed. It should remain in the archive in the listener's own words, without forced reinterpretation.
+
+
+6. LOUDNESS RESULTS DO NOT AGREE ON ONE SIMPLE LEVEL OF INTEGRATION
+
+
+Wilson, Braida, and Reed (2010) investigated suprathreshold loudness matching [5]. They compared auditory-only, tactile-only, auditory–tactile, and two-auditory-stimulus combinations. Auditory stimuli were headphone tones; tactile stimuli were fingertip sinusoids. They found frequency proximity mattered for matched loudness: the intensity of a 200-Hz comparison tone required to match a combined stimulus was lower when component frequencies were close than when separated by an octave or more. That suggests frequency-dependent interaction even when signals were comfortably above threshold.
+
+
+Yet Yarrow, Haggard, and Rothwell (2008) reported a crucial methodological complication [6]. Tactile vibration increased reported loudness of weak auditory tones in several conditions. But when the researchers used two-interval procedures and placed vibration in both intervals, performance could resemble the no-vibration condition. Their interpretation was that some apparent loudness interactions may be influenced by post-perceptual decision processes or response bias, rather than necessarily reflecting an early, automatic change in sensory encoding.
+
+
+These results should be held in tension rather than averaged into an unqualified assertion. Frequency-dependent loudness matching is a genuine experimental observation. So is the possibility that response strategy affects what participants report. Neither study proves that the brain literally adds auditory and tactile physical energy into a single waveform. Nor does a report of increased loudness reveal where in processing the interaction occurred.
+
+
+The research lesson is a validity gate: do not treat an adjective—louder, deeper, heavier, more physical—as a direct reading of either stimulus amplitude or sensory-stage integration. When feasible, compare ratings with objective forced-choice judgments and keep physical stimulus measurements independent of reports.
+
+
+7. ANOTHER FREQUENCY TRAP: PULSE RATE IS NOT DRONE PITCH
+
+
+Sharma, Ng, Birznieks, and Vickery (2022) asked participants to compare perceived temporal frequency across auditory click trains and tactile pulse trains [7]. For regular trains at 25, 50, and 100 Hz, crossmodal frequency matches were close to the physical pulse rates. With paired pulses, perceived rate related to the spacing between bursts rather than simply counting every individual pulse. These findings support a meaningful crossmodal relationship in temporal-rate perception.
+
+
+But they do not make Amastacia's fundamental and Ankora's beats equivalent. A 100-Hz train of discrete clicks is not the same acoustic object as a continuous 100-Hz tone. Neither is equivalent to a drummer striking twice per second, or to a surface resonating at 100 Hz after each strike. Even if all can be described with “Hz,” the stimuli recruit different temporal and spectral representations.
+
+
+This is especially relevant to KLAAT because its identity combines an almost continuous tonal anchor with punctuating impacts. Their coexistence can make the music feel physically unified, but the word “unified” does not specify which neural or tactile process produces the experience. We must resist the easy but scientifically invalid move from a named C# note to a fixed bodily response or a prescribed brainwave frequency.
+
+
+8. WHAT AN ACTUAL KLAAT LISTENING SITUATION WOULD CONTAIN
+
+
+Imagine one unedited three-minute KLAAT recording played at a comfortable, documented level. Amastacia sustains a C#-centered drone, but its spectral balance changes with lips, breath, instrument resonances, and room reflections. Ankora contributes irregular impacts with broadband attacks and decaying resonances. The listener sits in a room whose dimensions, surfaces, floor, and furniture shape the received sound. The loudspeaker has its own frequency response and distortion; its bass may be strong, weak, or absent. If the listener rests a hand on a table or sits on a vibrating support, those contact points receive different mechanical signals.
+
+
+There are at least six observables. First, the source performance: what Paul actually did. Second, the airborne pressure waveform at a specified microphone position. Third, mechanical acceleration at a specified loaded contact surface. Fourth, the listener's ability to detect or distinguish particular sounds or vibrations under a defined task. Fifth, unprompted subjective descriptions of pitch, loudness, energy, physicality, absorption, and discomfort. Sixth, any physiological response, measured separately if the project eventually chooses to do so.
+
+
+The central danger is skipping several steps. A low note at the source does not guarantee low-frequency airborne energy at the listener. Low-frequency airborne energy does not guarantee meaningful tactile acceleration. Measurable acceleration does not guarantee conscious tactile sensation. Tactile sensation does not guarantee crossmodal frequency integration. Crossmodal integration does not guarantee greater absorption, activation, altered consciousness, or benefit.
+
+
+Conversely, a listener may report a vivid bodily sensation without measurable support vibration. That does not make the experience false. It makes the cause unresolved. Movement imagery, emotion, auditory expectation, skin stimulation, posture, and context are all candidates, but their roles cannot be established by assertion.
+
+
+9. A NEW MEASUREMENT DICTIONARY FOR THE PROJECT
+
+
+An AIRBORNE SPECTRUM is a measurement of pressure components at a microphone location with a known calibration and recording chain. A SUPPORT SPECTRUM is a measurement of surface acceleration or displacement under a specified load and sensor attachment. The two may differ radically. A RELATIVE-FREQUENCY COMPARISON asks whether their energy is concentrated in nearby or distant bands over the same time interval. It is a descriptive physical comparison, not evidence that any listener combined the signals.
+
+
+An ONSET-RELATIONSHIP MEASUREMENT asks whether audible and mechanical events rise together. This is distinct from phase, which describes relative position within periodic cycles, and from rhythmic beat timing, which concerns discrete events. A DETECTION RESULT is performance on a specified task. A PITCH or LOUDNESS JUDGMENT is a report or forced-choice outcome. A BODILY-SALIENCE REPORT is a subjective description. ABSORPTION and ACTIVATION are yet other subjective constructs. Each requires its own wording, scale, and context if it is to be compared systematically.
+
+
+This dictionary prevents a common failure of interdisciplinary research: moving from a technically correct measurement to a psychologically dramatic conclusion without collecting the intermediate evidence. It also protects KLAAT's artistic freedom. The measurement framework describes the performance after it exists; it does not govern its creation.
+
+
+10. THE NOVELTY GATE AND ITS BOUNDARIES
+
+
+Earlier KLAAT work has examined temporal and spatial audiotactile congruence, resonance transfer, the distinction between airborne and structure-borne energy, and the unsupported claim that a particular C# pitch has a privileged bodily target. Session 114 does not repeat those general points as its contribution. Its distinct question is whether RELATIVE AUDITORY–TACTILE FREQUENCY CONTENT matters independently of timing and total energy, and whether the answer changes depending on the perceptual task.
+
+
+The seven primary research lines support a more discriminating picture. Nearby auditory and tactile frequencies can improve weak combined-signal detection; nearby frequencies can also interfere with tactile-frequency discrimination. Tactile frequency can bias auditory pitch judgments while tactile intensity more strongly relates to some auditory loudness judgments. Timing sensitivity differs across these tasks. Apparent loudness interactions can involve decision bias. Temporal pulse-rate matching is related to, but not identical with, the pitch of a sustained acoustic tone.
+
+
+This is not a universal law of musical resonance. It is a set of experimentally bounded effects. None has yet been tested on an actual KLAAT listener, performance, vibrating platform, or venue. Their relevance to the project remains conditional on the existence of measurable and perceptible tactile stimulation and on the question being asked.
+
+
+11. EVIDENCE TIERS
+
+
+ESTABLISHED OUTSIDE KLAAT — Controlled experiments demonstrate frequency-dependent auditory–tactile interactions in weak-signal detection, tactile-frequency discrimination, auditory-pitch judgments, and some loudness-matching paradigms [1,3–5]. Timing and phase can have different consequences [2]. Crossmodal temporal-rate judgments can correspond for carefully constructed click and tactile pulse trains [7].
+
+
+CONTEXT-DEPENDENT OR IN TENSION — Better combined detection does not imply better frequency discrimination. Pitch and loudness biases need not share timing sensitivity [4]. A loudness judgment can contain response bias [6]. Most evidence here comes from headphone tones, fingertip actuators, controlled masking noise, and constrained tasks—not complex acoustic music. The model that best fits one experiment is not a general neural mechanism.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT — At a specific listener contact surface, an authentic Amastacia–Ankora passage may contain mechanical and airborne components that overlap in frequency during some moments and diverge during others. If tactile stimulation is independently confirmed, frequency proximity could contribute to certain judgments under controlled listening conditions. Which judgments, if any, change remains unknown.
+
+
+SPECULATION — The subjective sense of a large, living, physically present KLAAT field may sometimes draw on frequency-sensitive auditory–tactile interaction in addition to room acoustics, rhythm, imagery, expectation, and emotion. This is an organizing hypothesis, not a measured mechanism.
+
+
+UNSUPPORTED — C# is a healing or organ-specific body frequency; matching an acoustic harmonic to a floor vibration automatically creates trance; a strong-sounding drum proves a strong skin stimulus; spectral overlap demonstrates neural entrainment; a listener saying “I felt it” establishes a measured mechanical dose; an improved detection threshold proves improved well-being; or KLAAT has already shown frequency-specific auditory–tactile integration.
+
+
+12. WHY THIS MATTERS TO THE ART, NOT JUST THE LAB
+
+
+KLAAT's material world is intentionally spare: an agave didgeridoo, an elk-hide frame drum, a performer breathing and striking, and time enough for a field of sound to emerge. Its visual world is likewise sparse, archaeosonic rather than explanatory. A physically grounded account of its possible effects need not strip that world of mystery. It can clarify which parts of the mystery are genuinely unknown.
+
+
+If the eventual recordings reveal that a listener's chair barely vibrates, that will not invalidate the music's perceived weight or emotional force. It will redirect our explanation away from direct mechanical skin stimulation in that setting. If a resonant wooden floor transmits a measurable band during some Ankora passages, we will have a real physical candidate to investigate. If listeners describe bodily presence without tactile measurements, those descriptions remain valuable first-person evidence and invitations to test, not proof of a frequency mechanism.
+
+
+The artistic principle remains intact. Amastacia does not need to hold a frequency chosen by a laboratory. Ankora does not need to strike at a mandated rate. Paul does not need to produce an engineered “matching” passage. The most informative future comparisons may arise naturally from ordinary improvisation and from different listening environments, while any controlled re-rendering remains a separate diagnostic stimulus rather than a revision to the art.
+
+
+The important advance is not “we found the frequency that makes people feel KLAAT.” We have found that such a question is scientifically malformed unless it specifies the physical pathway, the frequency relationship, the perceptual task, and the outcome. That is a more durable discovery for the research program than any dramatic numerical claim.
+
+
+OPTIONAL KRX-114 — TWO SIGNALS, ONE UNCHANGED PERFORMANCE
+
+
+When a suitable authentic KLAAT recording or live rehearsal is available, choose one short, naturally occurring passage with a sustained Amastacia drone and several Ankora events. Without altering the music, make or obtain synchronized measurements of (A) airborne sound at a documented listener position and (B) mechanical acceleration at one actual loaded contact surface, such as the seat or floor. Record microphone and accelerometer calibration, sensor location and mounting, playback level or performance distance, and the room/support conditions. Compare time-local frequency bands and onset envelopes; report where they overlap, where they diverge, and where sensor noise makes an answer impossible. Do not infer sensation from acceleration alone. If a later volunteer listens, ask for an unprompted account first and keep felt vibration, loudness, pitch, energy, and absorption separate. If no trustworthy mechanical channel exists, stop at the airborne measurement and record that limitation. The purpose is observation, not a prescribed sonic effect.
+
+
+PRIMARY SOURCES
+
+
+[1] Wilson EC, Reed CM, Braida LD (2010). Integration of auditory and vibrotactile stimuli: Effects of frequency. Journal of the Acoustical Society of America 127:3044–3059. DOI 10.1121/1.3365318. https://pmc.ncbi.nlm.nih.gov/articles/PMC2882664/
+[2] Wilson EC, Reed CM, Braida LD (2009). Integration of auditory and vibrotactile stimuli: Effects of phase and stimulus-onset asynchrony. Journal of the Acoustical Society of America 126:1960–1974. DOI 10.1121/1.3204305. https://pmc.ncbi.nlm.nih.gov/articles/PMC2771057/
+[3] Yau JM, Olenczak JB, Dammann JF, Bensmaia SJ (2009). Temporal frequency channels are linked across audition and touch. Current Biology 19:561–566. DOI 10.1016/j.cub.2009.02.013. https://pubmed.ncbi.nlm.nih.gov/19268591/
+[4] Yau JM, Weber AI, Bensmaia SJ (2010). Separate mechanisms for audio-tactile pitch and loudness interactions. Frontiers in Psychology 1:160. DOI 10.3389/fpsyg.2010.00160. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2010.00160/full
+[5] Wilson EC, Braida LD, Reed CM (2010). Perceptual interactions in the loudness of combined auditory and vibrotactile stimuli. Journal of the Acoustical Society of America 127:3038–3043. DOI 10.1121/1.3377116. https://pubmed.ncbi.nlm.nih.gov/21117753/
+[6] Yarrow K, Haggard P, Rothwell JC (2008). Vibrotactile–auditory interactions are post-perceptual. Perception 37:1114–1130. DOI 10.1068/p5824. https://pubmed.ncbi.nlm.nih.gov/18773733/
+[7] Sharma D, Ng KKW, Birznieks I, Vickery RMM (2022). Auditory clicks elicit equivalent temporal frequency perception to tactile pulses: A cross-modal psychophysical study. Frontiers in Neuroscience 16:1006185. DOI 10.3389/fnins.2022.1006185. https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1006185/full
+
+
+PROVENANCE AND LIMITS
+
+
+Primary article records and full-text or publisher abstracts were checked October 23, 2026. The source experiments' numeric ranges and task outcomes are not measurements of KLAAT. Connected KLAAT Master Instructions, Curriculum Index, Research Ledger, Corpus Volume II, canonical Session 113, and hourly research through October 23 at 14:19 CDT were consulted. Novelty was evaluated against previous temporal/spatial audiotactile research and the October 23 08:14 hourly spectral-congruence note; this session is the publication-level critical synthesis of that note with additional contradictory primary evidence. No KLAAT audio, listener, skin vibration, EEG, or autonomic data were analyzed. Hourly notes remain intact as provenance.
+
+
+END OF SESSION 114

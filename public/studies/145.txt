@@ -1,0 +1,164 @@
+KLAAT RESONANCE RESEARCH — SESSION 145
+The Second Listener Who Was the First
+Duplicate submissions, repeated exposure, and the unit of evidence in a small listening pilot
+Published: 2026-11-03 08:20 CST
+Principle: Experience-led creation. Science-informed refinement.
+
+
+THE QUESTION
+
+
+A person listens to a spontaneous Amastacia–Ankora recording, completes a questionnaire, then reopens the form to correct an answer. The system stores two rows. Did KLAAT reach two people? No. Did it generate two listening experiences? Possibly not. Does the second row deserve to be discarded? Not automatically: it might contain a legitimate correction. This apparently mundane distinction can determine whether the first KLAAT listener pilot yields interpretable evidence or an inflated audience.
+
+
+This study concerns the unit of observation, not a new theory of trance. It is relevant precisely because KLAAT aims to learn from genuine reactions rather than impose a composition scheme on the performer. Its subject is not how Paul should play; it is what counts as one person, one exposure, one questionnaire attempt, and one independent observation.
+
+
+WHY THIS IS A DISTINCT QUESTION
+
+
+Session 138 concerned aggregate reversals across listener groups. Session 140 addressed searching many analyses and then mistaking an exploratory pattern for confirmation. Session 139 addressed physiological response latency. Sessions 143–144 addressed the difference between a performance and what recording or playback preserves. The present question is upstream of all of those: can the rows in a listener spreadsheet be counted as distinct people at all? A prior hourly note dated November 2, 18:21 CST identified this exact pre-deployment gap. This session consolidates that note into a practical research standard. It does not claim to have discovered actual duplicate KLAAT responses; no listener dataset has been supplied.
+
+
+I. FOUR DIFFERENT THINGS THAT A SPREADSHEET CAN CONFUSE
+
+
+A participant is one person, represented by a pseudonymous participant ID. An exposure is one occasion when that person hears a specified recording or performance. A submission attempt is one form transaction; it may fail, be retried, or correct an earlier answer. An accepted response is the observation retained under a stated decision rule. These are not interchangeable units.
+
+
+Consider a participant who listens once and accidentally submits twice. There is one person, one exposure, two attempts, and ordinarily one accepted response. Now consider the same person listening to the same take on Monday and again on Friday. There is one person, two exposures, and potentially two valid responses. The second case contains useful information about within-person variation; it still does not represent a second independent person.
+
+
+The distinction matters for KLAAT because an initial 8–15-person pilot will be especially sensitive to the weight of individual responses. It also matters for interpreting experiences that vary across days: a listener who feels energized during one exposure and absorbed during another has not contradicted themselves. They have provided two context-dependent observations from the same individual.
+
+
+II. A NUMERICAL EXAMPLE, NOT A KLAAT RESULT
+
+
+Suppose eight unique listeners rate bodily activation on a hypothetical 0–10 scale. Their ratings are 10, 2, 2, 2, 2, 2, 2, 2. The mean is 24/8 = 3.00. If the listener who rated 10 accidentally submits the same form again and the researcher counts nine rows, the mean becomes 34/9 = 3.78. Nothing about the sound changed, and no additional person listened. The apparent increase of 0.78 points is entirely an artifact of counting a duplicated record.
+
+
+The direction is not predetermined. Duplicating a low rating can lower the average. Duplicating a high rating can raise it. The more extreme the duplicated value and the smaller the sample, the more consequential the distortion. This illustration is arithmetic, not a simulation of KLAAT's future audience or a claim that any participant would actually report these values.
+
+
+A duplicate can also distort proportions. Imagine three of eight people describe noticeable chest vibration; if one of those three repeats a form, a naive calculation becomes four of nine rather than three of eight. The apparent proportion rises from 37.5% to 44.4%, despite no new experience. In a small exploratory study, such changes can misdirect the next research question.
+
+
+III. WHAT THE PRIMARY METHODOLOGY ESTABLISHES
+
+
+The foundational issue is pseudoreplication: treating observations that are not independent as though they were independent replicates. Hurlbert's 1984 paper established a durable methodological warning against confusing the number of measurements with the number of independent experimental units. Its original setting was ecological field experimentation, not online music surveys. The principle transfers; the details of experimental units must be defined for KLAAT rather than imported mechanically.
+
+
+Hurlbert, S.H. (1984). Pseudoreplication and the design of ecological field experiments. Ecological Monographs 54(2), 187–211. DOI: 10.2307/1942661.
+
+
+A separate empirical literature addresses fraudulent or repeated online survey participation. Zhang and colleagues (2022) evaluated multiple anti-fraud approaches across online surveys, demonstrating that survey integrity is a multidimensional problem rather than something a single filter can guarantee. Fraudulent survey participation is not the same thing as an honest duplicate submission, and the prevalence or performance of their detectors cannot be transferred to a small invited KLAAT pilot without testing.
+
+
+Zhang, Z., Zhu, S., Mink, J., Xiong, A., Song, L., and Wang, G. (2022). Beyond Bot Detection: Combating Fraudulent Online Survey Takers. Proceedings of The Web Conference 2022, 699–709. DOI: 10.1145/3485447.3512230.
+
+
+The practical survey-platform evidence is narrower. Qualtrics documents that browser-cookie restrictions can be bypassed by changing devices, browsers, or clearing cookies. Unique invitation links can reduce accidental repeat entry, but cannot prove that one physical human has one identity. An anonymous link is not inherently an anonymized data collection method: collection of network metadata depends on platform configuration.
+
+
+Qualtrics documentation: https://www.qualtrics.com/support/survey-platform/survey-module/survey-options/survey-protection/ and https://www.qualtrics.com/support/survey-platform/distributions-module/web-distribution/anonymous-link/ (consulted in the November 2 hourly research note).
+
+
+These sources support a cautious conclusion: a web form's submission count is not automatically a listener count. They do not establish that duplicate responses are frequent in KLAAT or that any one platform is necessary.
+
+
+IV. THE MINIMUM DATA MODEL
+
+
+For KLAAT's first listening pilot, the most useful record is a small relational structure, not a complicated surveillance system. Each listener receives a random participant code (for example, KL-014). Each unedited recording receives a take ID. Each exposure gets an occasion identifier and date. Each form submission gets an attempt identifier and a timestamp. The accepted-response field records which attempt is used in a particular analysis and why.
+
+
+A compact example:
+participant_id = KL-014
+recording_id = KLAAT-TAKE-003
+exposure_id = EXP-014-01
+attempt_id = ATT-014-01
+attempt_status = accepted
+repeat_reason = first completion
+
+
+If the same listener submits a correction after the same exposure, the second record is ATT-014-02, linked to EXP-014-01, not a new participant. If that person listens again the next week, the exposure becomes EXP-014-02 while participant_id remains KL-014. A person can choose not to provide identifying contact details; a random invitation code can still maintain the distinction. Codes should not be derived from birthdays, names, phone numbers, or other identifying attributes.
+
+
+An analyst should never silently delete an attempt. Keep the raw submissions in a restricted provenance table, flag the duplicate relationship, and create a separate analysis view with the accepted record. A minimal audit field can state: 'attempt 02 accepted because participant explicitly corrected attempt 01 before the analysis freeze.' This makes the outcome reproducible without publicly exposing the participant.
+
+
+V. WHAT TO DO WITH CORRECTIONS
+
+
+There is no universal rule that 'first submission wins' or 'last submission wins.' Both can introduce bias. The last attempt may reflect a genuine correction; it may also reflect a participant reconsidering their reaction after reading the questions or discussing the music. The first attempt may preserve immediate response but contain a mistaken click. The correct choice depends on the research question and a rule set before examining which choice produces the most interesting result.
+
+
+For a pilot centered on immediate first impressions, one defensible rule is: accept the first complete response unless the participant identifies a clerical error within a short declared correction window. Keep the original and the correction. For repeated-exposure research, accept separate exposures as repeated measures, with person-level linkage. In both cases, report the number of unique people, exposure occasions, form attempts, and accepted records separately.
+
+
+A response that is incomplete should not automatically be considered fraudulent. An interrupted phone call, accessibility barrier, or browser crash can generate multiple attempts. Treating every retry as misconduct would undermine a welcoming and diverse listener study.
+
+
+VI. REPEATED LISTENING IS NOT 'BAD DATA'
+
+
+A listener who returns to KLAAT voluntarily may be especially interesting. On first hearing, Ankora's attacks may feel startling against Amastacia's sustained drone. On a second exposure, the same person might anticipate the pulse and experience stronger bodily engagement—or find the passage less novel. Both possibilities are hypotheses, not established KLAAT effects. If we discard repeat exposures, we lose information about familiarity and adaptation. If we count repeat exposures as new people, we exaggerate the breadth of audience evidence.
+
+
+This leads to two distinct questions: 'What fraction of unique listeners reported activation after their first exposure?' and 'How did activation change within the same people across exposures?' The first requires one defined first-exposure record per person. The second requires linked observations and an analysis that recognizes dependence. With only a handful of listeners, descriptive paired plots and individual trajectories may be more informative than formal statistical significance tests.
+
+
+VII. THE SOCIAL AND ACOUSTIC SETTING REMAINS RELEVANT
+
+
+Duplicate submissions are not the only route to false independence. Several people can listen together in the same room, at the same playback level, after the same introduction. They remain different people, but their experiences may share an occasion-specific influence. A separate November 2 hourly note addressed clustering by group listening occasion. The two problems should not be conflated: duplicate submission means one person appears more than once; shared-session clustering means different people may have correlated experiences.
+
+
+KLAAT need not abandon communal listening to achieve scientific cleanliness. It can preserve occasion IDs and avoid pretending that a cluster of responses is a perfectly random sample of independent settings. The atmosphere of a ritual gathering may be part of the artistic event; the research simply needs to identify it as context.
+
+
+VIII. WHAT CAN BE CLAIMED, AND WHAT CANNOT
+
+
+Established: A row in a dataset is not necessarily an independent person. Repeated records can alter means and proportions. Cookies alone cannot reliably identify unique humans across devices. Pseudonymous IDs and attempt logs can preserve provenance without requiring a public identity roster.
+
+
+Context-dependent: One-time invitations and form settings can reduce accidental repeat submissions. Their effectiveness depends on implementation, recruitment, and whether participants share links. A 'first response' rule may be useful for immediate impressions but is not universally correct.
+
+
+Plausible and testable: Some listeners may revise their descriptions of KLAAT after reflection, discussion, or repeat exposure. Such changes may reveal meaningful temporal dynamics in response. KLAAT has not yet measured these dynamics in a controlled listener sample.
+
+
+Speculation: A listener's second exposure might intensify bodily engagement because the pulse becomes more predictable, or might reduce it because novelty declines. Neither direction can be inferred from general auditory science alone.
+
+
+Unsupported: Claims that KLAAT has already produced neurological entrainment, clinical trance, measurable autonomic regulation, or population-wide listener effects. No such KLAAT-specific evidence has been established by this session.
+
+
+IX. IMPLICATIONS FOR THE ARTISTIC WORK
+
+
+None of this is an instruction to make Amastacia more regular, alter Ankora's tempo, or formalize a ritual sequence. The goal is to preserve the distinction between Paul's spontaneous musical event and the evidence later gathered about it. A recording of an improvisation is an artistic artifact. A listener's report is an experience report. A questionnaire row is an administrative artifact. The study becomes more trustworthy when those three are not mistaken for each other.
+
+
+The same principle applies when KLAAT functions as a daily-life soundtrack. A listener who plays the same recording while working, walking, or resting may have multiple legitimate experiences. Rather than compressing those encounters into a single invented 'average listener,' future research can examine context, familiarity, and changes within the person while keeping the sound untouched.
+
+
+X. A SIMPLE PRE-PILOT CHECK
+
+
+Before the first formal listener study, create one dummy participant code and submit a test questionnaire twice after one playback, with the second submission labeled as a correction. Confirm that the export preserves two attempt records but counts one unique participant and one exposure. Then simulate a second listening occasion using the same participant code and verify that it counts as a second exposure, not a second person. Delete no provenance; keep test rows clearly separated from genuine responses.
+
+
+This is an optional administrative test, not a musical exercise. It will not establish anything about KLAAT's effects. It will prevent a basic data-handling ambiguity from masquerading as an artistic discovery.
+
+
+CLOSING
+
+
+The most interesting KLAAT evidence will eventually come from people actually hearing the work, not from an ever-growing list of theoretical mechanisms. That transition makes simple distinctions consequential. A second questionnaire is not necessarily a second listener. A second listening is not necessarily an independent listener. A changed reaction is not necessarily a contradiction. Preserve those differences, and the music remains free while the research becomes more exact.
+
+
+END OF SESSION 145

@@ -1,0 +1,228 @@
+KLAAT RESONANCE RESEARCH — SESSION 135
+THE DRONE DID NOT GET LOUDER, BUT THE LISTENER FELT MORE ENERGY
+Spectral change, delivered level, preference, and the problem of attributing activation
+Published: 2026-10-30, 15:21 CDT (America/Chicago)
+
+
+GOVERNING PRINCIPLE
+Experience-led creation. Science-informed refinement.
+
+
+RESEARCH QUESTION
+
+
+When someone hears an authentic KLAAT improvisation and says that the sound became “more energizing,” what changed? Did Amastacia and Ankora deliver more acoustic energy to the ear? Did the harmonic/noise texture change while overall level remained relatively stable? Did a listener recognize an appealing rhythmic character, or did prior preference determine how they interpreted the same sound? Can these possibilities be distinguished without asking Paul to manufacture a laboratory composition?
+
+
+This is a particularly consequential question because KLAAT is not only a focused resonance ritual. It is also intended to work as an energizing soundtrack during ordinary life. A report of “energy” is potentially valuable even when the listener is sitting still. But the word is not a calibrated acoustic unit, a heart-rate measurement, a neurological state, or evidence of mechanical vibration. To study it responsibly, we must first separate the signal, the delivery, the appraisal, and the felt response.
+
+
+1. WHY THIS IS SESSION 135, NOT A REPETITION
+
+
+The canonical Library contains Session 134 (music and perceived exertion during exercise), Session 131 (identical files can produce different acoustic exposures), Session 125 (small-sample uncertainty), Session 81 (acoustic versus perceived and physiological “energy”), and earlier work on roughness, timbre, loudness, arousal and subjective bodily feeling. Session 134 specifically left open whether preference and spectral variation predict listener energy reports independently of overall level. The 2026-10-30 09:22 CDT hourly research note isolated this attribution problem and identified direct experimental evidence; the 12:15, 13:20 and 14:18 notes explore different unresolved directions. The present publication does not claim a new mechanism. It develops a competing-explanations model and a KLAAT-specific inference design for spontaneous, unedited recordings.
+
+
+Novelty gate: this is neither a new optimal-BPM claim nor another exercise-performance study. It asks what would make an attribution to timbre, loudness, or preference identifiable in the first place, and how a result could remain useful even when those variables cannot be cleanly separated. No authentic KLAAT recording, waveform, listener response, or physiological measurement was supplied for this session. All numerical results below come from other research, not from KLAAT.
+
+
+2. FOUR DIFFERENT MEANINGS OF “MORE ENERGY”
+
+
+First, an acoustic waveform may contain greater signal energy over a specified time interval. RMS amplitude, calibrated sound-pressure level and the time-varying envelope are possible descriptors. They are not synonyms: a digital amplitude value depends on gain and encoding, while sound pressure at the listener depends on playback equipment, room, position and volume. Peak amplitude is yet another property. None is equivalent to a person's reported activation.
+
+
+Second, a sound may change in texture without becoming appreciably louder. A relatively stable Amastacia drone can develop a stronger overtone, breath noise, flutter, roughness, harmonic emphasis or momentary spectral redistribution. Ankora can introduce a dense burst of attacks, a different decay, or an abrupt interruption. These changes may increase the salience or apparent urgency of the sound even if a whole-excerpt RMS comparison shows little difference. We cannot know whether this occurs in a particular KLAAT take without analyzing that take.
+
+
+Third, a listener can hear “energetic expression” in music without personally becoming more energized. A listener may accurately describe a passage as tense, driving, excited or restless while remaining calm or even disliking it. The research literature sometimes asks participants to rate arousal expressed BY the music and sometimes asks what the music made them FEEL. These are different outcomes and should never be silently merged.
+
+
+Fourth, a person may feel activated: alert, physically restless, motivated, absorbed, invigorated or uneasy. These are not interchangeable states. “Activated but unpleasant” and “activated and delighted” can coexist in a research dataset. An honest KLAAT listener might say, “It made me want to move,” “I felt my chest resonate,” “It was oppressive,” or “Nothing happened.” Each is a report about an experience, not proof of a particular causal route.
+
+
+A fifth category—physiological activation—requires independent measurement. Heart rate, pupil diameter, respiration, skin conductance, movement and brain activity reflect different processes with substantial alternative explanations. A claim that KLAAT entrains autonomic or neural rhythms cannot be derived from an adjective or a spectral graph.
+
+
+3. A STRONG EXPERIMENT FOR LEVEL, WITH A CRUCIAL LIMIT
+
+
+Dean, Bailes and Schubert (2011) directly manipulated musical intensity profiles rather than merely observing correlations. Thirty-eight listeners continuously rated the arousal EXPRESSED by music. In one comparison, the intensity trajectory of a Dvorak excerpt was inverted while other musical material was retained. The listeners' expressed-arousal trajectory also reversed. The researchers then applied the same intensity profile to stylistically different pieces and observed corresponding perceived-arousal patterns. This is unusually useful causal evidence that changing the intensity envelope can alter perceived musical arousal in the tested material.
+
+
+The study's continuous ratings are important. A single rating at the end of a long improvisation may conceal that the listener experienced several different passages as activating. But the outcome was primarily the arousal listeners attributed to the music—not a demonstrated change in their physiological arousal, nor a KLAAT-like trance. The paper also explored time-series relations among computed intensity, perceived loudness and expressed arousal; those model relationships do not establish a universal biological pathway from acoustic intensity to the body.
+
+
+KLAAT implication: an Ankora attack cluster or Amastacia crescendo may influence the perceived energy of the music. It would be a mistake, however, to assume every report of rising energy is explained by increasing volume. An attack can change texture and timing simultaneously, and a sound may seem more intense for perceptual reasons beyond a simple mean-level increase.
+
+
+4. A STRONG CASE FOR SPECTRAL INFORMATION, WITH ANOTHER LIMIT
+
+
+Gingras, Marin and Fitch (2014) studied 84 six-second classical-music excerpts. Thirty nonmusicians rated the original excerpts; a separate thirty rated amplitude-normalized versions. Arousal and pleasantness ratings remained highly correlated between the original and normalized sets. In the authors' reported models, spectral flux and spectral entropy together accounted for 65% of the variance in arousal ratings across the examined excerpts. That is a substantial statistical association in that stimulus collection.
+
+
+Spectral flux describes how much a short-time spectrum changes between successive analysis frames. Spectral entropy summarizes how broadly or evenly spectral energy is distributed according to a chosen representation. Neither is a universal emotion meter. A drum attack can generate high spectral flux; so can a sudden burst of breath noise, a room echo, an editing artifact, or a recording device's automatic gain processing. Entropy depends on the analysis window, spectral scaling, frequency limits and noise floor. A 65% model fit in 84 short classical excerpts does not mean 65% of KLAAT activation is caused by those features, nor that a single KLAAT recording should be optimized to maximize them.
+
+
+The distinction between normalization and controlled causation matters. Normalizing overall amplitude does not remove all dynamic-envelope cues, all differences in perceived loudness, or correlations between spectral properties and musical structure. Gingras and colleagues provide evidence that spectral features carry useful predictive information beyond a simple original-versus-normalized level comparison. They do not prove that experimentally changing only spectral flux in Amastacia would cause a predictable listener response.
+
+
+KLAAT implication: the expressive action may occur in the interior of the sound. A drone whose average amplitude remains steady may change in harmonic density, air-noise content or articulatory rhythm. The sparse two-instrument arrangement could make these changes unusually noticeable. That is a testable proposition, not a demonstrated KLAAT characteristic or listener effect.
+
+
+5. TIMBRE CAN SIGNAL TENSION WITHOUT SIGNALING PLEASURE
+
+
+Farbood and Price (2017) used paired sound comparisons to examine timbral contributors to perceived musical tension. Higher roughness, inharmonicity and spectral flatness had relatively stronger support as tension-related attributes; results for spectral centroid and spectral deviation were more ambiguous after considering correlated features and other factors. This is an important caution against assuming that every “brighter” spectrum is necessarily more tense or energizing.
+
+
+In Amastacia, roughness might arise from interacting harmonics, vocal-tract articulation, nonlinear buzzing or broadband air noise; Ankora's attack may introduce its own noisy transient. But tension is not identical to activation, pleasure, absorption, groove, trance, or a felt vibration. A listener may prefer a rough texture because it feels alive; another may find it irritating. The same acoustic descriptor can support different subjective outcomes.
+
+
+There is also a technical caution: spectral flatness, entropy, flux, roughness and centroid are not independent ingredients. They may move together during one breath gesture or drum strike. Regressing five highly correlated descriptors against eight listener reports would produce a fragile story, not a discovered mechanism. We should not let a model's vocabulary substitute for the audible musical event.
+
+
+6. PREFERENCE IS NOT A NUISANCE VARIABLE TO ERASE
+
+
+Vella, McDonough and Goldstein (first online 2024; journal issue 2025) tested ninety undergraduates listening to heavy metal and classical music in counterbalanced order, with prior music preference measured before exposure. Genre had average mood-associated differences in the sample. Yet preference significantly predicted how participants' affect changed. Among those preferring heavy metal, exposure was associated with reductions in negative affect and hostility and increases in positive dimensions, even though group-level heavy-metal exposure was associated with higher-arousal negative mood.
+
+
+The point is not that heavy metal is comparable to KLAAT, or that any genre has a fixed emotional signature. The point is that an unfamiliar or apparently harsh sound may be interpreted very differently by someone who already values its texture. People who like drones, ritual percussion, experimental acoustic music or abrasive sound may respond differently from people who find those elements unpleasant. We must measure this preference before listening if we want to examine it as a predictor rather than ask afterward and accidentally contaminate the explanation with the experience itself.
+
+
+Preference also creates a selection problem. A future KLAAT audience who chooses to attend or stream the work will not be equivalent to a group recruited without musical preference screening. Neither sample is wrong. They answer different questions: how does KLAAT function among interested listeners, and what does it do for people encountering it without prior attraction? Reporting only enthusiastic responses would erase that distinction.
+
+
+7. ATTENTION AND THE BODY: THE TEMPTATION TO OVERINTERPRET
+
+
+Kiss, Szikora and Linnell (2024) studied 39 university students performing a vigilance task with self-selected background music and silence while tracking attention and pupil measures. The design is relevant because KLAAT may be played as background sound during work or ordinary activities, not only in a dedicated ritual setting. But pupil responses cannot be treated as a simple readout of KLAAT-induced activation. Pupil diameter is affected by light, effort, cognitive state, emotional factors and measurement conditions. The study does not establish that a KLAAT drone will improve focus or activate the autonomic nervous system.
+
+
+There is a broader conceptual problem: attention may both influence and result from a music experience. Someone who finds Ankora's pulse compelling may attend more closely to it, notice more microchanges, and then describe the sound as powerful. Another listener might work comfortably while hardly noticing it. These different uses are not evidence that one listener “received” the resonance and the other did not. They may simply be different modes of listening.
+
+
+In KLAAT's case, the performer experiences the bodily effort of circular breathing, mouthpiece resistance, simultaneous hand coordination and acoustic feedback. A passive listener does not share those motor demands. Paul's flow is therefore not direct evidence of the listener's trance. It is a legitimate artistic source of the music; listener effects require listener evidence.
+
+
+8. A COMPETING-EXPLANATIONS MODEL FOR A REAL KLAAT TAKE
+
+
+Imagine a future unedited two-minute Amastacia/Ankora recording. At 48 seconds, Ankora produces a denser attack pattern while Amastacia's fundamental persists. A listener later says, “That was the part that woke me up.” Several explanations remain possible:
+
+
+A. The sound-pressure envelope rose because drum attacks increased the delivered level. This could be checked only with appropriately calibrated playback measurement or, more modestly, a documented digital-level proxy.
+
+
+B. The overall level barely changed, but the spectrum became more transient-rich, rough or noisy. A time-resolved analysis might identify the change; it would not by itself establish why the listener felt activated.
+
+
+C. The listener detected a rhythmic grouping or anticipation that is poorly summarized by RMS or spectral entropy. The listener's own words may mention a build, turn, pull or urge to move. A tempo label alone would be inadequate.
+
+
+D. The listener likes this kind of pulse and texture. Prior preference could shape both attention and positive appraisal. The same passage might be unwanted by someone else.
+
+
+E. Context mattered: the listener had been bored, anxious, sleepy, driving, walking or watching the archaeosonic visuals. Expectations and competing tasks could change the report.
+
+
+F. A recording or playback artifact altered the passage—automatic gain control, compression, clipping, speaker resonance or spatial processing. Session 129 and Session 131 explain why the captured signal and delivered sound must not be assumed identical.
+
+
+These explanations are not mutually exclusive. The natural event might be a drum gesture that simultaneously increases RMS, spectral flux, pulse density and salience, while preference changes whether the listener welcomes it. Without independent variation or a well-designed contrast, no honest statistical method can identify one variable as THE cause. The result may still be useful as an observation about the whole authentic KLAAT passage.
+
+
+9. WHAT AN ANALYSIS OF UNALTERED RECORDINGS CAN ACTUALLY DO
+
+
+First preserve the original file and its provenance. Record date, duration, sample rate, channel count, encoding, device, microphone placement if known, room, processing and playback path. If the file is a phone video, do not assume the automatic microphone or video processing is neutral. Preserve the unmodified original before producing analysis copies.
+
+
+Then examine the recording in overlapping windows at multiple time scales. A few tens of milliseconds can reveal transients; hundreds of milliseconds to seconds can reveal breath and drum-event clusters; longer windows can summarize broad changes. No single window size is intrinsically correct. Plot waveform amplitude and a spectrogram; compute explicitly defined RMS, spectral flux and entropy if useful. Mark audible events by listening, not solely by an algorithm. Amastacia's continuous harmonic structure and Ankora's attacks may overlap in a single microphone track, so source separation is uncertain unless independently recorded channels exist.
+
+
+Do not confuse digital normalization with equal loudness at the ear. If comparing two excerpts, report how level was matched, whether the matching was peak, RMS, LUFS or measured acoustic SPL, and whether the operation altered dynamics. If processing a duplicate for a methodological test, label it a DERIVATIVE. Never replace the authentic performance with a processed variant and present it as the source work. No equalization, mastering or gain manipulation is needed for ordinary KLAAT creation.
+
+
+A graph may show that a listener-highlighted moment coincides with an RMS rise and a flux peak. That is a descriptive correspondence. With one passage, these variables are confounded. It does not establish that flux caused activation. Even with many windows, they are not independent trials: windows share a continuous performance, and one listener's repeated judgments are not new people. Use whole takes and listeners as the meaningful grouping levels.
+
+
+10. THE SIMPLEST LISTENER STUDY THAT WOULD BE WORTH DOING
+
+
+The KLS-001 baseline already favors authentic takes, an open-first response and a small exploratory listener group. Session 135 adds a narrow optional annotation, not a new mandatory protocol. Before hearing the excerpt, a willing listener can state whether they generally enjoy sustained drones, hand percussion, repetitive instrumental music, rough/noisy textures and unfamiliar acoustic music. These are separate tastes; do not combine them into a fake single “experimental-music preference score.” A brief prior-state note—alert, tired, distracted, neutral—may be helpful, but must not become an intrusive screening questionnaire.
+
+
+Play an authentic excerpt at comfortable level with the delivery path documented. Ask first, without cues: “What, if anything, did you notice or experience?” Preserve the verbatim answer. Only afterward, if the research requires a quantitative follow-up, ask separately whether the MUSIC seemed energetic, whether the LISTENER felt energized, and whether the experience was pleasant. Let “no change,” “unpleasant” and “uncertain” be legitimate responses. An optional timestamp or replay marker can locate a passage, but avoid interrupting every spontaneous experience with continuous ratings unless that is the explicit question.
+
+
+A modest within-listener comparison across several different authentic takes could explore whether the same person responds more strongly to naturally occurring dense/bright/noisy passages than to calmer ones. However, if the takes differ in level, tempo, texture, length, room and performance intention, any observed difference belongs to the WHOLE STIMULUS. It cannot be attributed to one feature. A stronger causal test would require controlled derivative contrasts or deliberately manipulated playback, which would answer a narrower psychoacoustic question and would not replace the authentic KLAAT listening experience. It is optional, not a demand on Paul's playing.
+
+
+For a tiny pilot, report individual narratives and descriptive distributions rather than significance stars. If eight listeners rate the same three passages, that is eight people with repeated measurements, not twenty-four independent listeners. Do not fit a multivariable model with more predictors than the dataset can support. Record contradictory responses as findings, not failures. The absence of a consistent effect can be as informative as a strong anecdote.
+
+
+11. A CAUSAL LADDER WITH HONEST LABELS
+
+
+ESTABLISHED OUTSIDE KLAAT: controlled manipulation of musical intensity can alter the arousal listeners perceive as expressed by music (Dean et al. 2011). Spectral features can predict substantial variation in subjective arousal ratings for sampled short classical excerpts even after amplitude normalization (Gingras et al. 2014). Musical preference can modify mood responses to a genre in a university sample (Vella et al. 2024/2025). Timbral roughness and related features influence perceived tension in controlled paired comparisons (Farbood & Price 2017).
+
+
+CONTEXT-DEPENDENT: the strength and direction of these relationships depend on stimulus type, task, familiarity, acoustic delivery, measurement method and what “arousal” means in the study. Perceived musical expression, felt emotion, motivation, physical work and autonomic physiology are separate endpoints. A good prediction in one dataset is not proof of an invariant human mechanism.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT: natural variations in Amastacia's overtone/noise field and Ankora's attack density may influence subjective energy independently of mean digital level. Prior liking for drones, repetition and rough texture may moderate whether that energy feels welcome. Listener attention and daily-life context may modify which features dominate experience. These remain hypotheses until KLAAT recordings and responses are examined.
+
+
+SPECULATIVE: a continuous drone might create an enduring perceptual reference against which changing drum density seems more forceful, allowing a subjective rise in momentum without a large level change. This is a reasonable listening hypothesis, not a measured neural mechanism or a guarantee of absorption.
+
+
+UNSUPPORTED: KLAAT causes trance, increases dopamine, entrains brainwaves, raises sympathetic tone, improves exercise performance, creates a uniquely effective C# frequency, or reliably energizes everyone. No KLAAT-specific listener, acoustic, neural or physiological data were analyzed here. Nor can one infer that more roughness, more loudness, more attacks or a higher BPM would make the music better. Artistic value is not an optimization target defined by a regression model.
+
+
+12. WHAT THIS CHANGES—AND WHAT IT DOES NOT
+
+
+This study changes the way we ask a question, not the way Paul is required to play. Amastacia's breath-led drone, Ankora's hide pulse, silence, friction, noise, repetition and emergent decisions remain the source of KLAAT. No imposed phase, scripted crescendo, tempo prescription, score or “science-approved” transition follows from these findings.
+
+
+It also guards against a tempting but misleading promotional sentence: “KLAAT's spectral complexity creates activation.” We do not know that. A more faithful statement is: “KLAAT explores the tension between sustained acoustic resonance and spontaneous pulse; listener responses to its changing texture remain an open subject of study.” This keeps the artistic identity strong without laundering an hypothesis into a result.
+
+
+The best discovery may eventually be that some listeners respond to sound level, some to rhythmic expectation, some to texture, some to the ancient/ritual framing, and some not at all. It may be that no single acoustic variable accounts for the experience. That would not invalidate KLAAT. It would describe the complexity of how a personal improvisation enters other people's lives.
+
+
+OPTIONAL KRX-135 — THE MOMENT THAT FELT ALIVE
+
+
+When one authentic, unedited recording is available, invite just one willing listener to hear it at a comfortable level without an introduction about trance, healing or “energy.” Ask afterward, “Was there any moment that stood out, and what was it like?” If they identify a moment, note its approximate timestamp and exact words. Later, listen to that same section yourself and note whether you hear a level swell, a texture change, a rhythmic change, several at once, or none that is obvious. Do not edit the recording, ask them to justify the feeling, or change your next improvisation to reproduce it. One honest mismatch between their experience and your acoustic impression is already a useful observation.
+
+
+PRIMARY RESEARCH AND METHODS (checked 2026-10-30)
+
+
+[1] Dean RT, Bailes F, Schubert E (2011). Acoustic Intensity Causes Perceived Changes in Arousal Levels in Music: An Experimental Investigation. PLOS ONE 6:e18591. DOI 10.1371/journal.pone.0018591. N=38 continuous ratings; manipulated intensity profiles; measured EXPRESSED musical arousal. https://doi.org/10.1371/journal.pone.0018591
+
+
+[2] Gingras B, Marin MM, Fitch WT (2014; online 2013). Beyond intensity: Spectral features effectively predict music-induced subjective arousal. Quarterly Journal of Experimental Psychology 67:1428–1446. DOI 10.1080/17470218.2013.863954. Two groups of 30 nonmusicians; 84 six-second classical excerpts; 65% variance explained in reported models by spectral flux and entropy; limited generalizability. https://doi.org/10.1080/17470218.2013.863954
+
+
+[3] Vella EJ, McDonough C, Goldstein H (2025 issue; first online 2024). Musical mood induction: The relative influences of music type and the importance of music preference. Psychology of Music 53:523–534. DOI 10.1177/03057356241254361. N=90 undergraduates; counterbalanced heavy metal/classical listening; preference predicted affective responses. https://doi.org/10.1177/03057356241254361
+
+
+[4] Farbood MM, Price KC (2017). The contribution of timbre attributes to musical tension. Journal of the Acoustical Society of America 141:419–427. DOI 10.1121/1.4973568. Paired timbre comparisons; tension is not identical to felt activation. https://doi.org/10.1121/1.4973568
+
+
+[5] Kiss L, Szikora B, Linnell KJ (2024). Music in the eye of the beholder: a pupillometric study on preferred background music, attentional state, and arousal. Psychological Research 88:1616–1628. DOI 10.1007/s00426-024-01963-8. N=39 vigilance task, preferred background music versus silence; pupil and attention outcomes are not a KLAAT activation assay. https://doi.org/10.1007/s00426-024-01963-8
+
+
+INTERNAL PROVENANCE
+
+
+Read connected Google Drive Master Instructions, Curriculum Index, Research Ledger and Session Corpus Volume II (latest Session 134); audited ChatGPT Library Published Studies and Curation Queue at run start; consulted Hourly Research notes through 2026-10-30 14:18 CDT, especially 09:22 attribution note and 12:15 longitudinal-provenance note. This session advances the explicit open question from Session 134 without duplicating the exercise context. No source recording or listener dataset was available. All hourly research notes remain intact. Canonical copy: /KLAAT Resonance Research/Published Studies/KLAAT_Resonance_Research_Session_135_2026-10-30_1521_CDT.txt.
+
+
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+END OF SESSION 135

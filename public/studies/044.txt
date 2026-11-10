@@ -1,0 +1,743 @@
+SESSION 44 — AUDITORY SCENE ANALYSIS: HOW THE BRAIN DECIDES WHETHER AMASTACIA AND ANKORA ARE TWO INSTRUMENTS—OR ONE SOUNDING ORGANISM
+ORIGINAL SESSION TEXT PRESERVED FROM PROJECT CONVERSATION
+
+
+Session 43 gave us roughness as a controllable dimension of activation. We now have a growing set of variables: amplitude, pulse rate, event density, predictability, masking, spectral density and roughness.
+
+
+But there is a deeper question underneath all of them:
+
+
+When Amastacia and Ankora are sounding simultaneously, what does the listener think they are hearing?
+
+
+Not intellectually. Perceptually.
+
+
+The acoustic world doesn't arrive at the ears conveniently labeled:
+
+
+DIDGERIDOO
+
+
+DRUM
+
+
+ROOM REFLECTION
+
+
+VOICE
+
+
+TRAFFIC OUTSIDE
+
+
+Instead, the ears receive two continuously changing pressure waveforms. The auditory system has to infer which pieces belong together.
+
+
+That process is generally studied under auditory scene analysis.
+
+
+And it gives KLAAT a completely new compositional target:
+
+
+control over whether Drone and Pulse remain perceptually separate or fuse into a single auditory object.
+
+
+The cocktail-party problem
+
+
+Imagine entering a crowded restaurant.
+
+
+Physically, sound from dozens of sources reaches your ears simultaneously:
+
+
+voices,
+
+
+silverware,
+
+
+music,
+
+
+HVAC,
+
+
+footsteps,
+
+
+glassware.
+
+
+Yet you can often follow one person's voice.
+
+
+Your auditory system has somehow grouped parts of the acoustic mixture into:
+
+
+that person speaking.
+
+
+This is called auditory streaming or auditory object formation.
+
+
+The brain uses several clues to decide what probably came from the same source.
+
+
+Among them are:
+
+
+frequency relationships,
+
+
+harmonicity,
+
+
+common onset,
+
+
+common amplitude changes,
+
+
+spatial location,
+
+
+timbre,
+
+
+temporal continuity.
+
+
+No single cue always determines the answer.
+
+
+The nervous system combines evidence.
+
+
+Common onset is powerful
+
+
+Imagine several frequencies begin at exactly the same moment.
+
+
+The auditory system has reason to infer:
+
+
+these components probably came from one event.
+
+
+That makes sense ecologically.
+
+
+Strike an object and many of its resonant modes begin together.
+
+
+So simultaneous onset is evidence of a common physical cause.
+
+
+Now think about Ankora.
+
+
+A strike produces many frequency components almost simultaneously:
+
+
+THUMP.
+
+
+The auditory system groups those frequencies into:
+
+
+one drum event
+
+
+rather than hearing dozens of unrelated tones.
+
+
+Harmonicity provides another grouping cue
+
+
+Suppose components occur at approximately:
+
+
+100 Hz
+
+
+200 Hz
+
+
+300 Hz
+
+
+400 Hz
+
+
+500 Hz.
+
+
+Their integer relationships suggest a shared periodic source.
+
+
+The auditory system tends to group harmonically related components.
+
+
+This is one reason a harmonically rich sound can still be perceived as one pitch-bearing object rather than many individual tones.
+
+
+Amastacia depends heavily on this.
+
+
+Its spectrum can be enormously complex while still being heard as:
+
+
+one drone.
+
+
+But vocalization and nonlinear playing can weaken or complicate that harmonic organization.
+
+
+As you increase spectral instability and roughness, parts of Amastacia may begin feeling less like one unified tone and more like a collection of interacting textures.
+
+
+That's a perceptual transition we can exploit.
+
+
+Temporal coherence matters enormously
+
+
+Suppose two spectral regions rise and fall together.
+
+
+Every time one gets louder, the other gets louder.
+
+
+Every time one weakens, the other weakens.
+
+
+The auditory system has evidence that they belong to the same source.
+
+
+This principle is sometimes described in terms of temporal coherence.
+
+
+Now imagine Amastacia's spectral components fluctuate with your breath.
+
+
+They move together.
+
+
+The brain groups them.
+
+
+But Ankora follows an independent amplitude envelope:
+
+
+attack → decay
+
+
+attack → decay
+
+
+attack → decay.
+
+
+Therefore Drone and Pulse initially provide strong evidence that they are separate auditory objects.
+
+
+But KLAAT can deliberately weaken that separation
+
+
+Imagine Ankora strikes exactly when Amastacia receives a strong breath-pressure accent.
+
+
+Every time:
+
+
+Drone swells + Drum strikes
+
+
+Again:
+
+
+Drone swells + Drum strikes
+
+
+Again:
+
+
+Drone swells + Drum strikes.
+
+
+Now two previously independent sound sources share temporal structure.
+
+
+The auditory system receives increasing evidence that they belong together.
+
+
+Not physically—they obviously remain two instruments.
+
+
+But perceptually, the boundary can become less distinct.
+
+
+The listener may begin experiencing something closer to:
+
+
+one composite event.
+
+
+This is potentially huge for KLAAT.
+
+
+Synchronization can create perceptual fusion
+
+
+We've previously discussed synchronization mainly as rhythm.
+
+
+Now consider synchronization as source identity.
+
+
+Early performance:
+
+
+Amastacia —————————
+
+
+Ankora     THUMP      THUMP
+
+
+Clearly separate behaviors.
+
+
+Later:
+
+
+Amastacia ———WAA———WAA———WAA——
+
+
+Ankora       THUMP   THUMP   THUMP
+
+
+If those Amastacia articulations precisely coincide with Ankora, they begin forming repeating compound events:
+
+
+WAA-THUMP
+
+
+The auditory system learns that unit.
+
+
+After enough repetition, the perceptual object may no longer be:
+
+
+“didgeridoo plus drum.”
+
+
+It becomes:
+
+
+that KLAAT event.
+
+
+That is exactly the kind of transformation worth pursuing.
+
+
+Spatial position can strengthen or weaken separation
+
+
+Auditory localization provides another grouping cue.
+
+
+If Amastacia comes strongly from the listener's left and Ankora from the right, their identities remain relatively easy to separate.
+
+
+Bring their apparent acoustic origins closer together and spatial evidence for separation decreases.
+
+
+Room reflections complicate this further.
+
+
+In a reverberant space, reflected energy surrounds the listener.
+
+
+Source boundaries can become less precise.
+
+
+This means room acoustics could affect whether KLAAT feels like:
+
+
+two performers/instruments in a room
+
+
+or:
+
+
+one acoustic field occupying the room.
+
+
+That is a much more interesting use of reverberation than simply wanting things to sound “big.”
+
+
+Attention can reorganize the scene
+
+
+Here's another fascinating part.
+
+
+The acoustic signal can remain identical while perception changes depending on what the listener attends to.
+
+
+Listen specifically for Ankora:
+
+
+suddenly you notice membrane decay, tiny timing differences, high attack components.
+
+
+Shift attention to Amastacia:
+
+
+the drum may recede while internal harmonics become prominent.
+
+
+Shift attention to the room:
+
+
+reflections appear.
+
+
+Nothing physically changed.
+
+
+Perceptual organization changed.
+
+
+This is another reason KLAAT shouldn't constantly demand attention through novelty.
+
+
+Long repetition can allow listeners to explore different layers of the same acoustic environment.
+
+
+One person may spend several minutes “inside” Ankora.
+
+
+Then Amastacia suddenly becomes foreground.
+
+
+Then breath.
+
+
+Then room resonance.
+
+
+The stimulus remains relatively stable while subjective experience moves.
+
+
+That is valuable.
+
+
+There is a famous streaming phenomenon
+
+
+Present alternating tones:
+
+
+HIGH – LOW – HIGH – LOW – HIGH – LOW
+
+
+Slowly, listeners often hear:
+
+
+HIGH-LOW-HIGH-LOW
+
+
+as one alternating sequence.
+
+
+Increase the presentation rate or frequency separation and perception can reorganize into:
+
+
+HIGH HIGH HIGH HIGH
+
+
+and
+
+
+LOW LOW LOW LOW
+
+
+as two simultaneous streams.
+
+
+The physical sequence hasn't changed category.
+
+
+The brain's organization of it has.
+
+
+This demonstrates something central:
+
+
+auditory objects are perceptual constructions.
+
+
+There isn't always one objectively correct way to divide an acoustic scene.
+
+
+KLAAT can compose that boundary
+
+
+Now imagine the whole session architecture through this lens.
+
+
+Ground Anchor
+
+
+Amastacia establishes one dominant auditory object.
+
+
+Threshold Gate
+
+
+Ankora appears as a clearly separate object:
+
+
+Drone + Pulse.
+
+
+Rising Pulse
+
+
+Timing becomes increasingly coordinated.
+
+
+Amastacia articulations synchronize with Ankora.
+
+
+Spectral density increases.
+
+
+Masking increases.
+
+
+Room energy increases.
+
+
+Auditory and tactile events align.
+
+
+The distinction between Drone and Pulse may gradually weaken.
+
+
+At peak intensity, the listener could experience:
+
+
+KLAAT as one multisensory object.
+
+
+Then Return Path begins.
+
+
+Ankora separates.
+
+
+Density decreases.
+
+
+Temporal coupling weakens.
+
+
+The composite object decomposes:
+
+
+KLAAT → Drone + Pulse → Drone → Room.
+
+
+That gives the architecture another interpretation.
+
+
+You're not only changing intensity.
+
+
+You're performing:
+
+
+assembly → fusion → disassembly.
+
+
+This may be the strongest conceptual model we've developed yet
+
+
+Because it connects several previous sessions.
+
+
+Masking controls which components remain visible to hearing.
+
+
+Roughness changes internal spectral texture.
+
+
+Temporal prediction creates shared timing expectations.
+
+
+Vibrotactile synchrony connects bodily and auditory events.
+
+
+Adaptation establishes sensory baselines.
+
+
+Auditory scene analysis determines whether all those components remain separate or become one perceptual object.
+
+
+The pieces are starting to converge.
+
+
+KLAAT can potentially be understood not as two instruments producing music but as a deliberately constructed multisensory perceptual system.
+
+
+That's a much stronger research direction.
+
+
+Evidence boundary
+
+
+Established: the auditory system organizes complex acoustic mixtures into perceptual streams and auditory objects.
+
+
+Established: harmonic relationships, common onset, temporal coherence, spatial location and spectral characteristics contribute to auditory grouping.
+
+
+Established: identical acoustic sequences can sometimes produce different perceptual organizations.
+
+
+Established: attention influences which components of an auditory scene become perceptually prominent.
+
+
+Established: spatial separation can assist segregation of competing sound sources.
+
+
+Highly plausible: Amastacia and Ankora can move between stronger perceptual separation and stronger perceptual integration depending on timing, spectral overlap and spatial presentation.
+
+
+Testable: synchronizing Amastacia articulations precisely with Ankora should increase listener reports that the instruments feel perceptually unified.
+
+
+Unknown: whether the particular KLAAT performance techniques you're currently using already produce a reliable fusion point.
+
+
+We haven't measured it.
+
+
+Not established: perceptual fusion means the listener's nervous system, instruments and performers have literally become physically synchronized as one resonant system.
+
+
+That's poetic language, not a scientific conclusion.
+
+
+KLAAT Experiment #44 — Find the Fusion Point
+
+
+Use one simple Ankora pulse.
+
+
+Keep tempo and intensity constant.
+
+
+Perform three approximately two-minute conditions.
+
+
+Condition 1 — Independence
+
+
+Play Amastacia continuously.
+
+
+Do not coordinate its articulations with Ankora.
+
+
+Let Drone and Pulse behave independently.
+
+
+Condition 2 — Partial coupling
+
+
+Begin occasionally emphasizing Amastacia on Ankora strikes.
+
+
+Maybe every fourth Pulse.
+
+
+Then every second.
+
+
+Don't change volume dramatically.
+
+
+You're changing temporal relationship.
+
+
+Condition 3 — Strong coupling
+
+
+Synchronize Amastacia's strongest articulations as precisely as possible with Ankora.
+
+
+Create a repeating compound event:
+
+
+DRONE-THUMP — DRONE-THUMP — DRONE-THUMP.
+
+
+Afterward, don't ask whether they liked one more.
+
+
+Ask:
+
+
+“At any point did the drum and drone stop feeling like two separate sounds?”
+
+
+Then:
+
+
+“If so, when?”
+
+
+Repeat it with different listeners.
+
+
+If people independently identify a similar transition, you've discovered something extremely useful:
+
+
+KLAAT has a perceptual fusion threshold.
+
+
+Eventually we can manipulate that deliberately.
+
+
+Ground Anchor establishes the Drone.
+
+
+Threshold Gate introduces the Pulse.
+
+
+Rising Pulse gradually destroys the distinction between them.
+
+
+At peak:
+
+
+there is no Amastacia.
+
+
+There is no Ankora.
+
+
+There is simply KLAAT.
+
+
+And Return Path pulls that perceptual organism apart until the listener is left with the thing that was there before either instrument began:
+
+
+the room.

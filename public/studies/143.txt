@@ -1,0 +1,330 @@
+KLAAT RESONANCE RESEARCH — SESSION 143
+
+
+THE DRUMBEAT THE RECORDING LOST
+When Amastacia masks Ankora, a measured fall in strike count may be a failure of observation rather than a change in the performance
+
+
+Published: 2026-11-02, 09:44 CST (America/Chicago)
+Governing principle: Experience-led creation. Science-informed refinement.
+Status: Research synthesis and testable KLAAT application. No new KLAAT audio or listener data were analyzed.
+
+
+RESEARCH QUESTION
+
+
+Ankora is a physical instrument. Paul can feel a finger or palm contact even when a phone microphone records a dense, shifting mixture of drum membrane, frame resonance, Amastacia's low drone, breath turbulence, room reflections and its own automatic processing. If an onset-detection program finds forty drum strikes in one passage and thirty in another, did Paul's hands slow down? Or did ten strikes become difficult for the recording or the detector to distinguish?
+
+
+This is not merely an engineering footnote. The pulse is one of KLAAT's two central acoustic materials. If we misread the recorded pulse, we may invent an acceleration, a retreat, a dramatic threshold, or a relationship with listener activation that never occurred as described. Equally, if a listener hears a compelling rhythm where a detector finds few discrete drum attacks, the listener has not necessarily made a mistake. Perceived pulse and machine-detected onset are different things.
+
+
+The aim of this session is to make those distinctions precise enough to be useful when Paul's existing phone recordings arrive. Nothing here asks him to make a cleaner beat, keep a fixed tempo, perform a prescribed section, or separate his instruments while improvising. The musical event comes first. The research must earn its interpretation of that event.
+
+
+1. THE NOVELTY GATE
+
+
+Earlier KLAAT studies already established several relevant principles. Session 22 examined auditory masking in general; Session 41 examined how Amastacia can conceal other sounds in a listener's hearing. Session 91 examined auditory-scene descriptions. Session 118 distinguished independent takes from repeated excerpts. Session 137 warned that a drum recording cannot uniquely reveal the instrument or the strike. Session 140 warned against discovering and confirming a correlation on the same selected observations. Session 142 distinguished a performer's intention, the resulting sound, and what listeners notice.
+
+
+This session addresses a different problem: SELECTIVE MISSING EVENTS in a time series. A detector may fail more often on weak Ankora contacts precisely when Amastacia becomes spectrally or dynamically active. Such missingness is not random. It can change estimated strike density, interval variability, transition location, and correlations with listener responses, even when the underlying motor event series has not changed. The November 2, 03:18 CST hourly research note developed this specific observation-thinning question, checked primary drum-transcription literature, and remains preserved as provenance. Later notes on shared listening occasions, phone stabilization, source-to-microphone travel time, acausal filtering, finite-sample phase locking, and repeated segmentation concern different measurement problems. The new contribution here is a full acoustic-to-perceptual model and a defensible KLAAT analysis strategy for missing strikes.
+
+
+2. FIVE EVENTS THAT MUST NOT BE COLLAPSED
+
+
+Consider a very quiet Ankora contact made during a forceful breath articulation on Amastacia. At least five descriptions are possible.
+
+
+First, a MOTOR EVENT occurs: Paul's hand contacts or releases the drum. This may be visible on video or remembered by the performer. A contact need not be an intended musical accent; it may be a brush, muted touch, rim contact, damping gesture, or movement with little radiated sound.
+
+
+Second, the drum produces a PHYSICAL ACOUSTIC RESPONSE. The membrane and frame move, but the movement is distributed across modes and surfaces. A contact is not an infinitely short ideal impulse. Some energy may be retained mechanically or directed away from a microphone.
+
+
+Third, a CAPTURED MIXTURE reaches the recorder. The phone does not receive an isolated drum. It receives a combination of sound fields and room paths, then possibly automatic gain control, compression, noise suppression, limiting and lossy encoding. These processes can alter relative salience without changing the original performance.
+
+
+Fourth, an ANNOTATOR OR ALGORITHM makes a detection decision. A person looking at a waveform, a human listening through headphones, and a trained drum-onset detector do not use the same evidence. Each has thresholds, uncertainty, and possible false alarms.
+
+
+Fifth, a LISTENER constructs a rhythmic experience. That experience can involve meter, expectation, movement impulse, grouping and memory. The listener may infer a continuing beat through faint or absent accents; alternatively, a physical drum contact may be present but not perceived as a separate event.
+
+
+A sentence such as 'the drum disappeared' therefore requires a subject. Did the hand stop? Did the radiated drum component weaken? Did the recording conceal it? Did the algorithm miss it? Did the listener stop hearing a pulse? These are not interchangeable claims.
+
+
+3. WHY THE MIXTURE IS HARD TO INVERT
+
+
+In an idealized linear capture model, a microphone signal is approximately
+
+
+x(t) = [h_A * a](t) + [h_D * d](t) + n(t),
+
+
+where a(t) represents Amastacia's radiated sound, d(t) represents Ankora's radiated sound, h_A and h_D are the room-and-microphone paths, * denotes convolution, and n(t) denotes other sound. This is an illustrative model, not a measured KLAAT equation. Real phone processing may be time-varying or nonlinear, so a simple sum can fail after automatic processing.
+
+
+The equation reveals the inverse problem. We hear or measure x(t), but we do not know a(t), d(t), both paths, and the processing from one mixed recording alone. Many combinations can produce similar mixtures. A short burst of Amastacia breath noise can resemble a percussive onset. A soft drum contact may be hidden beneath that burst. A ringing Ankora membrane may contribute sustained spectral energy that a simple algorithm treats as background rather than percussion.
+
+
+This is why 'harmonic' and 'percussive' source-separation outputs must not be relabeled 'Amastacia' and 'Ankora' without validation. Harmonic/percussive separation classifies time-frequency shapes. A frame drum can ring; a drone can attack. The two categories describe signal morphology, not an instrument's identity. The November 1, 23:16 CST hourly note examined this distinction in detail.
+
+
+4. MASKING IN THE EAR IS NOT MISSINGNESS IN THE SOFTWARE
+
+
+Auditory masking is a perceptual phenomenon: one sound raises the threshold for detecting another under particular spectral and temporal conditions. The classic auditory-filter work of Moore and Glasberg (1983) models how energy is integrated across frequency in the human auditory system. Bacon and Viemeister (1985) demonstrated that the detectability of a brief tone within a longer masker depends on when it occurs and on the frequency relation between signal and masker. These controlled tones are not KLAAT, but they establish that detectability is context dependent.
+
+
+Software onset detection is a different process. A detector may inspect positive spectral changes, transient templates, learned features, or a combination of these. It may fail because a quiet drum onset does not produce a large enough change in the MIXED spectrum, even if a listener hears it. It may also flag a strong Amastacia articulation as an onset when no Ankora contact occurred.
+
+
+A human listener can use expectations across several seconds. A software detector may use a short analysis window. The listener can sometimes follow an implied pulse despite acoustic ambiguity; the detector can sometimes identify a transient that is not perceptually important. Neither has automatic access to the underlying hand-contact sequence.
+
+
+The practical distinction is essential: a detector's missed event is a comparison with a defined reference event; a listener's unheard event is a psychophysical report. One cannot substitute for the other. A clean algorithmic onset trace does not establish that an audience felt a stronger groove, nor does a listener's sense of pulse validate every onset timestamp.
+
+
+5. WHAT THE PRIMARY DRUM-RECOGNITION STUDIES ACTUALLY SHOW
+
+
+Yoshii, Goto and Okuno (2007) developed drum recognition for polyphonic popular music using adapted spectral templates and suppression of harmonic components. They evaluated 70 songs and reported onset-detection figures of 83% for bass drum, 58% for snare drum and 46% for hi-hat. Those are results for the instruments, material, definitions and algorithm of that study. They are NOT predicted detection rates for Ankora, and the study does not measure KLAAT listeners.
+
+
+The important observation is the nonuniformity: even in a carefully designed system, different drum classes can have very different recognition outcomes in mixtures. An algorithm does not simply detect 'drums' with one stable probability.
+
+
+Paulus and Klapuri (2009) evaluated connected hidden Markov models on 64 accompanied drum tracks, divided into groups of 21, 21 and 22 tracks from three drummers. Tracks lasted about 30–75 seconds, averaging 55 seconds. The design compared drums-only material with a balanced accompaniment mixture and used a leave-one-drummer-out evaluation. Its results emphasized that snare transcription remained difficult, even without accompaniment, partly because snare sounds include varied playing methods and very quiet ghost hits. A detected onset was matched to an annotated reference within a study-specific 30-millisecond tolerance.
+
+
+Three lessons transfer as methodological cautions. First, quiet events are not reliably represented merely because louder ones are. Second, accompaniment can change recognition, so one accuracy number does not necessarily apply to all passages. Third, performance on familiar Western drum kits does not validate a detector on an elk-hide frame drum being played by hand against an agave didgeridoo. The relevant domain shift is substantial.
+
+
+A fourth lesson is easy to miss: reference annotation itself requires a decision about what counts as an event. Is a very soft brushing contact a strike? Does a double contact count as one event or two? A reference can be carefully defined and still be incomplete relative to a performer's embodied experience. There is no universal ground-truth onset series waiting inside the waveform.
+
+
+6. THE MATHEMATICS OF SELECTIVE OBSERVATION
+
+
+Suppose a passage contains N physical drum events under a declared definition. Let I_i equal 1 if event i is detected and 0 otherwise. If event i has detection probability p_i, the observed count is M = sum(I_i), and its expected value is E[M] = sum(p_i). Only if every p_i equals 1 does the expected observed count equal N. If probabilities differ, the observed series selectively represents some event types better than others.
+
+
+Consider an entirely hypothetical demonstration. Two equal-duration KLAAT passages each contain exactly fifty true Ankora strikes. In each, thirty are relatively strong and twenty are faint. Strong strikes are detected with probability 0.90 in both passages. Faint strikes are detected with probability 0.80 in the first passage but 0.30 in the second, perhaps because a more active drone makes them harder for a particular detector to distinguish.
+
+
+Expected detections in passage one: 30(0.90) + 20(0.80) = 43.
+Expected detections in passage two: 30(0.90) + 20(0.30) = 33.
+
+
+The measured count would be expected to fall by ten, approximately 23.3% relative to 43, even though the true strike count remains fifty in each passage. These are mathematical expectations under assumed probabilities, not observed fractional events, KLAAT data, or an estimate of how Amastacia actually masks Ankora.
+
+
+This problem is called informative observation or unequal-probability thinning. A missed event is more likely for a certain kind of event or context. The bias can be directionally misleading: if the drone becomes richer at the same moment, a naïve plot might show 'more drone energy, fewer drum strikes.' That inverse relationship could be produced partly by the measurement process rather than by Paul's hands.
+
+
+The converse is possible. A burst of breath turbulence may cause false drum detections. An apparent increase in strike density may then be a mixture of genuine strikes and false positives. Both misses and false alarms must be tracked.
+
+
+7. THE INTERVAL TRAP
+
+
+Missing events distort more than total counts. Imagine actual strikes at 0.00, 0.50, 1.00, 1.50 and 2.00 seconds. The true inter-strike intervals are four equal 0.50-second gaps. If the event at 1.00 seconds is missed, the detected sequence becomes 0.00, 0.50, 1.50 and 2.00. Its intervals are 0.50, 1.00 and 0.50 seconds.
+
+
+A researcher could now calculate greater interval variability, a temporary slowing, or an anomalous gap. None was present in the constructed physical event sequence. A different miss pattern could produce an apparent rhythmic subdivision or two-to-one alternation. These effects arise from annotation, not necessarily from improvisation.
+
+
+This matters for KLAAT because pulse continuity and spontaneous variation are artistically significant. We must not call an unverified missing detection an expressive pause, nor should we erase a genuine pause as a supposed algorithm error. The correct label for an ambiguous interval is 'uncertain under the current event definition and recording evidence.'
+
+
+The same principle applies to burstiness statistics. The November 2, 01:20 CST hourly note showed that pooling naturally sparse and dense regions can inflate a count-variance measure without establishing a stochastic burst process. Missing faint strikes can add a second distortion. Rate variation and observation variation should be considered separately before attaching psychological language to a numerical rhythm metric.
+
+
+8. PRECISION, RECALL AND WHAT THEY CANNOT TELL US
+
+
+With a declared reference event set and a declared time-matching rule, detector performance can be summarized by true positives (TP), false positives (FP) and false negatives (FN). Precision is TP/(TP+FP); recall is TP/(TP+FN); and F1 is their harmonic mean. The reference must specify how simultaneous contacts, rolls, damping, brush sounds and ambiguous onsets are handled. A matching tolerance must be justified and reported rather than treated as a universal perceptual constant.
+
+
+A high precision score can coexist with low recall if a detector reports only the loudest, easiest strikes. Such an algorithm might produce a tidy-looking pulse that leaves out much of Ankora's quieter texture. A high recall score can coexist with poor precision if breath articulations and room noises are mislabeled as strikes. F1 compresses those different error profiles into one number and does not reveal whether misses concentrate during high drone energy.
+
+
+A more useful KLAAT audit would compare recall separately for weak versus strong contacts and for low versus high simultaneous Amastacia activity, provided those categories can be defined independently of the detector under evaluation. If only the detector's own amplitude estimate is used to classify a strike as 'weak,' undetected strikes never enter the category, creating a circular test.
+
+
+The unit of independence also matters. Fifty strikes from one improvisation are not fifty independent performances. Adjacent strokes share technique, room, microphone position, processing state and musical context. Any confidence interval or model must respect that hierarchy. Session 118 already established the danger of treating adjacent clips as independent replicates; the same reasoning applies to adjacent detected onsets.
+
+
+9. WHY A PHONE MAY CHANGE THE APPARENT BALANCE
+
+
+The phone is not a neutral acoustic witness. Its microphone position may favor Amastacia's radiating opening over Ankora's membrane, or the reverse. Its acoustic path includes distance, orientation, reflections and frequency-dependent directivity. The November 2, 06:18 CST hourly note calculated that one additional meter of direct sound travel corresponds to roughly 2.9 milliseconds at 20 degrees Celsius. Such differences matter for fine timing, although they do not by themselves explain every missed event.
+
+
+A phone may also alter the mixture electronically. Automatic gain control can reduce gain after a loud event; a limiter can constrain peaks; noise suppression can modify sustained and transient components; a codec can change temporal detail. These are possible mechanisms, not confirmed properties of Paul's particular clips. We should inspect actual recording metadata and, where feasible, compare raw or minimally processed captures before attributing a spectral change to performance.
+
+
+The important counterfactual question is: would the same faint drum contact be easier to detect if Amastacia were absent, quieter, or recorded through a different microphone path? That counterfactual is not observable from a single mixed take without assumptions. A controlled calibration recorded separately can inform the detector, but it cannot recreate the exact spontaneous event. Repeatedly playing the same recording through different devices changes playback evidence, not the original capture.
+
+
+10. TWO VERY DIFFERENT KINDS OF 'SEPARATION'
+
+
+It is tempting to run a source-separation algorithm, declare the percussive output 'Ankora,' and count its peaks. This may be a useful exploratory visualization but not an independent truth source. If the separator was trained on drum kits and electronic music, an elk-hide frame drum may be out of distribution. A low drum mode can leak into the harmonic stream. A forceful didgeridoo consonant can leak into the percussive stream. Changing the STFT size, hop or median-filter kernel can move borderline energy between streams.
+
+
+The November 1, 23:16 CST hourly note showed how nominal harmonic/percussive filter kernels span different physical durations and frequency ranges as analysis settings change. A stable interpretation must survive reasonable parameter choices, or the result should be reported as parameter-dependent.
+
+
+True source-specific reference recording is a different concept. If future sessions use separate microphones close to the two instruments, those tracks can help assess event timing and relative strength. They are still not perfectly isolated because both instruments radiate into the room. Nonetheless, a close drum channel, a room channel and the original phone capture together may make missing-event analysis much more credible than one algorithmically separated stem. None of this requires Paul to stop playing both instruments simultaneously.
+
+
+11. THE LISTENER MAY HEAR MORE — OR LESS — THAN THE DETECTOR
+
+
+A listener can maintain a pulse even when some accents are weak or absent. This is not necessarily hallucination; temporal expectation is part of ordinary musical perception. Witek and colleagues (2014) tested how polyphonic context, instrumentation, metrical position and musical training interact in judgments and tapping to syncopated drum patterns. Their results show that rhythmic stability cannot be inferred from onset placement alone without considering the musical configuration and the listener. Those were structured drum-kit stimuli, not KLAAT.
+
+
+Hoesl and Senn (2018) compared modeled syncopation with pairwise judgments by twenty-five professional musicians across six popular-music drum patterns. Their original model did not fit perceived syncopation adequately in some conditions; a revised fit improved on those six patterns, but the authors emphasized the limited stimulus range. The caution is broader than any particular syncopation metric: a mathematically attractive description of rhythmic events is not automatically a validated description of what listeners experience.
+
+
+This is especially important for a drone-and-pulse practice. Amastacia may supply continuity, tension or articulation while Ankora supplies explicit attacks. A listener may feel forward motion during a relatively sparse drum passage, or may feel crowded during a dense passage. Such reports would be genuine subjective data if collected, but their cause would remain an open question. No software-derived onset count can substitute for the report, and the report alone cannot prove a neural mechanism.
+
+
+12. THREE COMPETING EXPLANATIONS FOR ONE APPARENT TRANSITION
+
+
+Suppose a future KLAAT waveform shows an abrupt fall in detected Ankora onsets during an especially noisy, forceful Amastacia passage. We should hold at least three explanations open.
+
+
+Explanation A: REAL PERFORMANCE CHANGE. Paul actually made fewer qualifying drum contacts. The detected count is substantially correct. The transition may be spontaneous and musically meaningful.
+
+
+Explanation B: CAPTURE OR DETECTION CHANGE. Paul's contact rate stayed similar, but the drum-to-drone contrast, microphone response or detector threshold changed. The apparent transition is exaggerated or created by selective misses.
+
+
+Explanation C: MIXED CHANGE. Paul made somewhat fewer contacts and the remaining contacts became harder to detect. The measured count exaggerates a real shift.
+
+
+There may also be false positives on either side of the transition. Without independent evidence, these explanations are not identifiable from a single onset trace. A scientifically careful caption might say, 'Detected transient density fell in the mixed phone recording under detector version X,' not 'Paul slowed the pulse' or 'the music entered a trance phase.'
+
+
+That wording is not pedantry. It preserves the difference between describing a recording and interpreting a performance. It protects KLAAT's improvisational identity from invented structures just as much as it protects the research from overclaiming.
+
+
+13. HOW TO BUILD AN HONEST EVENT REFERENCE WITHOUT WRITING A SCORE
+
+
+A useful reference is a documentation standard, not a composition. Begin with the untouched original video/audio. Define a qualifying event narrowly enough to be reproducible: for example, an audible or visible Ankora hand-to-head contact, with separate tags for clear attack, brush/damping contact, probable contact and indeterminate motion. Do not retroactively label every ambiguous sound as a strike merely to make a rhythmic plot look complete.
+
+
+Where video is available, it may supply independent evidence of hand motion, but it is not infallible. The November 2, 05:19 CST hourly note warned that phone image stabilization can warp observed trajectories; frame rate, rolling shutter, occlusion and video/audio offsets also matter. A visible hand approaching the head is not proof of audible impact. Conversely, a sound can occur outside the frame. Cross-channel agreement should increase confidence without being mistaken for certainty.
+
+
+For a small validation subset, an annotator could mark candidate events while blinded to the algorithm's predictions. A second annotator, if available, could review disagreements. Preserve 'uncertain' as a legitimate label. Then evaluate whether detection errors cluster in passages with greater Amastacia activity. The latter must be defined with a reproducible acoustic proxy—such as a specified time-frequency energy measure—and acknowledged as a proxy for mixed sound, not an isolated measurement of Amastacia.
+
+
+If source-isolated calibration clips become available, they may help estimate detector behavior across known mixtures, but any synthetic remix should be labeled a calibration condition, not an authentic KLAAT performance. An algorithm that works on isolated taps and synthesized mixtures still needs evaluation on natural simultaneous improvisation.
+
+
+14. THE UNIDENTIFIABILITY BOUNDARY
+
+
+There is a limit to what can be rescued from old recordings. If a faint contact produced no distinguishable trace in the captured waveform and the video does not show it, we may never know it occurred. No spectral algorithm can manufacture missing ground truth. Estimating the total true strike count from observed detections would require justified detection probabilities, a defensible event definition, and assumptions about unobserved events. The classic Horvitz–Thompson approach to unequal-inclusion-probability sampling illustrates why inverse-probability weighting requires known or estimated inclusion probabilities; it is not a magic correction for an uncalibrated phone recording.
+
+
+The right scientific answer can be 'not identifiable from these data.' That does not diminish the music. The performer and listener are having an experience; the archive is a partial measurement of it. A partial measurement can still be valuable when its limits are explicit.
+
+
+15. WHAT THIS MEANS FOR KLAAT'S ARTISTIC IDENTITY
+
+
+KLAAT's minimal instrumentation makes each material exposed, but not necessarily easy to separate. A persistent low-frequency field and a membrane pulse can interact so that one changes the apparent clarity of the other. That interaction may be aesthetically essential. A detector that struggles during the richest passages may be telling us something about the limits of the detector, not that the music has become less coherent.
+
+
+There is no reason to engineer the improvisation around a machine's preference for loud, evenly spaced transients. A model trained to count clear strikes might reward a mechanical style and penalize subtle hand contact, variable attack and breath interference. That would be a poor artistic criterion. The task is to refine observation so that the research can follow KLAAT's existing character, not to alter KLAAT until its recordings become easy to transcribe.
+
+
+Likewise, a listener may find a moment intensely energizing precisely because the drone and pulse become difficult to disentangle. That is a plausible phenomenological possibility, not a finding. To establish it, we would need actual listener reports and an appropriate comparison that separates acoustic energy, perceived pulse, expectation and recording conditions. A strong subjective reaction cannot be inferred from a masked onset, and a masked onset cannot be inferred from a strong reaction.
+
+
+16. EVIDENCE CLASSIFICATION
+
+
+ESTABLISHED: Polyphonic drum-transcription systems have measurable and instrument-dependent errors; low-level/varied hits can be difficult to recognize; auditory masking and temporal context affect human detectability; a sequence with selectively missing events can produce biased counts and intervals; inverse-probability correction requires justified observation probabilities.
+
+
+CONTEXT-DEPENDENT: The size and direction of those errors depend on source sounds, microphone geometry, room, codec, algorithm, threshold, annotation convention and listening task. Studies of popular-music drum kits do not supply Ankora-specific detection rates. A listener's beat perception need not match a machine's event list.
+
+
+PLAUSIBLE AND TESTABLE FOR KLAAT: Soft Ankora contacts may be missed more often when Amastacia has strong broadband breath articulations or overlapping spectral energy. Detected strike density may therefore understate actual contact density in some passages. Independent video annotations, close-mic reference channels, and parameter-sensitivity checks could reveal whether this occurs in representative recordings.
+
+
+SPECULATIVE: Some KLAAT passages that look rhythmically sparse to an algorithm may feel unusually continuous or energetic to listeners because temporal prediction bridges faint attacks. This is not yet an observed relationship in KLAAT and could fail in real testing.
+
+
+UNSUPPORTED: KLAAT has demonstrated neural entrainment, altered consciousness, autonomic synchronization, therapeutic effects, special effects of C#, or a particular rate of missed drum events. It is also unsupported to call every detector gap an intentional musical rest, every visible hand motion a sounded strike, or every source-separated percussive component Ankora.
+
+
+17. DURABLE RESEARCH RULE
+
+
+For any future KLAAT rhythm analysis, report the hierarchy:
+
+
+HAND CONTACT / RADIATED DRUM SOUND / CAPTURED MIXTURE / DETECTED EVENT / PERCEIVED PULSE.
+
+
+For detected events, report detector version, event definition, threshold, matching tolerance, recording provenance, error checks and uncertain cases. Never treat a change in detected count as a change in Paul's playing until the observation process has been examined. Never treat a change in perceived groove as a direct measurement of contact count. Preserve the raw recording and any original annotations.
+
+
+This rule integrates with Session 140's discovery/confirmation separation: if a detector is tuned after seeing the passage whose rhythmic transition we want to explain, that passage cannot independently confirm the tuned interpretation. Use other untouched takes or a predeclared holdout when making general claims. A single exploratory case is still worthwhile if labeled honestly.
+
+
+18. ONE OPTIONAL, LOW-PRESSURE OBSERVATION
+
+
+When one of Paul's ordinary phone videos is available, choose a short segment that he already finds musically interesting. Listen once without looking at a waveform and note whether the drum pulse seems continuous, sparse or ambiguous. Then, without changing the performance, watch the same segment and mark only a few CLEAR Ankora contacts plus any uncertain ones. Finally, compare those notes with whatever waveform or onset trace is available. If a contact seems visible but acoustically obscure, label it 'possible missed event,' not 'proven masking.' If the sound and picture disagree, leave the disagreement open.
+
+
+No prescribed tempo. No metronome. No revised score. No demand for a different performance. The exercise is simply to learn what the recording can and cannot tell us about the sound that was already made.
+
+
+The music remains free. The research follows it.
+
+
+PRIMARY RESEARCH AND TECHNICAL SOURCES (verified 2026-11-02)
+
+
+1. Yoshii K, Goto M, Okuno HG (2007). 'Drum Sound Recognition for Polyphonic Audio Signals by Adaptation and Matching of Spectrogram Templates With Harmonic Structure Suppression.' IEEE Transactions on Audio, Speech, and Language Processing 15(1):333–345. DOI 10.1109/TASL.2006.876754. Primary evaluation on 70 popular songs, reporting 83%, 58% and 46% onset-detection figures for bass drum, snare and hi-hat respectively. https://doi.org/10.1109/TASL.2006.876754 ; authors' PDF https://staff.aist.go.jp/m.goto/PAPER/IEEETASLP200701yoshii.pdf
+
+
+2. Paulus J, Klapuri A (2009). 'Drum Sound Detection in Polyphonic Music with Hidden Markov Models.' EURASIP Journal on Audio, Speech, and Music Processing, article 497292. DOI 10.1155/2009/497292. Primary 64-track ENST drum evaluation with drums-only and balanced accompaniment, leave-one-drummer-out testing, and discussion of quiet snare ghost hits; 30-ms onset-matching criterion belongs to their study. https://link.springer.com/article/10.1155/2009/497292
+
+
+3. Moore BCJ, Glasberg BR (1983). 'Suggested formulae for calculating auditory-filter bandwidths and excitation patterns.' Journal of the Acoustical Society of America 74(3):750–753. DOI 10.1121/1.389861. Psychoacoustic auditory-filter foundation; not a drum-detector study. https://pubmed.ncbi.nlm.nih.gov/6630731/
+
+
+4. Bacon SP, Viemeister NF (1985). 'The temporal course of simultaneous tone-on-tone masking.' Journal of the Acoustical Society of America 78(4):1231–1235. DOI 10.1121/1.392891. Brief-tone masking changes with relative time and frequency; controlled tone study, not KLAAT. https://pubmed.ncbi.nlm.nih.gov/4056217/
+
+
+5. Witek MAG, Clarke EF, Kringelbach ML, Vuust P (2014). 'Effects of polyphonic context, instrumentation, and metrical location on syncopation in music.' Music Perception 32(2):201–217. DOI 10.1525/mp.2014.32.2.201. Listener tapping and stability judgments depend on context and expertise; structured drum patterns, not KLAAT. https://doi.org/10.1525/mp.2014.32.2.201
+
+
+6. Hoesl F, Senn O (2018). 'Modelling perceived syncopation in popular music drum patterns: A preliminary study.' Music & Science. DOI 10.1177/2059204318791464. Twenty-five professional musicians; six patterns, pairwise comparisons, model misfit and revision; limited generalizability. https://doi.org/10.1177/2059204318791464
+
+
+7. Horvitz DG, Thompson DJ (1952). 'A Generalization of Sampling Without Replacement from a Finite Universe.' Journal of the American Statistical Association 47:663–685. DOI 10.1080/01621459.1952.10483446. Foundational unequal-probability sampling mathematics; analogy only, not a validated KLAAT correction. https://doi.org/10.1080/01621459.1952.10483446
+
+
+INTERNAL PROVENANCE AND NOVELTY
+
+
+Connected Google Drive KLAAT Master Instructions, Curriculum Index, Research Ledger, and Session Corpus Volume II were inspected through published Session 142. The original corpus's earlier topic coverage was checked through the Index/Ledger and master research state. ChatGPT Library Published Studies were listed through canonical Session 142; the Curation Queue was audited before publication. Hourly Research files from November 1–2 were inspected, especially 2026-11-02 03:18 CST (selective onset detection), 01:20 (count overdispersion), 05:19 (phone stabilization), 06:18 (source travel time), 07:37 (acausal filtering), 08:28 (phase-sample counts), 09:23 (task-change segmentation), and 2026-11-01 23:16 (harmonic/percussive separation). This session expands the distinct selective-observation problem without replacing those notes. No actual KLAAT recording, listener rating, physiology or source-separated ground truth was available for analysis. All numerical KLAAT examples are expressly hypothetical.
+
+
+EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
+END OF SESSION 143

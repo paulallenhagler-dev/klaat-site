@@ -1,0 +1,20 @@
+SESSION 43 — ROUGHNESS & SENSORY DISSONANCE: WHEN SOUND BECOMES PHYSICALLY GRAINY
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+As two close components move from a few hertz apart toward faster interaction rates, the percept can progress from slow beating to a grainier, rougher texture and eventually toward separately resolved tones, depending on frequency and auditory-filter bandwidth.
+
+
+Roughness is broadly associated with modulation in the tens-of-hertz range, often strongest around several dozen hertz under many conditions, but exact values vary with carrier frequency, spectrum, and listener.
+
+
+Amastacia can potentially control this dimension through growl, vocalization, embouchure, tongue position, and harmonic interaction. Roughness should be treated as an independent KLAAT control axis alongside amplitude, tempo, event density, prediction, and masking.
+
+
+Evidence boundary
+Established: roughness depends on rapid amplitude interaction and auditory-filter behavior. Supported but context-dependent: rougher sounds often increase urgency, salience, or aversiveness. Unsupported: a universal fear frequency.
+
+
+KLAAT test
+Build a seven-step Amastacia roughness ladder while keeping loudness approximately matched. Record seven 20-second examples, randomize them, and ask listeners to rate roughness, activation, tension, bodily intensity, and loudness. Later compare ratings with modulation-spectrum analysis.

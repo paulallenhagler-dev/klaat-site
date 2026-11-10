@@ -1,0 +1,17 @@
+SESSION 37 — RHYTHMIC PREDICTION & NEURAL ENTRAINMENT
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+“Neural entrainment” is often used too broadly. KLAAT research should distinguish behavioral synchronization, stimulus-locked neural responses, and genuine adjustment of endogenous neural oscillatory phase.
+
+
+A ~137-BPM pulse is about 2.28 events per second, but that does not mean the whole brain “enters 2.28 Hz.” Listeners can simultaneously represent higher-order groupings: groups of four, eight, or sixteen strikes create slower organizational timescales while the physical pulse stays unchanged.
+
+
+Evidence boundary
+Established: neural and motor systems respond to rhythmic regularity and temporal prediction. Contested/context-dependent: how much observed neural rhythmicity reflects endogenous entrainment versus repeated evoked responses. Unsupported: direct brainwave-state claims from BPM alone.
+
+
+KLAAT test
+Compare an irregular 60-second pattern with a stable 60-second pattern followed by one omitted beat. Ask listeners about tension and detectability of the omission.

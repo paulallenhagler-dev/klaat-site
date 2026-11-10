@@ -1,0 +1,20 @@
+SESSION 33 — BAROREFLEX
+ARCHIVAL RECONSTRUCTION — NOT VERBATIM
+
+
+Core lesson
+Baroreceptors in the carotid sinus and aortic arch contribute to short-term blood-pressure regulation through a negative-feedback loop. Breathing perturbs this cardiovascular system, and slow respiration can interact strongly with baroreflex dynamics.
+
+
+Around 0.1 Hz—roughly one cycle every ten seconds—many people show prominent cardiorespiratory oscillations, but the exact resonance varies individually.
+
+
+At ~137 BPM, approximately 23 Ankora beats occupy about ten seconds. That numerical relationship is interesting as a possible compositional scaffold, not evidence of a healing frequency.
+
+
+Evidence boundary
+Established: baroreflex mechanisms regulate short-term blood pressure and interact with respiration. Supported but individual: slow breathing near 0.1 Hz often increases cardiorespiratory oscillation amplitude. Unsupported: assuming 23 Ankora beats “activate the baroreflex” in a therapeutic sense.
+
+
+KLAAT test
+Without coaching the listener to breathe at a target rate, count Ankora beats across ten spontaneous breaths and see whether stable values around roughly 20–25 beats per breath emerge.
