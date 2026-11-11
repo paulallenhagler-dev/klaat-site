@@ -72,6 +72,9 @@ body:not(.is-home) #fieldInfo{opacity:.9;transform:translateY(0)}
 .node.audio.playing .ring{opacity:.64;transform:scale(1.1);animation:breathingRing 2.5s ease-in-out infinite}
 .node.audio.playing .ink{animation:nodeGlow 3.1s ease-in-out infinite}
 .node.fragment{--col:#9f8277;z-index:1}
+.node.underfield-gate .ink{border-radius:28%;background:#c98b6e}
+.node.underfield-gate .ring{border-style:dashed;border-color:#bd755f}
+.node.listen-node .ink{width:8px;height:8px;background:#e9d7c1}
 .node.fragment .ink{width:4px;height:4px;opacity:.48;animation:fragmentGlint var(--pulse-time,9s) ease-in-out var(--pulse-offset,0s) infinite}
 .node.fragment .ring,.node.fragment .ring.two{opacity:0;animation:fragmentRipple var(--pulse-time,9s) ease-out var(--pulse-offset,0s) infinite}
 .node.fragment .ring.two{animation-delay:calc(var(--pulse-offset,0s) + 1.2s)}
@@ -175,10 +178,12 @@ header{padding:18px 20px 12px}.logo{width:109px}
  <source src="/assets/klaat-ambient-loop-18s.mp3" type="audio/mpeg">
 </audio>
 <audio id="fragmentAudio" preload="none"></audio>
+<script src="/assets/underfield.js"></script>
 <script>
 (function(){
 "use strict";
 const $=function(id){return document.getElementById(id)};
+const UF=window.KLAATUnderfield||null;
 const cv=$("field"),ctx=cv.getContext("2d",{alpha:false}),motion=$("motionField"),mctx=motion.getContext("2d",{alpha:true}),layer=$("nodes"),veil=$("veil"),back=$("back"),pos=$("position"),hint=$("quiet"),sound=$("sound"),audio=$("sourceAudio"),fragmentAudio=$("fragmentAudio");
 const C={bone:"#d3ccbd",red:"#e63a32",rust:"#be684a",teal:"#86aca6",purple:"#a78eab",dim:"#847e72",white:"#f1eadc"};
 const palette=[C.red,C.bone,C.teal,C.rust,C.white,C.purple];
@@ -225,6 +230,7 @@ const hiddenFields=[
  ["deepvoid","rays",["veins","unseen","wake","@fragment:13"]]
 ];
 defs.push(...hiddenFields);
+if(UF)defs.push(...UF.fields);
 const meta={
  held:["CONTINUITY","A held sound is not a stationary event.","The drone changes internally even when its tonal center remains."],
  division:["INTERRUPTION","One strike becomes an event. Two establish an interval.","An absent beat has meaning only when an expectation exists."],
@@ -263,6 +269,7 @@ const meta={
  veins:["VEINS","A narrow line can carry an entire field.","Follow the branches, not the center."],
  deepvoid:["DEEP FIELD","The furthest sound is still connected.","There are no final chambers here."]
 };
+if(UF)Object.assign(meta,UF.meta);
 const pages={};defs.forEach(function(a,i){pages[a[0]]={index:i+1,mode:a[1],links:a[2]}});const totalFields=defs.length;
 const approvedArt={
  held:"01-held",division:"02-division",room:"03-room",breath:"04-breath",drift:"05-drift",
@@ -701,7 +708,7 @@ function roomArt(mode,index,t){
 }
 function draw(t){
  ctx.setTransform(dpr,0,0,dpr,0,0);ctx.fillStyle="#080808";ctx.fillRect(0,0,W,H);
- if(current==="home")drawHome(t);else if(!approvedArt[current]){let s=pages[current];roomArt(s.mode,s.index,t)}
+ if(current==="home")drawHome(t);else if(UF&&UF.isRoom(current)){UF.draw(ctx,W,H,t,current,signalEnergy,mobile)}else if(!approvedArt[current]){let s=pages[current];roomArt(s.mode,s.index,t)}
  if(hover!==-1){let b=layer.children[hover];if(b){let r=b.getBoundingClientRect(),x=r.left+r.width/2,y=r.top+r.height/2;for(let i=0;i<2;i++){ctx.beginPath();ctx.arc(x,y,21+i*13+Math.sin(t*1.4+i)*2,0,Math.PI*2);ctx.strokeStyle="rgba(211,204,186,"+(.12/(i+1))+")";ctx.lineWidth=.7;ctx.stroke()}}}
 }
 function placements(){
@@ -709,11 +716,13 @@ function placements(){
    if(!mobile)return [[.236,.505],[.112,.505],[.53,.51],[.78,.60],[.65,.40],[.91,.52],[.37,.70],[.34,.255],[.78,.26],[.79,.82]];
    return [[.50,.425],[.20,.45],[.76,.56],[.23,.70],[.75,.72],[.51,.68],[.50,.83],[.21,.26],[.77,.30],[.83,.86]];
  }
+ if(UF&&UF.isRoom(current))return UF.positions(current,mobile).concat([[.50,.86],[.51,.15]]);
  if(approvedArt[current]){
    const bounds=approvedBounds(),pts=approvedMarks[current].slice();
    // Two extra marks occupy intentional negative space on each original plate.
    const extra=pages[current].index%2===0?[[.78,.76],[.20,.18]]:[[.20,.77],[.80,.17]];
    pts.push(...extra);
+   if(UF&&UF.gate(current))pts.push([.50,.85]);
    return pts.map(p=>[(bounds.left+p[0]*bounds.width)/W,(bounds.top+p[1]*bounds.height)/H]);
  }
  // New live-drawn chambers have their own constellation placement.
@@ -729,6 +738,7 @@ function destinations(){
  }else if(pages[current].index%2===0){
    links.push("@fragment:"+String((pages[current].index+7)%24+1).padStart(2,"0"));
  }
+ if(UF&&UF.gate(current))links.push(UF.gate(current));
  return links;
 }
 function markResonance(index,kind,points){
@@ -742,20 +752,21 @@ function placeNodes(){
  if(!W||!H)return;
  layer.replaceChildren();hover=-1;const pts=placements(),targets=destinations();
  targets.forEach(function(dest,i){
-  const a=document.createElement("button"),action=dest.startsWith("@fragment:")?"fragment":dest==="@audio"?"audio":dest==="@read"||dest[0]==="/"?"read":dest==="@observe"?"observe":"portal";
-  a.className="node "+action+(approvedArt[current]?" approved":"");a.type="button";a.style.setProperty("--x",(pts[i][0]*100)+"%");a.style.setProperty("--y",(pts[i][1]*100)+"%");
+  const a=document.createElement("button"),action=dest==="@listen"?"listen":dest.startsWith("@fragment:")?"fragment":dest==="@audio"?"audio":dest==="@read"||dest[0]==="/"?"read":dest==="@observe"?"observe":"portal";
+  a.className="node "+action+(approvedArt[current]?" approved":"")+(UF&&UF.gate(current)===dest?" underfield-gate":"")+(action==="listen"?" listen-node":"");a.type="button";a.style.setProperty("--x",(pts[i][0]*100)+"%");a.style.setProperty("--y",(pts[i][1]*100)+"%");
   a.style.setProperty("--col",action==="fragment"?(i%2?C.teal:C.rust):action==="audio"?C.teal:action==="read"?C.bone:action==="observe"?C.purple:i%3===0?C.red:C.rust);
   a.style.setProperty("--dot",i===0?"7px":(action==="audio"?"5.5px":"4.5px"));
    a.style.setProperty("--pulse-time",(5.2+(i*7%6)*.31+(current==="home"?.0:.32))+"s");
    a.style.setProperty("--pulse-offset",(-i*.83-(i%3)*.26)+"s");
   const targetName=meta[dest]?.[0]||dest;
-  a.setAttribute("aria-label",action==="fragment"?"Play a hidden KLAAT sound fragment":action==="audio"?"Play a KLAAT sound variation":action==="read"?"Read the full Atlas":action==="observe"?"Reveal another observation":"Enter "+targetName);
-  a.title=action==="fragment"?"∿":action==="audio"?"SOUND":action==="read"?"ATLAS":action==="observe"?"OBSERVATION":targetName;
+  a.setAttribute("aria-label",action==="listen"?"Speak to the hidden KLAAT listening field":action==="fragment"?"Play a hidden KLAAT sound fragment":action==="audio"?"Play a KLAAT sound variation":action==="read"?"Read the full Atlas":action==="observe"?"Reveal another observation":"Enter "+targetName);
+  a.title=action==="listen"?"THE LISTENER":action==="fragment"?"∿":action==="audio"?"SOUND":action==="read"?"ATLAS":action==="observe"?"OBSERVATION":targetName;
   a.innerHTML='<span class="ring"></span><span class="ring two"></span><span class="ink"></span>';
   a.addEventListener("mouseenter",function(){hover=i;hint.classList.add("disappear")});a.addEventListener("mouseleave",function(){hover=-1});
   a.addEventListener("focus",function(){hover=i});a.addEventListener("blur",function(){hover=-1});
   a.addEventListener("click",function(){
    a.classList.add("tapped");
+   if(action==="listen"){if(UF)UF.open();return}
    if(action==="audio"){
      const last=currentMode;let next=Math.floor(Math.random()*audioModes.length);
      if(next===last)next=(next+1)%audioModes.length;
@@ -791,7 +802,7 @@ function travel(id,replace){
  if(!replace&&typeof window.gtag==="function")window.gtag("event","portal_enter",{portal_id:id,from_portal:current});
  changing=true;hover=-1;veil.classList.add("on");setTimeout(function(){
   if(replace){const at=path.lastIndexOf(id);path=at>=0?path.slice(0,at+1):["home",id]}else path.push(id);
-  current=id;if(id!=="home"){been.add(id);try{localStorage.setItem("klaat_field_visited",JSON.stringify(Array.from(been)))}catch(e){}}
+  current=id;if(UF)UF.mark(id);if(id!=="home"){been.add(id);try{localStorage.setItem("klaat_field_visited",JSON.stringify(Array.from(been)))}catch(e){}}
   if(!replace)history.pushState({field:id,routePath:path.slice(-48),enteredFromField:true},"","#"+id);
   placeNodes();veil.classList.remove("on");setTimeout(function(){changing=false},400)
  },reduceMotion?0:370)
@@ -806,7 +817,7 @@ function goBack(){
 }
 $("homeLink").addEventListener("click",function(e){e.preventDefault();if(current!=="home")travel("home");else history.replaceState({field:"home"},"","#home")});
 back.addEventListener("click",goBack);
-document.addEventListener("keydown",function(e){if(e.key==="Escape"||e.key==="Backspace"&&e.target.tagName!=="INPUT"){if(current!=="home"){e.preventDefault();goBack()}}});
+document.addEventListener("keydown",function(e){if(UF&&UF.isOpen()){if(e.key==="Escape"){e.preventDefault();UF.close()}return}if(e.key==="Escape"||e.key==="Backspace"&&!["INPUT","TEXTAREA"].includes(e.target.tagName)){if(current!=="home"){e.preventDefault();goBack()}}});
 window.addEventListener("popstate",function(e){
  const id=decodeURIComponent(location.hash.slice(1)||"home");
  if(id!=="home"&&!pages[id])return;
@@ -846,7 +857,7 @@ cv.addEventListener("pointerdown",function(e){
 window.addEventListener("resize",size,{passive:true});size();
 const hash=decodeURIComponent(location.hash.slice(1));
 if(hash&&pages[hash]){
- current=hash;path=["home",hash];been.add(hash);
+ current=hash;path=["home",hash];been.add(hash);if(UF)UF.mark(hash);
  history.replaceState({field:hash,routePath:path.slice(),enteredFromField:false},"","#"+hash);
  placeNodes()
 }else{
