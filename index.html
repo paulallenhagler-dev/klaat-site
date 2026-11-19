@@ -125,9 +125,13 @@ body:not(.is-home) #fieldInfo{opacity:.9;transform:translateY(0)}
 }
 .node:focus-visible{outline:1px solid #e7e0d388;outline-offset:2px}
 #floor{position:fixed;bottom:18px;left:clamp(24px,4.3vw,75px);right:clamp(24px,4.3vw,75px);z-index:11;min-height:44px;display:flex;align-items:center;justify-content:space-between;border:0;padding:0}
-body.is-home #floor{display:none}
+body.is-home #floor{justify-content:flex-end;pointer-events:none}
 .floorleft{display:flex;align-items:center;gap:14px}
-body.is-home .floorleft{visibility:hidden;pointer-events:none}
+body.is-home .floorleft{display:none}
+.home-contact{display:none}
+body.is-home .home-contact{display:inline-flex;align-items:center;min-height:44px;pointer-events:auto;color:#c8bfb1;font-size:12px;letter-spacing:.04em;text-decoration:none}
+.home-contact:hover,.home-contact:focus-visible{color:#fff;text-decoration:underline}
+.home-contact:focus-visible{outline:1px solid var(--teal);outline-offset:4px}
 #back{font-size:24px;color:var(--bone);border:0;background:none;padding:0 12px 8px 0;cursor:pointer;line-height:1;opacity:0;pointer-events:none;transition:opacity .4s;min-width:48px;min-height:44px;display:inline-flex;align-items:center;justify-content:flex-start;touch-action:manipulation}
 body:not(.is-home) #back{opacity:.8;pointer-events:auto}
 #position{font:600 11px/1 Arial,Helvetica,sans-serif;letter-spacing:.21em;color:#a89f94;opacity:.75}
@@ -169,6 +173,7 @@ header{padding:18px 20px 12px}.logo{width:109px}
 <div id="veil"></div>
 <footer id="floor">
  <div class="floorleft"><button id="back" aria-label="Return to the previous field">↶</button><span id="position">00 / 36</span></div>
+ <a class="home-contact" href="mailto:paulallenhagler@gmail.com">paulallenhagler@gmail.com</a>
  </footer>
 <div id="quiet" aria-hidden="true"></div>
 <!-- Prefer the new full-length performance assembled from the lossless AAC source.
