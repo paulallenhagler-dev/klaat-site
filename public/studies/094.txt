@@ -1,6 +1,6 @@
 KLAAT RESONANCE RESEARCH — SESSION 94
 THE SOUND THAT NEITHER MICROPHONE HEARD
-Comb filtering, multi-microphone interference, and the risk of manufacturing an the didgeridoo timbre in the mix
+Comb filtering, multi-microphone interference, and the risk of manufacturing a didgeridoo timbre in the mix
 Published: October 16, 2026 — 7:12 PM CDT (America/Chicago)
 
 
@@ -58,7 +58,7 @@ Crucially, this particular comb filtering occurs when overlapping channels are S
 KLAAT is not a single stationary loudspeaker. The didgeridoo has a drone, upper harmonics, breath and vocal-tract articulation, and radiating regions that may not behave as one point source. The drum has a struck hide membrane with multiple modes, attacks, decays, and an acoustically different location. A microphone near the didgeridoo will still capture some the drum; a microphone near the drum will still capture some the didgeridoo. Their bleed is not inherently bad. It is part of recording a shared acoustic world.
 
 
-But each instrument reaches the two microphones with its OWN relative timing and spectrum. If a recording engineer shifts one track to align an the drum attack perfectly, that edit may change the relative arrival relationship for the didgeridoo. Conversely, aligning a stable drone feature may change the shape of the combined drum transient. There is no guarantee that one global delay correction can simultaneously optimize two moving, spatially separated acoustic sources.
+But each instrument reaches the two microphones with its OWN relative timing and spectrum. If a recording engineer shifts one track to align a drum attack perfectly, that edit may change the relative arrival relationship for the didgeridoo. Conversely, aligning a stable drone feature may change the shape of the combined drum transient. There is no guarantee that one global delay correction can simultaneously optimize two moving, spatially separated acoustic sources.
 
 
 This is particularly important for the KLAAT aesthetic. The combination of one persistent tonal center and a human hide-drum pulse is deliberately sparse. When a dense arrangement contains many instruments, a narrow spectral notch may be partially masked by other content. In a minimal drone-and-drum recording, a small change in a prominent harmonic or attack band may be much more noticeable. That is a plausible KLAAT-specific sensitivity, not a demonstrated effect size.

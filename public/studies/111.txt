@@ -113,7 +113,7 @@ In an ordinary two-speaker playback system, the loudspeakers themselves provide 
 8. WHY THE DRONE AND THE PULSE MAY DISAGREE
 
 
-the didgeridoo and drum are not acoustically identical objects. The didgeridoo's low sustained carrier is accompanied by harmonics, breath noise, and vocal-tract-shaped changes; the drum produces time-limited attacks and decays with a potentially broader initial spectrum. Their radiation patterns, positions relative to the listener, and interactions with a room can differ. An unedited performance therefore contains multiple candidate spatial cues.
+The didgeridoo and drum are not acoustically identical objects. The didgeridoo's low sustained carrier is accompanied by harmonics, breath noise, and vocal-tract-shaped changes; the drum produces time-limited attacks and decays with a potentially broader initial spectrum. Their radiation patterns, positions relative to the listener, and interactions with a room can differ. An unedited performance therefore contains multiple candidate spatial cues.
 
 
 Three distinct outcomes are possible. A listener might localize the drum clearly and describe the didgeridoo as diffuse. A listener might hear both as coming from the same physical performer despite their different timbres. Or a listener might report a vertical or surrounding presence unrelated to the actual placement of either instrument. These are hypotheses, not observed KLAAT results. There is no reason to choose the most dramatic one in advance.

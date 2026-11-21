@@ -82,7 +82,7 @@ Kriegeskorte and colleagues (2009) demonstrated that using the same noisy measur
 
 
 For KLAAT, these are different situations:
-- Selecting an the drum strike by visible hand contact, without seeing its acoustic spectrum, then describing the spectrum: potentially a defensible observational selection, though video timing and recording biases remain.
+- Selecting a drum strike by visible hand contact, without seeing its acoustic spectrum, then describing the spectrum: potentially a defensible observational selection, though video timing and recording biases remain.
 - Selecting the strike because it has the largest measured low-frequency energy, then estimating the 'typical' energy of KLAAT strikes from that selected strike: biased by design.
 - Selecting the passage with the largest listener-rated energy and then saying that passage has the largest listener-rated energy: tautological, not an independent finding.
 - Selecting a promising acoustic feature from one set of listeners, then testing its relationship with a separately recruited set hearing an unchanged recording: a possible route to genuine out-of-sample evidence, provided decisions were frozen before the new responses were inspected.

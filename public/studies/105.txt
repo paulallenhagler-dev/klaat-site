@@ -107,7 +107,7 @@ Neuhoff's 2016 open-access study used virtual moving sounds and asked listeners 
 A second, between-participant experiment used 200 listeners, reducing the possibility that direct comparison itself cued the hypothesis. Looming sounds were again judged faster on average (36.3 versus 27.6 in the study's reported speed estimates), and participants discriminated the three tested speeds better in the looming than receding condition. The authors reported a Speed-by-Direction interaction, F(2,392) = 9.1, p < .001 [5].
 
 
-These are numerical results from a headphone-based virtual-motion task, not predictions of what an the drum crescendo does to KLAAT listeners. The virtual source was a square wave with a 400 Hz fundamental, not a frame drum or agave didgeridoo. Participants estimated object speed, not musical activation. Their judgments do, however, demonstrate that the brain can treat approach and recession differently even when the nominal physical speed is matched.
+These are numerical results from a headphone-based virtual-motion task, not predictions of what a drum crescendo does to KLAAT listeners. The virtual source was a square wave with a 400 Hz fundamental, not a frame drum or agave didgeridoo. Participants estimated object speed, not musical activation. Their judgments do, however, demonstrate that the brain can treat approach and recession differently even when the nominal physical speed is matched.
 
 
 8. THE CRUCIAL CONTRADICTION: THE ENDPOINT MAY NOT SHIFT FORWARD
@@ -161,7 +161,7 @@ B. SPECTRAL APPROACH WITHOUT MUCH LEVEL CHANGE: upper harmonics and rasp become 
 C. EVENT-BASED URGENCY: the drum's attacks become denser or more strongly accented while the didgeridoo's level stays roughly constant. Candidate consequence: urgency or movement desire. This is a rhythmic activation hypothesis, not an auditory-motion claim. It must be kept distinct from a true rising sound-pressure envelope.
 
 
-D. RELATIONAL SWELL: an the didgeridoo articulation and the drum accent cluster coincide, making the composite event seem larger. Session 90 already addresses grouping; the new question is whether the resulting event is experienced as approaching, not merely as unified. This is a hypothesis, not an observed effect.
+D. RELATIONAL SWELL: a didgeridoo articulation and the drum accent cluster coincide, making the composite event seem larger. Session 90 already addresses grouping; the new question is whether the resulting event is experienced as approaching, not merely as unified. This is a hypothesis, not an observed effect.
 
 
 These four routes need not be mutually exclusive. Their separation is analytical, not a request that Paul perform them as four exercises or build a score.

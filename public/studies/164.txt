@@ -49,7 +49,7 @@ Consider a five-minute KLAAT file. A listener starts playback at wall-clock elap
 If the listener then seeks backward by 40 seconds, wall time becomes an even poorer proxy for the file position. A player at 1.25x speed introduces another mapping: ten seconds of uninterrupted real time advance the media timeline by 12.5 seconds. A buffering stall can suspend playback even though the computer clock continues. Each mechanism is ordinary software behavior, not a special property of KLAAT.
 
 
-A second illustration: suppose an the drum attack occurs at media time 90.0 seconds and a marker is logged at 90.8 seconds of media time. The observed 0.8-second gap cannot be assigned entirely to listener reaction. It may include recognition and decision time, finger movement, event-loop scheduling, output latency, and clock-sampling error. Without additional calibration, a claim such as “the listener's brain responded exactly 800 milliseconds after the strike” is unsupported.
+A second illustration: suppose a drum attack occurs at media time 90.0 seconds and a marker is logged at 90.8 seconds of media time. The observed 0.8-second gap cannot be assigned entirely to listener reaction. It may include recognition and decision time, finger movement, event-loop scheduling, output latency, and clock-sampling error. Without additional calibration, a claim such as “the listener's brain responded exactly 800 milliseconds after the strike” is unsupported.
 
 
 3. WHAT WEB PLATFORM DOCUMENTATION ESTABLISHES

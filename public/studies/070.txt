@@ -5,7 +5,7 @@ Status: Research synthesis; KLAAT-specific experimental claims remain untested.
 
 
 RESEARCH CONTINUITY
-Session 69 established the Somatic Attribution Gate: physical exposure, reported bodily experience, context/attention, and warranted causal inference must remain distinct. Session 67 separated beat speed from event urgency. Session 64 described the Earned Wound—an omitted event that matters because repetition has taught the listener to expect it. The hourly note of October 5, 02:32 CDT identified a still-unresolved confound: an the drum strike can feel important because of temporal expectation rather than its measured amplitude. No Hourly Research note newer than October 5, 18:33 CDT was found. This session develops that unresolved question instead of presenting the old notes as fresh data.
+Session 69 established the Somatic Attribution Gate: physical exposure, reported bodily experience, context/attention, and warranted causal inference must remain distinct. Session 67 separated beat speed from event urgency. Session 64 described the Earned Wound—an omitted event that matters because repetition has taught the listener to expect it. The hourly note of October 5, 02:32 CDT identified a still-unresolved confound: a drum strike can feel important because of temporal expectation rather than its measured amplitude. No Hourly Research note newer than October 5, 18:33 CDT was found. This session develops that unresolved question instead of presenting the old notes as fresh data.
 
 
 GOVERNING PRINCIPLE
@@ -57,7 +57,7 @@ Bernard and colleagues (2022) showed shared characteristics and conditional inte
 
 
 12. DIDGERIDOO'S ROLE: THE FIELD THAT MAKES ABSENCE LEGIBLE
-The didgeridoo is not just a backing note. Her sustained C# Field may hold continuity while the drum establishes and violates a Clock. When an the drum strike disappears, the didgeridoo remains, making the absence a contrast within a continuous environment rather than a total stop. Her breath-driven spectral changes could either stabilize the listener's temporal reference or distract from the omission. This is a specific, testable KLAAT interaction—not established psychophysics. Record the didgeridoo's spectral envelope during omission windows so a breath accent is not mistaken for an the drum prediction effect.
+The didgeridoo is not just a backing note. Her sustained C# Field may hold continuity while the drum establishes and violates a Clock. When a drum strike disappears, the didgeridoo remains, making the absence a contrast within a continuous environment rather than a total stop. Her breath-driven spectral changes could either stabilize the listener's temporal reference or distract from the omission. This is a specific, testable KLAAT interaction—not established psychophysics. Record the didgeridoo's spectral envelope during omission windows so a breath accent is not mistaken for a drum prediction effect.
 
 
 13. DRUM'S ROLE: TEACH, TEST, WITHDRAW
@@ -110,7 +110,7 @@ CONTEXT-DEPENDENT — A perceived jolt during silence may reflect anticipation, 
 PLAUSIBLE/TESTABLE — An unexpected the drum omission following a well-learned Clock produces more reliable omission detection or expectancy ratings than the same silence embedded in an irregular passage.
 PLAUSIBLE/TESTABLE — A physically matched the drum attack has different reported salience when it occurs at high versus low conditional probability.
 PLAUSIBLE/TESTABLE — Sparse omissions increase urgency or felt suspension without requiring higher average SPL.
-PLAUSIBLE/TESTABLE — Stable the didgeridoo Field improves the listener's ability to maintain the Clock through an the drum omission compared with a simultaneous major Field change.
+PLAUSIBLE/TESTABLE — Stable the didgeridoo Field improves the listener's ability to maintain the Clock through a drum omission compared with a simultaneous major Field change.
 PLAUSIBLE/TESTABLE — Return Path produces a distinguishable change from isolated missed beats to loss of the learned Clock.
 PLAUSIBLE/TESTABLE — Listener meter selection and familiarity explain part of the between-person variance in omission salience.
 
@@ -146,7 +146,7 @@ PRESERVE THE HUMAN PERFORMANCE; USE EDITING ONLY FOR CLEARLY LABELED CONTROLLED 
 
 
 26. THE COMPOSITIONAL CONSEQUENCE
-the didgeridoo and drum remain the only core instruments. The didgeridoo holds the Field. The drum teaches the Clock. Repetition creates probability. An omitted strike tests expectation. The Return Path withdraws the system that made the expectation possible. This gives KLAAT a potentially powerful low-material technique: produce a strong compositional change by altering WHEN a human-played event occurs—or by withholding it—rather than by adding a sound, instrument, amplifier, or AI-generated musical layer. The hypothesis is meaningful precisely because it can fail under blind testing.
+The didgeridoo and drum remain the only core instruments. The didgeridoo holds the Field. The drum teaches the Clock. Repetition creates probability. An omitted strike tests expectation. The Return Path withdraws the system that made the expectation possible. This gives KLAAT a potentially powerful low-material technique: produce a strong compositional change by altering WHEN a human-played event occurs—or by withholding it—rather than by adding a sound, instrument, amplifier, or AI-generated musical layer. The hypothesis is meaningful precisely because it can fail under blind testing.
 
 
 27. KRX-070 — THE EARNED OMISSION CROSSOVER TEST

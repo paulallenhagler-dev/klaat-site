@@ -142,7 +142,7 @@ CONTEXT-DEPENDENT — Replaying the same take improves source control but not eq
 26. PLAUSIBLE AND TESTABLE KLAAT HYPOTHESES
 PLAUSIBLE/TESTABLE — A rare the drum omission that is detectable in a neutral clip test also produces above-baseline boundary or suspension salience during uninterrupted KLAAT, but with smaller or more variable effects.
 PLAUSIBLE/TESTABLE — Some listeners experience a structural change at the Threshold Gate even when they do not identify the drum's first physical strike as the boundary.
-PLAUSIBLE/TESTABLE — the didgeridoo Field changes and visible breath gestures moderate whether an the drum omission is noticed.
+PLAUSIBLE/TESTABLE — the didgeridoo Field changes and visible breath gestures moderate whether a drum omission is noticed.
 PLAUSIBLE/TESTABLE — Return Path is more reliably identified through the trajectory of Clock/Surface withdrawal than through the last individual strike.
 PLAUSIBLE/TESTABLE — Listener metrical level and seating/visibility explain part of the variance in live boundary reports.
 PLAUSIBLE/TESTABLE — KSV-0.1 predicts blind phase segmentation beyond elapsed time, loudness and event density across at least two different human-performed takes.

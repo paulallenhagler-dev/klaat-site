@@ -98,7 +98,7 @@ That gives KLAAT a remarkable compositional possibility.
 
 
 A short reduction in the didgeridoo-derived mechanical background immediately
-before an the drum strike might make the strike feel more distinct even if
+before a drum strike might make the strike feel more distinct even if
 The drum itself is not played harder.
 
 
@@ -650,7 +650,7 @@ pre-strike reduction.
 
 
 D — CONTROL DIP Create the same the didgeridoo reduction at moments not
-followed by an the drum strike.
+followed by a drum strike.
 
 
 Keep the drum level and timing as constant as practical. Randomize

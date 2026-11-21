@@ -33,7 +33,7 @@ Fifteen milliseconds is not automatically perceptually enormous. It is, however,
 
 
 THE FALSE MUSICAL STORY
-Imagine two hypothetical files of one uninterrupted KLAAT take. In the first minute, an the drum strike appears exactly beside a visible change in the drone's amplitude envelope. Four minutes later, the same pair of recordings seems to show the drum attack lagging that envelope by 12 ms. An analyst might describe a progressive loosening of breath–drum coordination, an emerging counter-rhythm, or a subtle tension between the drone and pulse. But if the apparent shift increases approximately linearly with elapsed time and is present across many unrelated sound events, the more economical explanation may be recorder clock drift.
+Imagine two hypothetical files of one uninterrupted KLAAT take. In the first minute, a drum strike appears exactly beside a visible change in the drone's amplitude envelope. Four minutes later, the same pair of recordings seems to show the drum attack lagging that envelope by 12 ms. An analyst might describe a progressive loosening of breath–drum coordination, an emerging counter-rhythm, or a subtle tension between the drone and pulse. But if the apparent shift increases approximately linearly with elapsed time and is present across many unrelated sound events, the more economical explanation may be recorder clock drift.
 
 
 A crucial distinction: genuine expressive timing is local variation within the performance. Clock drift is a changing mapping between the two files' time axes. The latter can be present even when every actual event is unchanged. Conversely, correcting clock drift must not erase genuine performance variation within either original recording.

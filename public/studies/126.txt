@@ -14,7 +14,7 @@ This is a critical synthesis of primary Deaf/hard-of-hearing (DHH) user research
 THE QUESTION
 
 
-A visitor arrives at KLAAT's website. The visual world is sparse, monumental, and archaeosonic: dark fields, geometry, moving nodes, the suggestion of an ancient machine without an explanatory manual. The visitor encounters a recording of the didgeridoo, and the drum. No one is speaking. The musical information lives in a sustained acoustic field, the onset and decay of hand strikes, changing breath articulation, roughness, resonance, and the evolving relationship between drone and pulse.
+A visitor arrives at KLAAT's website. The visual world is sparse, monumental, and archaeosonic: dark fields, geometry, moving nodes, the suggestion of an ancient machine without an explanatory manual. The visitor encounters a recording of the didgeridoo and drum. No one is speaking. The musical information lives in a sustained acoustic field, the onset and decay of hand strikes, changing breath articulation, roughness, resonance, and the evolving relationship between drone and pulse.
 
 
 What should the website communicate to someone who cannot hear that recording, or who hears only parts of its spectrum? A caption that merely reads '[music]' identifies the category but erases almost everything particular to KLAAT. A paragraph promising 'a trance-inducing, bodily vibrating journey' may communicate artistic intention, but it replaces audible facts with unverified listener outcomes. An elaborate animated caption that says 'DUM—DUM—DUM' on a steady grid might invent a regular meter that Paul's actual improvisation never supplied.

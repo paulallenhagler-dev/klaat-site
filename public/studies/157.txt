@@ -8,7 +8,7 @@ Guiding principle: Experience-led creation. Science-informed refinement.
 THE QUESTION
 
 
-the didgeridoo and drum are played together, not as alternating tracks. In a spontaneous KLAAT performance, a breath accent may coincide with a drum strike, a drum phrase may continue under an unwavering drone, or the apparent balance may shift because the membrane and bore excite different frequencies. A future analyst might attempt to extract a 'drone track' and a 'drum track' from the single recording, then discover that one rises whenever the other falls. Would that prove a deliberate acoustic trade-off between Paul's breath and hands? Not necessarily. The separation algorithm itself may manufacture the opposition.
+The didgeridoo and drum are played together, not as alternating tracks. In a spontaneous KLAAT performance, a breath accent may coincide with a drum strike, a drum phrase may continue under an unwavering drone, or the apparent balance may shift because the membrane and bore excite different frequencies. A future analyst might attempt to extract a 'drone track' and a 'drum track' from the single recording, then discover that one rises whenever the other falls. Would that prove a deliberate acoustic trade-off between Paul's breath and hands? Not necessarily. The separation algorithm itself may manufacture the opposition.
 
 
 This session examines a specific mathematical failure mode of harmonic/percussive source separation (HPSS): complementary time-frequency masks. It is not a claim that HPSS is useless. It is a warning about interpreting a relationship between two outputs that are not independent measurements. The topic is distinct from Session 155's averaging problem, Session 156's reconstructed true peaks, and Session 153's distinction between modulation and perceived pulse. It extends the November 7 17:15 CST hourly note with an explicit inference framework and a falsification strategy. Earlier hourly notes on separation leakage and median filtering remain relevant prior work, not discoveries to relabel as new.
@@ -44,7 +44,7 @@ WHY THE KLAAT PAIR IS A PARTICULARLY GOOD TEST CASE
 The didgeridoo's C# fundamental and harmonic partials persist, but breath articulations can inject short noise bursts and rapid spectral changes. The drum's drumhead produces attack transients followed by decaying resonances, some of which can resemble sustained spectral ridges. In other words, the real instrument categories cross the algorithm's statistical categories. The very qualities that make the duet interesting—the friction between breath, attack, resonance and decay—also make source attribution difficult.
 
 
-Imagine an the drum strike occurring while the didgeridoo's breath pressure is unchanged. The strike adds energy in overlapping frequency bins. A mask might reassign a larger fraction of those bins to 'percussive,' reducing the estimated harmonic magnitude at the same moment even if the didgeridoo has not weakened. An analyst could mistake this reallocation for a breath dip timed to the drum. The opposite error is also possible: a forceful breath attack could appear in the percussive stem and be counted as a drum event.
+Imagine a drum strike occurring while the didgeridoo's breath pressure is unchanged. The strike adds energy in overlapping frequency bins. A mask might reassign a larger fraction of those bins to 'percussive,' reducing the estimated harmonic magnitude at the same moment even if the didgeridoo has not weakened. An analyst could mistake this reallocation for a breath dip timed to the drum. The opposite error is also possible: a forceful breath attack could appear in the percussive stem and be counted as a drum event.
 
 
 This does not mean Paul never naturally coordinates breath and strikes. It means a separated-stem graph is not independent evidence of that coordination. A scientifically responsible account begins with the original mixture and the processing chain, then asks what independent evidence could distinguish performance behavior from model behavior.
@@ -98,13 +98,13 @@ Even a flawless source separation would not reveal the beat a person perceives, 
 WHY THIS IS ARTISTICALLY LIBERATING
 
 
-This result argues for more careful analysis, not more controlled performance. the didgeridoo and drum need not be isolated conceptually to justify their combined effect. The recording can remain a single living acoustic event. An analytical tool is useful when it answers a bounded question; it becomes misleading when its categories are mistaken for the music's ontology. The ancient/archaeosonic aesthetic, the improvisational motion, the low-frequency weight and the roughness of the instruments remain the artistic facts of KLAAT, irrespective of whether a machine assigns each spectral bin correctly.
+This result argues for more careful analysis, not more controlled performance. The didgeridoo and drum need not be isolated conceptually to justify their combined effect. The recording can remain a single living acoustic event. An analytical tool is useful when it answers a bounded question; it becomes misleading when its categories are mistaken for the music's ontology. The ancient/archaeosonic aesthetic, the improvisational motion, the low-frequency weight and the roughness of the instruments remain the artistic facts of KLAAT, irrespective of whether a machine assigns each spectral bin correctly.
 
 
 OPEN QUESTIONS
 
 
-How stable is the estimated drone envelope when the same recording is processed with complementary versus noncomplementary masks? Which the drum resonances leak most often into the harmonic estimate? Does a high percussive mask value correspond more reliably to a drum strike or to an the didgeridoo breath attack? What share of any observed stem anticorrelation persists in source-specific reference captures? Do listeners notice any difference between the original mixture and a remix of imperfect stems when levels are controlled? These are research questions, not instructions to alter the performance.
+How stable is the estimated drone envelope when the same recording is processed with complementary versus noncomplementary masks? Which the drum resonances leak most often into the harmonic estimate? Does a high percussive mask value correspond more reliably to a drum strike or to a didgeridoo breath attack? What share of any observed stem anticorrelation persists in source-specific reference captures? Do listeners notice any difference between the original mixture and a remix of imperfect stems when levels are controlled? These are research questions, not instructions to alter the performance.
 
 
 OPTIONAL LOW-PRESSURE OBSERVATION

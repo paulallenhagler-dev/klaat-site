@@ -61,7 +61,7 @@ The audience annotation layer needs MACRO-BOUNDARY, MICRO-CHANGE, URGENCY-RATING
 
 
 13. EVENT, STATE, AND TRANSITION
-An event is something identifiable as occurring: an the drum attack, for example. A state is a property sustained over an interval: a strong Clock, a stable Field or an increasingly dense Surface. A transition is a change between states, possibly gradual. These three should not share one table column called 'onset.' KSV-0.1 — [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL] — primarily describes changing states; it is not a list of sound-producing events. A four-phase journey may be a sequence of overlapping state trajectories rather than three instantaneous switches.
+An event is something identifiable as occurring: a drum attack, for example. A state is a property sustained over an interval: a strong Clock, a stable Field or an increasingly dense Surface. A transition is a change between states, possibly gradual. These three should not share one table column called 'onset.' KSV-0.1 — [FIELD STABILITY, CLOCK STRENGTH, SURFACE PRESSURE, WITHDRAWAL] — primarily describes changing states; it is not a list of sound-producing events. A four-phase journey may be a sequence of overlapping state trajectories rather than three instantaneous switches.
 
 
 14. WHAT TO RECORD FOR EACH LABEL
@@ -97,7 +97,7 @@ For discrete attacks, use one-to-one matching with a prespecified time tolerance
 
 
 22. A NEGATIVE CONTROL FOR THE ONTOLOGY ITSELF
-Include a passage where the didgeridoo changes harmonics but the drum remains stable, and another where the drum changes subdivisions but the didgeridoo remains relatively steady. If annotators consistently misclassify the first as an the drum event or the second as an the didgeridoo transition, the codebook is not discriminating sources well enough. Include an apparently quiet passage with audible breathing and room noise to check that the dictionary does not equate low event density with no musical information. These controls validate the measurement language before it is used to validate the theory.
+Include a passage where the didgeridoo changes harmonics but the drum remains stable, and another where the drum changes subdivisions but the didgeridoo remains relatively steady. If annotators consistently misclassify the first as a drum event or the second as a didgeridoo transition, the codebook is not discriminating sources well enough. Include an apparently quiet passage with audible breathing and room noise to check that the dictionary does not equate low event density with no musical information. These controls validate the measurement language before it is used to validate the theory.
 
 
 23. GROUND ANCHOR: LET DIDGERIDOO HAVE EVENTS
@@ -150,7 +150,7 @@ SPECULATION — Some apparent listener disagreements may become coherent once th
 
 31. UNSUPPORTED CLAIMS
 UNSUPPORTED — A high-resolution waveform provides the objectively correct time of a psychological phase change.
-UNSUPPORTED — A spectral novelty peak is equivalent to an the didgeridoo phrase boundary.
+UNSUPPORTED — A spectral novelty peak is equivalent to a didgeridoo phrase boundary.
 UNSUPPORTED — Every the drum attack is an intended beat, or every intended beat contains an attack.
 UNSUPPORTED — An omission is a measurable physical impact.
 UNSUPPORTED — High agreement between annotators proves the four-phase architecture is perceived by audiences.

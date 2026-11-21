@@ -15,7 +15,7 @@ A critical synthesis of primary experimental literature, including an August 202
 CENTRAL QUESTION
 
 
-When Paul makes an the drum strike or sustains the didgeridoo's drone, is the resulting sound necessarily experienced as less intense because the brain anticipated his own action? Or can generating a faint sound make it seem stronger than the identical sound heard passively? And, if either effect occurs, what can it tell us about the difference between Paul's deeply embodied playing experience and a listener's experience of the same improvised performance?
+When Paul makes a drum strike or sustains the didgeridoo's drone, is the resulting sound necessarily experienced as less intense because the brain anticipated his own action? Or can generating a faint sound make it seem stronger than the identical sound heard passively? And, if either effect occurs, what can it tell us about the difference between Paul's deeply embodied playing experience and a listener's experience of the same improvised performance?
 
 
 The surprising answer is that experimental results run in BOTH directions. The direction can depend on signal intensity, the predictability of its timing and level, the listener's task, and which endpoint is measured. The most important new finding is not a new “brainwave effect.” It is a correction to an overconfident rule: SELF-GENERATION IS NOT A UNIVERSAL VOLUME KNOB THAT ALWAYS TURNS SOUND DOWN.

@@ -28,7 +28,7 @@ A listener who cannot describe a harmonic transition is not necessarily inattent
 1. THE PHYSICAL EVENT AND THE PERCEPTUAL REPORT
 
 
-A waveform contains physical variations. Spectral analysis can reveal whether a harmonic grew stronger, whether an the drum strike occurred, whether a broadband breath burst entered, or whether overall sound level changed. These measurements depend on microphone placement, recording chain, separation of overlapping sources, and analysis choices. They cannot by themselves establish that a listener noticed a change.
+A waveform contains physical variations. Spectral analysis can reveal whether a harmonic grew stronger, whether a drum strike occurred, whether a broadband breath burst entered, or whether overall sound level changed. These measurements depend on microphone placement, recording chain, separation of overlapping sources, and analysis choices. They cannot by themselves establish that a listener noticed a change.
 
 
 An explicit detection response is different: the listener says a feature changed, or chooses correctly between two alternatives. That judgment depends on what the listener was asked, what they attended to, what they remembered, and what comparison was available. A report of 'the music kept moving' is different again: it may describe global impression rather than detection of a specific acoustic variable.
@@ -106,7 +106,7 @@ KLAAT has a particularly interesting identity problem. The drone is a familiar *
 Michael S. Gordon (2017) tested change deafness across voice, language, and reverberation in musical presentations [7]. Listeners compared paired versions separated by broadband noise. The first experiment varied sung voice, Spanish versus English language, and dry versus highly reverberant presentation; a second used the melodies on guitars. Large reverberation changes were often not detected or were disregarded, while changing several features together generally increased sensitivity. The author proposed that musical coherence may direct attention away from some source or recording characteristics.
 
 
-This is not proof that room reverberation is unimportant to KLAAT. It is a warning against treating an acoustic measurement's magnitude as a prediction of its perceptual prominence. Room decay may be central to the felt scale of an the didgeridoo drone while listeners are poor at verbally identifying the reverberation difference in a paired test. On the other hand, a live change in bass level, source direction, or transient decay could be conspicuous under other conditions. Gordon's work involved constructed musical comparisons, not low-frequency live didgeridoo and drum.
+This is not proof that room reverberation is unimportant to KLAAT. It is a warning against treating an acoustic measurement's magnitude as a prediction of its perceptual prominence. Room decay may be central to the felt scale of a didgeridoo drone while listeners are poor at verbally identifying the reverberation difference in a paired test. On the other hand, a live change in bass level, source direction, or transient decay could be conspicuous under other conditions. Gordon's work involved constructed musical comparisons, not low-frequency live didgeridoo and drum.
 
 
 The distinction also protects KLAAT from a production error: an audience's failure to mention a recording defect does not establish that the defect is inaudible, irrelevant, or acceptable. A direct A/B comparison and an ordinary uninterrupted listening experience answer different questions. Neither is a substitute for the other.
@@ -118,7 +118,7 @@ The distinction also protects KLAAT from a production error: an audience's failu
 A tempting misuse of this research would be to tell Paul to introduce sharper changes, add a conspicuous drum fill every few seconds, or repeat a fixed motif until listeners can identify it. That would turn a descriptive science into a compositional authority. It is precisely the wrong direction for KLAAT.
 
 
-the didgeridoo and drum already make a moving field. Paul's circular breathing, naturally occurring pressure shifts, tongue and mouth resonances, grain, strikes, rebounds, and transitions can change the acoustic scene without a prewritten design. Some changes may be heard as events; others may alter the texture without being named; still others may be missed in a comparison task. The research can help distinguish these outcomes after the fact.
+The didgeridoo and drum already make a moving field. Paul's circular breathing, naturally occurring pressure shifts, tongue and mouth resonances, grain, strikes, rebounds, and transitions can change the acoustic scene without a prewritten design. Some changes may be heard as events; others may alter the texture without being named; still others may be missed in a comparison task. The research can help distinguish these outcomes after the fact.
 
 
 There is no requirement that every meaningful change be consciously detected. A listener can be captivated by a continuous process while being unable to itemize its details. But there is also no permission to infer that a missed change 'worked subconsciously' to induce a special state. That would replace one unmeasured assumption with another. The honest position is narrower: explicit report does not exhaust auditory processing, and the experiential consequence of unreported KLAAT changes remains unmeasured.
@@ -178,7 +178,7 @@ Most change-deafness paradigms ask whether a participant can report a change. KL
 There are at least three competing explanations for a report like 'it was one continuous sound, but somehow it kept changing.' One is that the listener consciously noticed many subtle timbral changes without remembering or naming them individually. Another is that the listener perceived an evolving global texture but could not identify its components. A third is that the listener's retrospective language reflects overall emotion or expectation rather than detailed auditory change detection. These possibilities can overlap, and none can be selected by a single adjective.
 
 
-A further unresolved question concerns the difference between the continuous drone and the punctuated drum. An the drum strike provides an obvious onset. A gradual shift in the didgeridoo's harmonic balance may have no corresponding transient. Does the strike make the simultaneous drone change more noticeable, or does it divert attention away? Existing research supports both attention and competition as possible influences; it does not settle the net effect for this particular pair of instruments.
+A further unresolved question concerns the difference between the continuous drone and the punctuated drum. a drum strike provides an obvious onset. A gradual shift in the didgeridoo's harmonic balance may have no corresponding transient. Does the strike make the simultaneous drone change more noticeable, or does it divert attention away? Existing research supports both attention and competition as possible influences; it does not settle the net effect for this particular pair of instruments.
 
 
 11. CONTINUITY AND NOVELTY GATE

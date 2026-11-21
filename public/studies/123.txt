@@ -11,7 +11,7 @@ Experience-led creation. Science-informed refinement.
 RESEARCH QUESTION
 
 
-KLAAT now exists not only as a physical encounter with the didgeridoo, and the drum, but also as a recorded and visual world: sparse nodes, animated circles, oscillating lines, and short audio excerpts embedded in its website. The visual language is an artwork in its own right. But if a circle pulses on screen, what, precisely, does it tell a visitor about the improvised drum event that may—or may not—have occurred at that moment?
+KLAAT now exists not only as a physical encounter with the didgeridoo and drum, but also as a recorded and visual world: sparse nodes, animated circles, oscillating lines, and short audio excerpts embedded in its website. The visual language is an artwork in its own right. But if a circle pulses on screen, what, precisely, does it tell a visitor about the improvised drum event that may—or may not—have occurred at that moment?
 
 
 This session investigates a distinction that matters artistically and scientifically: a visual movement can be compelling, rhythmically useful, acoustically faithful, and accessible, but those are four different claims. A beautiful animation may not report the actual hand-drum pulse. A precise flash may report an event but be hard to follow. A natural-looking moving shape may help a person synchronize a movement without making that person better at judging temporal irregularities. And a silent animation can provide one kind of access to music without reproducing its tactile or acoustic experience.
@@ -38,7 +38,7 @@ Imagine a cream-colored circle on KLAAT's near-black background. It swells, cont
 (A) EXPRESSIVE: the circle evokes pressure, breath, impact, release, and the archaeosonic world. It need not correspond one-to-one to a sound event. Its validity is primarily artistic.
 
 
-(B) EVENT-FAITHFUL: a change in the circle is caused by an identified, time-stamped event in a particular recording, such as an the drum attack. This is a claim about source mapping and timing.
+(B) EVENT-FAITHFUL: a change in the circle is caused by an identified, time-stamped event in a particular recording, such as a drum attack. This is a claim about source mapping and timing.
 
 
 (C) BEAT-INTERPRETIVE: the circle conveys a perceived periodic beat or metric level, which may differ from the sequence of individual drum strikes. A listener may hear a half-time beat, subdivisions, or no stable meter during a transition. This is a perceptual interpretation, not a raw acoustic event list.
@@ -119,7 +119,7 @@ Suppose an unchanged 30-second clip contains N manually verified the drum attack
 - MISSED ATTACKS: acoustic events with no assigned visual event.
 - EXTRA VISUAL EVENTS: visual pulses with no corresponding annotated attack.
 - TIMING ERROR: median and spread of v_j minus a_i for matched events, including whether the visual generally leads or lags.
-- AMBIGUITY: quiet/overlapping events for which two annotators disagree about what counts as an the drum onset.
+- AMBIGUITY: quiet/overlapping events for which two annotators disagree about what counts as a drum onset.
 
 
 For example only, if 20 verified attacks were present and 18 visual pulses matched within a declared window, there would be at least two missed attacks; if three further visual pulses lacked matches, there would also be three extra events. Those are invented illustration counts, not KLAAT measurements. Precision and recall can summarize a detector, but a low-error animation can still feel wrong if its event shape, anticipation, and grouping conflict with how the music is perceived. Conversely, a deliberately abstract animation can be artistically successful while scoring poorly as a transcription. That is acceptable if it is presented as expressive rather than event-faithful.

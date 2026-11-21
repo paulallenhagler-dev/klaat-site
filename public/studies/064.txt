@@ -419,7 +419,7 @@ A brief thinning can expose the Pulse.
 This creates a core-KLAAT operation:
 
 
-FIELD GATING — changing the perceptual context around an the drum event
+FIELD GATING — changing the perceptual context around a drum event
 while leaving the event’s nominal timing intact.
 
 
@@ -784,7 +784,7 @@ that the scaffold becomes difficult to infer, while keeping overall
 event count and level as comparable as practical.
 
 
-For a second block, add an the didgeridoo Field-Gating manipulation around
+For a second block, add a didgeridoo Field-Gating manipulation around
 the earned wound:
 
 

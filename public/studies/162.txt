@@ -22,7 +22,7 @@ Recent KLAAT work has separately questioned wrist optical pulse-sensor motion ar
 1. WHAT AN ECG DOES AND DOES NOT MEASURE
 
 
-An electrocardiogram records differences in electrical potential measured at electrodes on the body. A QRS complex reflects the electrical activation of the ventricles; its R peak is often used as a timing landmark. It is not the same event as a finger pulse peak, a felt heartbeat, a chest movement, or an the drum strike. These events are related in ordinary physiology but separated by mechanisms and delays. A QRS detector marks a feature in recorded voltage. If the voltage is contaminated, the detector can make a plausible-looking but incorrect decision.
+An electrocardiogram records differences in electrical potential measured at electrodes on the body. A QRS complex reflects the electrical activation of the ventricles; its R peak is often used as a timing landmark. It is not the same event as a finger pulse peak, a felt heartbeat, a chest movement, or a drum strike. These events are related in ordinary physiology but separated by mechanisms and delays. A QRS detector marks a feature in recorded voltage. If the voltage is contaminated, the detector can make a plausible-looking but incorrect decision.
 
 
 A performer holding the didgeridoo may experience strong bodily engagement and a listener may feel vibration or an urge to move. Those experiences should be documented in their own terms. An ECG is not a direct meter of absorption, trance, energy, pleasure, or musical meaning.

@@ -81,7 +81,7 @@ For 115 episodes with an identifiable canonical recording, after excluding likel
 Crucial limitations: only 17 selected volunteers; repeated observations are not 228 independent people; participants were screened for reliable tapping; many songs lacked one canonical recording; half/double-time cases were removed; tapping may alter the mental experience. Within-person recurrences of the same eight songs showed a mean 19.6% slowest-to-fastest tempo difference, emphasizing variability.
 
 
-KLAAT's reference the drum pulse of approximately 137 BPM is a provisional measurement of one recording, not a compulsory tempo. If a listener spontaneously 'hears' the drum afterward and taps around 137 BPM, that could be interesting, but tapping at roughly 68.5 or 274 BPM could reflect metrical level rather than memory failure. Even an accurate match would demonstrate tempo memory or temporal reconstruction—not neural entrainment or a persisting physical pulse.
+KLAAT's reference drum pulse of approximately 137 BPM is a provisional measurement of one recording, not a compulsory tempo. If a listener spontaneously 'hears' the drum afterward and taps around 137 BPM, that could be interesting, but tapping at roughly 68.5 or 274 BPM could reflect metrical level rather than memory failure. Even an accurate match would demonstrate tempo memory or temporal reconstruction—not neural entrainment or a persisting physical pulse.
 
 
 6. THE CONTRADICTION: REPETITION HELPS MEMORY, BUT 'CATCHINESS' IS NOT A SINGLE PROPERTY
@@ -102,7 +102,7 @@ The artistic aim should remain welcome engagement and genuine effect, not maximi
 7. THE LISTENER'S DAY MATTERS
 
 
-Floridou and Müllensiefen (2015) used experience sampling with 40 volunteers, six prompts per day for one week. Their findings associated INMI with the person's activity and mind-wandering context. Williamson and colleagues (2012) classified self-reported triggers into music exposure, memory cues, affective states and low-attention states. Such findings help explain why a listener might not think of KLAAT during an intense conversation but might notice a remembered the drum figure while walking home, cleaning, drawing or sitting quietly.
+Floridou and Müllensiefen (2015) used experience sampling with 40 volunteers, six prompts per day for one week. Their findings associated INMI with the person's activity and mind-wandering context. Williamson and colleagues (2012) classified self-reported triggers into music exposure, memory cues, affective states and low-attention states. Such findings help explain why a listener might not think of KLAAT during an intense conversation but might notice a remembered drum figure while walking home, cleaning, drawing or sitting quietly.
 
 
 However, environmental associations are often retrospectively inferred. A person who notices a rhythm while walking might have begun the rhythm internally before walking; movement may cue it; or both may be associated with another variable. Likewise, spontaneous internal replay during chores is not proof that KLAAT improved task performance or elevated physiological arousal.
@@ -117,7 +117,7 @@ A later study by Floridou and colleagues (2015) developed the Involuntary Musica
 The proposed AFTER-SOUND GATE separates six layers:
 
 
-A. PERFORMANCE SOURCE — Paul's authentic, improvised the didgeridoo and drum actions; no required structure or tempo.
+A. PERFORMANCE SOURCE — Paul's authentic, improvised didgeridoo-and-drum actions; no required structure or tempo.
 B. DELIVERED EXPOSURE — the actual recording, duration, listening level, context and number of prior hearings.
 C. POST-EXPOSURE INTERVAL — elapsed time, other music, tasks, movement, sleep and environmental cues.
 D. SPONTANEOUS INTERNAL EVENT — whether anything returned unbidden; whether it looped; its content, onset and approximate duration.
@@ -134,13 +134,13 @@ It also leaves open an interesting, less conventional possibility: the listener 
 9. TESTABLE KLAAT HYPOTHESES, WITHOUT WRITING TO THEM
 
 
-H1 — SOURCE IDENTITY: Some listeners exposed to an authentic KLAAT excerpt may later report involuntary imagery identifiable as an the drum pattern, an the didgeridoo drone gesture, or their combination. Competing result: reports are vague, unrelated, or absent.
+H1 — SOURCE IDENTITY: Some listeners exposed to an authentic KLAAT excerpt may later report involuntary imagery identifiable as a drum pattern, a didgeridoo drone gesture, or their combination. Competing result: reports are vague, unrelated, or absent.
 
 
 H2 — EXPOSURE HISTORY: Repeated natural listening to the same authentic take may increase the frequency of recognizable KLAAT imagery compared with a first hearing, but this is confounded by familiarity, preference and selection unless exposure is assigned and controlled. No prescription to repeat material within the performance follows.
 
 
-H3 — INTERNAL METRICAL LEVEL: When a remembered the drum pulse is tapped, apparent half-time or double-time responses may reflect metric interpretation rather than loss of temporal identity. A preregistered tolerance rule would need to specify what counts as matching before inspecting data.
+H3 — INTERNAL METRICAL LEVEL: When a remembered drum pulse is tapped, apparent half-time or double-time responses may reflect metric interpretation rather than loss of temporal identity. A preregistered tolerance rule would need to specify what counts as matching before inspecting data.
 
 
 H4 — DAILY-LIFE FUNCTION: KLAAT imagery, if it occurs, might be welcome during a low-demand task yet distracting during concentrated work or sleep. The direction of effect may vary by person. Imagery occurrence is not equivalent to actual task benefit or harm.
@@ -176,7 +176,7 @@ UNSUPPORTED: KLAAT has demonstrated INMI, trance, neural entrainment, autonomic 
 Suppose three of ten volunteers later say that the drum's pulse returned to mind. That is three reports from those ten volunteers, not '30% of people experience KLAAT aftereffects.' We would need to know how they were recruited, whether they had heard KLAAT before, whether the description was spontaneous or prompted, whether the sound was mentally replayed or merely remembered, and whether it felt pleasant. Without a control condition, we cannot isolate KLAAT from generic music exposure or expectancy.
 
 
-Suppose one listener reports a pulse at 140 BPM after a recording with an the drum reference around 137 BPM. A close match may be notable but not conclusive: the listener could have tapped from a remembered pulse, inferred a beat from general familiarity, or been affected by walking cadence. A recording of the tapping would be a behavioral measure; a written claim about inner sound would remain subjective; no brain activity would have been measured.
+Suppose one listener reports a pulse at 140 BPM after a recording with a drum reference around 137 BPM. A close match may be notable but not conclusive: the listener could have tapped from a remembered pulse, inferred a beat from general familiarity, or been affected by walking cadence. A recording of the tapping would be a behavioral measure; a written claim about inner sound would remain subjective; no brain activity would have been measured.
 
 
 Suppose nobody reports spontaneous imagery. That does not mean the performance failed. KLAAT's artistic purpose includes real-time immersion, bodily energy, attentive listening and ordinary daily use. A piece can matter deeply without repeating in the listener's head.

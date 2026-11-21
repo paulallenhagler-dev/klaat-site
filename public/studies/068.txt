@@ -123,7 +123,7 @@ Thus a posture effect is plausible for KLAAT; its direction and magnitude cannot
 Most of the strongest whole-body biodynamics studies concern controlled excitation in roughly the 0.2–20 Hz region, often at magnitudes relevant to ride comfort or occupational exposure.
 
 
-KLAAT may deliver some energy there, but the drum's nominal ~137 BPM is approximately 2.28 rhythmic events per second—not proof of a 2.28 Hz mechanical vibration carrier. An the drum strike is a transient with a broad spectrum; the didgeridoo's acoustic drone occupies its own frequency range. Event repetition frequency, sound frequency and structure-borne acceleration spectra must be kept separate.
+KLAAT may deliver some energy there, but the drum's nominal ~137 BPM is approximately 2.28 rhythmic events per second—not proof of a 2.28 Hz mechanical vibration carrier. a drum strike is a transient with a broad spectrum; the didgeridoo's acoustic drone occupies its own frequency range. Event repetition frequency, sound frequency and structure-borne acceleration spectra must be kept separate.
 
 
 Higher-frequency tactile energy, if present at a contact surface, may be governed by different pathways and perceptual mechanisms. We cannot transfer low-frequency whole-body coefficients into those bands merely because both are called vibration.

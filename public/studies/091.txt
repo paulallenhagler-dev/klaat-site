@@ -29,7 +29,7 @@ KLAAT is improvised and bodily performed. The research should describe its natur
 1. THREE DIFFERENT CLOCKS IN ONE ACOUSTIC MOMENT
 
 
-Imagine an the drum strike during the didgeridoo's drone. The hand touches the drumhead material; the membrane begins moving; the microphone receives a waveform with an onset, a rapidly rising transient, and a longer decay. The listener hears a moment of impact. Those moments are closely related, but not necessarily identical.
+Imagine a drum strike during the didgeridoo's drone. The hand touches the drumhead material; the membrane begins moving; the microphone receives a waveform with an onset, a rapidly rising transient, and a longer decay. The listener hears a moment of impact. Those moments are closely related, but not necessarily identical.
 
 
 The physical onset is the earliest measurable sound associated with the event. The envelope peak is the point of maximum measured amplitude, which may occur later. The perceptual center, often called a P-center, is the moment listeners treat as the event's timing anchor. An attack with a sharp transient can feel earlier than a slower-rising sound whose waveform technically starts at the same instant.

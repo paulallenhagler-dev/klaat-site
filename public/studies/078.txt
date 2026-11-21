@@ -95,7 +95,7 @@ Session 78 refines the stimulus-construction step before KRX-077. Rather than mu
 10. THE FIELD IS A SEPARATE SOURCE, NOT A SECRET HI-HAT
 
 
-The didgeridoo, provides sustained acoustic continuity. Her breathing, harmonic shaping, and phrase boundaries can supply meaningful time structure. But she should not be assigned the role of an isochronous timekeeper without measured evidence. In a duet, her spectral changes may reinforce a phrase, mask an the drum attack, or compete for attention. A relatively stable Field is useful during an initial test because it reduces one source of uncontrolled variation. Later, deliberate Field transformations can test whether the two-role the drum grammar survives a changing acoustic background.
+The didgeridoo, provides sustained acoustic continuity. Her breathing, harmonic shaping, and phrase boundaries can supply meaningful time structure. But she should not be assigned the role of an isochronous timekeeper without measured evidence. In a duet, her spectral changes may reinforce a phrase, mask a drum attack, or compete for attention. A relatively stable Field is useful during an initial test because it reduces one source of uncontrolled variation. Later, deliberate Field transformations can test whether the two-role the drum grammar survives a changing acoustic background.
 
 
 11. GROUND ANCHOR: A FIELD WITHOUT A DRUM HIERARCHY

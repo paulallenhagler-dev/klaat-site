@@ -53,7 +53,7 @@ Dean, Bailes and Schubert (2011) directly manipulated musical intensity profiles
 The study's continuous ratings are important. A single rating at the end of a long improvisation may conceal that the listener experienced several different passages as activating. But the outcome was primarily the arousal listeners attributed to the music—not a demonstrated change in their physiological arousal, nor a KLAAT-like trance. The paper also explored time-series relations among computed intensity, perceived loudness and expressed arousal; those model relationships do not establish a universal biological pathway from acoustic intensity to the body.
 
 
-KLAAT implication: an the drum attack cluster or the didgeridoo crescendo may influence the perceived energy of the music. It would be a mistake, however, to assume every report of rising energy is explained by increasing volume. An attack can change texture and timing simultaneously, and a sound may seem more intense for perceptual reasons beyond a simple mean-level increase.
+KLAAT implication: a drum attack cluster or the didgeridoo crescendo may influence the perceived energy of the music. It would be a mistake, however, to assume every report of rising energy is explained by increasing volume. An attack can change texture and timing simultaneously, and a sound may seem more intense for perceptual reasons beyond a simple mean-level increase.
 
 
 4. A STRONG CASE FOR SPECTRAL INFORMATION, WITH ANOTHER LIMIT

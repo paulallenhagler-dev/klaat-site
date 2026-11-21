@@ -18,7 +18,7 @@ TOUCH GIVES SELECTED EVENTS A BODY.
 1. ONE STRIKE, SEVERAL PERCEPTUAL JOBS
 
 
-An the drum strike reaches a listener through airborne sound, structure-borne vibration, room reflections, body contact and sometimes vision. Those channels need not perform the same computation.
+a drum strike reaches a listener through airborne sound, structure-borne vibration, room reflections, body contact and sometimes vision. Those channels need not perform the same computation.
 
 
 Audition has unusually strong temporal resolution and a well-established role in beat perception and sensorimotor synchronization. Touch can represent rhythm and timing, but current evidence does not justify assuming that felt vibration independently constructs the same hierarchical beat representation with equal strength.

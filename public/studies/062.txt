@@ -443,7 +443,7 @@ Vestibular contribution depends on actual head motion, not on the word “low-fr
 18. PLAUSIBLE / TESTABLE KLAAT HYPOTHESES
 
 
-the didgeridoo and drum produce measurably different listener-interface spectral profiles even when their airborne levels are matched approximately.
+The didgeridoo and drum produce measurably different listener-interface spectral profiles even when their airborne levels are matched approximately.
 
 
 Ground Anchor will contain a more sustained somatic spectrum, while the drum will add transient higher-frequency tactile information during Threshold Gate and Rising Pulse.

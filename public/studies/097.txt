@@ -163,7 +163,7 @@ Session 97 adds a new interpretation rule to the KLAAT research framework:
 Do not jump from stage 4 to a detailed claim about stage 3. Do not jump from stage 5 to an acoustic mechanism. And do not equate a remembered 'intense' passage with a neural state, an autonomic change, or measured mechanical vibration.
 
 
-A recording waveform can show an the drum transient at 11:20. It cannot show that this was the listener's emotional peak. A listener can mark 11:20 as memorable. That does not establish whether it was the most intense moment at the time, whether it became salient only in retrospect, or whether a later reminder changed the memory. The distinction is not pedantic: it determines what KLAAT can responsibly claim.
+A recording waveform can show a drum transient at 11:20. It cannot show that this was the listener's emotional peak. A listener can mark 11:20 as memorable. That does not establish whether it was the most intense moment at the time, whether it became salient only in retrospect, or whether a later reminder changed the memory. The distinction is not pedantic: it determines what KLAAT can responsibly claim.
 
 
 9. A RESEARCH DESIGN THAT DOES NOT INTERRUPT THE PERFORMANCE
@@ -199,7 +199,7 @@ For each immediate or delayed report, preserve raw text and the exact question. 
 A compact evidence table would distinguish:
 
 
-- Acoustic observation: an the didgeridoo spectral change or the drum onset is measurable at a time stamp.
+- Acoustic observation: a didgeridoo spectral change or the drum onset is measurable at a time stamp.
 - Subjective first-listen report: a listener recalls a strong moment at roughly that location.
 - Immediate global judgment: the listener rates the whole performance highly on a named scale.
 - Delayed memory: the listener later recalls or rates it differently.

@@ -22,7 +22,7 @@ KLAAT has accumulated hypotheses about the continuous Field, rhythmic prediction
 
 
 2. A SINGLE TIMESTAMP CAN BE A MISLEADING SUMMARY
-Imagine two trained annotators hear an the didgeridoo breath-led spectral transition. One marks 02:11–02:16. The other marks 02:14–02:20. Both recognize a change. They disagree about its onset, duration, and perhaps the precise feature that defines it. Replacing those intervals with the midpoint 02:15 would destroy useful information: neither annotator actually claimed that the event was an instantaneous change at 02:15. A better record retains both intervals, the operational definition, the reasons for the marks, and a clearly labeled adjudication decision if one is made.
+Imagine two trained annotators hear a didgeridoo breath-led spectral transition. One marks 02:11–02:16. The other marks 02:14–02:20. Both recognize a change. They disagree about its onset, duration, and perhaps the precise feature that defines it. Replacing those intervals with the midpoint 02:15 would destroy useful information: neither annotator actually claimed that the event was an instantaneous change at 02:15. A better record retains both intervals, the operational definition, the reasons for the marks, and a clearly labeled adjudication decision if one is made.
 
 
 3. THREE DIFFERENT FORMS OF UNCERTAINTY

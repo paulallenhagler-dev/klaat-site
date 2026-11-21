@@ -81,7 +81,7 @@ DRUM CAN BE AN EVENT.
 4. ENVELOPE CORRESPONDENCE MAY MATTER AS MUCH AS ONSET
 
 
-An the drum strike has attack, rise, spectral change, decay, room reflection, and mechanical ringing. Recent human audio-tactile work supports crossmodal interaction for temporal-envelope features such as attack time and amplitude modulation.
+a drum strike has attack, rise, spectral change, decay, room reflection, and mechanical ringing. Recent human audio-tactile work supports crossmodal interaction for temporal-envelope features such as attack time and amplitude modulation.
 
 
 KLAAT should therefore preserve at least three descriptors:

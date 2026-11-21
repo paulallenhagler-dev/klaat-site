@@ -6,7 +6,7 @@ Guiding principle: Experience-led creation. Science-informed refinement.
 
 
 RESEARCH QUESTION
-When a spectrogram of an the drum drumhead material frame-drum strike contains several prominent frequencies, is it defensible to describe them as the harmonics of one musical note? Or might the drum's vibrating membrane produce a collection of modes that cannot be reduced to one fundamental pitch? This distinction matters when the C# identity of the didgeridoo's drone is discussed alongside the drum's rhythmic, tactile, and textural contribution.
+When a spectrogram of a drum drumhead material frame-drum strike contains several prominent frequencies, is it defensible to describe them as the harmonics of one musical note? Or might the drum's vibrating membrane produce a collection of modes that cannot be reduced to one fundamental pitch? This distinction matters when the C# identity of the didgeridoo's drone is discussed alongside the drum's rhythmic, tactile, and textural contribution.
 
 
 WHY THIS SESSION, AND WHAT IT DOES NOT REPEAT

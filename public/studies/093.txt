@@ -37,7 +37,7 @@ To illustrate without claiming to have measured the didgeridoo, suppose a hypoth
 A small speaker might reproduce some of the 139, 208 and 277 Hz components while contributing little energy near 69 Hz. The ear can sometimes use the spacing and periodic relationships among the surviving harmonics to perceive a pitch corresponding to the absent fundamental. This is called residue pitch, virtual pitch, or the missing-fundamental phenomenon. It is a property of auditory perception, not evidence that the loudspeaker secretly radiated the missing 69 Hz tone.
 
 
-There are important limits. Real instruments can have inharmonic partials, noise, transient components, multiple concurrent periodicities, and nonlinear distortions. the drum is not a second ideal harmonic complex. Its low resonance and attack may mask, compete with, or reinforce particular components of the didgeridoo. Missing-fundamental perception is therefore a mechanism to investigate in a complex KLAAT recording, not a guarantee that every phone speaker will preserve a clear C# drone.
+There are important limits. Real instruments can have inharmonic partials, noise, transient components, multiple concurrent periodicities, and nonlinear distortions. The drum is not a second ideal harmonic complex. Its low resonance and attack may mask, compete with, or reinforce particular components of the didgeridoo. Missing-fundamental perception is therefore a mechanism to investigate in a complex KLAAT recording, not a guarantee that every phone speaker will preserve a clear C# drone.
 
 
 2. THE CLASSIC EXPERIMENT: THE PITCH IS NOT REQUIRED TO EXIST AS A SINGLE LOW COMPONENT

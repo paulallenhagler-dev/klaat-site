@@ -17,7 +17,7 @@ THE CENTRAL DISCOVERY
 Two instruments can remain physically distinct while their sounds sometimes form a single perceptual event. The reverse can also happen: two sounds arriving almost together may remain perceptually separate. And a listener may experience an entire performance as one coherent world while still hearing its constituent instruments clearly.
 
 
-For KLAAT, this is a deeper question than whether the drum's pulse is easy to follow or whether her rhythm creates an urge to move. The didgeridoo's C# agave drone is sustained, breath-shaped, and harmonically active. the drum is punctuated, resonant, and temporally explicit. At some moments the instruments may feel like two voices in conversation. At others, an the drum strike and an the didgeridoo breath articulation may feel like a single, weighty event. Over longer periods, the entire performance may feel unified even though every sound remains individually recognizable.
+For KLAAT, this is a deeper question than whether the drum's pulse is easy to follow or whether her rhythm creates an urge to move. The didgeridoo's C# agave drone is sustained, breath-shaped, and harmonically active. The drum is punctuated, resonant, and temporally explicit. At some moments the instruments may feel like two voices in conversation. At others, a drum strike and a didgeridoo breath articulation may feel like a single, weighty event. Over longer periods, the entire performance may feel unified even though every sound remains individually recognizable.
 
 
 Those are different kinds of unity. The evidence strongly supports auditory grouping as a real perceptual process, but it does not show that any particular KLAAT passage has produced fusion, trance, or bodily activation. The research challenge is to distinguish what the recording contains from how listeners organize it, without asking Paul to manufacture synchrony or compose according to a theory.
@@ -47,7 +47,7 @@ Auditory scene analysis concerns how the hearing system organizes complex sound 
 These are tendencies, not an additive recipe with guaranteed results. The didgeridoo's own harmonics may be grouped into one recognizable drone because they share a harmonic structure and many temporal changes. The drum's membrane attack and subsequent decay may be heard as one drum event despite their changing spectrum. But the didgeridoo and drum are acoustically dissimilar: a continuously sounding aerophone and a struck membrane do not automatically form a single source just because they occupy the same room.
 
 
-A useful distinction is common onset versus common change. The drum can strike while the didgeridoo is already sounding; there is no shared beginning of the drone. Yet an the didgeridoo breath accent or sudden overtone emphasis may occur near the strike. The resulting pair could acquire a shared event quality even while the long-running drone and the drum remain identifiable as separate streams. The exact outcome depends on acoustic detail and the listener.
+A useful distinction is common onset versus common change. The drum can strike while the didgeridoo is already sounding; there is no shared beginning of the drone. Yet a didgeridoo breath accent or sudden overtone emphasis may occur near the strike. The resulting pair could acquire a shared event quality even while the long-running drone and the drum remain identifiable as separate streams. The exact outcome depends on acoustic detail and the listener.
 
 
 3. TEMPORAL COHERENCE: AN EXPERIMENTAL FOUNDATION
@@ -98,7 +98,7 @@ Across two experiments, listeners aligned a click probe with paired instrumental
 This is the most immediately relevant quantitative finding in this session. It also requires careful restraint. Forty milliseconds was a result for particular fast–fast pairings and the tested stimuli; it is NOT a universal fusion threshold, a target offset for KLAAT, or an instruction to synchronize Paul's hands and breath to the millisecond. Fast–slow pairs behaved differently. The study concerned compound musical sounds, not a continuous didgeridoo drone with free frame-drum improvisation. A listener could perceive one joint impact while still hearing two instruments over the surrounding passage.
 
 
-The deeper lesson is that the waveform's first visible transient is not necessarily the perceptual beat location. A slow swelling the didgeridoo gesture may reach its most salient moment after its initial acoustic change. An the drum strike may provide the perceptual timing anchor for the combined event. Without listening tests, we cannot know which moment listeners actually experience as the event's center.
+The deeper lesson is that the waveform's first visible transient is not necessarily the perceptual beat location. A slow swelling the didgeridoo gesture may reach its most salient moment after its initial acoustic change. a drum strike may provide the perceptual timing anchor for the combined event. Without listening tests, we cannot know which moment listeners actually experience as the event's center.
 
 
 7. A SECOND 2026 STUDY SHOWS WHY “TINY TIMING DIFFERENCES” NEED CONTEXT
@@ -140,13 +140,13 @@ There is a particularly important artistic safeguard here. “One sound” can m
 Imagine an authentic passage in which the didgeridoo holds a dense, roughened drone and the drum repeats a resonant pulse. The listener may hear two sources with no difficulty. Yet the ongoing relationship may become so familiar that the performance feels like a single organism. That artistic impression does not require literal auditory source fusion. It might arise from temporal predictability, stable timbral identities, expectation, memory, bodily engagement, and emotional association working together.
 
 
-Now imagine another naturally occurring moment in which an the didgeridoo overtone burst and an the drum strike coincide. The listener may experience a single emphatic event while continuing to hear two separate streams before and after it. That would be event binding without permanent source fusion. The distinction helps KLAAT retain complexity: the listener's experience can be unified at one scale and differentiated at another.
+Now imagine another naturally occurring moment in which a didgeridoo overtone burst and a drum strike coincide. The listener may experience a single emphatic event while continuing to hear two separate streams before and after it. That would be event binding without permanent source fusion. The distinction helps KLAAT retain complexity: the listener's experience can be unified at one scale and differentiated at another.
 
 
 10. WHAT A RECORDING CAN ACTUALLY TELL US
 
 
-A sufficiently clean recording can show approximate attack times, changing spectral energy, envelope correlations, relative intensity, reverberation, and possible co-occurring the didgeridoo and drum gestures. With isolated microphone channels or a synchronized performance video, attribution is more reliable. A single mixed track makes source-specific claims harder, especially because an the drum strike may mask an the didgeridoo articulation and because room reflections can create secondary peaks.
+A sufficiently clean recording can show approximate attack times, changing spectral energy, envelope correlations, relative intensity, reverberation, and possible co-occurring the didgeridoo and drum gestures. With isolated microphone channels or a synchronized performance video, attribution is more reliable. A single mixed track makes source-specific claims harder, especially because a drum strike may mask a didgeridoo articulation and because room reflections can create secondary peaks.
 
 
 A spectrogram can show correlated energy changes across frequency bands. That does not prove the listener heard one object. Cross-correlation can show statistical alignment of acoustic envelopes. It does not prove intentional coordination, neural synchrony, or bodily activation. A 40-millisecond measured offset cannot be interpreted using a generic perceptual threshold without considering the two actual sounds and playback conditions.
