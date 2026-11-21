@@ -1,0 +1,30 @@
+name: Apply KLAAT instrument terminology to published texts
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/normalize_klaat_language.py'
+      - '.github/workflows/normalize-klaat-language.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publication-language:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Update all published website text and EPUB chapters
+        run: python3 scripts/normalize_klaat_language.py
+      - name: Commit and publish revised material
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html about.html landing-archive-2026-10-21.html public assets marketing docs
+          git diff --cached --quiet && exit 0
+          git commit -m "Unify KLAAT didgeridoo and drum language across published text"
+          git push origin HEAD:main
