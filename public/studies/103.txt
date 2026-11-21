@@ -14,10 +14,10 @@ Critical synthesis of controlled studies of music-cued walking and running, with
 CENTRAL QUESTION
 
 
-KLAAT is not only an occasion for stillness in a dark room. It can also be a soundtrack for movement: walking through the neighborhood, carrying something, drawing, working, or traveling. Ankora supplies recurring physical attacks. Amastacia holds a dense, breathing center around C#. A listener might feel more energized, walk more quickly, take longer steps, or simply enjoy the walk without ever planting a foot exactly on a drumbeat.
+KLAAT is not only an occasion for stillness in a dark room. It can also be a soundtrack for movement: walking through the neighborhood, carrying something, drawing, working, or traveling. The drum supplies recurring physical attacks. The didgeridoo holds a dense, breathing center around C#. A listener might feel more energized, walk more quickly, take longer steps, or simply enjoy the walk without ever planting a foot exactly on a drumbeat.
 
 
-How can music affect the *vigor* of a person's movement without producing beat-to-footstep synchronization? Conversely, how could an instruction to follow Ankora make footsteps more regular while making walking feel more effortful or cautious? These outcomes sound contradictory only if we assume that musical activation, rhythmic entrainment, and good movement are the same thing.
+How can music affect the *vigor* of a person's movement without producing beat-to-footstep synchronization? Conversely, how could an instruction to follow the drum make footsteps more regular while making walking feel more effortful or cautious? These outcomes sound contradictory only if we assume that musical activation, rhythmic entrainment, and good movement are the same thing.
 
 
 The central result of this session is a separation: MUSIC CAN ALTER WALKING SPEED OR STRIDE EXPRESSION WITHOUT DEMONSTRABLE PHASE-LOCKING TO ITS BEAT; AND BEAT-LOCKING CAN BE PRESENT WITHOUT GREATER PLEASURE, SPEED, OR EASE.
@@ -26,10 +26,10 @@ The central result of this session is a separation: MUSIC CAN ALTER WALKING SPEE
 1. THE NOVELTY GATE: WHY THIS IS SESSION 103
 
 
-The current research corpus has already investigated beat perception, subdivision, motor urge, groove, everyday soundtrack use, and the difference between felt movement and measured movement. Session 67 clarified event density versus perceived clock; Session 80 separated heard low-frequency pitch from actual bodily delivery; Session 84 examined endurance and habituation; Session 89 distinguished beat clarity, movement urge, actual movement, and absorption. Session 102 separated personal memories from imagery. Recent hourly notes through October 19 at 18:13 CDT examine eye state, instrument wall material, Ankora's support-hand boundary, outdoor propagation, and other measurement problems. None of these is a dedicated comparison of (a) locomotor *speed and stride length*, (b) temporal phase-locking of footsteps to music, and (c) the role of explicit intention to synchronize.
+The current research corpus has already investigated beat perception, subdivision, motor urge, groove, everyday soundtrack use, and the difference between felt movement and measured movement. Session 67 clarified event density versus perceived clock; Session 80 separated heard low-frequency pitch from actual bodily delivery; Session 84 examined endurance and habituation; Session 89 distinguished beat clarity, movement urge, actual movement, and absorption. Session 102 separated personal memories from imagery. Recent hourly notes through October 19 at 18:13 CDT examine eye state, instrument wall material, the drum's support-hand boundary, outdoor propagation, and other measurement problems. None of these is a dedicated comparison of (a) locomotor *speed and stride length*, (b) temporal phase-locking of footsteps to music, and (c) the role of explicit intention to synchronize.
 
 
-This is therefore not another general essay about groove or an argument that a particular tempo causes trance. The new question is whether the everyday physical activation KLAAT seeks could be detected even in people who do not walk on Ankora's beat. The distinction has concrete experimental consequences.
+This is therefore not another general essay about groove or an argument that a particular tempo causes trance. The new question is whether the everyday physical activation KLAAT seeks could be detected even in people who do not walk on the drum's beat. The distinction has concrete experimental consequences.
 
 
 2. THREE MOVEMENT VARIABLES THAT MUST NOT BE COLLAPSED
@@ -44,7 +44,7 @@ PHASE SYNCHRONIZATION asks where the footfalls fall within the musical cycle. If
 LOCOMOTOR VIGOR is a broader, partly interpretive term for how energetically someone moves. Walking velocity can increase through higher cadence, longer steps, or both. Posture, terrain, fatigue, footwear, attention, motivation, and personal preference also matter. A faster walk is not necessarily a more enjoyable walk; a longer stride is not necessarily a safer one. Vigor is not a measurement of bodily 'resonance' with a didgeridoo.
 
 
-The simplest useful example: two people take 120 steps per minute. One takes short steps and travels 1.0 meter per second; another takes longer steps and travels 1.3 meters per second. Their cadence is identical, yet their velocity differs by 30%. If Ankora's accents are near 120 BPM, neither person's matching cadence proves that the footfalls occurred in time with those accents.
+The simplest useful example: two people take 120 steps per minute. One takes short steps and travels 1.0 meter per second; another takes longer steps and travels 1.3 meters per second. Their cadence is identical, yet their velocity differs by 30%. If the drum's accents are near 120 BPM, neither person's matching cadence proves that the footfalls occurred in time with those accents.
 
 
 3. CONTROLLED MUSIC CAN CHANGE WALKING SPEED EVEN AT ONE TEMPO
@@ -53,10 +53,10 @@ The simplest useful example: two people take 120 steps per minute. One takes sho
 Leman and colleagues (2013) asked participants to walk in time with 52 different musical excerpts, all constructed around 130 BPM and four-beat meter. Walking speed was measured over 30 seconds and compared with a metronome reference. Because the beat rate was held constant during synchronized trials, changes in speed primarily reflected stride length, not simply taking more steps per minute. In 88.7% of trials, participants matched the music's tempo by the study's step-count criterion. A regression using four acoustic descriptors of loudness and pitch variation explained approximately 60% of the variance in the measured musical speed effect within that experimental dataset.
 
 
-The result matters: at an equal tempo, expressive qualities of the music still influenced movement. A repeated beat is not the only potentially relevant information. Dynamics and contour can matter. But this study used instructed synchronization and selected excerpts, not improvised didgeridoo and elk-hide frame drum. Its 60% model fit is neither an out-of-sample prediction guarantee nor a claim that four sound features determine 60% of anyone's real-world walking.
+The result matters: at an equal tempo, expressive qualities of the music still influenced movement. A repeated beat is not the only potentially relevant information. Dynamics and contour can matter. But this study used instructed synchronization and selected excerpts, not improvised didgeridoo and drum. Its 60% model fit is neither an out-of-sample prediction guarantee nor a claim that four sound features determine 60% of anyone's real-world walking.
 
 
-For KLAAT, the relevant possibility is not 'use 130 BPM' or 'make Ankora louder.' It is that the *way* Amastacia's harmonic energy swells and Ankora's accents breathe may influence how energetic a listener feels while the underlying event rate remains similar. That remains unmeasured for KLAAT.
+For KLAAT, the relevant possibility is not 'use 130 BPM' or 'make the drum louder.' It is that the *way* the didgeridoo's harmonic energy swells and the drum's accents breathe may influence how energetic a listener feels while the underlying event rate remains similar. That remains unmeasured for KLAAT.
 
 
 4. WHAT HAPPENS WHEN PEOPLE ARE NOT TOLD TO FOLLOW THE BEAT?
@@ -68,7 +68,7 @@ Buhmann and colleagues (2016) examined self-paced indoor walking in silence and 
 That is a powerful correction to the common slogan that rhythm 'entrains' all movement. An effect on walking speed is not equivalent to the feet locking to the beat. The researchers interpreted their result in terms of movement vigor, potentially affecting stride length and pacing, while acknowledging the need to distinguish mechanism from correlation. The musical materials and analysis strategy were specific to their experiment. We should not transfer the model's coefficients, or even its explanatory percentage, to KLAAT.
 
 
-For an unedited KLAAT recording, a listener might report feeling propelled while walking at a preferred cadence unrelated to Ankora's attack rate. This would be a legitimate experiential finding. If measured walking speed also increased relative to a silent comparison, that would be a movement outcome. Neither observation alone would prove entrainment, and neither would reveal whether the cause was arousal, liking, attention, expectancy, acoustic structure, or some combination.
+For an unedited KLAAT recording, a listener might report feeling propelled while walking at a preferred cadence unrelated to the drum's attack rate. This would be a legitimate experiential finding. If measured walking speed also increased relative to a silent comparison, that would be a movement outcome. Neither observation alone would prove entrainment, and neither would reveal whether the cause was arousal, liking, attention, expectancy, acoustic structure, or some combination.
 
 
 5. THE INTENTION CONTRADICTION: FOLLOWING THE BEAT CHANGES THE TASK
@@ -101,7 +101,7 @@ KLAAT should not automatically become adaptive software. Its organic timing is p
 Leow, Parrott, and Grahn (2014) asked healthy young adults with stronger or weaker beat-perception performance to synchronize walking to low-groove music, high-groove music, or metronome cues. They tested cues at each person's preferred step rate and at 22.5% above it. Synchronization was most accurate with metronomes, next with high-groove music, and least accurate with low-groove music. High-groove excerpts were associated with longer and faster steps than low-groove excerpts; people with weaker beat perception sometimes slowed or shortened their steps under difficult low-groove cueing.
 
 
-This finding adds individual difference and task difficulty to the picture. A listener who does not synchronize to Ankora may not be resisting the music or failing to feel it. The perceived beat may be ambiguous, the listener may organize subdivisions differently, the task may be distracting, or there may simply be no intention to synchronize. None of these diagnoses can be made from a single walking report.
+This finding adds individual difference and task difficulty to the picture. A listener who does not synchronize to the drum may not be resisting the music or failing to feel it. The perceived beat may be ambiguous, the listener may organize subdivisions differently, the task may be distracting, or there may simply be no intention to synchronize. None of these diagnoses can be made from a single walking report.
 
 
 The experiment was designed partly with clinical cueing applications in mind, but the tested participants were neurologically intact. KLAAT is not a gait rehabilitation intervention, and there is no basis for advertising it as one. The lesson for art is more humane: the same sound can meet different bodies and timing abilities differently.
@@ -116,13 +116,13 @@ A later instructed-versus-spontaneous running study reported that 33.33% of its 
 One cannot infer that a 'stronger' KLAAT performance would automatically produce a higher synchronization percentage. Tempo proximity, cue salience, phase opportunity, task demands, participant skill, and motivation can all intervene. The literature supports a research question, not an optimization recipe.
 
 
-9. WHERE AMASTACIA AND ANKORA ENTER THE MECHANISM
+9. WHERE DIDGERIDOO AND DRUM ENTER THE MECHANISM
 
 
-Ankora's hand-struck pulse offers discrete attacks that can serve as potential timing landmarks. But a frame drum's resonant decay, accented strokes, and irregular subdivisions do not guarantee that every listener hears the same primary beat. One person might place steps on a slower grouping; another might hear the faster attack stream; a third might simply enjoy the texture.
+The drum's hand-struck pulse offers discrete attacks that can serve as potential timing landmarks. But a frame drum's resonant decay, accented strokes, and irregular subdivisions do not guarantee that every listener hears the same primary beat. One person might place steps on a slower grouping; another might hear the faster attack stream; a third might simply enjoy the texture.
 
 
-Amastacia adds another dimension. A sustained C# drone is not a metronome. It can nevertheless change its loudness envelope, harmonic brightness, noisy breath content, and sense of forward motion. In conventional walking studies, expressive loudness and pitch contours have helped account for velocity differences even when musical tempo was held constant. It is plausible that Amastacia's shifting spectrum and Ankora's varying attack strength together influence a listener's felt energy without any change in footfall phase.
+The didgeridoo adds another dimension. A sustained C# drone is not a metronome. It can nevertheless change its loudness envelope, harmonic brightness, noisy breath content, and sense of forward motion. In conventional walking studies, expressive loudness and pitch contours have helped account for velocity differences even when musical tempo was held constant. It is plausible that the didgeridoo's shifting spectrum and the drum's varying attack strength together influence a listener's felt energy without any change in footfall phase.
 
 
 That is a hypothesis about a possible perceptual-motor pathway, not a measured result. It also need not be the *reason* Paul plays that way. His improvisation comes first; research can describe what is present and ask how people respond. A performance does not need to be redesigned to validate a scientific model.
@@ -146,7 +146,7 @@ C. TEMPORAL COUPLING: footfall timestamps cluster at a consistent phase relative
 D. LISTENING EXPERIENCE: absorption, pleasure, fatigue, irritation, imagery, or a desire to continue. These are distinct reports and can diverge from all three preceding measures.
 
 
-There is a fifth contextual layer: the delivery system. Outdoors, footsteps and traffic can mask Ankora; earbuds alter bass balance; a phone speaker may communicate the drone's pitch without delivering the same low-frequency pressure as a live room. The actual acoustic stimulus reaching the listener must not be assumed from the original file alone. Session 80's playback gate and recent outdoor propagation notes remain relevant without becoming this session's central question.
+There is a fifth contextual layer: the delivery system. Outdoors, footsteps and traffic can mask the drum; earbuds alter bass balance; a phone speaker may communicate the drone's pitch without delivering the same low-frequency pressure as a live room. The actual acoustic stimulus reaching the listener must not be assumed from the original file alone. Session 80's playback gate and recent outdoor propagation notes remain relevant without becoming this session's central question.
 
 
 11. WHAT A FAIR KLAAT COMPARISON WOULD REQUIRE
@@ -170,7 +170,7 @@ The walking studies sometimes report a musical effect on speed without footstep 
 'Entrainment' is often used loosely to mean influence, motivation, rhythmic movement, or neural timing. For KLAAT, reserve the narrow term *footstep phase synchronization* for measured alignment. Use *activation* for reported energy or arousal. Use *velocity change* for a behavioral speed difference. Use *absorption* for the listener's experience. These words protect the project from claiming more than it knows.
 
 
-There is also an artistic point worth preserving: the person walking through KLAAT need not surrender their own rhythm. The sound may accompany, color, energize, or sometimes distract a moving life. The success of that encounter is not reducible to how accurately shoes strike the pavement on Ankora's beats.
+There is also an artistic point worth preserving: the person walking through KLAAT need not surrender their own rhythm. The sound may accompany, color, energize, or sometimes distract a moving life. The success of that encounter is not reducible to how accurately shoes strike the pavement on the drum's beats.
 
 
 13. EVIDENCE STATUS
@@ -186,8 +186,8 @@ Reported proportions of synchronization depend on trial definition, participant 
 
 PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
 H1. Some listeners report increased energy while walking to an unchanged KLAAT recording without measurable beat-footstep phase synchronization.
-H2. Naturally occurring changes in Amastacia's harmonic/noise envelope and Ankora's accents may covary with perceived vigor, independent of the average drum-event rate.
-H3. People who interpret Ankora at half-time or as subdivisions may show different footfall relationships despite similar enjoyment.
+H2. Naturally occurring changes in the didgeridoo's harmonic/noise envelope and the drum's accents may covary with perceived vigor, independent of the average drum-event rate.
+H3. People who interpret the drum at half-time or as subdivisions may show different footfall relationships despite similar enjoyment.
 H4. Deliberate beat-matching instructions could change gait and attentional experience, potentially reducing rather than increasing enjoyment for some listeners.
 H5. Listening context and playback fidelity may alter reported activation more than any measured phase relationship.
 
@@ -203,7 +203,7 @@ KLAAT has been shown to accelerate walking, improve fitness, rehabilitate gait, 
 14. ONE OPTIONAL KLAAT OBSERVATION — THE WALK THAT KEEPS ITS OWN CLOCK
 
 
-On an ordinary safe walk, listen to one existing KLAAT recording at a comfortable level without trying to match the drum. Afterward, write only three brief observations: Did the music feel energizing, neutral, or distracting? Did your walking *seem* to change? Did you deliberately follow Ankora's beat at any point? It is completely acceptable to answer 'no' or 'not sure.' This is an experience note, not a gait experiment and not evidence of entrainment. Do not change the recording or your natural walking to make a result happen.
+On an ordinary safe walk, listen to one existing KLAAT recording at a comfortable level without trying to match the drum. Afterward, write only three brief observations: Did the music feel energizing, neutral, or distracting? Did your walking *seem* to change? Did you deliberately follow the drum's beat at any point? It is completely acceptable to answer 'no' or 'not sure.' This is an experience note, not a gait experiment and not evidence of entrainment. Do not change the recording or your natural walking to make a result happen.
 
 
 PRIMARY SOURCES AND AUDIT TRAIL

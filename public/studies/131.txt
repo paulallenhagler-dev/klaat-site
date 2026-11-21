@@ -9,7 +9,7 @@ EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 
 
 RESEARCH STATUS
-Evidence synthesis and a proposed measurement framework. No new Amastacia/Ankora audio, KLAAT listener reports, ear-level measurements, or physiological data were available for this session. All numerical KLAAT examples below are hypothetical unless explicitly identified as the existing KLS-001 protocol's sample targets. The purpose is to understand real listening conditions, not to prescribe how Paul improvises.
+Evidence synthesis and a proposed measurement framework. No new the didgeridoo and drum audio, KLAAT listener reports, ear-level measurements, or physiological data were available for this session. All numerical KLAAT examples below are hypothetical unless explicitly identified as the existing KLS-001 protocol's sample targets. The purpose is to understand real listening conditions, not to prescribe how Paul improvises.
 
 
 EDITORIAL ABSTRACT
@@ -48,13 +48,13 @@ Thus: identical master ≠ identical playback processing ≠ identical ear input
 2. WHY THE TWO INSTRUMENTS MAKE THIS QUESTION SPECIFIC
 
 
-Amastacia, the C# agave didgeridoo, supplies a sustained drone whose identity can depend on fundamental and harmonic balance, roughness, breath articulation, spectral movement, and the sense of continuity. Ankora, the elk-hide frame drum, supplies attacks, decay, pulse, changing density, and the possibility of a bodily urge to move. Their interaction is the musical event; neither instrument is merely a test tone.
+The didgeridoo, supplies a sustained drone whose identity can depend on fundamental and harmonic balance, roughness, breath articulation, spectral movement, and the sense of continuity. The drum, supplies attacks, decay, pulse, changing density, and the possibility of a bodily urge to move. Their interaction is the musical event; neither instrument is merely a test tone.
 
 
-A playback path can preserve attack timing but weaken low-frequency pressure. It can preserve a low-frequency impression through upper harmonics without reproducing much fundamental. It can leave the overall loudness seemingly similar while altering the ratio of Ankora's transient to Amastacia's sustain. It can deliver both stereo channels, one channel, or a processed spatial rendering. None of these changes necessarily destroys KLAAT as art. But they are not interchangeable when we ask what caused a particular listener response.
+A playback path can preserve attack timing but weaken low-frequency pressure. It can preserve a low-frequency impression through upper harmonics without reproducing much fundamental. It can leave the overall loudness seemingly similar while altering the ratio of the drum's transient to the didgeridoo's sustain. It can deliver both stereo channels, one channel, or a processed spatial rendering. None of these changes necessarily destroys KLAAT as art. But they are not interchangeable when we ask what caused a particular listener response.
 
 
-Consider an invented example. A drum event is 14 dB weaker in the left than the right channel of a hypothetical stereo mix. A listener receiving only the left channel may find Ankora less prominent than someone receiving the right channel. The arithmetic level difference alone says nothing about how either listener will describe the performance, but it establishes that the received signals are not equivalent. The actual KLAAT masters have not been measured for this effect. The Oct 28 single-earbud hourly note isolated this routing issue; Session 131 asks what to do with responses collected under such different exposures.
+Consider an invented example. A drum event is 14 dB weaker in the left than the right channel of a hypothetical stereo mix. A listener receiving only the left channel may find the drum less prominent than someone receiving the right channel. The arithmetic level difference alone says nothing about how either listener will describe the performance, but it establishes that the received signals are not equivalent. The actual KLAAT masters have not been measured for this effect. The Oct 28 single-earbud hourly note isolated this routing issue; Session 131 asks what to do with responses collected under such different exposures.
 
 
 3. THE PRIMARY EXPERIMENTAL WARNING: HEADPHONES ARE NOT ONE VERIFIED CONDITION
@@ -69,7 +69,7 @@ Milne and colleagues developed an alternative using Huggins pitch, a dichotic au
 A particularly revealing limitation: the original anti-phase headphone test can sometimes be passed with only one earbud. The test is not a full certification of bilateral channel delivery, ear seal, sound level, frequency response, or spatial-audio mode. A participant's statement 'I used headphones' is useful but weaker still. This is why one checkbox cannot transform a heterogeneous home-listening pilot into a laboratory psychoacoustic experiment.
 
 
-For KLAAT, this matters because a listener might truthfully report 'the drum was distant' after receiving a changed signal. That statement remains an authentic experience of the delivered music. It does not yet establish that the original Ankora recording was distant, or that the listener's brain unusually suppressed percussion.
+For KLAAT, this matters because a listener might truthfully report 'the drum was distant' after receiving a changed signal. That statement remains an authentic experience of the delivered music. It does not yet establish that the original the drum recording was distant, or that the listener's brain unusually suppressed percussion.
 
 
 4. THE COUNTEREXAMPLE: BETTER ACCESS CAN CHANGE THE PREFERRED SOUND
@@ -150,7 +150,7 @@ The October 29 hourly note about metadata leakage adds another layer: the stimul
 A controlled listening test and an everyday-use observation answer different questions. In a controlled test, standardizing a playback chain helps isolate differences between authentic takes. It may, however, make the situation less representative of the way people actually use music. In an everyday-use observation, participants can choose the equipment, posture, location, and activity that make KLAAT useful to them. This increases ecological relevance but weakens causal attribution. Neither is automatically superior.
 
 
-A reasonable first KLAAT pilot can have a carefully documented main listening path while preserving separately labeled real-world reports. It should not require buying expensive equipment, setting a universal loudness, or converting spontaneous improvisation into standardized beats. The art remains the naturally recorded Amastacia–Ankora performance. The protocol merely describes how the art reached the listener.
+A reasonable first KLAAT pilot can have a carefully documented main listening path while preserving separately labeled real-world reports. It should not require buying expensive equipment, setting a universal loudness, or converting spontaneous improvisation into standardized beats. The art remains the naturally recorded the didgeridoo–the drum performance. The protocol merely describes how the art reached the listener.
 
 
 An important negative result would be that listeners under similar delivery conditions still disagree profoundly about the music. That would suggest genuine response heterogeneity, but it would not prove that playback had no influence. Another useful result would be that a person's pulse-clarity judgment changes markedly when they switch from a phone speaker to well-fitted headphones. That would demonstrate a path-dependent report for that person and take; it would not prove a universal psychoacoustic mechanism. A third useful result would be that bodily-sensation ratings stay similar across several devices while spectral clarity changes. That would be interesting but still not identify a neural cause of bodily sensation.
@@ -165,7 +165,7 @@ ESTABLISHED — Digital-file identity does not entail identical analog sound at 
 CONTEXT-DEPENDENT — Which playback differences matter for a particular KLAAT take depends on its actual spectrum, stereo mix, transient structure, output level, playback equipment, room, listener hearing, and task. Existing external studies do not supply KLAAT effect sizes.
 
 
-PLAUSIBLE / TESTABLE — The same authentic KLAAT take may yield different ratings of Ankora prominence, Amastacia weight, spatial immersion, or urge to move under different listening paths. Recording path information could explain some response variability, or it might explain little. Both are valid outcomes.
+PLAUSIBLE / TESTABLE — The same authentic KLAAT take may yield different ratings of the drum prominence, the didgeridoo weight, spatial immersion, or urge to move under different listening paths. Recording path information could explain some response variability, or it might explain little. Both are valid outcomes.
 
 
 SPECULATION — KLAAT's distinctive low drone and dry pulse might be unusually sensitive to some playback differences, or its core experiential identity might survive them surprisingly well. This is an artistic and empirical possibility, not a demonstrated property.
@@ -198,7 +198,7 @@ Experience-led creation. Science-informed refinement.
 OPTIONAL KLAAT OBSERVATION — KRX-131: ONE TAKE, TWO LISTENING PATHS
 
 
-Only if an existing authentic recording and two ordinary listening options are already available: listen to the same short passage once through your usual headphones and once through a phone or small speaker, at comfortable levels. Do not force equal loudness, do not change the performance, and do not claim a controlled experiment. Write a single sentence identifying what changed most: the apparent weight of Amastacia, Ankora's attack, spaciousness, nothing obvious, or something else. Note which path you used. If you would rather simply play KLAAT, skip this entirely. The observation is about delivery, not a requirement to revise the music.
+Only if an existing authentic recording and two ordinary listening options are already available: listen to the same short passage once through your usual headphones and once through a phone or small speaker, at comfortable levels. Do not force equal loudness, do not change the performance, and do not claim a controlled experiment. Write a single sentence identifying what changed most: the apparent weight of the didgeridoo, the drum's attack, spaciousness, nothing obvious, or something else. Note which path you used. If you would rather simply play KLAAT, skip this entirely. The observation is about delivery, not a requirement to revise the music.
 
 
 PRIMARY SOURCES, TECHNICAL DOCUMENTATION, AND PROVENANCE

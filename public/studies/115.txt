@@ -10,10 +10,10 @@ Governing principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 RESEARCH QUESTION
 
 
-When Amastacia holds its C#-centered drone, can a listener hear that tone as rising or falling even when the underlying acoustic repetition frequency does not change? Can a swelling, receding, breath-shaped, or partially masked tone acquire an apparent pitch trajectory through hearing itself? And if so, how could we distinguish a genuine change in Paul's embouchure or the instrument's oscillation from a change in perceived pitch created by listening level, time envelope, neighboring noise, or the reproduction system?
+When the didgeridoo holds its C#-centered drone, can a listener hear that tone as rising or falling even when the underlying acoustic repetition frequency does not change? Can a swelling, receding, breath-shaped, or partially masked tone acquire an apparent pitch trajectory through hearing itself? And if so, how could we distinguish a genuine change in Paul's embouchure or the instrument's oscillation from a change in perceived pitch created by listening level, time envelope, neighboring noise, or the reproduction system?
 
 
-This question matters because KLAAT is not an exercise in sustaining an abstract sine wave. Its living drone contains a fundamental, harmonics, moving resonances, air noise, articulation, and natural changes of strength. Ankora adds broadband attacks and decay. A listener might describe the sound as 'climbing,' 'dropping,' 'opening,' or 'deepening' while Paul experiences a continuous anchor. Such language can be musically accurate as experience without being a literal measurement of the fundamental frequency. The distinction protects the art from a false technical diagnosis and protects the science from a false causal claim.
+This question matters because KLAAT is not an exercise in sustaining an abstract sine wave. Its living drone contains a fundamental, harmonics, moving resonances, air noise, articulation, and natural changes of strength. The drum adds broadband attacks and decay. A listener might describe the sound as 'climbing,' 'dropping,' 'opening,' or 'deepening' while Paul experiences a continuous anchor. Such language can be musically accurate as experience without being a literal measurement of the fundamental frequency. The distinction protects the art from a false technical diagnosis and protects the science from a false causal claim.
 
 
 NOVELTY GATE
@@ -31,7 +31,7 @@ The first is acoustic periodicity: the time between recurring features of a wave
 These descriptions may agree, but agreement cannot be assumed. A spectral analyzer can detect a shift in the fundamental while a listener fails to notice it. A listener can hear a change of pitch when the waveform's component frequencies are fixed. A spectral-centroid increase can make a tone brighter without raising its fundamental. A digital pitch tracker can make an octave error when one harmonic becomes dominant. A phone's automatic gain control can make a naturally swelling passage look dynamically flatter. None of these observations proves that the performer or the listener is mistaken; they are measurements of different parts of a causal chain.
 
 
-For KLAAT, 'Amastacia stays in C#' should not be interpreted as 'nothing about the drone changes.' C# names a tonal center, not an invariant spectral or perceptual event. Its harmonic proportions, roughness, noisy breath component, dynamic envelope, and local room response can all vary without an intentional change of note. Nor is the musical label itself a biological frequency prescription.
+For KLAAT, 'the didgeridoo stays in C#' should not be interpreted as 'nothing about the drone changes.' C# names a tonal center, not an invariant spectral or perceptual event. Its harmonic proportions, roughness, noisy breath component, dynamic envelope, and local room response can all vary without an intentional change of note. Nor is the musical label itself a biological frequency prescription.
 
 
 2. THE HISTORICAL PITCH–INTENSITY PROBLEM
@@ -55,7 +55,7 @@ Jesteadt and Neff (1982) investigated intensity-dependent pitch shifts with forc
 Why is this stronger than asking a listener whether a louder tone sounds higher? Because the investigators could analyze how intensity influenced frequency judgments across controlled alternatives. Yet signal-detection models still rest on assumptions, and three listeners cannot establish a population-wide law. Their 40–90 dB SPL range is a laboratory manipulation, not a target listening range or invitation to play loudly.
 
 
-The crucial established finding is limited but real: with acoustic frequency controlled, changing intensity can systematically alter pitch judgments. The experiment does not tell us the size of the effect for Amastacia, whether its low drone will shift in the same direction, or whether an absorbed listener will consciously notice it.
+The crucial established finding is limited but real: with acoustic frequency controlled, changing intensity can systematically alter pitch judgments. The experiment does not tell us the size of the effect for the didgeridoo, whether its low drone will shift in the same direction, or whether an absorbed listener will consciously notice it.
 
 
 4. EVEN TWO EARS MAY DISAGREE
@@ -76,7 +76,7 @@ For KLAAT, one listener's report that the drone 'went down' cannot be generalize
 McBeath and Neuhoff (2002) reported a striking interaction between dynamic intensity and perceived pitch in experiments with designed Doppler-shifted tones [4]. In their conditions, tones whose physical frequency was moving downward could be perceived as following the trajectory of changing intensity instead. The authors reported apparent pitch variation comparable to a frequency change approaching an octave, much larger than the traditional small effects of discrete level changes in that frequency region.
 
 
-The dramatic result is worth taking seriously, but also worth reading narrowly. It came from controlled, synthetic dynamic stimuli involving a particular relationship between frequency motion and intensity motion. It does NOT mean that simply making a steady Amastacia drone louder will make it sound an octave higher, that a drum crescendo generates a pitch illusion of that size, or that a live audience will hear an identical effect. The paper's proposal that the auditory system encodes natural intensity–frequency correlations is a causal interpretation of the behavioral findings, not a demonstrated KLAAT neural mechanism.
+The dramatic result is worth taking seriously, but also worth reading narrowly. It came from controlled, synthetic dynamic stimuli involving a particular relationship between frequency motion and intensity motion. It does NOT mean that simply making a steady the didgeridoo drone louder will make it sound an octave higher, that a drum crescendo generates a pitch illusion of that size, or that a live audience will hear an identical effect. The paper's proposal that the auditory system encodes natural intensity–frequency correlations is a causal interpretation of the behavioral findings, not a demonstrated KLAAT neural mechanism.
 
 
 Nevertheless, the distinction is relevant. A gradual crescendo followed by a decrescendo is a temporal pattern, not merely two steady playback levels. Listeners interpret trajectories over time. In spontaneous performance, Paul may vary breath pressure, embouchure, oral-cavity filtering, and the distance/orientation of the bell relative to the room simultaneously. A perceived rise during such a passage could involve actual F0 motion, dynamic intensity bias, spectral change, or all three. We must measure before choosing an explanation.
@@ -91,7 +91,7 @@ Rossing and Houtsma (1986) examined short sinusoids with exponentially rising or
 Houtsma and Rossing (1987) extended the issue to short, two-component complex tones with a virtual missing-fundamental pitch [6]. Four listeners matched pitches under different decay rates—0, 0.5, 1, and 2 dB per millisecond. The component tones were constructed as f1 = n f0 + 50 Hz and f2 = (n+1) f0 + 50 Hz, for n = 3, 4, or 5. Pitch changes for the lower and upper components were not identical, and the virtual pitch followed a relationship closer to the average behavior of the partials than to a simple one-component rule.
 
 
-These are particularly useful contrasts for KLAAT because Ankora produces short attacks with decays, while Amastacia supplies a more sustained but still articulated complex sound. A drum impact's apparent tonal height might change as its decay unfolds, even if a narrow-band frequency component remains stable. Likewise, a didgeridoo breath articulation could alter the temporal envelope of a harmonic-rich sound. But the published envelopes were laboratory-designed and short; no result can be transferred numerically to a three-minute improvised performance.
+These are particularly useful contrasts for KLAAT because the drum produces short attacks with decays, while the didgeridoo supplies a more sustained but still articulated complex sound. A drum impact's apparent tonal height might change as its decay unfolds, even if a narrow-band frequency component remains stable. Likewise, a didgeridoo breath articulation could alter the temporal envelope of a harmonic-rich sound. But the published envelopes were laboratory-designed and short; no result can be transferred numerically to a three-minute improvised performance.
 
 
 An important nuance: equal total energy is not equal instantaneous loudness. A fast attack and slow decay can distribute energy differently through time from a gradual onset and abrupt end. The auditory system is sensitive to those temporal details. For an existing KLAAT recording, one should examine both spectral trajectories and amplitude envelopes rather than reduce the entire passage to average RMS level.
@@ -106,13 +106,13 @@ Stoll (1985) studied the addition of masking noise to pure and complex tones [7]
 This result matters because it contradicts the idea that a percentage obtained from a pure-tone test can simply be assigned to a harmonic instrument. The harmonic-residue judgment was much less sensitive to masker level than the individual pure-tone judgment. The direction reported for the masking manipulation also must not be confused with the direction of a tone's own intensity effect: adding noise and turning up the tone are different experimental operations.
 
 
-In KLAAT, Ankora's attack can briefly obscure components of Amastacia. The didgeridoo's breath noise can also alter the prominence of partials. A listener might hear the drone's pitch differently during an impact, but this could reflect energetic masking, changes in which harmonics remain available, attention, or a level-related pitch bias. Stoll's laboratory noise is not an elk-hide drum, and the 5% figure is not a KLAAT estimate.
+In KLAAT, the drum's attack can briefly obscure components of the didgeridoo. The didgeridoo's breath noise can also alter the prominence of partials. A listener might hear the drone's pitch differently during an impact, but this could reflect energetic masking, changes in which harmonics remain available, attention, or a level-related pitch bias. Stoll's laboratory noise is not an drum, and the 5% figure is not a KLAAT estimate.
 
 
 8. A QUANTITATIVE REALITY CHECK
 
 
-To keep the magnitudes interpretable: one equal-tempered semitone corresponds to a frequency ratio of 2^(1/12), about 1.05946—a 5.95% increase. A 3% increase is about 0.51 semitone; a 5% increase is about 0.84 semitone. Those are mathematical conversions only. They do not assert that listeners will hear an equal-sized musical interval, nor do they validate a shift for Amastacia. They simply show why a percentage reported in one experiment must not be casually described as a full musical note or an octave.
+To keep the magnitudes interpretable: one equal-tempered semitone corresponds to a frequency ratio of 2^(1/12), about 1.05946—a 5.95% increase. A 3% increase is about 0.51 semitone; a 5% increase is about 0.84 semitone. Those are mathematical conversions only. They do not assert that listeners will hear an equal-sized musical interval, nor do they validate a shift for the didgeridoo. They simply show why a percentage reported in one experiment must not be casually described as a full musical note or an octave.
 
 
 Likewise, the 40–90 dB SPL range in Jesteadt and Neff and the 30–70 dB SPL masking-noise range in Stoll describe experimental stimuli at their participants' ears. They cannot be used as a KLAAT listening-level recommendation. Loud playback can damage hearing, and raising level is unnecessary for exploratory testing. Ordinary comfortable playback and careful documentation are preferable.
@@ -121,7 +121,7 @@ Likewise, the 40–90 dB SPL range in Jesteadt and Neff and the 30–70 dB SPL m
 9. THE FIVE-WAY ATTRIBUTION PROBLEM IN A REAL RECORDING
 
 
-Suppose a two-minute archival KLAAT video contains a stretch in which the drone seems to descend as Ankora grows more forceful. There are at least five competing explanations.
+Suppose a two-minute archival KLAAT video contains a stretch in which the drone seems to descend as the drum grows more forceful. There are at least five competing explanations.
 
 
 A. Actual source change. Paul's lips, airflow, or instrument interaction changed the acoustic fundamental or its cycle-to-cycle timing. Evidence would require a sufficiently clean source signal and a trustworthy F0 estimate with uncertainty.
@@ -133,7 +133,7 @@ B. Timbre without F0 change. The vocal tract, bell radiation, or microphone angl
 C. Level/envelope-related pitch bias. A listener perceived a tonal-height change because the sound's intensity history changed. Evidence would require the same digital excerpt at controlled levels or envelope conditions, while accounting for playback-device nonlinearities and any unavoidable alteration of the stimulus.
 
 
-D. Masking or mixture. Ankora's attack changed the audibility of particular Amastacia components, or the ear grouped components differently. Evidence would require time-local spectral overlap and careful comparison; a mixed phone recording alone may not isolate each source.
+D. Masking or mixture. The drum's attack changed the audibility of particular the didgeridoo components, or the ear grouped components differently. Evidence would require time-local spectral overlap and careful comparison; a mixed phone recording alone may not isolate each source.
 
 
 E. Reproduction and recording artifact. The phone's microphone, compressor, limiter, high-pass filter, codec, speaker, room, or headphones altered the signal reaching the listener. Evidence would require device metadata, direct comparison with a better recording chain, or a calibrated reproduction check.
@@ -145,7 +145,7 @@ These explanations are not mutually exclusive. A real change in source F0 can co
 10. WHY THE PHONE ARCHIVE IS STILL WORTH STUDYING
 
 
-Paul's existing one- to five-minute phone videos are sufficient to begin a first-pass descriptive analysis: mark clear Ankora attacks, identify sustained drone intervals, compare amplitude envelopes, estimate spectral changes, and flag candidate F0 shifts. They are not sufficient by default for calibrated ear-level SPL, mechanical vibration dose, millisecond-accurate hand-to-sound synchrony, or causal claims about listener pitch. Session 112's audiovisual timing cautions still apply, and Session 114's distinction between audible sound and skin vibration remains intact.
+Paul's existing one- to five-minute phone videos are sufficient to begin a first-pass descriptive analysis: mark clear the drum attacks, identify sustained drone intervals, compare amplitude envelopes, estimate spectral changes, and flag candidate F0 shifts. They are not sufficient by default for calibrated ear-level SPL, mechanical vibration dose, millisecond-accurate hand-to-sound synchrony, or causal claims about listener pitch. Session 112's audiovisual timing cautions still apply, and Session 114's distinction between audible sound and skin vibration remains intact.
 
 
 A practical analytic sequence would preserve the untouched file, document device and orientation if known, extract the audio without resampling where possible, inspect waveform and spectrogram, compare multiple F0 estimators or manual harmonic tracks, and label intervals where the drum makes the fundamental ambiguous. Spectral centroid and RMS should be treated as descriptive features, not direct equivalents of brightness and loudness experience. Dynamic compression may obscure true performance envelopes. An algorithm's confidence score is not a physiological measurement.
@@ -166,7 +166,7 @@ Direction and size of pitch shifts vary with frequency, level, ear, participant,
 
 
 PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
-Some perceived pitch movement in otherwise steady Amastacia passages may reflect intensity history, timbral redistribution, or masking by Ankora rather than a source-F0 change. Different listeners may describe the same passage differently. An unaltered recorded performance may create different pitch impressions at different comfortable playback levels. Each is a hypothesis until actual KLAAT source, playback, and listener data are collected.
+Some perceived pitch movement in otherwise steady the didgeridoo passages may reflect intensity history, timbral redistribution, or masking by the drum rather than a source-F0 change. Different listeners may describe the same passage differently. An unaltered recorded performance may create different pitch impressions at different comfortable playback levels. Each is a hypothesis until actual KLAAT source, playback, and listener data are collected.
 
 
 SPECULATION
@@ -174,7 +174,7 @@ A continuously recognizable drone that nevertheless seems to climb or sink might
 
 
 UNSUPPORTED CLAIMS
-Amastacia's C# automatically shifts perceptual pitch in a fixed direction; louder KLAAT must sound lower; every perceived pitch change reflects lip-frequency drift; a 5% masker result applies to KLAAT; a pitch illusion proves altered consciousness or neural entrainment; changing playback volume can safely be used to force a bodily or neurological response; one phone spectrogram can determine what an audience heard.
+The didgeridoo's C# automatically shifts perceptual pitch in a fixed direction; louder KLAAT must sound lower; every perceived pitch change reflects lip-frequency drift; a 5% masker result applies to KLAAT; a pitch illusion proves altered consciousness or neural entrainment; changing playback volume can safely be used to force a bodily or neurological response; one phone spectrogram can determine what an audience heard.
 
 
 12. WHAT THIS ADDS TO THE LIVING ATLAS
@@ -183,7 +183,7 @@ Amastacia's C# automatically shifts perceptual pitch in a fixed direction; loude
 The original Atlas investigated pitch, resonance, and auditory inference. This session adds a sharper boundary: a stable measured fundamental is not a guarantee of a stable heard pitch, and an authentic heard pitch change is not proof that the instrument's fundamental moved. Intensity, envelope, masking, timbre, ear-specific processing, and playback must be considered as separate candidates.
 
 
-The broader implication is not that KLAAT should exploit a laboratory illusion. It is that a living acoustic anchor can remain recognizably itself while the listener hears motion within it. That possibility is particularly compatible with Amastacia's long breath-shaped tone and Ankora's interruptions. Science can help describe what may be happening without assigning Paul a tempo, score, fixed transition, or scientifically engineered crescendo. Experience leads; measurement refines our interpretation.
+The broader implication is not that KLAAT should exploit a laboratory illusion. It is that a living acoustic anchor can remain recognizably itself while the listener hears motion within it. That possibility is particularly compatible with the didgeridoo's long breath-shaped tone and the drum's interruptions. Science can help describe what may be happening without assigning Paul a tempo, score, fixed transition, or scientifically engineered crescendo. Experience leads; measurement refines our interpretation.
 
 
 SOURCES — PRIMARY RESEARCH
@@ -207,7 +207,7 @@ Source bibliographic records and available abstracts checked October 23, 2026; M
 OPTIONAL KRX-115 — THE SAME DRONE, TWO COMFORTABLE LEVELS
 
 
-When a suitable archival Amastacia passage is available, keep the original file untouched. Choose one naturally sustained 15–30-second excerpt; first inspect its measured F0, harmonic balance, and amplitude envelope, recording uncertainty and any Ankora masking. Then, only if useful, have a listener hear the identical digital excerpt twice at two modest, comfortable playback settings, in counterbalanced order. Without telling them a pitch change is expected, ask separately whether its tonal height, brightness, loudness, or apparent distance seemed different, and allow 'no difference' or 'unsure.' Document playback device, settings, processing and room; never raise level to chase an effect. This is an exploratory observation, not proof of a KLAAT-specific illusion and not a reason to alter Paul's playing.
+When a suitable archival the didgeridoo passage is available, keep the original file untouched. Choose one naturally sustained 15–30-second excerpt; first inspect its measured F0, harmonic balance, and amplitude envelope, recording uncertainty and any the drum masking. Then, only if useful, have a listener hear the identical digital excerpt twice at two modest, comfortable playback settings, in counterbalanced order. Without telling them a pitch change is expected, ask separately whether its tonal height, brightness, loudness, or apparent distance seemed different, and allow 'no difference' or 'unsure.' Document playback device, settings, processing and room; never raise level to chase an effect. This is an exploratory observation, not proof of a KLAAT-specific illusion and not a reason to alter Paul's playing.
 
 
 END OF SESSION 115

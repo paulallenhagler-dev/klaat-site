@@ -8,7 +8,7 @@ Guiding principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 CENTRAL FINDING
 
 
-KLAAT makes two kinds of time available at once. Ankora supplies discrete attacks that can be organized into beats, subdivisions and larger recurring patterns. Amastacia supplies a sustained, breath-shaped acoustic presence in which changes may develop gradually rather than announcing themselves as individual events. Neither process, by itself, tells us how long a listener will feel the experience lasted.
+KLAAT makes two kinds of time available at once. The drum supplies discrete attacks that can be organized into beats, subdivisions and larger recurring patterns. The didgeridoo supplies a sustained, breath-shaped acoustic presence in which changes may develop gradually rather than announcing themselves as individual events. Neither process, by itself, tells us how long a listener will feel the experience lasted.
 
 
 A person might hear a ten-minute performance and say, “That went by fast,” while accurately estimating ten minutes. Another might estimate seven minutes yet say that time felt slow. A third might remember an expansive sequence of textures and transitions, judging the experience longer after it ends even though it felt absorbing while it unfolded. These statements are not necessarily contradictions. They answer different questions about subjective time.
@@ -17,7 +17,7 @@ A person might hear a ten-minute performance and say, “That went by fast,” w
 Session 85 established that musical attention, inward imagery, task focus and unwanted distraction must be separated. Session 86 extends that distinction to temporal experience. This is the strongest unresolved direction because KLAAT is long-form, repetitive and spontaneous; listeners may describe losing time, suspending time or being carried through an activity, but those descriptions do not identify a mechanism. The scientific literature provides a surprising warning: the same musical passage can seem shorter or faster depending on what the listener is doing with its meter, and retrospective estimates can move in the opposite direction from the feeling of time passing.
 
 
-GOVERNING PROPOSITION: ANKORA MAY ORGANIZE MUSICAL TIME WITHOUT DETERMINING HOW LONG THE LISTENER FEELS TIME HAS PASSED.
+GOVERNING PROPOSITION: DRUM MAY ORGANIZE MUSICAL TIME WITHOUT DETERMINING HOW LONG THE LISTENER FEELS TIME HAS PASSED.
 
 
 1. THREE DIFFERENT QUESTIONS ABOUT TIME
@@ -44,7 +44,7 @@ A follow-up experiment by Wöllner and Hammerschmidt (2021) involved 30 recruits
 The study found a task-condition effect on duration estimation (F[1.34, 37.55] = 5.19, p = .020, partial eta-squared = .16), but no significant main effect of the selected music's perceived arousal on duration (p = .358). Listening-only estimates were longer than tapping estimates in the relevant post-hoc comparison (p = .043). Tapping the larger half-note level led to shorter duration estimates and quicker subjective passage than tapping eighth notes. Higher cognitive load also made passage seem quicker. These are meaningful within-study effects, not evidence of a universal internal metronome or a direct neural entrainment mechanism.
 
 
-This finding has a direct implication for Ankora. A passage with a recurring pulse and busy subdivisions offers several plausible metrical levels. One listener might follow individual light attacks; another might feel a slower recurring accent; another might not tap at all. Their experiences of elapsed time may differ without any change in the recording. That is a reason to study natural listening strategies, not to force one correct beat interpretation.
+This finding has a direct implication for the drum. A passage with a recurring pulse and busy subdivisions offers several plausible metrical levels. One listener might follow individual light attacks; another might feel a slower recurring accent; another might not tap at all. Their experiences of elapsed time may differ without any change in the recording. That is a reason to study natural listening strategies, not to force one correct beat interpretation.
 
 
 3. DRUMMING RESEARCH ADDS A COMPLICATION
@@ -77,7 +77,7 @@ Bailey and Areni (2006) studied retrospective duration judgments while participa
 One interpretation is that remembered musical boundaries supplied more distinct events from which participants reconstructed the elapsed interval. The study does not prove that this is the only mechanism, but it demonstrates that background music does not invariably compress time. More remembered segments can produce a longer retrospective estimate even if a listener was occupied with something else.
 
 
-For KLAAT, a long uninterrupted recording may contain fewer obvious song boundaries than a playlist, but it still contains acoustic landmarks: Ankora's entry, a change in Amastacia's overtone emphasis, a sudden textured breath, a dense passage, a withdrawal, or an unexpected silence. Whether listeners remember those events as distinct chapters is an empirical question. An archaeosonic journey can be rich in ev
+For KLAAT, a long uninterrupted recording may contain fewer obvious song boundaries than a playlist, but it still contains acoustic landmarks: the drum's entry, a change in the didgeridoo's overtone emphasis, a sudden textured breath, a dense passage, a withdrawal, or an unexpected silence. Whether listeners remember those events as distinct chapters is an empirical question. An archaeosonic journey can be rich in ev
 
 
 ents without resembling conventional songs; it can also feel continuous despite many local changes.
@@ -95,34 +95,34 @@ The gymnasium study differed from the 2021 laboratory study in the activity, mus
 7. PERFORMER FLOW AND LISTENER TIME ARE SEPARATE
 
 
-Paul has described playing Amastacia and Ankora instinctively and sometimes losing himself in the performance. A 2025 mixed-methods study of 36 Javanese gamelan performers across four ensembles investigated shared flow and time distortion in three performance conditions. Gibbs and Schiavio found a complex relationship: qualitative accounts suggested conditions in which time seemed to fly, while quantitative relationships differed in direction across components of shared flow.
+Paul has described playing the didgeridoo and drum instinctively and sometimes losing himself in the performance. A 2025 mixed-methods study of 36 Javanese gamelan performers across four ensembles investigated shared flow and time distortion in three performance conditions. Gibbs and Schiavio found a complex relationship: qualitative accounts suggested conditions in which time seemed to fly, while quantitative relationships differed in direction across components of shared flow.
 
 
 The study does not establish that Paul experiences the same psychological state as those ensemble musicians. It is also about performing with others, not passively listening to KLAAT. Its contribution is more cautious and more useful: “time flying” is not a reliable one-number diagnostic for flow. A performer can report strong involvement without showing a predictable direction of duration distortion, and the listener can have a separate temporal experience altogether.
 
 
-Ankora's pulse is produced by physical action; Paul feels muscular timing, tactile drum contact, respiratory effort and the evolving relationship to Amastacia. The remote listener usually receives only sound. It would be a category error to use Paul's loss of clock awareness as evidence that a listener's clock awareness changed in the same way.
+The drum's pulse is produced by physical action; Paul feels muscular timing, tactile drum contact, respiratory effort and the evolving relationship to the didgeridoo. The remote listener usually receives only sound. It would be a category error to use Paul's loss of clock awareness as evidence that a listener's clock awareness changed in the same way.
 
 
-8. AMASTACIA'S SUSTAINED FIELD IS NOT A TIMELESS SIGNAL
+8. DIDGERIDOO'S SUSTAINED FIELD IS NOT A TIMELESS SIGNAL
 
 
-A didgeridoo drone may feel continuous, but Amastacia is not acoustically static. Circular-breathing transitions, pressure fluctuations, harmonic changes, articulatory noise and spatial resonances can all create perceivable events. The relative importance of these events depends on the listener's attention and the playback chain. A sustained tone may provide continuity while subtle variation supplies a rich memory of what happened.
+A didgeridoo drone may feel continuous, but the didgeridoo is not acoustically static. Circular-breathing transitions, pressure fluctuations, harmonic changes, articulatory noise and spatial resonances can all create perceivable events. The relative importance of these events depends on the listener's attention and the playback chain. A sustained tone may provide continuity while subtle variation supplies a rich memory of what happened.
 
 
-This matters for a long-form recording. The number of seconds between Ankora strikes is an objective acoustic measurement; the number of perceived musical changes is a listener-dependent interpretation. If someone says, “I felt suspended,” that might refer to the unbroken drone, to the lack of conventional song boundaries, to a shift of attention inward, or simply to not monitoring the clock. Without additional evidence we cannot select a single explanation.
+This matters for a long-form recording. The number of seconds between the drum strikes is an objective acoustic measurement; the number of perceived musical changes is a listener-dependent interpretation. If someone says, “I felt suspended,” that might refer to the unbroken drone, to the lack of conventional song boundaries, to a shift of attention inward, or simply to not monitoring the clock. Without additional evidence we cannot select a single explanation.
 
 
-It would also be misleading to treat C# as a unique “time-distortion frequency.” Amastacia's pitch is part of the artwork and its acoustic identity; it is not a demonstrated key to altered temporal consciousness.
+It would also be misleading to treat C# as a unique “time-distortion frequency.” the didgeridoo's pitch is part of the artwork and its acoustic identity; it is not a demonstrated key to altered temporal consciousness.
 
 
-9. ANKORA OFFERS MULTIPLE LEVELS OF TIME AT ONCE
+9. DRUM OFFERS MULTIPLE LEVELS OF TIME AT ONCE
 
 
 The provisional 137 BPM reference corresponds to about 438 milliseconds between nominal beats (60,000 / 137). But 137 BPM is not a verified constant of every KLAAT performance, and a listener may perceive larger or smaller units. At half that rate, a grouping would recur about every 876 milliseconds; twice that rate would correspond to subdivisions around 219 milliseconds. These are arithmetic illustrations, not claims about the actual recording.
 
 
-Ankora's center/edge attacks, accents, decays and subtle microtiming may invite listeners to organize events at several levels. The 2020–2021 tapping findings suggest that attention to those levels can affect duration judgments. They do not establish that an untutored, motionless listener automatically tracks the same level as someone instructed to tap. Nor do they establish that the brain literally counts each strike as a pulse in one internal pacemaker.
+The drum's center/edge attacks, accents, decays and subtle microtiming may invite listeners to organize events at several levels. The 2020–2021 tapping findings suggest that attention to those levels can affect duration judgments. They do not establish that an untutored, motionless listener automatically tracks the same level as someone instructed to tap. Nor do they establish that the brain literally counts each strike as a pulse in one internal pacemaker.
 
 
 The important compositional implication is a permission rather than a rule: Paul can allow the rhythm to unfold naturally. Research can later ask which levels listeners found and whether their felt passage of time differed. The sound does not have to be redesigned around a laboratory theory.
@@ -146,7 +146,7 @@ These examples are plausible interpretations, not observations of KLAAT listener
 Ground Anchor, Threshold Gate, Rising Pulse and Return Path can still describe naturally emerging trajectories in a recording. They are not a mandatory score. This session adds one question to retrospective analysis of each possible phase, without instructing Paul to create it.
 
 
-If Ground Anchor is present, does sustained Amastacia continuity reduce the listener's awareness of elapsed clock time, or heighten awareness of waiting? If a Threshold Gate is heard, does Ankora's entrance become a memorable boundary that later expands remembered duration? If a Rising Pulse emerges, does increased density draw attention into the music, into bodily movement, or toward clock monitoring? If a Return Path occurs, does the thinning sound make the preceding passage seem longer or shorter in hindsight?
+If Ground Anchor is present, does sustained the didgeridoo continuity reduce the listener's awareness of elapsed clock time, or heighten awareness of waiting? If a Threshold Gate is heard, does the drum's entrance become a memorable boundary that later expands remembered duration? If a Rising Pulse emerges, does increased density draw attention into the music, into bodily movement, or toward clock monitoring? If a Return Path occurs, does the thinning sound make the preceding passage seem longer or shorter in hindsight?
 
 
 None of these outcomes is guaranteed. A compelling KLAAT performance may not exhibit all four phases, and a listener may not hear the same boundaries Paul intended. The research should annotate the actual performance and ask the listener before applying labels.
@@ -167,7 +167,7 @@ Many studies use 15–31-second excerpts, artificial timing judgments, prescribe
 14. PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
 
 
-Listeners who become absorbed in an authentic KLAAT recording may report fast passage of time without necessarily underestimating its duration. A listener who follows Ankora's larger rhythmic groupings may report different temporal experiences from one attending to every subdivision. Salient, remembered Amastacia and Ankora transitions may contribute to longer retrospective duration estimates, even if the passage felt swift while unfolding. A KLAAT take used as an everyday soundtrack may affect time judgments differently from the same take heard with undivided attention. Paul’s performer-time reports may correlate weakly, strongly, or not at all with listener-time reports. None of these predictions has been tested with KLAAT listeners.
+Listeners who become absorbed in an authentic KLAAT recording may report fast passage of time without necessarily underestimating its duration. A listener who follows the drum's larger rhythmic groupings may report different temporal experiences from one attending to every subdivision. Salient, remembered the didgeridoo and drum transitions may contribute to longer retrospective duration estimates, even if the passage felt swift while unfolding. A KLAAT take used as an everyday soundtrack may affect time judgments differently from the same take heard with undivided attention. Paul’s performer-time reports may correlate weakly, strongly, or not at all with listener-time reports. None of these predictions has been tested with KLAAT listeners.
 
 
 15. SPECULATION
@@ -197,7 +197,7 @@ For analysis, a simple duration ratio can be computed as estimated minutes / act
 18. WHY THIS IS NOT A RECIPE FOR KLAAT
 
 
-A tempting but mistaken conclusion would be to prescribe slower accents to make time fly, or to insert musical landmarks to make a performance feel epic. The evidence does not justify those instructions. Prescribed tapping can change a laboratory task; it does not show that manipulating Ankora in the same way will improve KLAAT. Retrospective segmentation depends on memory and context; it does not imply that more obvious transitions are always artistically desirable.
+A tempting but mistaken conclusion would be to prescribe slower accents to make time fly, or to insert musical landmarks to make a performance feel epic. The evidence does not justify those instructions. Prescribed tapping can change a laboratory task; it does not show that manipulating the drum in the same way will improve KLAAT. Retrospective segmentation depends on memory and context; it does not imply that more obvious transitions are always artistically desirable.
 
 
 The most scientifically valuable move is to keep the sound authentic and learn how people experience it. If an unexpected texture causes a listener to lose track of time, that is a reason to examine the moment—not a reason to reproduce it mechanically in every performance. Technical growth in circular breathing and drum coordination can expand the range of spontaneous choices without making those choices compulsory.
@@ -221,7 +221,7 @@ Before this study, the connected KLAAT Master Instructions, Curriculum Index, Re
 20. ONE OPTIONAL KLAAT OBSERVATION — KRX-086, ONE TAKE / TWO CLOCKS
 
 
-Choose one authentic, unedited KLAAT recording of about 8–15 minutes with Amastacia and Ankora. Invite approximately six to ten listeners who have not heard that exact take. Play it at a comfortable level, without showing its duration or a clock. Do not tell them beforehand that time perception is being investigated; simply ask them to listen naturally. Do not ask anyone to tap, breathe to the beat, or visualize a ritual.
+Choose one authentic, unedited KLAAT recording of about 8–15 minutes with the didgeridoo and drum. Invite approximately six to ten listeners who have not heard that exact take. Play it at a comfortable level, without showing its duration or a clock. Do not tell them beforehand that time perception is being investigated; simply ask them to listen naturally. Do not ask anyone to tap, breathe to the beat, or visualize a ritual.
 
 
 Immediately afterward, first ask, “What stayed with you?” Record the answer verbatim. Then ask separately, “Did time seem to pass slowly or quickly?” on a simple seven-point scale, and “About how many minutes do you think that lasted?” Only after those questions ask about absorption, felt energy, desire to replay, and whether they naturally moved or followed a pulse. Keep the actual file duration and playback conditions recorded. If someone checked a clock, knew the file length, or had to stop early, retain that context. Do not present the result as a blinded causal experiment: the order of questions and novelty of the listening situation can influence answers.
@@ -233,7 +233,7 @@ Compare each person's passage-of-time rating with their numerical duration estim
 DECISIVE QUESTION
 
 
-WHEN ANKORA MAKES TIME AUDIBLE AND AMASTACIA MAKES SOUND FEEL CONTINUOUS, DOES A KLAAT LISTENER EXPERIENCE THE JOURNEY AS BRIEF, EXPANSIVE, OR OUTSIDE THE CLOCK—AND WHICH OF THOSE REPORTS ACTUALLY MEASURES WHAT?
+WHEN DRUM MAKES TIME AUDIBLE AND DIDGERIDOO MAKES SOUND FEEL CONTINUOUS, DOES A KLAAT LISTENER EXPERIENCE THE JOURNEY AS BRIEF, EXPANSIVE, OR OUTSIDE THE CLOCK—AND WHICH OF THOSE REPORTS ACTUALLY MEASURES WHAT?
 
 
 PRIMARY RESEARCH SOURCES (VERIFIED)

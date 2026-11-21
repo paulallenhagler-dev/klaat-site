@@ -4,7 +4,7 @@ Core lesson
 The body senses vibration through mechanoreception as well as hearing. Different receptor systems respond to different kinds of skin deformation and vibration. Pacinian and Meissner corpuscles are important examples, but tactile perception depends on frequency, contact area, body site, amplitude, posture, and coupling.
 
 
-KLAAT must distinguish airborne vibration from mechanical coupling. Ankora can reach a listener through air, but it can also excite a floor, chair, or platform, which then transmits motion into the body. Auditory and tactile events can be integrated into one experience even though they arrive through different sensory pathways.
+KLAAT must distinguish airborne vibration from mechanical coupling. The drum can reach a listener through air, but it can also excite a floor, chair, or platform, which then transmits motion into the body. Auditory and tactile events can be integrated into one experience even though they arrive through different sensory pathways.
 
 
 Evidence boundary
@@ -12,4 +12,4 @@ Established: vibrotactile perception is real and frequency-dependent; different 
 
 
 KLAAT test
-Compare Ankora at the same playing intensity under two conditions: listener on a rigidly coupled surface versus a more isolated/padded condition. Rate what is heard separately from what is physically felt.
+Compare the drum at the same playing intensity under two conditions: listener on a rigidly coupled surface versus a more isolated/padded condition. Rate what is heard separately from what is physically felt.

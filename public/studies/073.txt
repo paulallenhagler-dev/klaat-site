@@ -34,15 +34,15 @@ Popescu, Widdess, and Rohrmeier (2021) asked 65 Western listeners, many unfamili
 
 
 6. WHAT COUNTS AS A KLAAT BOUNDARY?
-We must separate three annotations. The PERFORMANCE SCORE records what the performer intended. The DELIVERED-ACOUSTIC RECORD records what actually changed in the sound. The LISTENER MAP records where listeners independently perceived a meaningful transition. These maps may disagree for informative reasons. A performer may intend Threshold Gate at the first Ankora strike, while the audience only recognizes the new Clock after several repetitions. Rising Pulse may begin gradually and never yield a single sharply marked moment. Return Path may become perceptible before Ankora's final strike.
+We must separate three annotations. The PERFORMANCE SCORE records what the performer intended. The DELIVERED-ACOUSTIC RECORD records what actually changed in the sound. The LISTENER MAP records where listeners independently perceived a meaningful transition. These maps may disagree for informative reasons. A performer may intend Threshold Gate at the first the drum strike, while the audience only recognizes the new Clock after several repetitions. Rising Pulse may begin gradually and never yield a single sharply marked moment. Return Path may become perceptible before the drum's final strike.
 
 
-7. ANKORA'S FIRST STRIKE IS NOT AUTOMATICALLY THRESHOLD GATE
-A timestamped onset is easy to measure. The emergence of a perceptually organized beat is harder. One isolated strike can be heard as punctuation rather than a new section. Several repetitions may be needed for the Clock to become recognizable. In KLAAT, label two distinct times: first Ankora attack and performer-designated Gate completion. If listeners cluster between them, that is not necessarily a failure; it may indicate a transition zone. The zone must be defined before inspecting their clicks.
+7. DRUM'S FIRST STRIKE IS NOT AUTOMATICALLY THRESHOLD GATE
+A timestamped onset is easy to measure. The emergence of a perceptually organized beat is harder. One isolated strike can be heard as punctuation rather than a new section. Several repetitions may be needed for the Clock to become recognizable. In KLAAT, label two distinct times: first the drum attack and performer-designated Gate completion. If listeners cluster between them, that is not necessarily a failure; it may indicate a transition zone. The zone must be defined before inspecting their clicks.
 
 
-8. AMASTACIA IS NOT A NEUTRAL BACKDROP
-Amastacia's C# agave drone may change through breath, articulation, harmonic emphasis, or amplitude. Those changes can themselves act as grouping cues. If a major breath accent coincides with Ankora's arrival, the listener's boundary may be driven by either instrument or their combination. Record Field changes as carefully as drum onsets. Do not claim that the drone stabilizes perception until it is compared against an appropriate alternative.
+8. DIDGERIDOO IS NOT A NEUTRAL BACKDROP
+The didgeridoo's C# agave drone may change through breath, articulation, harmonic emphasis, or amplitude. Those changes can themselves act as grouping cues. If a major breath accent coincides with the drum's arrival, the listener's boundary may be driven by either instrument or their combination. Record Field changes as carefully as drum onsets. Do not claim that the drone stabilizes perception until it is compared against an appropriate alternative.
 
 
 9. RISING PULSE MAY BE A SLOPE, NOT A STEP
@@ -50,7 +50,7 @@ Rising Pulse is often described as increasing Surface Pressure: more subdivision
 
 
 10. RETURN PATH MAY BE DETECTED BEFORE THE FINAL HIT
-If Ankora progressively removes subdivisions and leaves longer intervals between attacks, listeners may notice withdrawal before the last drum sound. Conversely, some may notice the disappearance only after waiting through an expected next strike. The performer-designated Return Path onset, last Ankora strike, and listener-perceived withdrawal are different markers. Keep them separate. This connects the phase architecture to the Earned Wound without assuming an omission produces a physical impact.
+If the drum progressively removes subdivisions and leaves longer intervals between attacks, listeners may notice withdrawal before the last drum sound. Conversely, some may notice the disappearance only after waiting through an expected next strike. The performer-designated Return Path onset, last the drum strike, and listener-perceived withdrawal are different markers. Keep them separate. This connects the phase architecture to the Earned Wound without assuming an omission produces a physical impact.
 
 
 11. GRAIN SIZE IS A FIRST-ORDER VARIABLE
@@ -70,11 +70,11 @@ Three planned boundaries occupy parts of a recording. Even randomly placed click
 
 
 15. ACOUSTIC CUES ARE A SERIOUS RIVAL EXPLANATION
-Listeners may agree because Ankora becomes louder, because there is a long pause, or because Amastacia changes timbre. These are genuine musical boundaries. But if the claim is that KSV-0.1 explains structure beyond ordinary acoustic change, it must outperform simple acoustic baselines. At minimum record short-time level, onset density, large silences, and a spectral-change proxy. Avoid pretending these four features capture everything listeners hear. Compare a score-derived phase model with acoustic-only predictors, and then with a combined model, on data not used to choose the features or thresholds.
+Listeners may agree because the drum becomes louder, because there is a long pause, or because the didgeridoo changes timbre. These are genuine musical boundaries. But if the claim is that KSV-0.1 explains structure beyond ordinary acoustic change, it must outperform simple acoustic baselines. At minimum record short-time level, onset density, large silences, and a spectral-change proxy. Avoid pretending these four features capture everything listeners hear. Compare a score-derived phase model with acoustic-only predictors, and then with a combined model, on data not used to choose the features or thresholds.
 
 
 16. THE NEGATIVE CONTROL SHOULD BE PLAUSIBLE
-A sham boundary at a completely quiet, unchanging moment is an easy negative control. A more informative control is a large Amastacia breath change or local Ankora accent that is acoustically prominent but was not designated as a macro phase transition. If listeners mark that event, the result may reveal a local boundary, not a failure. What matters is whether the intended three macro transitions show distinctive clustering compared with matched non-transition windows. Choose the control windows before seeing listener marks.
+A sham boundary at a completely quiet, unchanging moment is an easy negative control. A more informative control is a large the didgeridoo breath change or local the drum accent that is acoustically prominent but was not designated as a macro phase transition. If listeners mark that event, the result may reveal a local boundary, not a failure. What matters is whether the intended three macro transitions show distinctive clustering compared with matched non-transition windows. Choose the control windows before seeing listener marks.
 
 
 17. DO NOT TRAIN AND TEST ON THE SAME TAKE
@@ -107,11 +107,11 @@ CONTEXT-DEPENDENT — A randomized baseline is only as informative as the assump
 
 22. PLAUSIBLE / TESTABLE KLAAT HYPOTHESES
 PLAUSIBLE/TESTABLE — Naive listeners mark more macro boundaries near predeclared KLAAT phase transitions than expected under count-preserving null models.
-PLAUSIBLE/TESTABLE — Threshold Gate is perceived after Ankora's first strike rather than exactly at its onset.
+PLAUSIBLE/TESTABLE — Threshold Gate is perceived after the drum's first strike rather than exactly at its onset.
 PLAUSIBLE/TESTABLE — Rising Pulse is identified more consistently through a trajectory of urgency than through a single click.
-PLAUSIBLE/TESTABLE — Return Path is perceived as withdrawal before or after Ankora's final strike depending on how the Clock was established.
+PLAUSIBLE/TESTABLE — Return Path is perceived as withdrawal before or after the drum's final strike depending on how the Clock was established.
 PLAUSIBLE/TESTABLE — KSV-0.1 features predict held-out macro segmentation better than elapsed time, level, onset density, or silence alone.
-PLAUSIBLE/TESTABLE — Amastacia Field changes shift boundary perception even when Ankora's attack grid is similar.
+PLAUSIBLE/TESTABLE — the didgeridoo Field changes shift boundary perception even when the drum's attack grid is similar.
 
 
 23. SPECULATION
@@ -147,7 +147,7 @@ A SHARED SECTION CHANGE IS NOT PROOF OF BODILY RESONANCE.
 Objective: Determine whether listeners unfamiliar with KLAAT's phase names independently identify macro transitions near the three predeclared phase changes, beyond chance and simple acoustic controls.
 
 
-Performance: On two different days, record two uninterrupted 12–15-minute human-performed Amastacia/Ankora pieces. Each must include Ground Anchor, Threshold Gate, Rising Pulse, and Return Path. Before any listener sees the recordings, Paul records the intended transition times or broad zones, first Ankora strike, first stable Clock passage, start of sustained Surface change, beginning of withdrawal, and final Ankora strike. Record major Amastacia breath/spectral shifts and audio level/onset-density features. Do not retime the music or add an electronic instrument.
+Performance: On two different days, record two uninterrupted 12–15-minute human-performed the didgeridoo and drum pieces. Each must include Ground Anchor, Threshold Gate, Rising Pulse, and Return Path. Before any listener sees the recordings, Paul records the intended transition times or broad zones, first the drum strike, first stable Clock passage, start of sustained Surface change, beginning of withdrawal, and final the drum strike. Record major the didgeridoo breath/spectral shifts and audio level/onset-density features. Do not retime the music or add an electronic instrument.
 
 
 Pilot: Recruit roughly 8–12 consenting listeners for feasibility, not definitive validation. Do not show them the phase names. Let each hear one full take without interruption. Ask first for free descriptions of major changes. In a later replay, ask them to mark only the few largest section changes; in a separate pass or listener group, allow micro-level changes. Counterbalance take order where feasible and log listening position, familiarity, headphones versus speakers, and whether performance video was visible. Keep the primary test audio-only to reduce context confounds.
@@ -156,14 +156,14 @@ Pilot: Recruit roughly 8–12 consenting listeners for feasibility, not definiti
 Analysis plan: Use the three predeclared macro boundaries as reference targets. Apply one-to-one matching at predeclared ±2-second and ±5-second tolerances, and separately analyze broader performer-declared zones. Report participant-level counts, precision, recall, timing offset distributions, and aggregate boundary-density plots. Generate at least 1,000 count-preserving random-time null replicates per listener and a spacing-preserving circular-shift sensitivity baseline with stated edge handling. Compare preselected acoustic-only predictors with KSV phase predictors on the held-out second take. Avoid interpreting tiny pilot p-values as definitive evidence; emphasize effect sizes, uncertainty, and feasibility.
 
 
-Negative control: Before seeing results, mark several salient local changes in Amastacia timbre or Ankora accents that are not intended macro phase transitions. Ask whether these attract clicks as frequently as the actual phase transitions. A local change can be real without becoming a macro boundary.
+Negative control: Before seeing results, mark several salient local changes in the didgeridoo timbre or the drum accents that are not intended macro phase transitions. Ask whether these attract clicks as frequently as the actual phase transitions. A local change can be real without becoming a macro boundary.
 
 
 Decision rule: If naive listeners cluster around the predeclared transitions more than plausible nulls and this replicates on the held-out take, the four-phase architecture gains preliminary perceptual support. If listeners agree primarily at loudness spikes or rests regardless of phase, simplify the theory toward acoustic grouping. If listeners report a clear rising-and-returning trajectory without sharp boundary clicks, retain a continuous trajectory model and stop demanding point boundaries. If agreement is weak or unstable, redesign the performance cues and repeat; do not claim that the architecture has been validated.
 
 
 DECISIVE QUESTION
-Can listeners who have never heard the names Ground Anchor, Threshold Gate, Rising Pulse, and Return Path nevertheless hear a reproducible large-scale journey as Amastacia holds the Field and Ankora establishes, intensifies, and withdraws the Clock?
+Can listeners who have never heard the names Ground Anchor, Threshold Gate, Rising Pulse, and Return Path nevertheless hear a reproducible large-scale journey as the didgeridoo holds the Field and the drum establishes, intensifies, and withdraws the Clock?
 
 
 REFERENCES / SOURCE AUDIT

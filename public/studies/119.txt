@@ -8,19 +8,19 @@ Guiding principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 
 
 RESEARCH STATUS
-A synthesis of four directly relevant primary studies, with quantitative findings verified against accessible publications, and an exploratory KLAAT-specific observational design. No Amastacia–Ankora recording, listener, EEG, physiological response, or performance gesture was measured for this session. All KLAAT applications below are hypotheses, not findings. The study is about understanding spontaneous performance, not changing it.
+A synthesis of four directly relevant primary studies, with quantitative findings verified against accessible publications, and an exploratory KLAAT-specific observational design. No the didgeridoo–the drum recording, listener, EEG, physiological response, or performance gesture was measured for this session. All KLAAT applications below are hypotheses, not findings. The study is about understanding spontaneous performance, not changing it.
 
 
-1. THE MOMENT BEFORE ANKORA SPEAKS
+1. THE MOMENT BEFORE DRUM SPEAKS
 
 
-A hand rises. Its trajectory bends toward the elk-hide membrane. A watcher may begin anticipating a strike before the hand makes contact, before the hide moves, and before the sound reaches the ear. The same listener, hearing the audio alone, has no view of that preparation. The sound file may be identical, but the information available before the sound is not.
+A hand rises. Its trajectory bends toward the drumhead. A watcher may begin anticipating a strike before the hand makes contact, before the hide moves, and before the sound reaches the ear. The same listener, hearing the audio alone, has no view of that preparation. The sound file may be identical, but the information available before the sound is not.
 
 
-This is a useful new research question because KLAAT exists in two legitimate forms. There is the recorded sound: Amastacia's sustained C#-centered, harmonically changing agave didgeridoo drone and Ankora's organic impacts, decays, and spontaneous patterns. There is also the visible act of making it: breath, mouth and body effort, hand movement, and contact with a natural membrane. Paul has filmed performances primarily for his own feedback. Those videos may contain timing information that audio-only versions cannot provide.
+This is a useful new research question because KLAAT exists in two legitimate forms. There is the recorded sound: the didgeridoo's sustained C#-centered, harmonically changing agave didgeridoo drone and the drum's organic impacts, decays, and spontaneous patterns. There is also the visible act of making it: breath, mouth and body effort, hand movement, and contact with a natural membrane. Paul has filmed performances primarily for his own feedback. Those videos may contain timing information that audio-only versions cannot provide.
 
 
-The precise question is whether a viewer can use PRE-STRIKE action to anticipate an otherwise unpredictable Ankora attack, and whether that anticipation changes subsequent auditory processing or reported experience. It is not whether a visible strike makes a video more impressive, whether video and audio are synchronized, or whether a drumbeat should occur at any prescribed interval.
+The precise question is whether a viewer can use PRE-STRIKE action to anticipate an otherwise unpredictable the drum attack, and whether that anticipation changes subsequent auditory processing or reported experience. It is not whether a visible strike makes a video more impressive, whether video and audio are synchronized, or whether a drumbeat should occur at any prescribed interval.
 
 
 A physical strike can be measured in the audio waveform; an impending strike may be inferred from the hand. The inference can be right, wrong, vague, or unavailable. In improvised KLAAT, this variability is part of the research question.
@@ -38,7 +38,7 @@ This session therefore asks a different question: what can an observer infer abo
 3. A SIMPLE MODEL: THREE SOURCES OF EXPECTATION
 
 
-Ankora's next attack may be anticipated from at least three kinds of information.
+The drum's next attack may be anticipated from at least three kinds of information.
 
 
 A. AUDITORY HISTORY. Previous strikes can create expectations about pulse, subdivision, grouping, or recurrence. An irregular passage can weaken a precise beat forecast without eliminating broader expectation.
@@ -65,7 +65,7 @@ Sorati and Behne (2020) studied EEG responses to a keyboard key being played. Fo
 The paper reports main effects of presentation condition for auditory N1 amplitude, F(1,38)=11.15, p=.002; N1 latency, F(1,38)=11.00, p=.002; and P2 amplitude, F(1,38)=19.82, p=.00007. N1 and P2 are event-related EEG responses occurring roughly a tenth and a few tenths of a second after an auditory event; their amplitudes are not direct measures of pleasure, trance, energy, or musical quality. P2 latency did not differ significantly, F(1,38)=2.45, p=.12.
 
 
-The tabled mean N1 latency for musicians was 96 ms in audio-only and 90 ms in audiovisual-minus-video-only; for non-musicians it was 93 versus 83 ms. Those are condition means from this keyboard paradigm, not estimates of how much earlier a KLAAT listener will hear an Ankora strike. The paper also reports differences in inter-trial phase coherence in delta, theta, and alpha bands, and an experience-dependent beta-band pattern. Those EEG analyses describe trial-locked responses to controlled stimuli; they do NOT demonstrate that visual KLAAT footage induces sustained brainwave entrainment.
+The tabled mean N1 latency for musicians was 96 ms in audio-only and 90 ms in audiovisual-minus-video-only; for non-musicians it was 93 versus 83 ms. Those are condition means from this keyboard paradigm, not estimates of how much earlier a KLAAT listener will hear an the drum strike. The paper also reports differences in inter-trial phase coherence in delta, theta, and alpha bands, and an experience-dependent beta-band pattern. Those EEG analyses describe trial-locked responses to controlled stimuli; they do NOT demonstrate that visual KLAAT footage induces sustained brainwave entrainment.
 
 
 Interpretation: a visible, predictive action can alter early neural responses to a subsequent musical sound even when the acoustic sound itself is held constant. The direction and magnitude of the response depend on task and stimulus. Smaller N1/P2 does not mean weaker experience; it may reflect differences in predictability or sensory processing. This is an important correction to the tempting but false equation 'more brain activity = more impact.'
@@ -83,10 +83,10 @@ Petrini and colleagues (2011) used fMRI with 11 experienced drummers and 11 matc
 For experienced drummers, matching action–sound relationships were associated with reduced activity in several action-representation and motor-related brain regions compared with mismatches; novice patterns differed. The precise regions differed between the two manipulations. This supports the idea that learned experience with producing percussion sounds can change audiovisual action processing.
 
 
-It does not establish that a drummer will enjoy KLAAT more, feel stronger vibration, or enter a deeper altered state. It also does not imply that all experienced drummers respond identically, or that observing a natural elk-hide hand strike is equivalent to judging laboratory point-light stimuli. Expertise can change the processing route without dictating the subjective outcome.
+It does not establish that a drummer will enjoy KLAAT more, feel stronger vibration, or enter a deeper altered state. It also does not imply that all experienced drummers respond identically, or that observing a natural drumhead material hand strike is equivalent to judging laboratory point-light stimuli. Expertise can change the processing route without dictating the subjective outcome.
 
 
-The most useful KLAAT question is narrower: would a listener with percussion experience report greater confidence in predicting a natural Ankora onset from the visible approach of Paul's hand? This is testable without asking Paul to play differently.
+The most useful KLAAT question is narrower: would a listener with percussion experience report greater confidence in predicting a natural the drum onset from the visible approach of Paul's hand? This is testable without asking Paul to play differently.
 
 
 6. PRIMARY EVIDENCE: GESTURE TRAJECTORY CAN COMMUNICATE WHEN, NOT ONLY WHERE
@@ -121,11 +121,11 @@ Visible musical action can modulate early auditory EEG responses; learned drummi
 
 
 CONTEXT-DEPENDENT EVIDENCE
-Visual anticipation depends on whether the movement is actually visible, reliably related to the upcoming sound, and distinguishable from expressive motion. Audio-derived beat prediction may already be strong; seeing a hand may add little. The camera may conceal the hand, and the viewer may look at Amastacia rather than Ankora. Expertise may change processing but does not guarantee greater immersion. Laboratory neural response differences do not necessarily translate to conscious feeling.
+Visual anticipation depends on whether the movement is actually visible, reliably related to the upcoming sound, and distinguishable from expressive motion. Audio-derived beat prediction may already be strong; seeing a hand may add little. The camera may conceal the hand, and the viewer may look at the didgeridoo rather than the drum. Expertise may change processing but does not guarantee greater immersion. Laboratory neural response differences do not necessarily translate to conscious feeling.
 
 
 PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
-H1. In excerpts containing irregular Ankora entrances, a visible pre-strike hand trajectory may improve a viewer's ability to forecast which moment contains the next strike compared with audio-only listening to the same material.
+H1. In excerpts containing irregular the drum entrances, a visible pre-strike hand trajectory may improve a viewer's ability to forecast which moment contains the next strike compared with audio-only listening to the same material.
 H2. A KLAAT performance video may elicit different reported anticipation or sense of immediacy than the identical audio without video. The sign of any difference is unknown.
 H3. Percussion experience may modify the size or consistency of those effects, but an expertise difference is not guaranteed.
 H4. The predictive value of vision may be greatest when auditory rhythmic expectation is weak and the striking hand is clearly visible. This is a conditional prediction, not a finding.
@@ -136,7 +136,7 @@ The ancient/ritual/archaeosonic character of a visible performer physically work
 
 
 UNSUPPORTED CLAIMS
-'Watching Ankora entrains the viewer's brain'; 'the hand prepares the listener's nervous system for trance'; 'visible drumming guarantees stronger somatic resonance'; 'an EEG N1 reduction proves deep absorption'; 'performer flow transfers into the audience'; 'the natural materials have unique predictive neurological effects.' None follows from the evidence or has been tested in KLAAT.
+'Watching the drum entrains the viewer's brain'; 'the hand prepares the listener's nervous system for trance'; 'visible drumming guarantees stronger somatic resonance'; 'an EEG N1 reduction proves deep absorption'; 'performer flow transfers into the audience'; 'the natural materials have unique predictive neurological effects.' None follows from the evidence or has been tested in KLAAT.
 
 
 9. THE MEASUREMENT PROBLEM: WHAT WOULD A FAIR COMPARISON REQUIRE?
@@ -151,7 +151,7 @@ The key causal comparison is the SAME AUDIO with versus without authentic predic
 A passive listener question ('Did you feel anticipation?') measures a report. An objectively scored prediction task ('Will the next strike occur in this marked interval?') measures performance against the actual onset. They answer different questions. Neither is a measure of trance. Likewise, an EEG effect in an external study is not a proxy for a KLAAT listener's emotion, breathing, or movement.
 
 
-For sound analysis, define the strike event using audio onset inspection, with explicit uncertainty if Amastacia's drone masks the transient. For video, annotate the first clearly visible preparatory movement without assuming that the precise motion-to-impact interval is known. Compare event-level patterns across several independent takes and note if multiple clips are excerpts of one performance (Session 118). If a small pilot has six people hearing four clips, it has six people and four stimuli, not 24 independent listeners or 24 independent performances.
+For sound analysis, define the strike event using audio onset inspection, with explicit uncertainty if the didgeridoo's drone masks the transient. For video, annotate the first clearly visible preparatory movement without assuming that the precise motion-to-impact interval is known. Compare event-level patterns across several independent takes and note if multiple clips are excerpts of one performance (Session 118). If a small pilot has six people hearing four clips, it has six people and four stimuli, not 24 independent listeners or 24 independent performances.
 
 
 Order, familiarity, expectation, and repeat exposure matter. Someone who hears a passage first may learn its strike times and no longer need visual prediction on the second exposure. Counterbalancing can reduce this bias, but cannot erase learning. In an exploratory pilot, a transparent description of these limitations is better than overstated significance.
@@ -160,7 +160,7 @@ Order, familiarity, expectation, and repeat exposure matter. Someone who hears a
 10. WHY THIS MATTERS FOR KLAAT'S ARTISTIC IDENTITY
 
 
-KLAAT does not need an engineered stage gesture. A hand already moves because the hide must be struck; breath already moves because Amastacia must be sounded. This session asks whether those naturally necessary movements are part of the audience's experience when visible.
+KLAAT does not need an engineered stage gesture. A hand already moves because the hide must be struck; breath already moves because the didgeridoo must be sounded. This session asks whether those naturally necessary movements are part of the audience's experience when visible.
 
 
 That may help explain why live KLAAT, a video of KLAAT, and an audio-only recording feel different even when they contain the same performance. The difference need not be mystical. It can emerge from ordinary predictive perception, learned action knowledge, the viewer's attention, and the meanings attached to visible effort. None of those explanations requires a score or an obligatory phase structure.
@@ -178,10 +178,10 @@ Does an irregular single strike have a measurable pre-onset visual forecast wind
 12. ONE OPTIONAL OBSERVATION
 
 
-When you eventually review one of your existing unedited KLAAT phone videos, watch a short section with the sound muted. Without trying to change your technique, notice whether you can tell from your own hand movement when Ankora is about to be struck—and whether some movements look like strikes but do not become strikes. Then listen normally. Treat it as a curiosity about what the video reveals, not a performance exercise or a claim about other listeners.
+When you eventually review one of your existing unedited KLAAT phone videos, watch a short section with the sound muted. Without trying to change your technique, notice whether you can tell from your own hand movement when the drum is about to be struck—and whether some movements look like strikes but do not become strikes. Then listen normally. Treat it as a curiosity about what the video reveals, not a performance exercise or a claim about other listeners.
 
 
-The central conclusion: the sound of an improvised Ankora strike can be unchanged while the viewer's information about its imminent arrival changes. Whether that visual foreknowledge strengthens, weakens, or leaves unchanged KLAAT's absorption and activation is an empirical question, not a mandate for the music.
+The central conclusion: the sound of an improvised the drum strike can be unchanged while the viewer's information about its imminent arrival changes. Whether that visual foreknowledge strengthens, weakens, or leaves unchanged KLAAT's absorption and activation is an empirical question, not a mandate for the music.
 
 
 SOURCES AND PROVENANCE (primary research; checked October 25, 2026)

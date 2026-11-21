@@ -9,7 +9,7 @@ Status: Evidence synthesis and proposed KLAAT observation; no KLAAT-specific lis
 CENTRAL QUESTION
 
 
-KLAAT's drone can persist, Ankora can repeat, and a performance can continue for a long time without a conventional song structure. The sound is intentionally spare yet never literally static: breath pressure shifts, harmonics move, attacks differ, a rhythm gains or loses weight, and noise textures appear and dissolve. What happens to a listener as that world becomes familiar? Does repetition support deeper absorption, produce fatigue, or do both at different moments? And could the same recording remain compelling as an energizing soundtrack during ordinary daily life?
+KLAAT's drone can persist, the drum can repeat, and a performance can continue for a long time without a conventional song structure. The sound is intentionally spare yet never literally static: breath pressure shifts, harmonics move, attacks differ, a rhythm gains or loses weight, and noise textures appear and dissolve. What happens to a listener as that world becomes familiar? Does repetition support deeper absorption, produce fatigue, or do both at different moments? And could the same recording remain compelling as an energizing soundtrack during ordinary daily life?
 
 
 Session 83 examined how a sound can seem continuous across a physical interruption. Session 84 moves from continuity over milliseconds or seconds to engagement over minutes, repeated hearings, and daily use. The crucial discovery from the literature is not a rule about how much novelty KLAAT should contain. It is a warning against treating four different processes as one: acoustic repetition, sensory adaptation, learned familiarity, and the listener's decision to keep listening.
@@ -27,7 +27,7 @@ REPETITION CAN MAKE A SOUND MORE PREDICTABLE WITHOUT MAKING THE EXPERIENCE LESS 
 The last sessions addressed the chain from Paul's playing state to recorded sound, playback fidelity, circular breathing, and perceptual continuity. They exposed a larger gap. KLAAT's central material is sustained and repeated, yet we have not tested whether prolonged exposure strengthens or weakens listener engagement. This matters for a 30-minute release, a live event, and everyday playback while working, walking, drawing, or doing chores.
 
 
-The previous methodological work was useful, but it can tempt us to overinterpret microscopic acoustic events. A listener may remain engaged through hundreds of similar drum strikes without noticing each one. Another listener may recognize Amastacia's tone after seconds and then turn attention elsewhere. Neither response is a failure of the composition. They represent different uses of music, and they cannot be inferred from event counts alone.
+The previous methodological work was useful, but it can tempt us to overinterpret microscopic acoustic events. A listener may remain engaged through hundreds of similar drum strikes without noticing each one. Another listener may recognize the didgeridoo's tone after seconds and then turn attention elsewhere. Neither response is a failure of the composition. They represent different uses of music, and they cannot be inferred from event counts alone.
 
 
 No new hourly research notes have appeared in the Library since October 5, 2026 at 18:33 CDT. The existing note concerned multi-input mechanical vibration, a valuable but separate unresolved engineering problem. Today's direction follows the strongest unresolved issue in the published sessions and the project's current artistic brief: what long repetition does to a real listener in focused and ordinary-life contexts.
@@ -36,7 +36,7 @@ No new hourly research notes have appeared in the Library since October 5, 2026 
 2. FOUR PHENOMENA THAT SOUND SIMILAR IN CONVERSATION
 
 
-ACOUSTIC REPETITION means recurring events or approximately recurring patterns in the physical sound. Ankora can repeat a pulse with small variations in timing, amplitude, timbre, and decay. Amastacia can maintain a recognizable pitch center while changing harmonic emphasis and breath grain. Neither instrument needs to produce exact copies.
+ACOUSTIC REPETITION means recurring events or approximately recurring patterns in the physical sound. The drum can repeat a pulse with small variations in timing, amplitude, timbre, and decay. The didgeridoo can maintain a recognizable pitch center while changing harmonic emphasis and breath grain. Neither instrument needs to produce exact copies.
 
 
 SENSORY ADAPTATION refers to changes in neural responsiveness during repeated or sustained stimulation. It is a physiological phenomenon studied with specific stimuli and recording methods. An adapted neural response is not a direct measure of boredom, trance, pleasure, or lack of attention.
@@ -60,7 +60,7 @@ In a 2013 experiment, Elizabeth Hellmuth Margulis presented nonexpert listeners 
 The important feature is the comparison. The study did not merely find that fans enjoy their favorite repeated songs. It manipulated repetition inside music unfamiliar to the audience. Repetition made that particular material more approachable and more appealing on several judgments.
 
 
-For KLAAT, this challenges the reflexive idea that repeated Ankora strikes or a sustained Amastacia field must be inherently boring. Repetition may help a listener discover a pattern, orient attention, or build expectations. But the stimuli were short and came from composed contemporary art music. The finding does not tell us how a half-hour improvisation or a continuous drone will behave.
+For KLAAT, this challenges the reflexive idea that repeated the drum strikes or a sustained the didgeridoo field must be inherently boring. Repetition may help a listener discover a pattern, orient attention, or build expectations. But the stimuli were short and came from composed contemporary art music. The finding does not tell us how a half-hour improvisation or a continuous drone will behave.
 
 
 4. LONGER EXPOSURE CAN INCREASE LIKING — WITHOUT PROVING A UNIVERSAL RULE
@@ -93,13 +93,13 @@ Together, [S1]–[S3] establish a productive tension: repetition may improve aes
 6. EXPECTATION IS NOT THE SAME AS SURPRISE
 
 
-When Ankora repeats a recognizable pulse, a listener may learn where the next attack belongs. When Amastacia sustains a tone, the listener may learn which timbral fluctuations are typical. That acquired model can make small deviations meaningful. But 'unexpected' is not the same as 'pleasant.' An unexpected crack, recording glitch, or startling loudness jump can be unwanted.
+When the drum repeats a recognizable pulse, a listener may learn where the next attack belongs. When the didgeridoo sustains a tone, the listener may learn which timbral fluctuations are typical. That acquired model can make small deviations meaningful. But 'unexpected' is not the same as 'pleasant.' An unexpected crack, recording glitch, or startling loudness jump can be unwanted.
 
 
 Cheung and colleagues (2019) studied musical pleasure using a computational model of harmonic uncertainty and surprise, drawing on approximately 80,000 chords from 745 popular songs. Their behavioral and fMRI work found that pleasure depended on an interaction: relatively surprising chords could be pleasing in low-uncertainty contexts, and unsurprising chords could be pleasing in high-uncertainty contexts. Neural responses in auditory cortex, amygdala, and hippocampus also reflected the interaction [S4].
 
 
-This is important as a conceptual demonstration that uncertainty and surprise are not one simple axis. It is also a major transfer limitation. Their statistical model describes Western tonal chord progressions, not the continuous C# harmonic field and pulse-based structures of KLAAT. We cannot assign Amastacia an experimentally validated 'surprise value' using that chord model.
+This is important as a conceptual demonstration that uncertainty and surprise are not one simple axis. It is also a major transfer limitation. Their statistical model describes Western tonal chord progressions, not the continuous C# harmonic field and pulse-based structures of KLAAT. We cannot assign the didgeridoo an experimentally validated 'surprise value' using that chord model.
 
 
 A reasonable KLAAT question is narrower: after listeners become familiar with a passage, do particular naturally occurring changes attract attention differently? Answering it would require listener reports or a controlled attention measure, not just a spectral novelty plot.
@@ -108,7 +108,7 @@ A reasonable KLAAT question is narrower: after listeners become familiar with a 
 7. THE LIVING DIFFERENCE BETWEEN A LOOP AND A PERFORMANCE
 
 
-Ankora's repeated strikes are not identical waveforms. Natural hand percussion contains microtiming, changing attack placement, variable membrane excitation, dynamic accent, and decays interacting with the room. Amastacia's sustained drone carries breath modulation, noise, overtones, and gradual articulatory movement. These characteristics can be measured acoustically if suitable source recordings exist.
+The drum's repeated strikes are not identical waveforms. Natural hand percussion contains microtiming, changing attack placement, variable membrane excitation, dynamic accent, and decays interacting with the room. The didgeridoo's sustained drone carries breath modulation, noise, overtones, and gradual articulatory movement. These characteristics can be measured acoustically if suitable source recordings exist.
 
 
 The hypothesis that those microvariations prevent boredom is plausible but unproven. We do not know whether listeners detect them, whether they are pleasurable, or whether they matter more than broad changes in intensity or rhythm. Some variations may be perceptually invisible. Others may be interpreted as expressive, unstable, or distracting depending on context.
@@ -147,7 +147,7 @@ For KLAAT, the responsible question is not 'Does this music make people more pro
 10. THE FIRST LISTEN AND THE TENTH LISTEN ARE DIFFERENT EXPERIMENTS
 
 
-A first hearing includes unfamiliar timbre, uncertain rhythmic organization, and little personal history. Repeated hearings may make Ankora's accent relationships easier to anticipate and Amastacia's roughness less startling. Listeners may also form autobiographical associations: a recording can become linked to a particular activity or period of life.
+A first hearing includes unfamiliar timbre, uncertain rhythmic organization, and little personal history. Repeated hearings may make the drum's accent relationships easier to anticipate and the didgeridoo's roughness less startling. Listeners may also form autobiographical associations: a recording can become linked to a particular activity or period of life.
 
 
 This makes a one-off reaction insufficient to characterize a release. Someone who finds KLAAT unusual on the first hearing might come to value its continuity after several exposures. Someone else might enjoy its novelty initially but choose it less often later. The scientific program should allow both trajectories.
@@ -159,7 +159,7 @@ Crucially, repeated exposure and within-track repetition are different variables
 11. WHEN THE PERFORMER IS ABSORBED BUT THE LISTENER IS NOT
 
 
-Session 79 separated Paul's flow during improvisation from the listener's absorption. Session 84 adds time. Paul may experience a deeply continuous internal state while playing Ankora and Amastacia; a listener may become absorbed only after several minutes, may prefer the first minute, or may attend intermittently while working.
+Session 79 separated Paul's flow during improvisation from the listener's absorption. Session 84 adds time. Paul may experience a deeply continuous internal state while playing the drum and didgeridoo; a listener may become absorbed only after several minutes, may prefer the first minute, or may attend intermittently while working.
 
 
 The listener's report of 'I lost track of time' differs from a measured duration judgment. Feeling energized differs from heart rate, skin conductance, or movement. Enjoyment differs from attention. If KLAAT eventually uses physiological sensors, they should complement rather than replace those distinct self-reports.
@@ -168,10 +168,10 @@ The listener's report of 'I lost track of time' differs from a measured duration
 We also need to avoid assuming that Paul's high-flow takes are necessarily the most repetitive, the least variable, or the most compelling. Those relationships are empirical questions. His improvisation remains the source; the measurements follow afterward.
 
 
-12. AMASTACIA: STABILITY WITHOUT STASIS
+12. DIDGERIDOO: STABILITY WITHOUT STASIS
 
 
-Amastacia's sustained C# drone can create a recognizable auditory identity over time. The sound's harmonic pattern, changing formant-like emphases, breath noise, and subtle amplitude changes may supply activity even when the perceived pitch center remains stable. In a long performance, a listener may stop attending to the existence of the drone while still noticing changes inside it.
+The didgeridoo's sustained C# drone can create a recognizable auditory identity over time. The sound's harmonic pattern, changing formant-like emphases, breath noise, and subtle amplitude changes may supply activity even when the perceived pitch center remains stable. In a long performance, a listener may stop attending to the existence of the drone while still noticing changes inside it.
 
 
 That possibility is not the same as the auditory restoration discussed in Session 83. Restoration concerns perceived persistence across interruptions under masking conditions. Today's question concerns how ongoing and repeated stimulation is learned, valued, or ignored across longer durations.
@@ -180,22 +180,22 @@ That possibility is not the same as the auditory restoration discussed in Sessio
 The practical lesson is diagnostic rather than compositional: if Paul wants to know why a passage feels alive, inspect its actual breath and harmonic behavior. Do not conclude that a stable fundamental means the entire sound is static, and do not insist that every sustained passage needs an added flourish.
 
 
-13. ANKORA: A REPEATED CLOCK CAN HAVE MORE THAN ONE FUNCTION
+13. DRUM: A REPEATED CLOCK CAN HAVE MORE THAN ONE FUNCTION
 
 
-Ankora's recurrence can support motor anticipation, establish an orientation for listening, and create continuity. Its changing attack density, accents, timbre, and decay may also provide evolving information. The same pulse may feel calming to one listener, urgent to another, or simply suitable for maintaining momentum during daily tasks.
+The drum's recurrence can support motor anticipation, establish an orientation for listening, and create continuity. Its changing attack density, accents, timbre, and decay may also provide evolving information. The same pulse may feel calming to one listener, urgent to another, or simply suitable for maintaining momentum during daily tasks.
 
 
 The approximate 137 BPM reference from an earlier short recording is not a prescription and has no demonstrated biological optimum. A listener may infer a half-time beat or track a larger rhythmic grouping. That choice can change with familiarity and listening context. Event density, perceived beat, felt urgency, and voluntary movement remain separate variables.
 
 
-The artistic strength of Ankora may lie partly in the fact that repeated strokes are human acts rather than exact copies. But 'human' is not itself a validated causal mechanism for absorption. That hypothesis must survive comparison with real listeners and recordings.
+The artistic strength of the drum may lie partly in the fact that repeated strokes are human acts rather than exact copies. But 'human' is not itself a validated causal mechanism for absorption. That hypothesis must survive comparison with real listeners and recordings.
 
 
 14. THE TWO INSTRUMENTS TOGETHER
 
 
-The most interesting unit of analysis may not be the drone or drum alone. It may be their changing relationship. A stable Amastacia field can provide a reference against which Ankora's accents become conspicuous. Ankora's attacks can redirect attention toward or away from Amastacia's breath textures. A long passage may remain recognizably the same world while the balance of what listeners notice shifts.
+The most interesting unit of analysis may not be the drone or drum alone. It may be their changing relationship. A stable the didgeridoo field can provide a reference against which the drum's accents become conspicuous. The drum's attacks can redirect attention toward or away from the didgeridoo's breath textures. A long passage may remain recognizably the same world while the balance of what listeners notice shifts.
 
 
 This is a plausible account of KLAAT's archaeosonic identity: a persistent environment with living activity inside it. It is not proof of a neural mechanism. The 'ancient' or 'ritual' meaning is an aesthetic and interpretive frame, not a measurement of acoustics. That frame can legitimately matter to listeners without being mistaken for evidence of a physiological trance effect.
@@ -234,7 +234,7 @@ Different outcome measures can contradict one another without the studies being 
 18. PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
 
 
-H1: Familiarity with an authentic KLAAT recording may increase enjoyment and willingness to replay even if the sound becomes less surprising. H2: The listener's attention may shift over repeated hearings from the gross presence of Amastacia's drone toward smaller breath, harmonic, and rhythmic details. H3: Ankora's repeated pulse may support sustained activity for some listeners without increasing their reported inward absorption. H4: The same take may be experienced differently during focused listening and everyday tasks. H5: Listener preference for KLAAT may depend more on prior experience with drone, noise, and minimalism than on any simple acoustic 'complexity' score. H6: Natural microvariation may contribute to engagement, but its effect could be negligible or negative in some contexts.
+H1: Familiarity with an authentic KLAAT recording may increase enjoyment and willingness to replay even if the sound becomes less surprising. H2: The listener's attention may shift over repeated hearings from the gross presence of the didgeridoo's drone toward smaller breath, harmonic, and rhythmic details. H3: the drum's repeated pulse may support sustained activity for some listeners without increasing their reported inward absorption. H4: The same take may be experienced differently during focused listening and everyday tasks. H5: Listener preference for KLAAT may depend more on prior experience with drone, noise, and minimalism than on any simple acoustic 'complexity' score. H6: Natural microvariation may contribute to engagement, but its effect could be negligible or negative in some contexts.
 
 
 None has been tested with KLAAT listener data. A repeated-listening pilot can begin separating them, but a small observational sample will not establish causality.
@@ -291,7 +291,7 @@ The connected Master Instructions, Curriculum Index, Research Ledger, and Sessio
 24. ONE OPTIONAL KLAAT OBSERVATION — KRX-084, THE THIRD LISTEN
 
 
-Choose one authentic, unedited KLAAT recording of roughly 8–15 minutes, preferably with both Amastacia and Ankora. No new composition, special phase structure, or technique change is needed. Invite three to six willing listeners who have not heard this exact take. Each person hears it on three separate days at comfortable volume, using approximately the same playback system. They may choose focused listening or a safe, ordinary low-demand activity, but should keep that context the same across the three hearings and note what it was. Do not use this as an experiment while driving or doing safety-critical work.
+Choose one authentic, unedited KLAAT recording of roughly 8–15 minutes, preferably with both the didgeridoo and drum. No new composition, special phase structure, or technique change is needed. Invite three to six willing listeners who have not heard this exact take. Each person hears it on three separate days at comfortable volume, using approximately the same playback system. They may choose focused listening or a safe, ordinary low-demand activity, but should keep that context the same across the three hearings and note what it was. Do not use this as an experiment while driving or doing safety-critical work.
 
 
 After each hearing, collect one spontaneous sentence: 'What stayed with you?' Then ask for simple separate 1–7 ratings of enjoyment, absorption, felt energy, and desire to hear it again. Ask whether anything felt distracting. Do not reveal Paul's favorite passages or the research hypothesis. If a participant stops early, record that rather than treating it as missing data. Compare each person's day-one and day-three pattern; report individuals rather than manufacturing a group conclusion from a tiny sample.
@@ -303,7 +303,7 @@ This pilot cannot isolate familiarity from mood, expectations, day-to-day variat
 DECISIVE QUESTION
 
 
-WHEN AMASTACIA AND ANKORA BECOME FAMILIAR, DOES KLAAT FADE INTO THE BACKGROUND, DEEPEN INTO A WORLD, OR BECOME THE ENERGY THAT CARRIES SOMEONE THROUGH THEIR DAY — AND HOW DOES THAT ANSWER CHANGE FROM LISTENER TO LISTENER?
+WHEN DIDGERIDOO AND DRUM BECOME FAMILIAR, DOES KLAAT FADE INTO THE BACKGROUND, DEEPEN INTO A WORLD, OR BECOME THE ENERGY THAT CARRIES SOMEONE THROUGH THEIR DAY — AND HOW DOES THAT ANSWER CHANGE FROM LISTENER TO LISTENER?
 
 
 PRIMARY RESEARCH SOURCES

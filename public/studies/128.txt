@@ -9,7 +9,7 @@ Experience-led creation. Science-informed refinement.
 
 
 RESEARCH QUESTION
-If Paul eventually sustains part of Amastacia's C# agave didgeridoo sound using a live looper while playing Ankora's elk-hide frame drum, what happens when two stored repeating phrases have different, freely chosen lengths? Can their relative alignments change even though neither recording changes? Would a listener hear one pulse, competing cycles, an evolving pattern, or simply a dense texture? And how could we tell an emergent relationship produced by the playback machinery from a rhythmic decision Paul made in the moment?
+If Paul eventually sustains part of the didgeridoo's C# agave didgeridoo sound using a live looper while playing the drum, what happens when two stored repeating phrases have different, freely chosen lengths? Can their relative alignments change even though neither recording changes? Would a listener hear one pulse, competing cycles, an evolving pattern, or simply a dense texture? And how could we tell an emergent relationship produced by the playback machinery from a rhythmic decision Paul made in the moment?
 
 
 This is not a proposal to build KLAAT from programmed loops. Paul's primary practice remains simultaneous, instinctive, acoustic performance. The issue matters because he has identified practical limits to sustaining longer performances with two instruments and is considering a looper and portable amplification. A device intended to remove a physical constraint may introduce its own musical behavior. That behavior should be understood rather than mistaken for a scientific law governing the art.
@@ -23,13 +23,13 @@ The new problem is RELATIVE PHASE EVOLUTION AFTER TWO ALREADY-RECORDED, FREE-LEN
 
 
 2. THE SIMPLE MECHANISM: TWO UNCHANGED OBJECTS CAN MAKE A CHANGING WHOLE
-Imagine that a recording of Amastacia repeats every seven seconds. A second recorded layer repeats every 7.3 seconds. Each file contains exactly the same audio on every pass, at the same playback speed, and each loop is started together at time zero. Their first events coincide. At their next repetitions, the second loop begins 0.3 seconds later than the first. The mismatch accumulates from cycle to cycle. The listener hears new alignments not because either source has been improvised again, but because two independently repeating time structures are being superimposed.
+Imagine that a recording of the didgeridoo repeats every seven seconds. A second recorded layer repeats every 7.3 seconds. Each file contains exactly the same audio on every pass, at the same playback speed, and each loop is started together at time zero. Their first events coincide. At their next repetitions, the second loop begins 0.3 seconds later than the first. The mismatch accumulates from cycle to cycle. The listener hears new alignments not because either source has been improvised again, but because two independently repeating time structures are being superimposed.
 
 
 This is a deterministic consequence of periodic playback. It requires no theory of brain entrainment. If both loop lengths are exact integer multiples of a common digital sample interval, their starting phases will eventually coincide again, although the full recurrence may be surprisingly long. For exact seven-second and 7.3-second cycles, the first complete shared start after time zero is 511 seconds (73 repetitions of the seven-second loop and 70 repetitions of the 7.3-second loop): eight minutes, thirty-one seconds. Before that, near-coincidences can occur. At 168 seconds, 24 cycles of the first loop have elapsed; 23 cycles of the second total 167.9 seconds. Their starts are separated by only 100 milliseconds. Whether that separation is audible or meaningful depends on what the loops contain and on the listener, not on arithmetic alone.
 
 
-A useful distinction: the long 511-second period is a mathematical recurrence of two start markers. It is NOT a new 511-second musical phrase the audience must recognize. If Amastacia contains a continuous, nearly stationary drone, its cycle boundary might not be perceptually evident at all. If Ankora is played live rather than looped, there is no second fixed recurrence period to which this example applies. And if the device time-stretches, retriggers, crossfades, or tempo-syncs a track, the free-running calculation may not describe its actual output.
+A useful distinction: the long 511-second period is a mathematical recurrence of two start markers. It is NOT a new 511-second musical phrase the audience must recognize. If the didgeridoo contains a continuous, nearly stationary drone, its cycle boundary might not be perceptually evident at all. If the drum is played live rather than looped, there is no second fixed recurrence period to which this example applies. And if the device time-stretches, retriggers, crossfades, or tempo-syncs a track, the free-running calculation may not describe its actual output.
 
 
 3. PHASE WALKING IS NOT SAMPLE-CLOCK DRIFT
@@ -66,18 +66,18 @@ Jones and colleagues (1995) ran FOUR experiments using 3:2 polyrhythmic tone pat
 Fidali, Poudrier and Repp (2013) then tested more complex polyrhythms, including 3:5, 4:5, 6:5 and 7:5 patterns in one experiment and additional 2:5 conditions in another. Their published report says perturbation-detection performance was BELOW an isochronous baseline and generally worsened as polyrhythm complexity increased. This is a useful counterweight to the earlier 3:2 integration benefit. When a combined event sequence becomes more heterogeneous, its memory and interval demands may outweigh any advantage of more closely spaced events. The studies do not contradict each other in a simple winner-loser sense: they used different pattern complexities and attention conditions.
 
 
-The translation to KLAAT is modest. Two unequal-length loops might invite some listeners to hear a moving relationship, while others attend mainly to Amastacia's sustained identity or Ankora's transient pulse. A listener who cannot identify the cycles may still enjoy the resulting texture. A listener who identifies them may not find the result more absorbing. Neither preference is a defect.
+The translation to KLAAT is modest. Two unequal-length loops might invite some listeners to hear a moving relationship, while others attend mainly to the didgeridoo's sustained identity or the drum's transient pulse. A listener who cannot identify the cycles may still enjoy the resulting texture. A listener who identifies them may not find the result more absorbing. Neither preference is a defect.
 
 
 7. A RELATED BUT DISTINCT RESULT: HUMAN CORRECTION IS NOT MACHINE RECURRENCE
 Repp, London and Keller (2011) examined perception, tapping production, and phase correction in musicians hearing cyclic two-interval rhythms with ratios ranging from relatively simple to complex. Their findings included ratio-dependent biases in perception and production, while phase correction following timing perturbations remained relatively rapid and did not show the same ratio-dependent biases. This concerns ACTIVE synchronization and corrective behavior by humans, not two unchanging playback buffers.
 
 
-That difference matters. A person playing Ankora over a repeating Amastacia loop can listen, anticipate, adjust, or deliberately resist alignment. The performer is not a rigid oscillator. Any later rhythmic relationship may arise from the interplay of loop timing and live human choices. To call the whole thing a machine-generated polyrhythm without examining the performance would be just as misleading as calling a deterministic loop recurrence 'neural entrainment.'
+That difference matters. A person playing the drum over a repeating the didgeridoo loop can listen, anticipate, adjust, or deliberately resist alignment. The performer is not a rigid oscillator. Any later rhythmic relationship may arise from the interplay of loop timing and live human choices. To call the whole thing a machine-generated polyrhythm without examining the performance would be just as misleading as calling a deterministic loop recurrence 'neural entrainment.'
 
 
 8. WHAT A LISTENER COULD ACTUALLY EXPERIENCE
-Consider four plausible listening outcomes, none yet demonstrated for KLAAT. First, a drone remains perceptually continuous while a secondary texture subtly changes its placement; the listener notices density or color, not separate loops. Second, two identifiable rhythmic figures periodically appear to lock together and then pull apart; a listener reports movement, anticipation, or shifting emphasis. Third, the relation becomes difficult to follow and feels unstable or cluttered. Fourth, a listener ignores the loop relation entirely and responds primarily to live Ankora strokes, visual performance, personal associations, or the overall energy.
+Consider four plausible listening outcomes, none yet demonstrated for KLAAT. First, a drone remains perceptually continuous while a secondary texture subtly changes its placement; the listener notices density or color, not separate loops. Second, two identifiable rhythmic figures periodically appear to lock together and then pull apart; a listener reports movement, anticipation, or shifting emphasis. Third, the relation becomes difficult to follow and feels unstable or cluttered. Fourth, a listener ignores the loop relation entirely and responds primarily to live the drum strokes, visual performance, personal associations, or the overall energy.
 
 
 These possibilities are not a prescribed sequence, not a ritual architecture, and not evidence of trance. The same listener might alternate between them depending on attention, playback system, level, fatigue, musical familiarity, and whether the device's repeating pattern is visually obvious. There is no scientifically defensible reason to declare that more complex phase walking is automatically more intense, more ancient, more therapeutic, or more effective for daily-life listening.
@@ -108,10 +108,10 @@ A different example: two buffers with exact durations of six and 6.4 seconds ret
 
 
 12. THE COUNTEREXAMPLE THAT PROTECTS THE ART
-Suppose Paul plays one continuous Amastacia drone live, articulating its harmonic color through breath, lips, and vocal tract, while Ankora's strikes vary spontaneously. There is no evidence of two stored cyclic buffers. The same evolving sense of alignment and separation may still emerge because human rhythmic attention groups variable events against a relatively stable sound. Conversely, two stored buffers may produce an exact mathematical recurrence while listeners hear no change at all. The two cases can feel similar, yet have different causes.
+Suppose Paul plays one continuous the didgeridoo drone live, articulating its harmonic color through breath, lips, and vocal tract, while the drum's strikes vary spontaneously. There is no evidence of two stored cyclic buffers. The same evolving sense of alignment and separation may still emerge because human rhythmic attention groups variable events against a relatively stable sound. Conversely, two stored buffers may produce an exact mathematical recurrence while listeners hear no change at all. The two cases can feel similar, yet have different causes.
 
 
-This is why the research should follow the recorded and experienced event rather than impose a machine explanation onto the living performance. The relevant artistic identity is not 'KLAAT must use phase loops.' It is that KLAAT's spare, sustained materials can support emergent relationships. A looper, if chosen, may become a practical assistant; it does not become the author of Amastacia or Ankora.
+This is why the research should follow the recorded and experienced event rather than impose a machine explanation onto the living performance. The relevant artistic identity is not 'KLAAT must use phase loops.' It is that KLAAT's spare, sustained materials can support emergent relationships. A looper, if chosen, may become a practical assistant; it does not become the author of the didgeridoo or the drum.
 
 
 13. EVIDENCE STATUS — KEEP THE LAYERS SEPARATE
@@ -138,7 +138,7 @@ The same experimental literature that makes multi-stream rhythmic organization s
 
 
 15. WHAT WOULD COUNT AS PROGRESS
-A real advance would be to identify whether a future KLAAT loop-assisted performance has independently recurring phrases, whether those phrases are genuinely free-length, and whether a listener notices any evolving relation without being told what to hear. A null result would also be useful. It might show that Amastacia's timbral continuity and Ankora's live attacks dominate the perceptual scene, leaving machine recurrence irrelevant. That would not diminish the music. It would narrow an explanation.
+A real advance would be to identify whether a future KLAAT loop-assisted performance has independently recurring phrases, whether those phrases are genuinely free-length, and whether a listener notices any evolving relation without being told what to hear. A null result would also be useful. It might show that the didgeridoo's timbral continuity and the drum's live attacks dominate the perceptual scene, leaving machine recurrence irrelevant. That would not diminish the music. It would narrow an explanation.
 
 
 The strongest research direction after this session is not to calculate more ratios. It is to obtain an authentic, uninterrupted source recording and document its actual signal chain. The most compelling listener-science claims cannot be made from device manuals or polyrhythm studies alone.
@@ -149,7 +149,7 @@ Two unchanging loops can produce a changing composite sound. That is a precise, 
 
 
 OPTIONAL KLAAT OBSERVATION — KRX-128: THE FREE-LENGTH PLAYBACK CHECK
-Only if a candidate looper is already available, record two SHORT, unrelated test phrases of naturally chosen unequal lengths, at safe monitoring level, without a metronome or any demand to play KLAAT differently. Note the exact LOOP SYNC and TEMPO SYNC settings, then listen for a minute to see whether their relation seems to shift. If possible, export both tracks to verify their actual durations. This is an equipment-behavior check, not a listener-effect test or an assignment to compose loops. If no looper is available, do nothing; continue collecting unedited Amastacia–Ankora recordings instead.
+Only if a candidate looper is already available, record two SHORT, unrelated test phrases of naturally chosen unequal lengths, at safe monitoring level, without a metronome or any demand to play KLAAT differently. Note the exact LOOP SYNC and TEMPO SYNC settings, then listen for a minute to see whether their relation seems to shift. If possible, export both tracks to verify their actual durations. This is an equipment-behavior check, not a listener-effect test or an assignment to compose loops. If no looper is available, do nothing; continue collecting unedited the didgeridoo–the drum recordings instead.
 
 
 PRIMARY RESEARCH, MANUFACTURER EVIDENCE, AND PROVENANCE

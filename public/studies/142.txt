@@ -11,7 +11,7 @@ Status: evidence synthesis and prospective KLAAT measurement framework; NO KLAAT
 1. THE QUESTION THAT A SCORE CANNOT ANSWER
 
 
-Imagine an ordinary KLAAT improvisation. Amastacia sustains its C#-centered low drone. Ankora contributes a pulse that may be insistent, loose, sparse, or in the process of becoming something else. During a simultaneous breath handoff and drum gesture, the drone briefly fractures. Perhaps a strike lands harder than intended. Perhaps Paul instinctively follows that accident, allowing the noisy seam to become the beginning of a different texture. Or perhaps he simply continues and the listener never notices anything unusual.
+Imagine an ordinary KLAAT improvisation. The didgeridoo sustains its C#-centered low drone. The drum contributes a pulse that may be insistent, loose, sparse, or in the process of becoming something else. During a simultaneous breath handoff and drum gesture, the drone briefly fractures. Perhaps a strike lands harder than intended. Perhaps Paul instinctively follows that accident, allowing the noisy seam to become the beginning of a different texture. Or perhaps he simply continues and the listener never notices anything unusual.
 
 
 What happened? A technical mistake? A musical transition? A brief failure followed by a successful recovery? A salient sound that the listener enjoys? These are not interchangeable descriptions. The same audible event can have different meanings at different levels of the process.
@@ -20,13 +20,13 @@ What happened? A technical mistake? A musical transition? A brief failure follow
 This session investigates the difference between a performer's intended action, an acoustic deviation, a corrective movement, and the listener's experience. The specific research advance is not another attempt to count wrong notes in free improvisation. It is a way to study how the *consequences* of an unintended event unfold without assuming that the event spoiled the music.
 
 
-This matters for technique. Paul wants circular breathing, rhythmic transitions, and simultaneous Amastacia–Ankora coordination to become more fluent. He does not want his music governed by a score, fixed meter, or instructions to avoid expressive roughness. A useful scientific account must make room for both realities: a gesture can be technically difficult and artistically worthwhile.
+This matters for technique. Paul wants circular breathing, rhythmic transitions, and simultaneous the didgeridoo–the drum coordination to become more fluent. He does not want his music governed by a score, fixed meter, or instructions to avoid expressive roughness. A useful scientific account must make room for both realities: a gesture can be technically difficult and artistically worthwhile.
 
 
 2. FOUR QUESTIONS HIDDEN INSIDE THE WORD 'ERROR'
 
 
-An error in a scored piano study usually means a deviation from a known sequence: a substitution, omission, or extra note. The reference is externally available. KLAAT has no equivalent reference for a freely unfolding performance. It would be scientifically invalid to define every off-grid Ankora hit, every breath noise, or every change of drone pitch as an error merely because it differs from a simplified model.
+An error in a scored piano study usually means a deviation from a known sequence: a substitution, omission, or extra note. The reference is externally available. KLAAT has no equivalent reference for a freely unfolding performance. It would be scientifically invalid to define every off-grid the drum hit, every breath noise, or every change of drone pitch as an error merely because it differs from a simplified model.
 
 
 A more appropriate account distinguishes four questions. First, did the sound differ from Paul's immediate intention? Second, did the motor system detect or correct that difference? Third, did the acoustic event interrupt a pattern that a listener had formed? Fourth, did the event affect absorption, enjoyment, movement, energy, or another listener experience? An affirmative answer to one question does not determine the others.
@@ -47,7 +47,7 @@ Bruno Repp's 1996 study, 'The Art of Inaccuracy: Why Pianists' Errors Are Diffic
 This is a striking separation between score-defined error and perceptual salience. A departure from the written score can be real and still fail to announce itself as a mistake. The study does not establish that KLAAT listeners will miss 62% of technical failures. Its music, instruments, participants, and scoring procedure were entirely different. Indeed, KLAAT lacks the written reference that made those errors objectively countable in the first place.
 
 
-What transfers is a methodological lesson: detection depends on musical context, acoustic prominence, prior expectation, and what the listener knows to listen for. A faint breath seam inside a dense Ankora passage and an abrupt drone disappearance during sparse playing could be equally unintended yet unequally noticeable. Even if noticed, the latter might be heard as an expressive pause rather than a defect.
+What transfers is a methodological lesson: detection depends on musical context, acoustic prominence, prior expectation, and what the listener knows to listen for. A faint breath seam inside a dense the drum passage and an abrupt drone disappearance during sparse playing could be equally unintended yet unequally noticeable. Even if noticed, the latter might be heard as an expressive pause rather than a defect.
 
 
 A listener who reports 'the music opened up there' may be describing the same time window that Paul remembers as an awkward transition. The two accounts are not logically inconsistent. They answer different questions.
@@ -62,7 +62,7 @@ Gingras, Palmer, Schubert, and McAdams (2016) studied performance errors in orga
 The study involved written organ repertoire, not spontaneous didgeridoo and frame drum. It nevertheless challenges the assumption that all moments in a musical performance are equally vulnerable or equally perceptible. What is foregrounded matters.
 
 
-For KLAAT, the relevant question is not which note belongs to a melody. It is which acoustic layer is foregrounded at a particular moment. Sometimes Ankora's attacks may dominate attention; at other moments the drone's harmonic surface may be the listener's main reference. A subtle handoff disturbance might disappear perceptually when the drum is salient, but become a defining event when the drum falls quiet. That is a plausible auditory-attention hypothesis, not a demonstrated KLAAT result.
+For KLAAT, the relevant question is not which note belongs to a melody. It is which acoustic layer is foregrounded at a particular moment. Sometimes the drum's attacks may dominate attention; at other moments the drone's harmonic surface may be the listener's main reference. A subtle handoff disturbance might disappear perceptually when the drum is salient, but become a defining event when the drum falls quiet. That is a plausible auditory-attention hypothesis, not a demonstrated KLAAT result.
 
 
 The artist's internal importance ranking can also differ from the listener's. A tiny mechanical correction that feels momentous to Paul may be nearly invisible to someone hearing only the recording. Conversely, a barely noticed physical gesture may generate a conspicuous sound. We should not use performer embarrassment as a substitute for measured listener impact.
@@ -77,7 +77,7 @@ An especially interesting body of music-performance research finds changes prece
 Palmer, Mathias, and Anderson (2012) likewise examined pianists' correct notes, wrong pitches, and partial errors—actions with the intended pitch but altered force or duration. Wrong events tended to be slower and softer, while preceding events sometimes had intermediate properties. The authors interpreted this as compatible with partially active competing action plans.
 
 
-For KLAAT, these results offer a more nuanced possibility than 'the brain notices a wrong sound and then fixes it.' Coordination may begin to change before an audible seam. A difficult nasal inhalation, mouth-pressure handoff, or Ankora gesture may affect the timing or force of neighboring actions. However, an audio waveform alone cannot reveal an error-related potential, a motor command, or an unconscious conflict. It can only describe the sound that emerged.
+For KLAAT, these results offer a more nuanced possibility than 'the brain notices a wrong sound and then fixes it.' Coordination may begin to change before an audible seam. A difficult nasal inhalation, mouth-pressure handoff, or the drum gesture may affect the timing or force of neighboring actions. However, an audio waveform alone cannot reveal an error-related potential, a motor command, or an unconscious conflict. It can only describe the sound that emerged.
 
 
 This distinction protects the music from overinterpretation. An apparently expressive anticipation before a drum hit might be deliberate, a biomechanical consequence, or an unrecognized adjustment. Until independent evidence separates those possibilities, it should be described as timing, not diagnosed as an error.
@@ -107,7 +107,7 @@ Albrecht and Bellebaum (2023) compared small and large piano errors in experimen
 The finding should not be recast as a universal neural scale of musical badness. The tasks were deliberately designed to produce piano errors of different size. The relevant insight is narrower: the performer and the observer can process the magnitude of a deviation differently, even when both are dealing with the same musical event.
 
 
-For KLAAT, a 'large' acoustic discontinuity need not be a large artistic failure. A sudden cessation of Amastacia might be the most consequential audible change in a passage, yet could be a deliberate withdrawal. Conversely, a tiny unintentional lip-pressure instability might feel technically important to Paul while being unnoticeable in the mix. Severity must therefore be defined with respect to an explicit outcome: motor control, acoustic change, listener salience, or aesthetic evaluation.
+For KLAAT, a 'large' acoustic discontinuity need not be a large artistic failure. A sudden cessation of the didgeridoo might be the most consequential audible change in a passage, yet could be a deliberate withdrawal. Conversely, a tiny unintentional lip-pressure instability might feel technically important to Paul while being unnoticeable in the mix. Severity must therefore be defined with respect to an explicit outcome: motor control, acoustic change, listener salience, or aesthetic evaluation.
 
 
 One tempting but unsupported shortcut would be to equate large spectral flux with a serious technical error. Spectral flux measures change between adjacent spectral representations; it has no access to the artist's intention. An intentional burst of breath noise can score high. A technically frustrating adjustment might score low. The number is useful only after its question is specified.
@@ -149,7 +149,7 @@ At the same time, the opposite is possible. A listener may find an unintended se
 Many analyses focus on the exact time of an attack or dropout. Yet the response to that event may be more informative than the event alone. In a scored sequence, an error may lead to a correction, slowing, resumption, or further errors. In improvisation, the possibilities include continuing unchanged, attempting a technical repair, repeating the unexpected sound, shifting attention to the other instrument, or developing a new phrase from the accident.
 
 
-These are descriptive categories, not a mandatory performance menu. They can be recognized retrospectively in some recordings but not always inferred confidently. For example, if a sudden noisy Amastacia event is followed by a series of similar articulations, an analyst might describe 'motif recurrence' or 'texture continuation.' It would be an unsupported leap to conclude that the first event was an error deliberately transformed into a motif unless Paul independently remembers that intention.
+These are descriptive categories, not a mandatory performance menu. They can be recognized retrospectively in some recordings but not always inferred confidently. For example, if a sudden noisy the didgeridoo event is followed by a series of similar articulations, an analyst might describe 'motif recurrence' or 'texture continuation.' It would be an unsupported leap to conclude that the first event was an error deliberately transformed into a motif unless Paul independently remembers that intention.
 
 
 The temporal scale is also variable. A motor correction may unfold within tens of milliseconds in laboratory piano tasks; an artistic reorientation may unfold over several seconds or much longer. There is no reason to assign KLAAT a universal recovery window. Its drone may continue while the drum reorganizes, or the drum may remain stable while the drone shifts. The two instruments make a single global 'performance recovered' timestamp particularly questionable.
@@ -176,10 +176,10 @@ The map also avoids a dangerous feedback loop. If Paul listens back and retroact
 12. THE CAPTURE CHAIN CAN FABRICATE OR HIDE A 'MISTAKE'
 
 
-An apparent drone dropout on a phone recording may reflect a real interruption of Amastacia, but it can also reflect microphone movement, transient masking by Ankora, automatic gain control, noise suppression, an overloaded input, a room null, or an export artifact. Sessions 129, 131, 136, and 137 already establish why recording provenance matters; this session applies that principle to error attribution.
+An apparent drone dropout on a phone recording may reflect a real interruption of the didgeridoo, but it can also reflect microphone movement, transient masking by the drum, automatic gain control, noise suppression, an overloaded input, a room null, or an export artifact. Sessions 129, 131, 136, and 137 already establish why recording provenance matters; this session applies that principle to error attribution.
 
 
-The relevant chain is PERFORMED ACTION -> RADIATED SOUND -> ROOM/MICROPHONE -> RECORDED FILE -> PLAYBACK -> LISTENER. An interruption heard at the last stage is not automatically an interruption of the first stage. If Ankora masks the drone for 100 milliseconds, the drone might remain physically continuous while becoming temporarily inaudible. Conversely, a steady-looking waveform could conceal a short loss of one harmonic or a brief breath articulation that Paul found difficult.
+The relevant chain is PERFORMED ACTION -> RADIATED SOUND -> ROOM/MICROPHONE -> RECORDED FILE -> PLAYBACK -> LISTENER. An interruption heard at the last stage is not automatically an interruption of the first stage. If the drum masks the drone for 100 milliseconds, the drone might remain physically continuous while becoming temporarily inaudible. Conversely, a steady-looking waveform could conceal a short loss of one harmonic or a brief breath articulation that Paul found difficult.
 
 
 A phone video may help distinguish hand movement from audio artifacts, but its audio and image streams can be offset, compressed, or temporally sampled too coarsely to reveal a fast correction. The correct response is to state the measurement limit, not to manufacture an exact motor timeline from an approximate video frame.
@@ -197,7 +197,7 @@ The language of recovery quietly assumes that the performer is returning to a pr
 Calling this 'successful error recovery' can therefore be as misleading as calling it 'failure.' We may instead need a neutral term: *post-event continuation*. It describes what happens without deciding whether the event was intentional, mistaken, creative, or regretted. More specific labels can be added only when supported by performer testimony or a defined technical criterion.
 
 
-There is a crucial distinction between the capacity to recover technically and the artistic decision to continue differently. Greater circular-breathing fluency may expand Paul's options when pressure falters. It does not require him to conceal the falter. Improved Ankora control may allow cleaner attacks when desired. It does not require him to suppress rough attacks that fit the sound. Technique is a larger set of available actions, not an obligation to choose the tidiest one.
+There is a crucial distinction between the capacity to recover technically and the artistic decision to continue differently. Greater circular-breathing fluency may expand Paul's options when pressure falters. It does not require him to conceal the falter. Improved the drum control may allow cleaner attacks when desired. It does not require him to suppress rough attacks that fit the sound. Technique is a larger set of available actions, not an obligation to choose the tidiest one.
 
 
 The scientific study of spontaneous music must respect this asymmetry: we can investigate whether a physical action became easier without declaring that the resulting art is better. A technical exercise may have a correct answer; an improvisation need not.
@@ -236,7 +236,7 @@ If KLAAT eventually produces reliable listener activation or absorption, the evi
 16. AVOID THE OTHER EXTREME: EVERY ACCIDENT IS NOT ARTISTICALLY GOOD
 
 
-There is a romantic temptation to say that all mistakes are gifts. That claim is no more scientific than saying all deviations are failures. Some unintended events genuinely limit expression. A difficult breath handoff can interrupt a desired drone; a missed hand position can make an intended Ankora attack impossible; fatigue can narrow available options. Technical improvement may make those events less frequent or easier to navigate.
+There is a romantic temptation to say that all mistakes are gifts. That claim is no more scientific than saying all deviations are failures. Some unintended events genuinely limit expression. A difficult breath handoff can interrupt a desired drone; a missed hand position can make an intended the drum attack impossible; fatigue can narrow available options. Technical improvement may make those events less frequent or easier to navigate.
 
 
 But the value of a particular event depends on context and intention. A rough attack may be unwanted today and desirable tomorrow. A short silence may be an involuntary interruption in one take and an effective withdrawal in another. Scientific analysis can document differences and test listener responses; it cannot declare a universal aesthetic rule.

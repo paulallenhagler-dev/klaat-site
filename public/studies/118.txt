@@ -14,7 +14,7 @@ This is a methodological synthesis grounded in published research on pseudorepli
 OPENING: WHEN FIVE FILES ARE ONE EVENT
 
 
-Paul has described one-, two-, three-, four-, and five-minute phone videos made primarily for listening back and improving his playing. He is collecting older takes and making new ones. Suppose a future archive contains five attractive clips, each apparently a different piece of KLAAT. The filenames differ. Their lengths differ. Ankora may enter differently; Amastacia may acquire different textures. Five people may listen to all five and describe five different experiences.
+Paul has described one-, two-, three-, four-, and five-minute phone videos made primarily for listening back and improving his playing. He is collecting older takes and making new ones. Suppose a future archive contains five attractive clips, each apparently a different piece of KLAAT. The filenames differ. Their lengths differ. The drum may enter differently; the didgeridoo may acquire different textures. Five people may listen to all five and describe five different experiences.
 
 
 But suppose all five clips came from the same continuous twenty-minute improvisation, recorded in the same room with the same phone, on the same afternoon, with the same instrument conditions and the same performer state. They are five acoustic excerpts, but they are not five independent performances. Some may even overlap in time. The distinction is neither pedantic nor an objection to making excerpts. It determines which conclusions those excerpts can support.
@@ -65,7 +65,7 @@ The principle is simple: an observation can be real, carefully measured, and sti
 KLAAT's music is intentionally continuous, sparse, and improvised. Those are artistic strengths, but they create an unusual archival structure.
 
 
-A sustained Amastacia drone may extend through several neighboring clips. Ankora's rhythmic vocabulary may recur within one improvisation. The same microphone placement and phone processing may affect every excerpt from that session. The room may color every excerpt in similar ways. The same elk-hide moisture state, same agave bore conditions, and same performer's energy may persist across the take. None of these variables has to remain perfectly constant; they merely create reasons for excerpts to be correlated.
+A sustained the didgeridoo drone may extend through several neighboring clips. The drum's rhythmic vocabulary may recur within one improvisation. The same microphone placement and phone processing may affect every excerpt from that session. The room may color every excerpt in similar ways. The same drumhead material moisture state, same agave bore conditions, and same performer's energy may persist across the take. None of these variables has to remain perfectly constant; they merely create reasons for excerpts to be correlated.
 
 
 A researcher who treats six clips from one evening as six independent demonstrations of 'KLAAT's bass' is conflating six selections with six source occasions. Likewise, six listener reports of bodily impact from those clips might reflect one unusually resonant room or one unusually forceful improvisation rather than a stable feature of the wider practice.
@@ -89,7 +89,7 @@ Here m = 5 excerpts per take and rho = 0.60. The design effect is 1 + 4 × 0.60 
 If rho were zero, the simplified design effect would be 1. If rho approached one, taking additional excerpts from the same take would contribute very little independent information about a population of takes. Unequal cluster sizes, crossed listeners, serial dependence, overlapping windows, nonrandom selection, and different estimands complicate this arithmetic. The useful insight survives: MORE FILES is not necessarily MORE INDEPENDENT SOURCE INFORMATION.
 
 
-An even sharper case is literal overlap. Two excerpts that both contain the same Ankora strike are not merely correlated by circumstance; the physical event is duplicated. Counting both as separate instances of that strike would be double-counting. Overlap must be logged before any beat-event statistics, spectral averages, or listener-trial summaries are interpreted.
+An even sharper case is literal overlap. Two excerpts that both contain the same the drum strike are not merely correlated by circumstance; the physical event is duplicated. Counting both as separate instances of that strike would be double-counting. Overlap must be logged before any beat-event statistics, spectral averages, or listener-trial summaries are interpreted.
 
 
 5. WHAT IS THE CLAIM WE WANT TO MAKE?
@@ -167,7 +167,7 @@ Even before receiving a single response, source relationships can be reconstruct
 Do not infer that two files are separate performances merely because their names or creation timestamps differ. Phone applications and cloud exports can alter metadata. Conversely, two files created minutes apart may be genuinely independent takes. Video/audio continuity, visible clothing and room details, shared waveform segments, and Paul's recollection can help identify relationships, but uncertain provenance should remain marked 'unknown' rather than invented.
 
 
-If a future acoustic analysis detects repeated Ankora onset patterns in neighboring clips, first ask whether those are distinct events or the same waveform copied into both excerpts. Only then ask whether Paul's spontaneous musical vocabulary recurred. This prevents a file-management artifact from being mistaken for a compositional phenomenon.
+If a future acoustic analysis detects repeated the drum onset patterns in neighboring clips, first ask whether those are distinct events or the same waveform copied into both excerpts. Only then ask whether Paul's spontaneous musical vocabulary recurred. This prevents a file-management artifact from being mistaken for a compositional phenomenon.
 
 
 10. THE DIFFERENCE BETWEEN DESCRIBING AND ESTIMATING

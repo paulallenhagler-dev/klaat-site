@@ -1,16 +1,16 @@
 KLAAT RESONANCE RESEARCH — SESSION 151
 The Bass That a Sound Meter Hid
-Why A-weighted readings alone cannot characterize Amastacia's low-frequency acoustic presence
+Why A-weighted readings alone cannot characterize the didgeridoo's low-frequency acoustic presence
 November 5, 2026 · 19:16 CST
 Guiding principle: Experience-led creation. Science-informed refinement.
 
 
 RESEARCH QUESTION
-If an acoustic measurement of a spontaneous Amastacia–Ankora performance reports a modest dBA value, does that establish that the drone contributes little low-frequency sound pressure? No. The answer depends on the frequency weighting, source spectrum, calibration, location, and measurement interval. This is an interpretation problem, not a suggestion to alter the music.
+If an acoustic measurement of a spontaneous the didgeridoo–the drum performance reports a modest dBA value, does that establish that the drone contributes little low-frequency sound pressure? No. The answer depends on the frequency weighting, source spectrum, calibration, location, and measurement interval. This is an interpretation problem, not a suggestion to alter the music.
 
 
 WHY THIS SESSION
-Session 150 examined how global rhythmic variability can disguise organized transitions; Session 149 considered Ankora's inharmonic membrane modes; Session 148 considered recording-clock drift. The November 5, 03:15 CST hourly note identifies a narrower unresolved measurement problem: frequency-weighting filters may hide substantial bass contributions in a single-number reading. This is distinct from earlier research on sound-meter Fast/Slow detector response, which concerns temporal rather than spectral weighting. Recent notes also consider membrane humidity, declipping, and instrument separation. The current question is selected for its direct implications for claims about low-frequency resonance and future listener tests. Novelty is assessed against the available recent published record and targeted hourly retrieval, not asserted as exhaustive uniqueness across every historical entry.
+Session 150 examined how global rhythmic variability can disguise organized transitions; Session 149 considered the drum's inharmonic membrane modes; Session 148 considered recording-clock drift. The November 5, 03:15 CST hourly note identifies a narrower unresolved measurement problem: frequency-weighting filters may hide substantial bass contributions in a single-number reading. This is distinct from earlier research on sound-meter Fast/Slow detector response, which concerns temporal rather than spectral weighting. Recent notes also consider membrane humidity, declipping, and instrument separation. The current question is selected for its direct implications for claims about low-frequency resonance and future listener tests. Novelty is assessed against the available recent published record and targeted hourly retrieval, not asserted as exhaustive uniqueness across every historical entry.
 
 
 1. WHAT A SOUND LEVEL ACTUALLY MEASURES
@@ -24,7 +24,7 @@ Frequency weighting is a defined filter applied to the measured signal before it
 At the standardized 63-Hz nominal frequency, the A-weighting correction is approximately −26.2 dB; C-weighting is approximately −0.8 dB. Thus an ideal isolated 63-Hz tone at 80 dB unweighted would indicate approximately 53.8 dBA and 79.2 dBC, under matching measurement conditions. This is an illustration of filter transfer functions, not an observation of KLAAT. The apparent difference of roughly 25 dB does not mean the instrument's sound energy vanished, nor that C-weighting gives an exact measure of physical vibration. The same air-pressure waveform passes through different mathematical filters.
 
 
-A nominal C#2 equal-tempered frequency is 69.30 Hz when A4 = 440 Hz. That places the musical label near the 63-Hz example, but it does not prove Amastacia's measured fundamental is exactly 69.30 Hz. Instrument construction, breath articulation, playing conditions, and actual spectral measurement determine the emitted signal. Nor does a C# drone consist only of its fundamental: didgeridoo timbre contains harmonics, broadband breath noise, formant-like resonances, and time-varying components. Ankora's attacks add broadband energy and resonant modes. A correction at 63 Hz therefore cannot be applied wholesale to an entire KLAAT performance.
+A nominal C#2 equal-tempered frequency is 69.30 Hz when A4 = 440 Hz. That places the musical label near the 63-Hz example, but it does not prove the didgeridoo's measured fundamental is exactly 69.30 Hz. Instrument construction, breath articulation, playing conditions, and actual spectral measurement determine the emitted signal. Nor does a C# drone consist only of its fundamental: didgeridoo timbre contains harmonics, broadband breath noise, formant-like resonances, and time-varying components. The drum's attacks add broadband energy and resonant modes. A correction at 63 Hz therefore cannot be applied wholesale to an entire KLAAT performance.
 
 
 3. WHY THE SINGLE NUMBER IS NOT ENOUGH
@@ -61,17 +61,17 @@ ESTABLISHED: Standard A, C and Z weightings are distinct measurement filters; A-
 CONTEXT-DEPENDENT: The amount by which a real KLAAT performance's dBA value differs from dBC or dBZ depends on its complete spectrum, attack structure, room, distance, and meter settings. The 63-Hz example cannot predict that difference.
 
 
-PLAUSIBLE AND TESTABLE: In some listening environments, the perceived bodily weight of Amastacia may correspond more closely to calibrated low-frequency spectral energy or C/Z-weighted readings than to a single dBA value. Whether that relationship is strong, weak, or absent must be established with listener reports and controlled comparisons.
+PLAUSIBLE AND TESTABLE: In some listening environments, the perceived bodily weight of the didgeridoo may correspond more closely to calibrated low-frequency spectral energy or C/Z-weighted readings than to a single dBA value. Whether that relationship is strong, weak, or absent must be established with listener reports and controlled comparisons.
 
 
-SPECULATIVE: Low-frequency energy interacting with Ankora's pulse might increase bodily activation or sustained absorption for certain listeners. This is a research question, not a finding. Strong bass can also be unpleasant, fatiguing, or distracting; effects need not be universally positive.
+SPECULATIVE: Low-frequency energy interacting with the drum's pulse might increase bodily activation or sustained absorption for certain listeners. This is a research question, not a finding. Strong bass can also be unpleasant, fatiguing, or distracting; effects need not be universally positive.
 
 
 UNSUPPORTED: Claims that a C# drone uniquely induces trance; that a dBC−dBA gap measures somatic intensity; that a phone app reliably measures sub-bass without validation; that a spectral peak proves neurological entrainment; or that KLAAT has already demonstrated therapeutic outcomes.
 
 
 7. IMPLICATION FOR THE ART
-The point is not to make Amastacia louder, tune Ankora to a frequency, chase a decibel target, or impose phases on improvisation. KLAAT is strongest as an experience-led artistic practice whose actual sound can be examined after the fact. A measured low-frequency profile can help explain why one recording sounds physically compelling on full-range speakers and less so on a phone, or why a live room differs from a headphone version. It can also protect the project from false negatives: a low dBA number is not sufficient grounds to dismiss the drone's bass contribution. Equally, a large bass measurement is not grounds to announce a listener effect that has not been observed.
+The point is not to make the didgeridoo louder, tune the drum to a frequency, chase a decibel target, or impose phases on improvisation. KLAAT is strongest as an experience-led artistic practice whose actual sound can be examined after the fact. A measured low-frequency profile can help explain why one recording sounds physically compelling on full-range speakers and less so on a phone, or why a live room differs from a headphone version. It can also protect the project from false negatives: a low dBA number is not sufficient grounds to dismiss the drone's bass contribution. Equally, a large bass measurement is not grounds to announce a listener effect that has not been observed.
 
 
 8. ONE OPTIONAL OBSERVATION
@@ -79,7 +79,7 @@ On a day when suitable calibrated equipment is available, measure one ordinary s
 
 
 DURABLE FINDING
-A-weighted SPL is a valid standardized measurement but an incomplete descriptor of Amastacia's low-frequency acoustic content. Calibrated spectral measurements and explicitly labeled weightings are needed to characterize the physical signal; listener experience and physiology remain separate empirical questions. Experience-led creation; science-informed refinement.
+A-weighted SPL is a valid standardized measurement but an incomplete descriptor of the didgeridoo's low-frequency acoustic content. Calibrated spectral measurements and explicitly labeled weightings are needed to characterize the physical signal; listener experience and physiology remain separate empirical questions. Experience-led creation; science-informed refinement.
 
 
 RESEARCH SOURCES AND VERIFICATION BOUNDARIES

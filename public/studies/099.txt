@@ -13,7 +13,7 @@ RESEARCH STATUS: This session reports evidence from music-perception and psychop
 THE QUESTION
 
 
-A person listens to Amastacia's continuous C# drone and Ankora's pulse. At some moment, they describe a shiver up the spine, goosebumps, a rush, a sense of weight, or the feeling that the music is vibrating inside them. Are these interchangeable descriptions of one physical phenomenon? No. One of the most useful scientific distinctions for KLAAT is that a person can experience a bodily-feeling emotional event even when the relevant skin is not being mechanically shaken by the sound. Conversely, a floor or chair can vibrate measurably without anybody experiencing a pleasurable emotional chill.
+A person listens to the didgeridoo's continuous C# drone and the drum's pulse. At some moment, they describe a shiver up the spine, goosebumps, a rush, a sense of weight, or the feeling that the music is vibrating inside them. Are these interchangeable descriptions of one physical phenomenon? No. One of the most useful scientific distinctions for KLAAT is that a person can experience a bodily-feeling emotional event even when the relevant skin is not being mechanically shaken by the sound. Conversely, a floor or chair can vibrate measurably without anybody experiencing a pleasurable emotional chill.
 
 
 That is the focus of this session: the difference between sound-driven mechanical sensation and a listener's music-evoked chill or frisson. The distinction matters precisely because KLAAT is sparse, bodily, sometimes trance-like in Paul's own performance, and intentionally capable of being energizing without requiring a ceremonial setting. It also matters because music science has an unusually instructive disagreement here: studies can measure neural reward responses, sweat-gland activity, visible goosebumps, and self-reported chills, yet these measurements are not equivalent, do not always occur together, and do not reveal a universal acoustic recipe.
@@ -31,7 +31,7 @@ A CHILL IS A POSSIBLE RESPONSE TO LISTENING, NOT A FREQUENCY DELIVERED BY THE IN
 Consider five distinct observations during an authentic KLAAT recording.
 
 
-A. Acoustic input: a microphone records Amastacia's fundamental, harmonics, breath noise, and Ankora's transients. This describes sound pressure at the microphone, subject to the recording chain.
+A. Acoustic input: a microphone records the didgeridoo's fundamental, harmonics, breath noise, and the drum's transients. This describes sound pressure at the microphone, subject to the recording chain.
 
 
 B. Mechanical input: an accelerometer measures chair, floor, or skin-surface motion. This describes movement at that sensor, in its calibrated frequency and amplitude range. It does not measure the listener's feelings.
@@ -46,7 +46,7 @@ D. Autonomic/skin response: electrodermal activity reflects sympathetic sweat-gl
 E. Neural/reward finding: a neuroimaging experiment detects a blood-flow, BOLD, or radioligand-binding change in a research participant. That is not a portable signature that can be inferred from someone's description of a KLAAT performance.
 
 
-All five may be scientifically interesting. The category error is to use evidence for one as if it proved the others. Session 92 asked what bass physically reaches the listener. Session 98 asked how Ankora radiates. This session asks something different: what if the most dramatic 'physical' response is partly an emotional/autonomic event rather than the mechanical transmission of low-frequency energy?
+All five may be scientifically interesting. The category error is to use evidence for one as if it proved the others. Session 92 asked what bass physically reaches the listener. Session 98 asked how the drum radiates. This session asks something different: what if the most dramatic 'physical' response is partly an emotional/autonomic event rather than the mechanical transmission of low-frequency energy?
 
 
 2. WHAT THE EARLY REWARD EXPERIMENTS ACTUALLY SHOWED
@@ -115,8 +115,8 @@ There is a valuable methodological paradox here: manipulating music can improve 
 KLAAT has several plausible routes to a strong bodily description, none yet measured as a chill mechanism:
 
 
-— Amastacia can create an extended, spectrally changing drone. The listener may become absorbed, notice small changes more intensely, or feel the passage as one continuous field.
-— Ankora supplies transients and rhythmic landmarks. A particular strike may become salient because of prior repetition, unexpected accent, or the moment the listener notices it.
+— the didgeridoo can create an extended, spectrally changing drone. The listener may become absorbed, notice small changes more intensely, or feel the passage as one continuous field.
+— the drum supplies transients and rhythmic landmarks. A particular strike may become salient because of prior repetition, unexpected accent, or the moment the listener notices it.
 — Breath articulation can sound unmistakably human. The listener may interpret a change as effort, voice, vulnerability, tension, or release.
 — The room and playback system can deliver different amounts of low-frequency sound and vibration. This is physical delivery, not evidence of reward chemistry.
 — KLAAT's ancient/ritual visual language may shape meaning, expectancy, and emotional framing when it is present. That is a context variable, not an acoustic mechanism.
@@ -151,7 +151,7 @@ A. Prompt contamination. Asking 'Did the bass give you goosebumps?' teaches the 
 B. Recall bias. A listener may remember one intense moment and report the entire excerpt as powerful. Session 97 established why momentary experience and remembered experience should not be collapsed.
 
 
-C. Event timing. A listener pressing a button after noticing a chill introduces reaction time and reporting delay. Skin-conductance responses also evolve over seconds. Exact alignment to an Ankora strike is not automatically causal.
+C. Event timing. A listener pressing a button after noticing a chill introduces reaction time and reporting delay. Skin-conductance responses also evolve over seconds. Exact alignment to an the drum strike is not automatically causal.
 
 
 D. Instrument artifacts. Motion, room temperature, dry skin, electrode placement, and camera lighting can distort peripheral measurements. A consumer smartwatch is not a validated detector of emotional chills or dopamine release.
@@ -181,7 +181,7 @@ The likelihood of chills depends on listener, music, familiarity, emotional mean
 
 
 PLAUSIBLE AND TESTABLE FOR KLAAT
-An authentic Amastacia–Ankora performance may sometimes elicit self-reported chills that are separable from low-frequency mechanical vibration. A sparse passage might produce a strong emotional event without a large SPL increase. Different listeners may report bodily weight, groove, shiver, pleasure, or absorption at different times in the same recording. These possibilities are hypotheses until measured in KLAAT listeners.
+An authentic the didgeridoo–the drum performance may sometimes elicit self-reported chills that are separable from low-frequency mechanical vibration. A sparse passage might produce a strong emotional event without a large SPL increase. Different listeners may report bodily weight, groove, shiver, pleasure, or absorption at different times in the same recording. These possibilities are hypotheses until measured in KLAAT listeners.
 
 
 SPECULATIVE
@@ -198,7 +198,7 @@ UNSUPPORTED / PROHIBITED CLAIMS
 The strongest implication is not that Paul should chase chills. It is that the existing improvised sound can be investigated without confusing different kinds of intensity. KLAAT is not obligated to manufacture a dramatic emotional peak every few minutes. It can remain useful while someone drives, draws, works, or moves through a normal day; it can also become deeply absorbing when heard attentively. A person may experience a chill once, never, or often. That variation is scientifically interesting but not a ranking of artistic success.
 
 
-Amastacia and Ankora are not variables to be adjusted until a biomarker lights up. They are instruments within a personal artistic language. Science can help identify what a listener actually experienced, which explanations remain credible, and whether recording or presentation preserves the original acoustic world. It should not prescribe the world.
+the didgeridoo and drum are not variables to be adjusted until a biomarker lights up. They are instruments within a personal artistic language. Science can help identify what a listener actually experienced, which explanations remain credible, and whether recording or presentation preserves the original acoustic world. It should not prescribe the world.
 
 
 11. OPTIONAL KRX-099 — THE UNPROMPTED BODY-WORD TEST
@@ -213,7 +213,7 @@ Do not interpret the result as physiological proof. Do not touch participants, f
 FINAL POSITION
 
 
-The skin can seem to rise because music is emotionally moving, even when a surface is not measurably shaking. And sound can physically shake a surface without producing any emotional chill. KLAAT's research gains precision when it treats these as different possible paths from sound to experience. The purpose is not to turn Amastacia and Ankora into a neurological control system. The purpose is to understand what their real, spontaneously made sound does and does not do to real listeners.
+The skin can seem to rise because music is emotionally moving, even when a surface is not measurably shaking. And sound can physically shake a surface without producing any emotional chill. KLAAT's research gains precision when it treats these as different possible paths from sound to experience. The purpose is not to turn the didgeridoo and drum into a neurological control system. The purpose is to understand what their real, spontaneously made sound does and does not do to real listeners.
 
 
 EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.

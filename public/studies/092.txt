@@ -10,10 +10,10 @@ EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 CENTRAL QUESTION
 
 
-When someone says Amastacia's drone and Ankora's pulse make them feel physically energized, what has actually reached that person's body? A low-pitched sound heard through the ears? Vibration transmitted through a floor, chair, or air? A rhythm that invites movement without substantial tactile input? Or an interpretation arising from several pathways together?
+When someone says the didgeridoo's drone and the drum's pulse make them feel physically energized, what has actually reached that person's body? A low-pitched sound heard through the ears? Vibration transmitted through a floor, chair, or air? A rhythm that invites movement without substantial tactile input? Or an interpretation arising from several pathways together?
 
 
-The answer is not determined by Amastacia's note name, a spectrum plot, or Paul's experience while playing. It depends on the sound, the playback system, the room, the listener's contact with the environment, and the outcome being measured.
+The answer is not determined by the didgeridoo's note name, a spectrum plot, or Paul's experience while playing. It depends on the sound, the playback system, the room, the listener's contact with the environment, and the outcome being measured.
 
 
 The central advance of this session is a distinction: LOW-FREQUENCY CONTENT IN A RECORDING IS NOT THE SAME AS LOW-FREQUENCY SOUND AT THE LISTENER, AND NEITHER IS THE SAME AS VIBRATION DELIVERED TO THE BODY. These can interact, but they must not be collapsed into a single claim about resonance or trance.
@@ -22,7 +22,7 @@ The central advance of this session is a distinction: LOW-FREQUENCY CONTENT IN A
 WHY THIS TOPIC NOW
 
 
-Sessions 89–91 investigated groove, the possibility that Amastacia and Ankora become one perceptual event, and how human microtiming interacts with attack shape. Those studies clarified the musical signal and listener's interpretation of it. The unresolved next step is the transmission pathway: if low-frequency energy contributes to KLAAT's bodily impact, which part of that energy actually survives the journey from instrument to listener? Earlier hourly research investigated vibration at the seat, feet and back, cross-axis coupling, contact area, and the high thresholds of vestibular responses to airborne sound. The latest hourly note, October 5 at 18:33 CDT, specifically warned against importing low-frequency whole-body vibration models into KLAAT without checking the frequency band and actual mechanical coupling. No newer hourly note was present at this publication check.
+Sessions 89–91 investigated groove, the possibility that the didgeridoo and drum become one perceptual event, and how human microtiming interacts with attack shape. Those studies clarified the musical signal and listener's interpretation of it. The unresolved next step is the transmission pathway: if low-frequency energy contributes to KLAAT's bodily impact, which part of that energy actually survives the journey from instrument to listener? Earlier hourly research investigated vibration at the seat, feet and back, cross-axis coupling, contact area, and the high thresholds of vestibular responses to airborne sound. The latest hourly note, October 5 at 18:33 CDT, specifically warned against importing low-frequency whole-body vibration models into KLAAT without checking the frequency band and actual mechanical coupling. No newer hourly note was present at this publication check.
 
 
 This is not an instruction to build a bass-heavy show, increase volume, or attach vibrating equipment to the music. It is a way to protect KLAAT's organic sound from bad explanations—and, if listener testing eventually warrants it, to improve faithful delivery rather than alter the performance.
@@ -37,10 +37,10 @@ Route A: auditory hearing. The microphone captures pressure fluctuations. Speake
 Route B: tactile/mechanical transmission. Low-frequency loudspeakers can cause surfaces or the body to vibrate; a seat, floor, backpack, or contact transducer can deliver mechanical stimulation directly. Skin and other somatosensory pathways can detect vibration, with thresholds depending on frequency, contact location, contact area, posture, coupling, and intensity. A microphone in the room does not measure the acceleration at someone's back or feet. Likewise, a sensor on a chair does not prove that the listener experienced the stimulus as pleasurable or absorbing.
 
 
-Route C: rhythmic and perceptual organization. Ankora's attacks and Amastacia's breath articulations can define a pulse and its subdivisions. Listeners may feel a desire to move, track timing, or become absorbed because of auditory rhythm and expectation even in an ordinary headphone presentation. This is neither a failure of 'real vibration' nor evidence of physiological entrainment. It is a legitimate part of music perception.
+Route C: rhythmic and perceptual organization. The drum's attacks and the didgeridoo's breath articulations can define a pulse and its subdivisions. Listeners may feel a desire to move, track timing, or become absorbed because of auditory rhythm and expectation even in an ordinary headphone presentation. This is neither a failure of 'real vibration' nor evidence of physiological entrainment. It is a legitimate part of music perception.
 
 
-A fourth observation belongs outside these three routes: Paul's performer experience. The physical force of striking Ankora, air pressure in Amastacia, respiratory effort, and coordinated movement make his experience profoundly embodied. That is not a measurement of what a passive listener receives. We should never borrow the performer's bodily state as evidence for the audience's physiology.
+A fourth observation belongs outside these three routes: Paul's performer experience. The physical force of striking the drum, air pressure in the didgeridoo, respiratory effort, and coordinated movement make his experience profoundly embodied. That is not a measurement of what a passive listener receives. We should never borrow the performer's bodily state as evidence for the audience's physiology.
 
 
 2. THE STRONGEST REAL-WORLD CAUSAL RESULT: DANCING WITH VERY LOW FREQUENCIES
@@ -67,7 +67,7 @@ Hove, Martinez and Stupacher (2020) used two controlled studies of music deliver
 Compared with auditory-only conditions, the combined auditory–tactile conditions produced more forceful tapping, greater spontaneous movement, and higher groove and enjoyment ratings. This is unusually relevant to KLAAT because the investigators manipulated a bodily input while preserving the musical task. It demonstrates that adding an appropriately related tactile channel can affect both behavior and experience under controlled conditions.
 
 
-However, the stimuli were selected for strong groove, the samples were small, and the setups were engineered to deliver tactile stimulation. The study does not establish that Amastacia naturally produces equivalent contact vibration, that Ankora's particular attacks will have the same effect, or that any such effect requires a 'trance' mechanism. The reported benefit is also not a license to increase sound levels: the controlled result concerns an additional sensory pathway, not a requirement for more acoustic power.
+However, the stimuli were selected for strong groove, the samples were small, and the setups were engineered to deliver tactile stimulation. The study does not establish that the didgeridoo naturally produces equivalent contact vibration, that the drum's particular attacks will have the same effect, or that any such effect requires a 'trance' mechanism. The reported benefit is also not a license to increase sound levels: the controlled result concerns an additional sensory pathway, not a requirement for more acoustic power.
 
 
 The distinction from Session 89 is decisive. Groove rating, desire to move, forceful tapping, spontaneous body movement, and bodily vibration are different measurements. The same participant may show some without others. An instrument's expressive force should not be evaluated by a single score.
@@ -76,7 +76,7 @@ The distinction from Session 89 is decisive. Groove rating, desire to move, forc
 4. LOW-FREQUENCY TIMING IS NOT THE SAME AS TOUCH
 
 
-Hove, Marie, Bruce and Trainor (2014) compared high- and low-pitched streams of tones. When a tone was shifted 50 milliseconds early, EEG mismatch responses were stronger for deviations in the low-pitched stream; tapping was also more influenced by the low voice. This supports a low-voice timing advantage under the tested conditions. It is an AUDITORY timing result. It cannot be reclassified as evidence that skin vibration is responsible for the groove of Amastacia or Ankora.
+Hove, Marie, Bruce and Trainor (2014) compared high- and low-pitched streams of tones. When a tone was shifted 50 milliseconds early, EEG mismatch responses were stronger for deviations in the low-pitched stream; tapping was also more influenced by the low voice. This supports a low-voice timing advantage under the tested conditions. It is an AUDITORY timing result. It cannot be reclassified as evidence that skin vibration is responsible for the groove of the didgeridoo or the drum.
 
 
 Lustig and Tan (2020) tested 102 listeners with four electronic-dance-music loops and four filtering conditions applied to basslines. Conditions retaining low-frequency energy received higher groove and liking ratings than those removing it. Here again, the main finding concerns perceived musical material and timbre; it does not identify how much vibration reached participants' bodies.
@@ -88,7 +88,7 @@ These results are complementary but not interchangeable. Low-pitched information
  mechanisms.
 
 
-KLAAT is an especially useful case because Amastacia's sustained harmonic field and Ankora's discrete attacks do not divide neatly into a bass instrument and a treble instrument. The drum has resonant low components and a broadband transient; the didgeridoo has a low fundamental, prominent higher harmonics, breath noise, and moving resonances. What a listener hears as 'the pulse' may be carried by Ankora's attack edge, Amastacia's articulation, or their relationship. We should measure rather than assume.
+KLAAT is an especially useful case because the didgeridoo's sustained harmonic field and the drum's discrete attacks do not divide neatly into a bass instrument and a treble instrument. The drum has resonant low components and a broadband transient; the didgeridoo has a low fundamental, prominent higher harmonics, breath noise, and moving resonances. What a listener hears as 'the pulse' may be carried by the drum's attack edge, the didgeridoo's articulation, or their relationship. We should measure rather than assume.
 
 
 5. AN IMPORTANT CONTRADICTION: MORE PHYSICALITY MAY ALLOW LESS ACOUSTIC LEVEL
@@ -100,7 +100,7 @@ Liapikou and Marozeau (2024) asked 15 normal-hearing participants to adjust thei
 The study matters because it challenges a common assumption: to make music more physically present, we must turn up the audio. In some conditions, tactile information contributed to a satisfactory listening experience while the participant selected less acoustic bass. The authors explicitly warned that head-mounted vibration might add bone-conducted cochlear input, so reducing the airborne component does not automatically establish reduced total cochlear exposure. Chest stimulation helped address that distinction but did not eliminate all safety questions.
 
 
-For KLAAT, this suggests a future engineering option rather than a musical requirement: a separate tactile playback path could, in principle, reproduce some bodily presence at comfortable audio levels. Yet it might also feel artificial, distract from the organic aesthetic, or change the listener's interpretation of Ankora. Those are genuine negative outcomes to record, not failures to be engineered away.
+For KLAAT, this suggests a future engineering option rather than a musical requirement: a separate tactile playback path could, in principle, reproduce some bodily presence at comfortable audio levels. Yet it might also feel artificial, distract from the organic aesthetic, or change the listener's interpretation of the drum. Those are genuine negative outcomes to record, not failures to be engineered away.
 
 
 6. THE VESTIBULAR CAUTION: 'FELT' IS NOT PROOF OF INNER-EAR BALANCE STIMULATION
@@ -109,16 +109,16 @@ For KLAAT, this suggests a future engineering option rather than a musical requi
 Some accounts of powerful low-frequency sound invoke the vestibular system, which contributes to balance and spatial orientation. There is real physiology here, but its thresholds matter. Luecke and colleagues (2020) measured ocular and cervical vestibular-evoked myogenic potentials from air-conducted sound at 120 Hz and below. They found that low-frequency sound can evoke these responses at high levels, but concluded that the thresholds make ordinary environmental activation unlikely. Jurado and Marquardt (2020) tested 15 normal-hearing people and found no significant saccular vestibular responses to their airborne low-frequency/infrasonic conditions around 80–90 phon.
 
 
-These findings do not disprove every possible vestibular contribution to very-low-frequency concert behavior, particularly when structural vibration is present. They do block an easy inference: Amastacia sounds low, therefore it activates the vestibular organs. There is no such demonstrated KLAAT result. Nor should anyone raise sound pressure toward clinical stimulation levels to test it. If someone reports dizziness, pressure, nausea, or instability, that is a reason to reduce or stop exposure, not evidence of a successful artistic mechanism.
+These findings do not disprove every possible vestibular contribution to very-low-frequency concert behavior, particularly when structural vibration is present. They do block an easy inference: the didgeridoo sounds low, therefore it activates the vestibular organs. There is no such demonstrated KLAAT result. Nor should anyone raise sound pressure toward clinical stimulation levels to test it. If someone reports dizziness, pressure, nausea, or instability, that is a reason to reduce or stop exposure, not evidence of a successful artistic mechanism.
 
 
 7. WHAT 'C#' AND '137 BPM' CAN AND CANNOT TELL US
 
 
-Amastacia is identified artistically as a C# agave didgeridoo. That name does not provide a calibrated spectral measurement, an octave designation, or a listener's actual received level. Equal-tempered C#2 is about 69.3 Hz and C#1 about 34.65 Hz, but neither value should be asserted as the recorded fundamental until Amastacia is measured. Didgeridoo playing can emphasize harmonics and resonances far above the fundamental. A device that weakly reproduces the fundamental may still convey much of the instrument's identity through upper harmonics and envelope information.
+The didgeridoo is identified artistically as a C# agave didgeridoo. That name does not provide a calibrated spectral measurement, an octave designation, or a listener's actual received level. Equal-tempered C#2 is about 69.3 Hz and C#1 about 34.65 Hz, but neither value should be asserted as the recorded fundamental until the didgeridoo is measured. Didgeridoo playing can emphasize harmonics and resonances far above the fundamental. A device that weakly reproduces the fundamental may still convey much of the instrument's identity through upper harmonics and envelope information.
 
 
-The provisional Ankora reference of 137 beats per minute corresponds to about 2.28 beat events per second and a beat interval of roughly 438 milliseconds. This is a rhythmic repetition rate, NOT a 2.28-Hz acoustic tone and NOT evidence of a 2.28-Hz brain rhythm. Fast subdivisions are not automatically 'higher vibration frequency' in the same physical sense as a 70-Hz sound wave. Keeping these units distinct prevents seductive but incorrect explanations.
+The provisional the drum reference of 137 beats per minute corresponds to about 2.28 beat events per second and a beat interval of roughly 438 milliseconds. This is a rhythmic repetition rate, NOT a 2.28-Hz acoustic tone and NOT evidence of a 2.28-Hz brain rhythm. Fast subdivisions are not automatically 'higher vibration frequency' in the same physical sense as a 70-Hz sound wave. Keeping these units distinct prevents seductive but incorrect explanations.
 
 
 It is entirely possible for a KLAAT excerpt to be perceptually rhythmic on a phone speaker that transmits little low bass. It is also possible for a powerful full-range room system to deliver strong bass without creating the same listener absorption. The relative contributions are open empirical questions.
@@ -139,16 +139,16 @@ For faithful KLAAT research, the chain should be recorded in layers: (1) source/
 A smartphone microphone and generic spectrum app may be useful for rough timing or identifying gross changes, but they cannot be trusted as a calibrated low-frequency SPL meter or whole-body vibration instrument. A visible spectral peak is not a dose measurement. No specific frequency should be boosted merely because a graph appears sparse. When bass disappears on one playback system, the proper first response is to document the reproduction difference—not to rewrite the music.
 
 
-9. ANKORA'S TRANSIENTS MAY BE THE LINK BETWEEN AUDITORY AND TACTILE RHYTHM
+9. DRUM'S TRANSIENTS MAY BE THE LINK BETWEEN AUDITORY AND TACTILE RHYTHM
 
 
 Session 91 showed why attack shape matters for perceived timing. Here is the deeper connection. A hand-struck frame drum generates a short, relatively broadband excitation and a longer resonant decay. Depending on the recording and reproduction system, the attack may provide a precise auditory time marker while lower components or structural impacts contribute a slower mechanical sensation. The two parts need not have identical physical timing at the listener: a loudspeaker, floor, seat, and body are all dynamical systems.
 
 
-Amastacia is different. Her sustained tone may produce a persistent low-frequency auditory reference, while breath articulation and resonance changes create temporal landmarks. Even if a listener cannot physically feel the drone, they may hear it as heavy, enveloping, or bodily. If a venue or seat does transmit vibration, that additional information might reinforce the existing sound or conflict with it.
+The didgeridoo is different. Her sustained tone may produce a persistent low-frequency auditory reference, while breath articulation and resonance changes create temporal landmarks. Even if a listener cannot physically feel the drone, they may hear it as heavy, enveloping, or bodily. If a venue or seat does transmit vibration, that additional information might reinforce the existing sound or conflict with it.
 
 
-This suggests a useful, testable interaction: the perceived unity of Ankora and Amastacia could depend not only on their recorded microtiming but also on whether the tactile component of the pulse aligns with its audible attack. This does NOT mean deliberately moving beats or programming a tactile score. It means natural KLAAT playback might be understood differently in a room, in headphones, or through a resonant support. Before claiming a timing mechanism, the actual mechanical delay and frequency response would need measurement.
+This suggests a useful, testable interaction: the perceived unity of the drum and didgeridoo could depend not only on their recorded microtiming but also on whether the tactile component of the pulse aligns with its audible attack. This does NOT mean deliberately moving beats or programming a tactile score. It means natural KLAAT playback might be understood differently in a room, in headphones, or through a resonant support. Before claiming a timing mechanism, the actual mechanical delay and frequency response would need measurement.
 
 
 10. THE STRONGEST CONTRADICTORY POSSIBILITY
@@ -171,11 +171,11 @@ Controlled auditory–tactile music experiments have found increased movement, t
 
 
 CONTEXT-DEPENDENT EVIDENCE
-Effect sizes and subjective responses depend on music, listener, social context, sensory route, actuator location, playback level, and measurement. Studies using synthesized EDM, a car subwoofer, a backpack, or a head-mounted actuator do not establish equivalent effects for an acoustic C# didgeridoo and elk-hide drum. High-threshold clinical vestibular responses cannot be imported into normal KLAAT listening.
+Effect sizes and subjective responses depend on music, listener, social context, sensory route, actuator location, playback level, and measurement. Studies using synthesized EDM, a car subwoofer, a backpack, or a head-mounted actuator do not establish equivalent effects for an acoustic C# didgeridoo and drum. High-threshold clinical vestibular responses cannot be imported into normal KLAAT listening.
 
 
 PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
-H1: A faithful tactile playback component, when physically verified and aligned with the recorded music, may increase reported bodily presence or movement in some listeners without increasing airborne sound level. H2: The effect, if present, may be stronger in Ankora-dominant passages than in sparse Amastacia-only passages, but could also differ by listener. H3: Some KLAAT recordings may retain rhythmic drive and absorption on small speakers despite a measurable loss of low bass; this would indicate an important auditory/perceptual pathway rather than a failed composition. H4: Perceived heaviness and physical contact vibration may diverge, especially across headphones, loudspeakers, and chairs. H5: Listeners may prefer the purely acoustic presentation even when a tactile addition produces more movement.
+H1: A faithful tactile playback component, when physically verified and aligned with the recorded music, may increase reported bodily presence or movement in some listeners without increasing airborne sound level. H2: The effect, if present, may be stronger in the drum-dominant passages than in sparse the didgeridoo-only passages, but could also differ by listener. H3: Some KLAAT recordings may retain rhythmic drive and absorption on small speakers despite a measurable loss of low bass; this would indicate an important auditory/perceptual pathway rather than a failed composition. H4: Perceived heaviness and physical contact vibration may diverge, especially across headphones, loudspeakers, and chairs. H5: Listeners may prefer the purely acoustic presentation even when a tactile addition produces more movement.
 
 
 SPECULATION
@@ -204,7 +204,7 @@ The artistic safeguard is equally important: these gates are for research and ca
 Use one authentic, unedited KLAAT excerpt of approximately 90 seconds to three minutes. The easiest version needs no extra gear: let one or two people hear it once through comfortable headphones and once through an ordinary room speaker, counterbalancing the order if possible. Ask only what felt different in bodily presence, urge to move, absorption, enjoyment, and whether either version seemed more faithful to the music. Keep volume comfortable; do not try to match bass by turning the louder system up. Record which devices were used. This is a playback comparison, NOT a causal tactile experiment, because frequency response, room acoustics and possible tactile input all change together.
 
 
-If a safe, independently controlled tactile transducer is already available, a stronger follow-up can hold the audible headphone track and level fixed while randomizing tactile on/off, with no audible actuator buzz. No need to purchase or build equipment for this session. A neutral or negative response is a useful result. Do not change Amastacia or Ankora's performance to fit the experiment.
+If a safe, independently controlled tactile transducer is already available, a stronger follow-up can hold the audible headphone track and level fixed while randomizing tactile on/off, with no audible actuator buzz. No need to purchase or build equipment for this session. A neutral or negative response is a useful result. Do not change the didgeridoo or the drum's performance to fit the experiment.
 
 
 THE DECISIVE QUESTION

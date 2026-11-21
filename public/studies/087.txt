@@ -11,7 +11,7 @@ CENTRAL FINDING
 KLAAT does not need conventional song sections—or even a deliberate transition—to have perceptible structure. The listener's auditory system can organize a continuous performance into moments, phrases, and larger episodes. But the chapters a listener hears may not correspond to what Paul consciously intended, to the largest waveform peaks, or to what another listener remembers.
 
 
-This distinction follows directly from Session 86. That study separated actual duration, estimated duration, the feeling that time passed quickly, and remembered landmarks. It left one major mechanism unresolved: WHERE DO THOSE REMEMBERED LANDMARKS COME FROM? If a ten-minute KLAAT performance is experienced as one uninterrupted world, how does a listener nevertheless recall a drum entrance, an overtone transformation, a breath-texture shift, or a moment of release? Conversely, if a recording contains hundreds of Ankora attacks, why might the listener remember only three or four larger movements?
+This distinction follows directly from Session 86. That study separated actual duration, estimated duration, the feeling that time passed quickly, and remembered landmarks. It left one major mechanism unresolved: WHERE DO THOSE REMEMBERED LANDMARKS COME FROM? If a ten-minute KLAAT performance is experienced as one uninterrupted world, how does a listener nevertheless recall a drum entrance, an overtone transformation, a breath-texture shift, or a moment of release? Conversely, if a recording contains hundreds of the drum attacks, why might the listener remember only three or four larger movements?
 
 
 Two especially relevant primary studies appeared in 2026. One directly compared perceptual segmentation of pulsed and unpulsed music, including sparse drone-like material. Another found that listeners could identify musical phrase boundaries even when those boundaries did not recur at predictable time intervals. Their results make a stronger case for studying the ORGANIZATION listeners actually hear than for inventing new KLAAT section rules.
@@ -23,7 +23,7 @@ GOVERNING PROPOSITION: THE PERFORMER CREATES A CONTINUOUS EVENT; THE LISTENER MA
 1. FOUR DIFFERENT KINDS OF BOUNDARY
 
 
-An acoustic change is something measurable in the sound: an increase in Ankora's attack rate, a change in Amastacia's harmonic balance, a pause, a sudden rough breath, a shift in loudness, or a reduction in low-frequency energy. An acoustic change is not automatically a perceptual boundary.
+An acoustic change is something measurable in the sound: an increase in the drum's attack rate, a change in the didgeridoo's harmonic balance, a pause, a sudden rough breath, a shift in loudness, or a reduction in low-frequency energy. An acoustic change is not automatically a perceptual boundary.
 
 
 A perceived boundary is the moment a listener feels that one meaningful part has ended or another has begun. The feeling may arise from one strong acoustic cue, several weaker cues, accumulated expectation, or the listener's own attentional state. It may occur slightly before or after an easily measurable change.
@@ -50,7 +50,7 @@ The authors found that segmentation behavior differed with event density and pul
 One descriptive contrast is useful: several of the spacious pieces yielded mean intervals between a participant's taps longer than 3.5 seconds, with one example reaching approximately 13.5 seconds, whereas denser/pulsed pieces more often produced mean intervals around 1 to 3.5 seconds. These are properties of this stimulus set and task, not prescriptions for how long a KLAAT episode should last.
 
 
-The study is unusually relevant because Amastacia can provide a spacious, nearly continuous field while Ankora adds discrete, sometimes dense events. Yet the limitations are just as important. Participants were asked to tap; that task can alter attention and motor organization. They were not asked to sit through a long KLAAT improvisation and describe its effect. The excerpts varied greatly in genre and production, so sparse-versus-dense comparisons were not pure manipulations of event density. The authors' onset detector worked in 500-millisecond slices, sometimes missing or collapsing multiple perceptible events. A computed onset count therefore cannot be treated as a perfect measure of what listeners heard.
+The study is unusually relevant because the didgeridoo can provide a spacious, nearly continuous field while the drum adds discrete, sometimes dense events. Yet the limitations are just as important. Participants were asked to tap; that task can alter attention and motor organization. They were not asked to sit through a long KLAAT improvisation and describe its effect. The excerpts varied greatly in genre and production, so sparse-versus-dense comparisons were not pure manipulations of event density. The authors' onset detector worked in 500-millisecond slices, sometimes missing or collapsing multiple perceptible events. A computed onset count therefore cannot be treated as a perfect measure of what listeners heard.
 
 
 This is a reason to keep the study, not to overclaim it. Its core contribution is that the listener's way of partitioning music changes with the sound's event structure. It does not establish a universal segmentation algorithm, optimal density, or trance mechanism. [S1]
@@ -71,7 +71,7 @@ There is an essential caveat buried beneath that headline: overall inter-listene
 The study's EEG results suggest neural tracking of phrase structure even when phrase lengths were irregular. But the stimuli were pitched, harmonically organized Bach-derived melodies played with piano-like timbre. The investigators also deliberately strengthened some phrase-ending cues after pilot testing. They did not test an agave didgeridoo, a frame drum, continuous noise texture, or free improvisation.
 
 
-For KLAAT, the important inference is narrow but liberating: a meaningful change does not need to recur every four, eight, or sixteen beats to be recognizable. Paul does not need to arrange Amastacia and Ankora into regular phrase lengths simply because rhythmic predictability is scientifically interesting. The music can remain spontaneous; the listener may still detect structure. [S2]
+For KLAAT, the important inference is narrow but liberating: a meaningful change does not need to recur every four, eight, or sixteen beats to be recognizable. Paul does not need to arrange the didgeridoo and drum into regular phrase lengths simply because rhythmic predictability is scientifically interesting. The music can remain spontaneous; the listener may still detect structure. [S2]
 
 
 4. WHAT NATURALISTIC BRAIN RESEARCH ADDS—AND DOES NOT ADD
@@ -83,7 +83,7 @@ Burunat, Levitin, and Toiviainen (2024) examined finer-grained musical boundarie
 Williams and colleagues (2022) recorded fMRI from 25 people listening to a continuous playlist of 16 musical excerpts. A separate group annotated meaningful changes. Neural pattern boundaries in auditory and higher-order regions aligned with aspects of the human annotations. That result suggests the brain represents some larger-scale musical event structure during listening. It does not establish that the brain is dividing KLAAT into the four names in our artistic vocabulary, nor that a neural pattern shift means trance, healing, or greater enjoyment.
 
 
-An older experiment by Sridharan and colleagues (2007) found coordinated neural responses around transitions between symphonic movements, including moments of silence. This is an especially useful warning against the idea that only increases in acoustic energy can mark a boundary. A withdrawal can be salient. But a long orchestral movement break is not equivalent to a breath-sized change in Amastacia or a temporary thinning of Ankora.
+An older experiment by Sridharan and colleagues (2007) found coordinated neural responses around transitions between symphonic movements, including moments of silence. This is an especially useful warning against the idea that only increases in acoustic energy can mark a boundary. A withdrawal can be salient. But a long orchestral movement break is not equivalent to a breath-sized change in the didgeridoo or a temporary thinning of the drum.
 
 
 All three studies are observational or correlational with respect to the listening experience. fMRI blood-oxygen signals are indirect measures of neural activity. A brain response at a boundary is not proof of the psychological meaning, pleasantness, bodily intensity, or altered awareness of that moment. [S3–S5]
@@ -101,34 +101,34 @@ Bruderer, McKinney, and Kohlrausch studied listeners' boundary judgments in West
 ough some musical changes reliably attracted many responses. In polyphonic music, listeners often identified harmonic, rhythmic, timbral, and tempo changes as cues.
 
 
-This offers a useful corrective to any temptation to draw one authoritative chapter map for KLAAT. We may eventually find strong clusters of agreement: perhaps many listeners independently hear a transition when Ankora first enters or when Amastacia shifts into a conspicuously rough texture. We may also find personal, nonoverlapping boundaries. Both results are informative.
+This offers a useful corrective to any temptation to draw one authoritative chapter map for KLAAT. We may eventually find strong clusters of agreement: perhaps many listeners independently hear a transition when the drum first enters or when the didgeridoo shifts into a conspicuously rough texture. We may also find personal, nonoverlapping boundaries. Both results are informative.
 
 
 A boundary that only one listener marks is not necessarily an error. It may reflect a private attentional focus, familiarity with a particular texture, or a meaningful but subtle acoustic detail. On the other hand, one person's striking description cannot establish that a change is reliably perceived across listeners. [S6–S7]
 
 
-6. AMASTACIA: A FIELD THAT CAN CHANGE WITHOUT ENDING
+6. DIDGERIDOO: A FIELD THAT CAN CHANGE WITHOUT ENDING
 
 
-Amastacia, the C# agave didgeridoo, is capable of a sustained sound whose identity persists while its spectral balance, breath articulation, roughness, loudness, and resonant emphasis change. A listener can hear a continuous instrument and still perceive that the performance has entered a new region. The beginning of that region might not be a silence or an attack. It might be a gradual accumulation of higher harmonics, a new grain in the breath, or the sense that the drone has become more urgent.
+The didgeridoo, is capable of a sustained sound whose identity persists while its spectral balance, breath articulation, roughness, loudness, and resonant emphasis change. A listener can hear a continuous instrument and still perceive that the performance has entered a new region. The beginning of that region might not be a silence or an attack. It might be a gradual accumulation of higher harmonics, a new grain in the breath, or the sense that the drone has become more urgent.
 
 
 This introduces an important scale problem. A spectrogram may show dozens of tiny spectral fluctuations over ten seconds. A listener may hear them as one evolving gesture. Another listener may treat one unusually prominent change as a boundary. The waveform does not contain a label saying where the meaningful chapter begins.
 
 
-Because Amastacia is physically breath-driven, the research must also distinguish circular-breathing transitions from perceived musical transitions. Session 82 separated Paul's inhale, the audible breath, and listener breathing. Session 83 separated physical continuity, masking, and perceptual restoration. Session 87 adds a fourth question: even when the drone is physically continuous, does a listener experience a larger-scale boundary in its changing character?
+Because the didgeridoo is physically breath-driven, the research must also distinguish circular-breathing transitions from perceived musical transitions. Session 82 separated Paul's inhale, the audible breath, and listener breathing. Session 83 separated physical continuity, masking, and perceptual restoration. Session 87 adds a fourth question: even when the drone is physically continuous, does a listener experience a larger-scale boundary in its changing character?
 
 
 A smooth circular breath is a technical skill. A clearly heard breath can be an expressive event. Neither must be made invisible or conspicuous for the sake of a scientific hypothesis.
 
 
-7. ANKORA: HUNDREDS OF ATTACKS, A FEW REMEMBERED MOMENTS
+7. DRUM: HUNDREDS OF ATTACKS, A FEW REMEMBERED MOMENTS
 
 
-Ankora's elk-hide membrane produces discrete strikes with changing attack, decay, loudness, timbre, and timing. The provisional reference of approximately 137 BPM describes one earlier recording, not a required tempo. At that rate, there are roughly 2.28 primary beats per second, before subdivisions. A ten-minute recording could therefore contain far more rhythmic events than any listener would consciously recall.
+The drum's drumhead produces discrete strikes with changing attack, decay, loudness, timbre, and timing. The provisional reference of approximately 137 BPM describes one earlier recording, not a required tempo. At that rate, there are roughly 2.28 primary beats per second, before subdivisions. A ten-minute recording could therefore contain far more rhythmic events than any listener would consciously recall.
 
 
-Listeners need not treat every strike as a new episode. Ankora's repetitions may be grouped into one stable rhythmic passage. A denser pattern may still be perceived as one continuing movement. Conversely, a very small shift in accent, a sudden dropout, or a change in interaction with Amastacia might feel like the start of something new.
+Listeners need not treat every strike as a new episode. The drum's repetitions may be grouped into one stable rhythmic passage. A denser pattern may still be perceived as one continuing movement. Conversely, a very small shift in accent, a sudden dropout, or a change in interaction with the didgeridoo might feel like the start of something new.
 
 
 This is not a recommendation to add accents, remove attacks, or create a dramatic break. It is a reason to examine which naturally occurring changes listeners notice. Technical practice in hand coordination, transitions, and fluency can give Paul more expressive freedom without turning the drum into a prescribed structure machine.
@@ -137,13 +137,13 @@ This is not a recommendation to add accents, remove attacks, or create a dramati
 8. THE INTERACTION: A CHAPTER CAN BE RELATIONAL
 
 
-Some KLAAT transitions may reside neither in Amastacia nor Ankora considered alone. The perceived change could arise from the relationship between them: Ankora's attack becoming more exposed as Amastacia softens; Amastacia's rough breath emerging between strikes; a change in how the drum's decay overlaps the drone; or a moment when both instruments seem to occupy the same dynamic space.
+Some KLAAT transitions may reside neither in the didgeridoo nor the drum considered alone. The perceived change could arise from the relationship between them: the drum's attack becoming more exposed as the didgeridoo softens; the didgeridoo's rough breath emerging between strikes; a change in how the drum's decay overlaps the drone; or a moment when both instruments seem to occupy the same dynamic space.
 
 
 These are candidate acoustic relationships, not verified observations from a measured KLAAT recording. They illustrate why analysis of isolated instrument features can miss a musically important event. A listener may respond to the relationship between sounds, not to the strongest individual signal change.
 
 
-The same principle applies to room and playback. A small speaker might preserve Ankora's timing while reducing Amastacia's low-frequency weight. A room with strong resonances may exaggerate a particular overtone. Session 80's Delivery-Chain Gate therefore still applies: perceived chapter maps collected through different playback conditions should not be pooled as though the acoustic stimulus were identical.
+The same principle applies to room and playback. A small speaker might preserve the drum's timing while reducing the didgeridoo's low-frequency weight. A room with strong resonances may exaggerate a particular overtone. Session 80's Delivery-Chain Gate therefore still applies: perceived chapter maps collected through different playback conditions should not be pooled as though the acoustic stimulus were identical.
 
 
 9. A PERCEPTUAL CHAPTER IS NOT A MEASURE OF PLEASURE
@@ -164,7 +164,7 @@ This is particularly important because KLAAT is not exclusively a ritual or medi
 Ground Anchor, Threshold Gate, Rising Pulse, and Return Path remain a useful artistic vocabulary for describing possible developments in KLAAT. They are not obligatory stages, a template for every recording, or a scientific model that has been validated against listeners.
 
 
-Ground Anchor might retrospectively describe a listener's first recognition of Amastacia's stable world. Threshold Gate might describe a perceived change in rhythmic organization, including Ankora's entrance. Rising Pulse might name a felt accumulation of urgency that need not involve any fixed tempo change. Return Path might describe a thinning or release. But a real recording could contain several thresholds, no clear rise, a return followed by a second surge, or no listener-agreed boundary at all.
+Ground Anchor might retrospectively describe a listener's first recognition of the didgeridoo's stable world. Threshold Gate might describe a perceived change in rhythmic organization, including the drum's entrance. Rising Pulse might name a felt accumulation of urgency that need not involve any fixed tempo change. Return Path might describe a thinning or release. But a real recording could contain several thresholds, no clear rise, a return followed by a second surge, or no listener-agreed boundary at all.
 
 
 The methodological advance is to reverse the direction of inference. Do not draw four vertical lines on a waveform and then ask listeners to confirm them. Collect the listener's own account first; only afterward ask whether any of our retrospective labels help describe what actually occurred. If the map doesn't fit, change the map, not the music.
@@ -176,7 +176,7 @@ The methodological advance is to reverse the direction of inference. Do not draw
 Session 86 showed that retrospective duration estimates can depend on remembered segments. Session 87 makes that claim more precise. An objective recording can have an exact duration, hundreds of measurable onsets, a handful of agreed perceived transitions, and perhaps only one or two memorable landmarks for a given listener.
 
 
-A listener might remember a powerful Ankora entrance and therefore reconstruct the session as a sequence of events. Another might experience the same passage as a single flowing environment and later estimate its length differently. This is a hypothesis about KLAAT, not a demonstrated causal pathway.
+A listener might remember a powerful the drum entrance and therefore reconstruct the session as a sequence of events. Another might experience the same passage as a single flowing environment and later estimate its length differently. This is a hypothesis about KLAAT, not a demonstrated causal pathway.
 
 
 If we want to study time and event structure together, we must avoid telling listeners in advance to search for boundaries. That instruction can change attention and thereby contaminate both the segmentation and time-perception questions. An initial free listening and recall pass, followed by an optional second pass devoted to marking boundaries, is a more respectful exploratory method. It still introduces order and exposure effects; those must be recorded.
@@ -188,7 +188,7 @@ If we want to study time and event structure together, we must avoid telling lis
 Several computable features may help locate candidate changes: short-time RMS energy for loudness-related shifts; spectral centroid for brightness; spectral flux for frame-to-frame spectral change; onset strength and inter-onset intervals for attack patterns; and low-frequency band energy for drone weight. These features are measurements or proxies, not psychological states.
 
 
-A sudden centroid increase might correspond to Amastacia emphasizing upper harmonics, but it could also reflect Ankora's brighter attack, microphone movement, or noise. An RMS rise might result from a stronger drum strike without creating a new chapter. A stable RMS may conceal a meaningful change in texture or interaction. Feature windows, smoothing, microphone placement, and the mix all influence the result.
+A sudden centroid increase might correspond to the didgeridoo emphasizing upper harmonics, but it could also reflect the drum's brighter attack, microphone movement, or noise. An RMS rise might result from a stronger drum strike without creating a new chapter. A stable RMS may conceal a meaningful change in texture or interaction. Feature windows, smoothing, microphone placement, and the mix all influence the result.
 
 
 A practical rule follows: collect human annotations without showing a spectrogram first. Then inspect acoustic features around the reported moments and compare them with equally sized unmarked windows. If a feature seems to distinguish reported boundaries, repeat with another take and listeners. Do not retroactively select whichever feature happens to fit one compelling story.
@@ -209,7 +209,7 @@ These findings are supported by behavioral experiments and neuroimaging/EEG stud
 The 2026 pulsed/unpulsed study used a diverse set of 26 short excerpts and an instructed tapping task; genre and density were not independently controlled across all comparisons. The 2026 phrase study used Bach-derived MIDI melodies with explicit musical boundary cues and a separate boundary-marking task; group-level accuracy coexisted with modest inter-listener agreement. The 2024 and 2022 neuroimaging studies used musical materials and analysis methods different from KLAAT. The 2007 symphonic study involved unusually salient movement boundaries.
 
 
-Therefore, neither the size of an effect nor the best acoustic predictor can be imported directly into a spontaneous Amastacia–Ankora recording. The definition of a boundary, whether it is marked online or recalled later, listener familiarity, device, room, movement, and listening task can all change the result.
+Therefore, neither the size of an effect nor the best acoustic predictor can be imported directly into a spontaneous the didgeridoo–the drum recording. The definition of a boundary, whether it is marked online or recalled later, listener familiarity, device, room, movement, and listening task can all change the result.
 
 
 15. EVIDENCE CLASSIFICATION — PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
@@ -218,10 +218,10 @@ Therefore, neither the size of an effect nor the best acoustic predictor can be 
 H1: Listeners may identify some shared episode boundaries in authentic KLAAT recordings despite the absence of a score or regular section lengths.
 
 
-H2: In Amastacia-dominant passages, listeners may report relatively long perceptual episodes despite continuous acoustic microvariation.
+H2: In the didgeridoo-dominant passages, listeners may report relatively long perceptual episodes despite continuous acoustic microvariation.
 
 
-H3: Ankora's changing density may alter the number of perceived boundaries, but the relation may not be linear: dense attacks could be grouped into one larger rhythmic movement.
+H3: the drum's changing density may alter the number of perceived boundaries, but the relation may not be linear: dense attacks could be grouped into one larger rhythmic movement.
 
 
 H4: Relational changes between drone and pulse may predict some perceived boundaries better than loudness or onset counts alone.
@@ -245,7 +245,7 @@ These ideas are artistically fertile, but there is no evidence yet that KLAAT's 
 17. EVIDENCE CLASSIFICATION — UNSUPPORTED CLAIMS
 
 
-Do not claim that every Amastacia overtone change is a new perceptual event, that every Ankora attack is a remembered landmark, or that a spectrogram can objectively identify KLAAT's artistic chapters. Do not equate inter-listener agreement with musical quality or low agreement with failure. Do not claim that EEG power changes at phrase boundaries demonstrate theta entrainment, altered consciousness, autonomic regulation, healing, or transmission of Paul's trance-like state. Do not assign unique effects to C#, approximately 137 BPM, or the four-phase vocabulary. No KLAAT-specific neural or physiological listener effect has yet been established.
+Do not claim that every the didgeridoo overtone change is a new perceptual event, that every the drum attack is a remembered landmark, or that a spectrogram can objectively identify KLAAT's artistic chapters. Do not equate inter-listener agreement with musical quality or low agreement with failure. Do not claim that EEG power changes at phrase boundaries demonstrate theta entrainment, altered consciousness, autonomic regulation, healing, or transmission of Paul's trance-like state. Do not assign unique effects to C#, approximately 137 BPM, or the four-phase vocabulary. No KLAAT-specific neural or physiological listener effect has yet been established.
 
 
 18. METHODOLOGY UPDATE — THE LISTENER-DEFINED CHAPTER GATE
@@ -263,7 +263,7 @@ The strongest research direction now is to obtain at least one authentic longer 
 19. ONE OPTIONAL KLAAT OBSERVATION — KRX-087, THE UNWRITTEN MAP
 
 
-Choose one existing, unedited KLAAT take of roughly 8–15 minutes containing Amastacia and Ankora. Invite about six to ten willing listeners who have not heard that exact take. Let them listen normally at comfortable volume, without showing a timeline, section names, waveform, or stated hypothesis. Do not tell them to search for a climax, enter trance, follow a ritual, or synchronize movement.
+Choose one existing, unedited KLAAT take of roughly 8–15 minutes containing the didgeridoo and drum. Invite about six to ten willing listeners who have not heard that exact take. Let them listen normally at comfortable volume, without showing a timeline, section names, waveform, or stated hypothesis. Do not tell them to search for a climax, enter trance, follow a ritual, or synchronize movement.
 
 
 Immediately afterward, ask only: “What parts or moments stayed with you?” Record their words without converting them into our four-phase vocabulary. Ask separately whether the experience felt continuous or divided into distinct parts, and collect independent ratings for absorption, felt energy, and enjoyment. If time perception is of interest, ask the separate passage-of-time and duration questions from Session 86, recording that this was a retrospective question.

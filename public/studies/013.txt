@@ -12,4 +12,4 @@ Established: structure-borne and airborne vibration are distinct transmission pa
 
 
 KLAAT test
-Compare Ankora on a highly rigid surface and on a more resonant or mechanically connected surface. Keep listener distance similar and separately rate audible loudness and vibration through the floor/body.
+Compare the drum on a highly rigid surface and on a more resonant or mechanically connected surface. Keep listener distance similar and separately rate audible loudness and vibration through the floor/body.

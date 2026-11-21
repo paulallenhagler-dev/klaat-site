@@ -1,6 +1,6 @@
 KLAAT RESONANCE RESEARCH — SESSION 95
 THE SAME PERFORMANCE, DIFFERENT EARS
-Auditory access, hearing differences, and why Amastacia's texture and Ankora's pulse may not arrive as one shared experience
+Auditory access, hearing differences, and why the didgeridoo's texture and the drum's pulse may not arrive as one shared experience
 Published: October 17, 2026 — morning CDT (America/Chicago)
 
 
@@ -10,7 +10,7 @@ EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 CENTRAL QUESTION
 
 
-Paul plays Amastacia and Ankora in one room. The drone, pulse, breath, roughness, and small changes in harmonic color belong to one authentic improvisation. Two listeners occupy similar positions and describe quite different worlds: one notices the changing vowel-like surface of Amastacia; the other hears a stable low foundation and prominent Ankora attacks but fewer of the subtler overtones. Both may be genuinely absorbed. Are they attending differently, or are they receiving different usable auditory information even before interpretation begins?
+Paul plays the didgeridoo and drum in one room. The drone, pulse, breath, roughness, and small changes in harmonic color belong to one authentic improvisation. Two listeners occupy similar positions and describe quite different worlds: one notices the changing vowel-like surface of the didgeridoo; the other hears a stable low foundation and prominent the drum attacks but fewer of the subtler overtones. Both may be genuinely absorbed. Are they attending differently, or are they receiving different usable auditory information even before interpretation begins?
 
 
 THE CENTRAL DISTINCTION: A SHARED ACOUSTIC PERFORMANCE DOES NOT GUARANTEE SHARED AUDITORY ACCESS. A LISTENER'S ABILITY TO HEAR, RESOLVE, SEGREGATE, AND USE THE SOUND IS A DISTINCT LINK BETWEEN MEASURED PRESSURE AND REPORTED EXPERIENCE.
@@ -31,13 +31,13 @@ The novel problem is therefore not another microphone, speaker, or room error. I
 1. WHAT AN AUDIOGRAM DOES — AND DOES NOT — TELL US
 
 
-A conventional audiogram estimates the quietest pure tones a listener can detect at specified frequencies under standardized conditions. Thresholds are expressed in dB hearing level (dB HL), a clinical reference scale; they are not equivalent to the sound-pressure level of Amastacia in a venue. Audiograms can reveal frequency-specific reduced audibility. They do not, by themselves, tell us how well a person can identify overlapping instruments, follow rhythm, enjoy music, or enter a personally meaningful listening state.
+A conventional audiogram estimates the quietest pure tones a listener can detect at specified frequencies under standardized conditions. Thresholds are expressed in dB hearing level (dB HL), a clinical reference scale; they are not equivalent to the sound-pressure level of the didgeridoo in a venue. Audiograms can reveal frequency-specific reduced audibility. They do not, by themselves, tell us how well a person can identify overlapping instruments, follow rhythm, enjoy music, or enter a personally meaningful listening state.
 
 
 A longitudinal primary study by Brant and Fozard (1990) followed 813 adult men in the Baltimore Longitudinal Study of Aging, using repeated audiograms across ages 20–95 and 11 test frequencies from 125 Hz to 8 kHz [1]. Their data documented frequency- and age-dependent changes, with pronounced high-frequency threshold changes in older participants. This is strong evidence that auditory access can vary systematically with hearing history, but it is NOT a universal age-to-hearing conversion: the sample consisted of men in a particular cohort, with considerable variation and observational limitations. The exact dB shifts in that study cannot be assigned to a particular KLAAT listener by knowing their age.
 
 
-A practical KLAAT inference follows. If an Amastacia recording contains a low drone fundamental and many upper harmonics, one listener may detect the fundamental and some harmonics but have reduced access to a subset of high-frequency articulation/noise cues. Another may have different frequency-dependent sensitivity. Even with identical calibrated playback at the ear, the listeners need not receive the same perceptually available texture. That is a hypothesis about this music, not a measured result from Paul’s recording.
+A practical KLAAT inference follows. If an the didgeridoo recording contains a low drone fundamental and many upper harmonics, one listener may detect the fundamental and some harmonics but have reduced access to a subset of high-frequency articulation/noise cues. Another may have different frequency-dependent sensitivity. Even with identical calibrated playback at the ear, the listeners need not receive the same perceptually available texture. That is a hypothesis about this music, not a measured result from Paul’s recording.
 
 
 2. AUDIBILITY IS NOT THE WHOLE STORY
@@ -46,7 +46,7 @@ A practical KLAAT inference follows. If an Amastacia recording contains a low dr
 The most revealing contradiction comes from a study of listeners whose basic pure-tone thresholds were already closely matched. Füllgrabe, Moore and Stone (2015) compared 21 older listeners aged 60–79 with nine younger listeners aged 18–27; all older participants had thresholds of 20 dB HL or better from 125 Hz through 6 kHz, and the groups were matched on mean audiograms, education and performance IQ [2]. Despite that, older listeners performed worse on the tested speech-identification tasks in quiet and noise. They also showed lower sensitivity on measures of temporal envelope and temporal fine structure. Importantly, the groups did NOT differ on every mechanism: modulation-masking release and spatial-masking release were not significantly affected by age in that experiment.
 
 
-Temporal envelope means how sound amplitude changes over time. Temporal fine structure refers to faster oscillatory information within the waveform. These are different from the metrical beat, even though all concern time. In a sustained didgeridoo, amplitude articulation and the relationships among harmonics can change while the named C# tonal center remains stable. Ankora introduces transients and patterns that can be easier to mark as discrete events. Auditory processing may affect the relative clarity of these cues without the listener necessarily losing the music's overall pulse or feeling.
+Temporal envelope means how sound amplitude changes over time. Temporal fine structure refers to faster oscillatory information within the waveform. These are different from the metrical beat, even though all concern time. In a sustained didgeridoo, amplitude articulation and the relationships among harmonics can change while the named C# tonal center remains stable. The drum introduces transients and patterns that can be easier to mark as discrete events. Auditory processing may affect the relative clarity of these cues without the listener necessarily losing the music's overall pulse or feeling.
 
 
 But the Füllgrabe study tested speech and psychoacoustic tasks, not KLAAT, didgeridoo timbre, or trance. Its important result is the dissociation: NORMAL-LOOKING THRESHOLDS DO NOT GUARANTEE IDENTICAL SUPRA-THRESHOLD PROCESSING. We cannot import its speech deficits as predicted KLAAT effect sizes. We can use it to stop pretending that 'same speaker, same room, same volume' equals identical perceptual access.
@@ -58,7 +58,7 @@ But the Füllgrabe study tested speech and psychoacoustic tasks, not KLAAT, didg
 Arehart, Croghan and Muralimanohar (2014) tested melody and instrument-timbre recognition in younger and older listeners under five processing conditions, including unprocessed sounds and simulations of cochlear-implant and electro-acoustic hearing [3]. Timbre recognition was strongest in the unprocessed condition and worsened with some degraded processing conditions; older listeners showed poorer timbre recognition across conditions. The low-frequency acoustic component helped melody recognition in their simulated electro-acoustic condition, while the use of high-frequency processed cues for timbre differed by group.
 
 
-This is relevant because KLAAT's identity is not merely 'a low note and a drum.' Amastacia's recognizable world is carried by upper spectral shaping, breath noise, attack changes, and dynamic texture. Ankora's identity depends on attack/decay and the membrane's complex sound. The study makes it plausible that a listener may preserve an overall tonal or rhythmic identity while losing some instrument-color discrimination.
+This is relevant because KLAAT's identity is not merely 'a low note and a drum.' the didgeridoo's recognizable world is carried by upper spectral shaping, breath noise, attack changes, and dynamic texture. The drum's identity depends on attack/decay and the membrane's complex sound. The study makes it plausible that a listener may preserve an overall tonal or rhythmic identity while losing some instrument-color discrimination.
 
 
 The limits matter. The authors used clinical music-perception tasks and simulations of hearing technology, not long, improvised KLAAT. The finding does not say older listeners necessarily hear less KLAAT, have weaker emotional experiences, or should be excluded from a listener pilot. Timbre recognition is a task performance measure; immersion is a subjective outcome. One can vary without the other.
@@ -70,10 +70,10 @@ The limits matter. The authors used clinical music-perception tasks and simulati
 A particularly valuable 2025 primary experiment challenges the simple assumption that better extraction of musical detail always feels better. Hake and colleagues studied 33 hearing-aid users with moderate-to-severe hearing loss under three conditions: unaided, aided with fast dynamic-range compression (DRC), and aided with slow DRC [4]. Participants completed musical-scene-analysis tasks and rated recorded-music sound quality. In the study's adaptive scene-analysis scale, mean performance was approximately -0.68 unaided, -0.17 with fast DRC, and -0.50 with slow DRC. In contrast, mean overall music-quality ratings favored slow DRC (about 7.0) over fast DRC (about 6.22) and unaided listening (about 5.6). The numbers are specific to this study's scales, stimuli, fittings and participants; they are not dB improvements or KLAAT predictions.
 
 
-This is a productive contradiction: faster compression improved the ability to detect target instruments in a musical mixture, while slower compression was preferred for holistic sound quality. Hearing aids improved average performance relative to unaided listening, but individual responses varied considerably; the authors reported that roughly one in four listeners sometimes did better or preferred unaided listening on the relevant tasks. The study also has constraints: its stimuli included multi-instrument recordings rather than Amastacia and Ankora, and the task/condition order was not perfectly balanced despite analysis of order effects.
+This is a productive contradiction: faster compression improved the ability to detect target instruments in a musical mixture, while slower compression was preferred for holistic sound quality. Hearing aids improved average performance relative to unaided listening, but individual responses varied considerably; the authors reported that roughly one in four listeners sometimes did better or preferred unaided listening on the relevant tasks. The study also has constraints: its stimuli included multi-instrument recordings rather than the didgeridoo and drum, and the task/condition order was not perfectly balanced despite analysis of order effects.
 
 
-For KLAAT, imagine two possible responses to the same recording. A listener with a particular aid program may more easily pick out quiet Ankora attacks or Amastacia details, yet prefer the less aggressively processed sound as a continuous world. Another listener may value the added clarity. Neither preference proves a stronger physiological effect. 'Can identify more sources' and 'likes the sound more' are different endpoints. This is especially important because KLAAT aims to function as an energizing everyday soundtrack as well as focused immersion: different listening goals may value different features of the received sound.
+For KLAAT, imagine two possible responses to the same recording. A listener with a particular aid program may more easily pick out quiet the drum attacks or the didgeridoo details, yet prefer the less aggressively processed sound as a continuous world. Another listener may value the added clarity. Neither preference proves a stronger physiological effect. 'Can identify more sources' and 'likes the sound more' are different endpoints. This is especially important because KLAAT aims to function as an energizing everyday soundtrack as well as focused immersion: different listening goals may value different features of the received sound.
 
 
 A 2014 survey by Madsen and Moore of 523 hearing-aid users adds useful ecological context: many respondents reported that hearing aids helped with live or recorded music, but also described distortion, feedback, excessive or insufficient gain, and altered tonal quality [5]. This is self-selected survey evidence, not a randomized demonstration of which setting is optimal. It warns against treating all hearing-aid users or programs as one category.
@@ -82,10 +82,10 @@ A 2014 survey by Madsen and Moore of 523 hearing-aid users adds useful ecologica
 5. RHYTHM IS NOT A SAFE SUBSTITUTE FOR AUDITORY ACCESS
 
 
-A different 2024/2025 study by Lo and colleagues examined 42 hearing-aid users aged 57–90 with moderate-to-moderately severe symmetrical hearing loss [6]. In that sample, on-beat rhythm accuracy, pitch perception, and working memory were positively associated with speech-in-noise performance. This is a correlational finding. It does not mean KLAAT improves speech perception, that a clear Ankora pulse is therapeutically beneficial, or that people with hearing differences cannot synchronize to music.
+A different 2024/2025 study by Lo and colleagues examined 42 hearing-aid users aged 57–90 with moderate-to-moderately severe symmetrical hearing loss [6]. In that sample, on-beat rhythm accuracy, pitch perception, and working memory were positively associated with speech-in-noise performance. This is a correlational finding. It does not mean KLAAT improves speech perception, that a clear the drum pulse is therapeutically beneficial, or that people with hearing differences cannot synchronize to music.
 
 
-The more careful inference is that musical rhythm abilities and auditory/cognitive variables can covary within hearing-impaired samples. If one KLAAT listener reports weak pulse clarity, we should not jump directly to 'Ankora wasn't rhythmically clear' or 'this person failed to entrain.' Playback, audibility, temporal processing, familiarity, task demands and preference remain alternatives. The listener may also report strong movement or activation despite difficulty explicitly counting or identifying strikes. These must be measured separately.
+The more careful inference is that musical rhythm abilities and auditory/cognitive variables can covary within hearing-impaired samples. If one KLAAT listener reports weak pulse clarity, we should not jump directly to 'the drum wasn't rhythmically clear' or 'this person failed to entrain.' Playback, audibility, temporal processing, familiarity, task demands and preference remain alternatives. The listener may also report strong movement or activation despite difficulty explicitly counting or identifying strikes. These must be measured separately.
 
 
 6. A THREE-LEVEL AUDITORY-ACCESS MODEL
@@ -118,10 +118,10 @@ The main error this model prevents is to treat a lower timbre-clarity score as a
 The KLAAT hypothesis is unusually interesting because the music is sparse but its two instruments supply different types of information.
 
 
-AMASTACIA: A sustained low tonal anchor may remain recognizable when some higher harmonics are attenuated; however, breath articulation, vocal-tract-like vowel motion, roughness and the sense of a living acoustic surface may change. This connects to Session 93's missing-fundamental issue, but now the limitation may be listener-specific rather than speaker-specific.
+DIDGERIDOO: A sustained low tonal anchor may remain recognizable when some higher harmonics are attenuated; however, breath articulation, vocal-tract-like vowel motion, roughness and the sense of a living acoustic surface may change. This connects to Session 93's missing-fundamental issue, but now the limitation may be listener-specific rather than speaker-specific.
 
 
-ANKORA: Distinct attacks and decay can provide a temporal scaffold, but attack audibility and source segregation are not equivalent to metrical comprehension or the urge to move. A person can feel a stable groove without naming subdivisions. Another can count attacks without experiencing absorption.
+DRUM: Distinct attacks and decay can provide a temporal scaffold, but attack audibility and source segregation are not equivalent to metrical comprehension or the urge to move. A person can feel a stable groove without naming subdivisions. Another can count attacks without experiencing absorption.
 
 
 THE INTERACTION: A listener may experience two distinct streams; another may hear a more blended texture; a third may attend mainly to the pulse. The same improvisation can support these different experiences. There is no evidence that one of them is KLAAT's single correct psychological state.
@@ -192,8 +192,8 @@ CONTEXT-DEPENDENT
 
 
 PLAUSIBLE / KLAAT-TESTABLE
-- Some listeners may preserve Amastacia's pitch identity while differing in access to her harmonic/breath texture.
-- Ankora pulse clarity, musical enjoyment, and felt energy may diverge within the same listener or across listeners.
+- Some listeners may preserve the didgeridoo's pitch identity while differing in access to her harmonic/breath texture.
+- the drum pulse clarity, musical enjoyment, and felt energy may diverge within the same listener or across listeners.
 - Hearing-device processing may alter source segregation and preference differently during authentic KLAAT.
 - Auditory-access context may explain some listener disagreements even when the same file and speaker are used.
 
@@ -227,7 +227,7 @@ KLS-001 implication: preserve anonymous optional receiver context without requir
 13. KRX-095 — ONE OPTIONAL, LOW-PRESSURE LISTENING OBSERVATION
 
 
-If Paul happens to play one existing KLAAT recording for two willing people, keep the file, comfortable playback level, and listening setup the same. Ask each, separately and without prompting: 'What stood out to you?' Only afterward, if they want, ask whether Amastacia's changing texture, Ankora's pulse, or the overall feeling was most noticeable. Record their own words; do not ask about age, medical history, hearing diagnoses, or a predicted 'correct' effect. A disagreement is an observation, not a failure. It cannot identify the cause of the difference, and no performance adjustment follows automatically.
+If Paul happens to play one existing KLAAT recording for two willing people, keep the file, comfortable playback level, and listening setup the same. Ask each, separately and without prompting: 'What stood out to you?' Only afterward, if they want, ask whether the didgeridoo's changing texture, the drum's pulse, or the overall feeling was most noticeable. Record their own words; do not ask about age, medical history, hearing diagnoses, or a predicted 'correct' effect. A disagreement is an observation, not a failure. It cannot identify the cause of the difference, and no performance adjustment follows automatically.
 
 
 DECISIVE QUESTION

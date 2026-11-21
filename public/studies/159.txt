@@ -3,14 +3,14 @@ November 8, 2026 | 15:11 CST
 
 
 THE GROOVE THAT CHANGES WHEN YOU LISTEN FOR THE DRONE
-Selective attention, auditory scene organization, and the perceived relationship between Amastacia and Ankora
+Selective attention, auditory scene organization, and the perceived relationship between the didgeridoo and drum
 
 
 Guiding principle: Experience-led creation. Science-informed refinement.
 
 
 RESEARCH QUESTION
-An unchanged improvised performance contains Amastacia's C# drone, breath articulations, changing harmonics, and Ankora's overlapping impacts and decays. Can a listener experience a different rhythmic foreground simply by attending to the drone rather than the drum? If so, does this provide a more precise explanation of why the same KLAAT take might invite absorbed stillness for one listener and active movement for another, without requiring a change in the recorded sound?
+An unchanged improvised performance contains the didgeridoo's C# drone, breath articulations, changing harmonics, and the drum's overlapping impacts and decays. Can a listener experience a different rhythmic foreground simply by attending to the drone rather than the drum? If so, does this provide a more precise explanation of why the same KLAAT take might invite absorbed stillness for one listener and active movement for another, without requiring a change in the recorded sound?
 
 
 NOVELTY GATE AND ARCHIVE CONTEXT
@@ -31,14 +31,14 @@ No study cited here measures KLAAT-specific absorption, autonomic changes, neura
 
 
 2. WHAT THE ACTUAL INSTRUMENTS MAKE POSSIBLE
-Amastacia is not merely a single sine tone: its C#-centered drone carries harmonics, breath articulation, turbulence and timbral variation. Ankora is not a perfect impulse train: elk-hide strikes include onset noise, membrane resonances, decay and sometimes near-overlapping events. These properties may provide distinct perceptual cues for grouping. Ankora's abrupt attacks are likely to be salient, but Amastacia's continuous sound can furnish an enduring perceptual anchor. Whether a listener perceives one integrated texture or two differentiated sources will depend on recording quality, room acoustics, playback, musical passage, and prior listening experience.
+The didgeridoo is not merely a single sine tone: its C#-centered drone carries harmonics, breath articulation, turbulence and timbral variation. The drum is not a perfect impulse train: drumhead material strikes include onset noise, membrane resonances, decay and sometimes near-overlapping events. These properties may provide distinct perceptual cues for grouping. The drum's abrupt attacks are likely to be salient, but the didgeridoo's continuous sound can furnish an enduring perceptual anchor. Whether a listener perceives one integrated texture or two differentiated sources will depend on recording quality, room acoustics, playback, musical passage, and prior listening experience.
 
 
 A single 60-second excerpt can support several truthful descriptions: 'the drum drives the movement,' 'the drone carries the tension,' or 'the two instruments move as one.' Such reports are not necessarily contradictions. They might describe different attentional selections or different perceptual organizations of an unchanged mixture.
 
 
 3. QUANTITATIVE CLARIFICATION: ATTENTION DOES NOT ALTER THE WAVEFORM
-Let x(t) = a(t) + d(t) + n(t), where a is Amastacia's microphone contribution, d is Ankora's, and n includes room and recording noise. This additive representation is an engineering approximation, not a perfect physical decomposition of interacting sources. Replaying the same digital file under matched playback conditions keeps x(t) fixed. An attentional instruction may change the listener's report R, so R = F(x, attention, listener, context), but that does not imply the source energies changed.
+Let x(t) = a(t) + d(t) + n(t), where a is the didgeridoo's microphone contribution, d is the drum's, and n includes room and recording noise. This additive representation is an engineering approximation, not a perfect physical decomposition of interacting sources. Replaying the same digital file under matched playback conditions keeps x(t) fixed. An attentional instruction may change the listener's report R, so R = F(x, attention, listener, context), but that does not imply the source energies changed.
 
 
 For an illustrative response-scale example (NOT KLAAT DATA), a person might rate 'urge to move' 7/10 after attending to drum attacks and 4/10 after attending to the drone. The difference is 3 scale points. It is a hypothetical contrast, not an effect size or a prediction. Even a real difference would not identify a neural mechanism without additional measurements and controls.
@@ -54,7 +54,7 @@ If tested, counterbalance instruction order across listeners; avoid telling part
 5. EVIDENCE LADDER
 ESTABLISHED: auditory perception organizes mixtures; selective attention can alter the processing and report of competing auditory information in controlled experiments; identical digital playback need not produce identical subjective reports.
 CONTEXT-DEPENDENT: attention influences perceptual streaming for some stimuli and tasks; its direction and size depend on stimulus construction, instructions, listening history, and individual differences.
-PLAUSIBLE AND TESTABLE FOR KLAAT: attention to Amastacia versus Ankora could shift perceived pulse prominence, absorption, bodily activation, or urge to move in a particular recorded passage.
+PLAUSIBLE AND TESTABLE FOR KLAAT: attention to the didgeridoo versus the drum could shift perceived pulse prominence, absorption, bodily activation, or urge to move in a particular recorded passage.
 SPECULATIVE: switching auditory foreground could help explain the transition between KLAAT as an immersive ritual and KLAAT as an energizing daily soundtrack.
 UNSUPPORTED: that KLAAT has already caused neural entrainment, a reproducible trance state, therapeutic benefit, or a special C#-specific physiological response; that directing attention reliably intensifies any of these outcomes.
 
@@ -64,11 +64,11 @@ The sound is not obliged to choose one function. An improvisation can preserve t
 
 
 7. UNRESOLVED QUESTIONS
-Does attention instruction change reported pulse more than reported timbral richness? Are effects stronger in recordings where Ankora's attacks are clearly audible than in dense, noisy passages? Do listeners naturally alternate foreground without instruction? Does playback on a bass-capable system make the drone harder to ignore? Can a listener's free-form language reveal auditory organization better than a single 'trance' rating? Are shifts stable within the same person or dominated by order and familiarity? Each question is open for KLAAT-specific testing.
+Does attention instruction change reported pulse more than reported timbral richness? Are effects stronger in recordings where the drum's attacks are clearly audible than in dense, noisy passages? Do listeners naturally alternate foreground without instruction? Does playback on a bass-capable system make the drone harder to ignore? Can a listener's free-form language reveal auditory organization better than a single 'trance' rating? Are shifts stable within the same person or dominated by order and familiarity? Each question is open for KLAAT-specific testing.
 
 
 8. OPTIONAL LOW-PRESSURE OBSERVATION
-Choose one existing, unedited 60–90-second KLAAT recording. Invite two or three people to listen once without guidance and simply describe what carried their attention: Amastacia, Ankora, or their combined texture. Ask separately whether they felt still, activated, moved to tap, or something else. Keep their words and playback conditions. Do not coach a desired effect, change the music, or interpret the responses as proof of trance. If the descriptions diverge, that divergence is a useful observation, not a problem to fix.
+Choose one existing, unedited 60–90-second KLAAT recording. Invite two or three people to listen once without guidance and simply describe what carried their attention: the didgeridoo, the drum, or their combined texture. Ask separately whether they felt still, activated, moved to tap, or something else. Keep their words and playback conditions. Do not coach a desired effect, change the music, or interpret the responses as proof of trance. If the descriptions diverge, that divergence is a useful observation, not a problem to fix.
 
 
 REFERENCES AND SOURCE STATUS
@@ -79,5 +79,5 @@ These bibliographic references are research anchors; no numerical effect size fr
 
 
 CURATION SUMMARY
-Index: Session 159 — selective attention and auditory scene organization of simultaneous Amastacia drone and Ankora pulse; distinguishes attentional foreground from acoustic source changes and from repeated-exposure effects.
+Index: Session 159 — selective attention and auditory scene organization of simultaneous the didgeridoo drone and the drum pulse; distinguishes attentional foreground from acoustic source changes and from repeated-exposure effects.
 Ledger: Hypothesis KLS-ATTN-159 — matched-audio, counterbalanced instruction conditions might change perceived pulse, absorption and activation; competing explanations include expectation, demand, familiarity, and playback. Status: untested in KLAAT; preserve free-listening baseline and verbatim reports.

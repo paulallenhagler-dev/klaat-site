@@ -8,7 +8,7 @@ GUIDING PRINCIPLE: Experience-led creation. Science-informed refinement.
 
 
 RESEARCH QUESTION
-When a musician uses earplugs while articulating a didgeridoo, does a fit measured at rest necessarily describe attenuation throughout a spontaneous performance? This is a question about hearing protection and measurement validity, not a suggestion to alter Amastacia's sound or Paul's technique.
+When a musician uses earplugs while articulating a didgeridoo, does a fit measured at rest necessarily describe attenuation throughout a spontaneous performance? This is a question about hearing protection and measurement validity, not a suggestion to alter the didgeridoo's sound or Paul's technique.
 
 
 WHY THIS QUESTION NOW; NOVELTY GATE
@@ -19,7 +19,7 @@ The most recent published study, Session 160, concerned stereo-to-mono bass canc
 An earplug reduces some of the external sound transmitted through the ear canal. The achieved reduction depends on device design, insertion, individual ear geometry, frequency and fit. A small acoustic leak can matter, particularly when a device relies on a seal; however, its actual effect must be measured, not assumed. The ear canal and surrounding soft tissue can change shape during jaw movement. Whether those changes shift a particular plug enough to change its attenuation is an empirical question.
 
 
-Amastacia demands ongoing mouth, jaw, lip and breathing coordination. That makes an active-playing condition more relevant than a photograph of an inserted plug or a single fit check taken while still. It does not mean Amastacia is unusually hazardous, that Paul's plugs leak, or that jaw motion always changes fit. Ankora adds short impulsive acoustic events; the appropriate hearing-risk assessment must consider actual exposure over time and peaks, not merely the impression of a loud drum.
+The didgeridoo demands ongoing mouth, jaw, lip and breathing coordination. That makes an active-playing condition more relevant than a photograph of an inserted plug or a single fit check taken while still. It does not mean the didgeridoo is unusually hazardous, that Paul's plugs leak, or that jaw motion always changes fit. The drum adds short impulsive acoustic events; the appropriate hearing-risk assessment must consider actual exposure over time and peaks, not merely the impression of a loud drum.
 
 
 2. THREE DIFFERENT PHENOMENA NOT TO CONFUSE
@@ -32,7 +32,7 @@ A listener's subjective report that the didgeridoo sounds 'more inside the head'
 
 
 3. ESTABLISHED EVIDENCE AND ITS LIMITS
-Published musician-specific work by Crawford and colleagues (2023; International Journal of Audiology, 62, 238–244; DOI 10.1080/14992027.2022.2035831) evaluated hearing-protector effectiveness in musicians. The earlier KLAAT research note reports 24 musicians and measurements spanning 125–8,000 Hz, with substantial individual variability. This supports the need to verify personal protection rather than treating a package attenuation figure as a guaranteed result. It does NOT directly quantify how Amastacia jaw motion changes attenuation.
+Published musician-specific work by Crawford and colleagues (2023; International Journal of Audiology, 62, 238–244; DOI 10.1080/14992027.2022.2035831) evaluated hearing-protector effectiveness in musicians. The earlier KLAAT research note reports 24 musicians and measurements spanning 125–8,000 Hz, with substantial individual variability. This supports the need to verify personal protection rather than treating a package attenuation figure as a guaranteed result. It does NOT directly quantify how the didgeridoo jaw motion changes attenuation.
 
 
 Research on the auditory occlusion effect, including Lee and Casali (2011; DOI 10.1177/1071181311551370), addresses changes to self-generated sound with ear-canal obstruction. Occlusion findings must not be repackaged as measurements of leakage or hearing protection. The two source leads above were inherited from the verified hourly research note; their detailed methods and numerical results were not independently re-extracted for this session. No direct controlled didgeridoo-specific dynamic earplug study was verified.
@@ -40,9 +40,9 @@ Research on the auditory occlusion effect, including Lee and Casali (2011; DOI 1
 
 ESTABLISHED: individual protector fit matters; internal occlusion and external attenuation differ; an at-rest observation does not logically establish stability under an untested movement condition.
 CONTEXT-DEPENDENT: jaw movement may affect canal geometry and plug position; measurable attenuation changes depend on person, device, insertion and movement.
-PLAUSIBLE, TESTABLE: one plug could temporarily lose attenuation during particular Amastacia articulations and reseat afterward, leaving identical before/after static tests.
+PLAUSIBLE, TESTABLE: one plug could temporarily lose attenuation during particular the didgeridoo articulations and reseat afterward, leaving identical before/after static tests.
 SPECULATIVE: such transient changes could alter a player's monitoring or acoustic exposure in a way that affects improvisational choices. There is no KLAAT evidence of this.
-UNSUPPORTED: Amastacia necessarily dislodges earplugs; a strong internal drone sensation means hearing damage; a specific protector type is universally best; KLAAT has demonstrated trance or neurological entrainment.
+UNSUPPORTED: the didgeridoo necessarily dislodges earplugs; a strong internal drone sensation means hearing damage; a specific protector type is universally best; KLAAT has demonstrated trance or neurological entrainment.
 
 
 4. THE TIME-RESOLUTION PROBLEM
@@ -56,7 +56,7 @@ More temporally resolved measurement might use a professionally managed probe-mi
 
 
 5. WHAT A USEFUL KLAAT TEST WOULD ACTUALLY COMPARE
-The scientific question is not 'Does playing feel different with earplugs?' but 'Does measured protection remain stable during representative movement?' A careful professional protocol would hold the protector model, ear, insertion method and measurement system constant; document baseline fit; have the player perform natural, low-level jaw and lip movements and, if appropriate, a short authentic Amastacia passage at a safe level; then repeat the fit measurement. Multiple trials and both ears would help distinguish systematic changes from ordinary test noise. A recording of the movement timing, without imposing a musical score, could help identify the relevant articulation.
+The scientific question is not 'Does playing feel different with earplugs?' but 'Does measured protection remain stable during representative movement?' A careful professional protocol would hold the protector model, ear, insertion method and measurement system constant; document baseline fit; have the player perform natural, low-level jaw and lip movements and, if appropriate, a short authentic the didgeridoo passage at a safe level; then repeat the fit measurement. Multiple trials and both ears would help distinguish systematic changes from ordinary test noise. A recording of the movement timing, without imposing a musical score, could help identify the relevant articulation.
 
 
 Even this design cannot establish continuous protection if the equipment measures only before and after. A different test design is required for that stronger claim. If a protector repeatedly loses fit, a qualified audiologist can assess sizing, insertion, alternative styles and actual exposure. Hearing protection should never be deliberately loosened or removed during potentially hazardous playing to generate a comparison.
@@ -74,7 +74,7 @@ Can controlled research directly quantify external attenuation changes during ja
 
 
 OPTIONAL OBSERVATION
-At the next routine hearing-protection consultation, ask whether the provider can check fit both at rest and after a short sequence of your ordinary Amastacia mouth movements. Note the protector model and whether the same ear was tested. No need to change a single note of KLAAT.
+At the next routine hearing-protection consultation, ask whether the provider can check fit both at rest and after a short sequence of your ordinary the didgeridoo mouth movements. Note the protector model and whether the same ear was tested. No need to change a single note of KLAAT.
 
 
 SOURCE AND PROVENANCE NOTES

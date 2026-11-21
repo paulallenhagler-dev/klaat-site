@@ -7,13 +7,13 @@ Published: 2026-10-19, 08:31 CDT
 GUIDING PRINCIPLE: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 
 
-RESEARCH STATUS: Literature-informed technical and perceptual analysis. No direct measurements of Amastacia or controlled KLAAT listener outcomes are claimed.
+RESEARCH STATUS: Literature-informed technical and perceptual analysis. No direct measurements of the didgeridoo or controlled KLAAT listener outcomes are claimed.
 
 
 OPENING QUESTION
 
 
-When Paul plays Amastacia, the sound is not simply the result of an instrument vibrating. It is the product of a changing human air system, a vibrating lip valve, a resonant agave bore, and a performer who is also attending to Ankora's pulse. Circular breathing lets a wind player sustain a tone while taking in fresh air. But what actually changes inside the mouth during the instant when the source of outward air pressure transfers from lungs to cheeks and back again? Can the sound remain perceptually continuous even if the mechanics—and the timbre—change briefly?
+When Paul plays the didgeridoo, the sound is not simply the result of an instrument vibrating. It is the product of a changing human air system, a vibrating lip valve, a resonant agave bore, and a performer who is also attending to the drum's pulse. Circular breathing lets a wind player sustain a tone while taking in fresh air. But what actually changes inside the mouth during the instant when the source of outward air pressure transfers from lungs to cheeks and back again? Can the sound remain perceptually continuous even if the mechanics—and the timbre—change briefly?
 
 
 This session treats circular breathing as a technical freedom rather than an obligation to play uninterrupted. The purpose is not to remove the breath from KLAAT, conceal every transition, prescribe a tempo, or impose a score. The purpose is to make the changeover more available to Paul when his spontaneous performance calls for it, and to understand what a recording could reveal about the sound already emerging.
@@ -31,7 +31,7 @@ Circular breathing is not literally simultaneous inhalation and exhalation throu
 Earlier KLAAT sessions have investigated auditory restoration across a masked interruption (Session 83), adaptation and habituation during repeated exposure (Session 84), differences among listeners (Session 95), how microphones change the recorded sound (Session 94), and the distinction between performance, physical delivery, and bodily experience (Sessions 98–99). None of those questions is the same as the performer's *internal pneumatic handoff* during circular breathing. Session 83 asked whether the auditory system can perceptually bridge an interruption. Session 101 asks how an actual uninterrupted or nearly uninterrupted drone is produced and what physical signatures its breath transitions might leave. The issue is simultaneously one of anatomical coordination, acoustic filtering, motor learning, and artistic agency.
 
 
-The October 19 hourly notes concentrated on within-listener repeatability, wrist optical pulse artifacts, and active noise-cancellation playback state. Other recent notes covered jaw load, hearing-aid processing, free-response coding, and Ankora membrane pitch glides. This session does not repeat those topics. Its novelty is the two-pump changeover and its direct relation to Paul's wish for greater fluency on Amastacia while coordinating Ankora.
+The October 19 hourly notes concentrated on within-listener repeatability, wrist optical pulse artifacts, and active noise-cancellation playback state. Other recent notes covered jaw load, hearing-aid processing, free-response coding, and the drum membrane pitch glides. This session does not repeat those topics. Its novelty is the two-pump changeover and its direct relation to Paul's wish for greater fluency on the didgeridoo while coordinating the drum.
 
 
 2. TWO PUMPS, NOT AN ENDLESS LUNG
@@ -63,7 +63,7 @@ Peng, Phillips, Dyke and Stewart (2015, published online 2014) used cine magneti
 All eight performers showed a broadly similar ordered sequence involving movement of the tongue and soft palate and a period of posterior oropharyngeal occlusion. Relative occlusion time was significantly longer in the two experienced amateurs than in the six professionals (reported P = .01). Absolute occlusion time showed a trend rather than a conventionally significant result (P = .08). A comparison of cycle times across instrument groups was not significant (reported P = .2), and the apparent trumpet-group difference changed when the amateurs were removed.
 
 
-This is unusually direct anatomical evidence, but its limits are just as important. Eight people are too few to define a universal ideal. The two-amateur comparison is especially fragile; professional status is confounded with instrument, individual anatomy, training history and small sample size. Playing supine inside an MRI scanner is not playing a C# agave didgeridoo while striking an elk-hide drum. The imaging identifies a plausible mechanism and coordination sequence. It does not establish that a shorter closure is always better, that Paul should imitate one anatomy, or that any specific technique produces trance.
+This is unusually direct anatomical evidence, but its limits are just as important. Eight people are too few to define a universal ideal. The two-amateur comparison is especially fragile; professional status is confounded with instrument, individual anatomy, training history and small sample size. Playing supine inside an MRI scanner is not playing a C# agave didgeridoo while striking an drum. The imaging identifies a plausible mechanism and coordination sequence. It does not establish that a shorter closure is always better, that Paul should imitate one anatomy, or that any specific technique produces trance.
 
 
 A separate conference MRI demonstration by Wiggins and Storey (2010) visualized circular-breathing mechanics during didgeridoo performance, while ultrasound demonstration footage from the Guenther laboratory shows the audible nasal sniff occurring alongside cheek deflation and forward tongue movement. These are valuable convergent observations but not controlled comparisons of KLAAT techniques or listeners. The demonstration should not be inflated into an outcome study.
@@ -78,13 +78,13 @@ A didgeridoo's sound is shaped not only by its bore and vibrating lips, but also
 They found that pronounced spectral features of the output related systematically to impedance features of the tract near the lips. The more detailed 2006 experiment reported that when the tongue approached the hard palate, strong vocal-tract impedance maxima could occur around 1–3 kHz; those maxima tended to suppress corresponding upper-harmonic components, while lower-impedance regions allowed stronger components and formant-like spectral bands. High-speed lip imagery also showed that the lip valve could be closed for approximately half of each oscillation cycle in their recorded conditions, supporting the generation of upper harmonics.
 
 
-These are instrument-and-player-specific acoustic observations, not an instruction to put the tongue at a certain spot or a claim that Amastacia has been measured at 1–3 kHz. They demonstrate an important principle: *the vocal tract is part of the sounding instrument.*
+These are instrument-and-player-specific acoustic observations, not an instruction to put the tongue at a certain spot or a claim that the didgeridoo has been measured at 1–3 kHz. They demonstrate an important principle: *the vocal tract is part of the sounding instrument.*
 
 
-During a circular-breathing changeover, tongue, soft palate, cheeks and pressure supply are all changing. Even if Amastacia's underlying drone continues, its harmonic balance may briefly change. The listener might hear a tiny swell, narrowing of the upper harmonics, a breathy texture, a pressure wobble, a nasal inhalation, or nothing distinguishable at all. Some of these changes could be musically expressive. Others might be unintentional. The acoustic evidence does not rank them artistically.
+During a circular-breathing changeover, tongue, soft palate, cheeks and pressure supply are all changing. Even if the didgeridoo's underlying drone continues, its harmonic balance may briefly change. The listener might hear a tiny swell, narrowing of the upper harmonics, a breathy texture, a pressure wobble, a nasal inhalation, or nothing distinguishable at all. Some of these changes could be musically expressive. Others might be unintentional. The acoustic evidence does not rank them artistically.
 
 
-The instrument's C# identity is not a biological trigger. In equal temperament, C#2 corresponds to about 69.3 Hz, but Amastacia's actual operating frequency and harmonic spectrum should be measured rather than assumed. The important mechanism here is the interaction among airflow, lips, tract and bore, not a mystical effect of the note name.
+The instrument's C# identity is not a biological trigger. In equal temperament, C#2 corresponds to about 69.3 Hz, but the didgeridoo's actual operating frequency and harmonic spectrum should be measured rather than assumed. The important mechanism here is the interaction among airflow, lips, tract and bore, not a mystical effect of the note name.
 
 
 5. FOUR POSSIBLE CHANGEOVER SIGNATURES — AND WHY THEY MUST NOT BE CONFUSED
@@ -111,7 +111,7 @@ A single changeover may exhibit several of these simultaneously. A recording wit
 6. WHAT 'SEAMLESS' SHOULD MEAN — IF IT MEANS ANYTHING
 
 
-There are at least three legitimate artistic outcomes. A breath transition can be acoustically unobtrusive. It can be clearly audible but experienced as part of Amastacia's living breath. Or it can coincide with a spontaneous gesture in Ankora that changes how the transition is heard. None is inherently superior.
+There are at least three legitimate artistic outcomes. A breath transition can be acoustically unobtrusive. It can be clearly audible but experienced as part of the didgeridoo's living breath. Or it can coincide with a spontaneous gesture in the drum that changes how the transition is heard. None is inherently superior.
 
 
 The temptation is to convert research into a perfection rule: hide the breath, eliminate the noise, maintain an absolutely flat tone, and maximize the uninterrupted duration. That would be an unjustified leap. The research establishes the existence of a mechanical handoff and a tract-dependent timbre system; it does not establish that listeners prefer the least variable version. KLAAT's identity depends on breath, organic texture and the sense of a person actively making sound. Removing every sign of physical effort might actually remove information Paul values, but that aesthetic possibility is also not yet a listener-study result.
@@ -120,10 +120,10 @@ The temptation is to convert research into a perfection rule: hide the breath, e
 One genuinely useful technical goal is *choice*. If the handoff becomes reliable, Paul can allow it to disappear when he wants or let its audible trace become part of an improvisation. Technique expands the possible performance, rather than governing it.
 
 
-7. WHY ADDING ANKORA IS A DIFFERENT MOTOR PROBLEM
+7. WHY ADDING DRUM IS A DIFFERENT MOTOR PROBLEM
 
 
-The two-pump transfer already requires coordinated activity of respiratory, tongue, cheek, palatal and lip systems. Simultaneously playing Ankora introduces a separate limb-action system with its own timing, tactile feedback and impact mechanics. The question is not whether the brain can handle two activities in principle; skilled performers routinely coordinate multiple effectors. The question is how much attentional and motor interference occurs for *this performer, at this level of fluency, with these instruments*.
+The two-pump transfer already requires coordinated activity of respiratory, tongue, cheek, palatal and lip systems. Simultaneously playing the drum introduces a separate limb-action system with its own timing, tactile feedback and impact mechanics. The question is not whether the brain can handle two activities in principle; skilled performers routinely coordinate multiple effectors. The question is how much attentional and motor interference occurs for *this performer, at this level of fluency, with these instruments*.
 
 
 Three observations must remain separate:
@@ -137,7 +137,7 @@ Three observations must remain separate:
 Paul might feel a difficult breath handoff that is inaudible to a listener. Or he might feel deeply immersed while a recording reveals a brief level change. Neither outcome invalidates his flow state. Performer flow and passive-listener absorption are different constructs; neither can be inferred from the other.
 
 
-Theoretical possibilities include temporary attentional competition, a learned coordination pattern, and shared timing cues between respiration and striking. However, a recording alone cannot identify neural motor programs, and no controlled KLAAT data currently show that Ankora is coupled to nasal inhalation or that such coupling affects listeners. There is no scientific justification for prescribing when a breath must occur relative to a drumbeat.
+Theoretical possibilities include temporary attentional competition, a learned coordination pattern, and shared timing cues between respiration and striking. However, a recording alone cannot identify neural motor programs, and no controlled KLAAT data currently show that the drum is coupled to nasal inhalation or that such coupling affects listeners. There is no scientific justification for prescribing when a breath must occur relative to a drumbeat.
 
 
 8. PRACTICE RESEARCH CONTAINS A USEFUL CONTRADICTION
@@ -161,7 +161,7 @@ This contradiction reinforces the guiding principle: scientific findings may inf
 If Paul ever wants to study the acoustic seam, the chain should be recorded explicitly:
 
 
-A. PERFORMANCE: authentic spontaneous Amastacia playing, optionally with Ankora, without imposed phase or tempo.
+A. PERFORMANCE: authentic spontaneous the didgeridoo playing, optionally with the drum, without imposed phase or tempo.
 B. EVENT IDENTIFICATION: breath transitions marked only when independently observable or reliably identified by Paul; do not label every level dip as a nasal inhale.
 C. SOURCE CAPTURE: stable microphone position, fixed gain, unprocessed original audio, no automatic loudness normalization during comparison.
 D. ACOUSTIC DESCRIPTION: waveform envelope, short-time spectrum, harmonic ratios, apparent pitch, noise and time alignment; all with uncertainty.
@@ -191,14 +191,14 @@ CONTEXT-DEPENDENT:
 
 
 PLAUSIBLE AND TESTABLE FOR KLAAT:
-• Amastacia may show brief spectral shifts at some breath handoffs without stopping its fundamental drone.
-• Greater ease in the two-pump transfer may free attention for Ankora, improvisational listening, and expressive decisions.
+• the didgeridoo may show brief spectral shifts at some breath handoffs without stopping its fundamental drone.
+• Greater ease in the two-pump transfer may free attention for the drum, improvisational listening, and expressive decisions.
 • A listener may experience a transition as continuous even if a microphone reveals a measurable change, or may enjoy a transition that is clearly audible.
 
 
 SPECULATION:
 • A distinctive micro-texture at the handoff might contribute to KLAAT's sense of organic presence or intimacy. There is no direct listener evidence for this.
-• Coordinated Ankora motion could sometimes perceptually mask a small Amastacia transition. This has not been experimentally tested in KLAAT.
+• Coordinated the drum motion could sometimes perceptually mask a small the didgeridoo transition. This has not been experimentally tested in KLAAT.
 
 
 UNSUPPORTED CLAIMS:
@@ -211,7 +211,7 @@ UNSUPPORTED CLAIMS:
 11. IMPLICATION FOR KLAAT'S ARTISTIC IDENTITY
 
 
-Amastacia is not an anonymous sine-wave generator. Her sound carries the changing relationship between breath, lips, tongue, agave and the surrounding space. Ankora is not a metronome; her pulse is made by a hand, hide and body in motion. The research does not ask Paul to suppress these physical traces or replace his instinct with a procedural sequence.
+The didgeridoo is not an anonymous sine-wave generator. Her sound carries the changing relationship between breath, lips, tongue, agave and the surrounding space. The drum is not a metronome; her pulse is made by a hand, hide and body in motion. The research does not ask Paul to suppress these physical traces or replace his instinct with a procedural sequence.
 
 
 It does suggest a productive distinction between two kinds of refinement. Technical refinement gives Paul more freedom to sustain, interrupt, color, or redirect a drone when he chooses. Scientific refinement gives him better language for distinguishing an actual sound event from a perceived event and for knowing what an experiment would need to establish. Neither refinement dictates a composition.
@@ -223,7 +223,7 @@ KLAAT can remain a physical, energizing soundtrack for daily life and an immersi
 12. THE UNRESOLVED QUESTION WORTH KEEPING
 
 
-We still do not know what a typical Amastacia changeover sounds like under controlled capture, how variable it is across spontaneous passages, whether Paul perceives it as effortful, or whether an unfamiliar listener notices it. We do not know whether coordinating Ankora changes the mechanics or the sound. We have anatomical evidence from other instruments and acoustic evidence from other didgeridoos, not measurements of KLAAT.
+We still do not know what a typical the didgeridoo changeover sounds like under controlled capture, how variable it is across spontaneous passages, whether Paul perceives it as effortful, or whether an unfamiliar listener notices it. We do not know whether coordinating the drum changes the mechanics or the sound. We have anatomical evidence from other instruments and acoustic evidence from other didgeridoos, not measurements of KLAAT.
 
 
 That gap is narrow enough to test and useful enough to preserve. It is also an unusually good example of the project's guiding principle: begin with the lived performance; use science to make the artist more fluent and the observations more honest.
@@ -232,7 +232,7 @@ That gap is narrow enough to test and useful enough to preserve. It is also an u
 OPTIONAL, LOW-PRESSURE KLAAT EXERCISE — KRX-101: THE UNFORCED CHANGEOVER
 
 
-On a day when it feels comfortable, make one short, unedited Amastacia recording in which you play naturally and circular-breathe whenever you normally would. No prescribed tempo, duration, drone pattern, or phase structure; Ankora is optional. Afterward, note only one or two breath handoffs you remember. Listen to the raw recording at a comfortable level. For each, ask: Did the drone stop, change color, change loudness, include an audible inhale, or remain apparently continuous? Note what you actually hear, including 'not sure.' If you want a technical comparison, inspect the same short windows in a waveform and spectrogram, but do not force a breath event to match a visual feature. The goal is to learn what Amastacia already does and give your technique room to become more fluent. Stop if you feel lightheaded, strained or uncomfortable. This is an observation, not a requirement to perfect or hide the breath.
+On a day when it feels comfortable, make one short, unedited the didgeridoo recording in which you play naturally and circular-breathe whenever you normally would. No prescribed tempo, duration, drone pattern, or phase structure; the drum is optional. Afterward, note only one or two breath handoffs you remember. Listen to the raw recording at a comfortable level. For each, ask: Did the drone stop, change color, change loudness, include an audible inhale, or remain apparently continuous? Note what you actually hear, including 'not sure.' If you want a technical comparison, inspect the same short windows in a waveform and spectrogram, but do not force a breath event to match a visual feature. The goal is to learn what the didgeridoo already does and give your technique room to become more fluent. Stop if you feel lightheaded, strained or uncomfortable. This is an observation, not a requirement to perfect or hide the breath.
 
 
 SELECTED PRIMARY SOURCES AND TECHNICAL REFERENCES

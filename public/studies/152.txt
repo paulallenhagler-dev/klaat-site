@@ -12,7 +12,7 @@ Experience-led creation. Science-informed refinement.
 RESEARCH QUESTION
 
 
-Amastacia produces a sustained, breath-shaped C# drone with moving overtones; Ankora supplies attacks, decays and tactile pulse. What reaches a listener's ears is not always the same waveform that leaves the instruments or the loudspeaker. In particular, some hearing aids use adaptive acoustic-feedback cancellation to prevent microphone–receiver feedback. Can these systems mistakenly treat sustained musical components as feedback, or otherwise alter their reproduction? If so, how should KLAAT distinguish the original performance from the listening apparatus without excluding hearing-aid wearers or demanding that they change their devices?
+The didgeridoo produces a sustained, breath-shaped C# drone with moving overtones; the drum supplies attacks, decays and tactile pulse. What reaches a listener's ears is not always the same waveform that leaves the instruments or the loudspeaker. In particular, some hearing aids use adaptive acoustic-feedback cancellation to prevent microphone–receiver feedback. Can these systems mistakenly treat sustained musical components as feedback, or otherwise alter their reproduction? If so, how should KLAAT distinguish the original performance from the listening apparatus without excluding hearing-aid wearers or demanding that they change their devices?
 
 
 WHY THIS SESSION, AND NOVELTY GATE
@@ -30,13 +30,13 @@ A hearing aid microphone captures external sound. Its processor applies frequenc
 An adaptive feedback canceller estimates the acoustic return path and subtracts a predicted feedback signal from the microphone input. The estimation problem is difficult because the wanted input—especially sustained tonal music—can be correlated with the receiver output. A system may then misattribute part of a legitimate musical tone to feedback. This is a general signal-processing vulnerability, not proof that any particular hearing aid corrupts KLAAT.
 
 
-Why Amastacia is a relevant probe: its drone can maintain relatively stable harmonic components while breath articulation moves spectral emphasis and loudness. A listener could hear the same recording through an unprocessed speaker, a phone speaker, headphones, or a hearing aid with a chosen program. The resulting acoustic signal at the eardrum can differ even if the source file is identical. Ankora's short attacks pose a different challenge: compression, transient management, and microphone placement may alter their clarity, but those changes should not automatically be attributed to feedback cancellation.
+Why the didgeridoo is a relevant probe: its drone can maintain relatively stable harmonic components while breath articulation moves spectral emphasis and loudness. A listener could hear the same recording through an unprocessed speaker, a phone speaker, headphones, or a hearing aid with a chosen program. The resulting acoustic signal at the eardrum can differ even if the source file is identical. The drum's short attacks pose a different challenge: compression, transient management, and microphone placement may alter their clarity, but those changes should not automatically be attributed to feedback cancellation.
 
 
 WHAT THE RESEARCH ACTUALLY SHOWS
 
 
-Spriet, Moonen and Wouters (2010) compared six acoustic-feedback reduction implementations in hearing-aid-related tests. Their reported additional stable gain varied from approximately 3 to 26 dB across tested approaches and conditions. Five of six implementations performed worse on a tonal opera stimulus than on speech under the authors' evaluation conditions. The precise definition of 'worse' and the underlying implementation matter: it is not a universal percentage of musical information lost, and 3–26 dB is additional stable gain, not measured loss of musical loudness. Opera is not Amastacia; the study demonstrates a mechanism and a context dependence, not a KLAAT effect.
+Spriet, Moonen and Wouters (2010) compared six acoustic-feedback reduction implementations in hearing-aid-related tests. Their reported additional stable gain varied from approximately 3 to 26 dB across tested approaches and conditions. Five of six implementations performed worse on a tonal opera stimulus than on speech under the authors' evaluation conditions. The precise definition of 'worse' and the underlying implementation matter: it is not a universal percentage of musical information lost, and 3–26 dB is additional stable gain, not measured loss of musical loudness. Opera is not the didgeridoo; the study demonstrates a mechanism and a context dependence, not a KLAAT effect.
 
 
 Zheng and colleagues (2023) investigated a combined deep-learning and adaptive-feedback cancellation method and reported more than 13 dB additional stable gain in their matched evaluation conditions. This counterbalances any simplistic claim that feedback cancellation must always damage sustained music: algorithm design, training conditions, signal type, acoustic fit and evaluation criterion all matter. A larger stable-gain figure alone cannot establish better subjective musical fidelity.
@@ -45,7 +45,7 @@ Zheng and colleagues (2023) investigated a combined deep-learning and adaptive-f
 Arehart, Kates and Anderson (2011) assessed perceived music quality with 19 normal-hearing and 15 hearing-impaired listeners in their experimental sample. Their results indicate that nonlinear processing and noise can have greater effects on perceived quality than linear filtering for the materials and conditions tested. This broadens the caution: if a listener reports a thinner drone or less crisp pulse, feedback cancellation is only one candidate explanation among compression, frequency response, noise, fitting, hearing characteristics and playback hardware.
 
 
-These are primary studies in other listening systems. None measured Amastacia, Ankora, KLAAT listener absorption, trance, autonomic activity or neurological entrainment.
+These are primary studies in other listening systems. None measured the didgeridoo, the drum, KLAAT listener absorption, trance, autonomic activity or neurological entrainment.
 
 
 FOUR DISTINCT EVIDENCE LEVELS
@@ -99,7 +99,7 @@ Established: acoustic feedback loops can arise in hearing aids; adaptive cancell
 Context-dependent: the magnitude and audibility of artifacts depend on device, fitting, program, signal and test method. The primary studies cited here report effects under their own conditions, not universal constants.
 
 
-Plausible and testable for KLAAT: particular hearing-aid programs might alter perceived Amastacia harmonic stability or Ankora attack detail; these differences might influence reported absorption, activation or fatigue.
+Plausible and testable for KLAAT: particular hearing-aid programs might alter perceived the didgeridoo harmonic stability or the drum attack detail; these differences might influence reported absorption, activation or fatigue.
 
 
 Speculation: a particular harmonic pattern in KLAAT could systematically trigger a specific adaptive canceller. No relevant device recording has yet been examined.

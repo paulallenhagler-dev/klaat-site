@@ -3,7 +3,7 @@ Edition: 2026-10-19
 Status: Draft copy and shot plans; nothing has been posted externally.
 
 ## Positioning
-KLAAT is an improvised acoustic practice built around Amastacia (a C♯ agave didgeridoo) and Ankora (an elk-hide frame drum). Breath, sustained drone, pulse and repetition form the experience. KLAAT Resonance Research is the companion inquiry—not a claim of healing or proven trance induction.
+KLAAT is an improvised acoustic practice built around the didgeridoo (a C♯ agave didgeridoo) and the drum (an drum). Breath, sustained drone, pulse and repetition form the experience. KLAAT Resonance Research is the companion inquiry—not a claim of healing or proven trance induction.
 
 ## Destination links
 - Site: https://klaat.org/
@@ -27,7 +27,7 @@ Use distinct campaign links only for promotion; leave the site's canonical URLs 
 
 ## Campaign posts (copy ready, unposted)
 ### Post A — introduce the sound
-"I've been building something called KLAAT. It's improvisational sound built from an agave didgeridoo and an elk-hide frame drum—drone, breath, repetition, and pulse. It's also turned into a pretty extensive research project on sound and perception. I finally have a place to share it: klaat.org."
+"I've been building something called KLAAT. It's improvisational sound built from an agave didgeridoo and an drum—drone, breath, repetition, and pulse. It's also turned into a pretty extensive research project on sound and perception. I finally have a place to share it: klaat.org."
 Destination: https://klaat.org/
 
 ### Post B — the research
@@ -39,7 +39,7 @@ Destination: field notes
 Destination: missing beat
 
 ### Post D — community invitation
-"I'm developing an experimental sound practice in Kansas City called KLAAT. Amastacia is the continuous drone; Ankora is the pulse. I'm looking to trade ideas with people working in experimental music, psychoacoustics, rhythm, drone and deep listening. Project and research: https://klaat.org/"
+"I'm developing an experimental sound practice in Kansas City called KLAAT. The didgeridoo is the continuous drone; the drum is the pulse. I'm looking to trade ideas with people working in experimental music, psychoacoustics, rhythm, drone and deep listening. Project and research: https://klaat.org/"
 Destination: site
 
 ## Three KLAAT vertical video briefs — PRE-PRODUCTION, NOT RENDERED
@@ -47,32 +47,32 @@ Use original KLAAT recording(s) ONLY. Do not fabricate a KLAAT performance or at
 
 ### Clip 1: THE FIELD (0–18s)
 0–3: Near-black void. Fine bone-colored concentric oscillations are already alive; every ring moves individually.
-3–11: Amastacia's real drone drives continuous asymmetric wavelike motion. Fine dust/particles flow from ring edge; sparse purple/mineral blue accents.
-11–15: Ankora's authentic strikes cause immediate geometric deformation and impact-shedding. No generic radial audio bars.
+3–11: the didgeridoo's real drone drives continuous asymmetric wavelike motion. Fine dust/particles flow from ring edge; sparse purple/mineral blue accents.
+11–15: the drum's authentic strikes cause immediate geometric deformation and impact-shedding. No generic radial audio bars.
 15–18: Fade to KLAAT wordmark. Tiny text: DRONE · PULSE · BREATH · REPETITION. URL: klaat.org
 On-screen minimal copy: KLAAT. / RESONANCE IS A RELATIONSHIP.
 Caption: "KLAAT is an improvised study in drone and pulse. Explore the sound and the research at klaat.org."
 
 ### Clip 2: THE OMISSION (0–18s)
-0–4: Pulsing fine-line diagram with stable beat. Amastacia remains flowing.
+0–4: Pulsing fine-line diagram with stable beat. The didgeridoo remains flowing.
 4–10: Percussion pattern becomes physically anticipated through repeating visible displacements.
 10–13: Leave the expected strike absent ONLY if that omission exists in an authentic KLAAT recording; geometry does not fake a hit. Listener observes waiting motion.
 13–18: Field settles to thin line. Typography: "WHY CAN A MISSING BEAT FEEL LOUD?" Then KLAAT / klaat.org/notes.html.
 Caption: "A regular pulse teaches the ear what comes next. The missing beat can become an event. More in KLAAT Field Notes."
 
 ### Clip 3: ONE NOTE / MANY MOVEMENTS (0–18s)
-0–6: Instrumental drone. Each ring's undulation follows fine changes in authentic Amastacia audio.
+0–6: Instrumental drone. Each ring's undulation follows fine changes in authentic the didgeridoo audio.
 6–12: Close, almost scientific macro of moving harmonic interference lines; occasional tiny independent autonomous nodes.
-12–16: Rhythmic addition from real Ankora pattern; delicate impact deformation without flattening the main rings.
+12–16: Rhythmic addition from real the drum pattern; delicate impact deformation without flattening the main rings.
 16–18: Text: "A DRONE IS NOT ONE FREQUENCY." KLAAT / klaat.org.
-Caption: "A continuous sound is not a static sound. Breath, harmonics and texture keep moving inside Amastacia's drone."
+Caption: "A continuous sound is not a static sound. Breath, harmonics and texture keep moving inside the didgeridoo's drone."
 
 Format: 1080x1920 vertical; safe central title area for cropped previews; 24 or 30 fps; accessible caption in social post; use authentic recording and approved archaeosonic design. Use readable bone/cream type and conservative purple/teal/red accents.
 
 ## Outreach draft (private, not sent)
 Subject: Experimental drone-and-pulse project from Kansas City
 
-"Hey — I'm working on an experimental acoustic project in Kansas City called KLAAT. It's built around an agave didgeridoo and an elk-hide frame drum, with a focus on improvised repetition, breath and physical sound. Alongside the music I've been developing a research manuscript looking at the acoustics and perception behind the experience, including where the science doesn't support the usual claims.
+"Hey — I'm working on an experimental acoustic project in Kansas City called KLAAT. It's built around an agave didgeridoo and an drum, with a focus on improvised repetition, breath and physical sound. Alongside the music I've been developing a research manuscript looking at the acoustics and perception behind the experience, including where the science doesn't support the usual claims.
 
 I've put some short articles and the full research online at https://klaat.org/notes.html. I thought it might be up your alley. I'd be interested in connecting or sharing ideas if it resonates with your work.
 

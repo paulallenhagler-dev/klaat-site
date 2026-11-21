@@ -8,7 +8,7 @@ EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 
 
 RESEARCH QUESTION
-A listener hears Amastacia's sustained C# drone and Ankora's changing attacks. The instruments have definite physical positions, yet the sound may be described as overhead, rising from below, surrounding the listener, or simply having no identifiable direction. What does it actually take for an ear to locate a sound above or below? Why might the low drone and the drum's sharper, brighter events carry different spatial information? And when a listener says the music seems to come from “everywhere,” how can KLAAT respect the experience without treating it as proof of a special acoustic field or altered consciousness?
+A listener hears the didgeridoo's sustained C# drone and the drum's changing attacks. The instruments have definite physical positions, yet the sound may be described as overhead, rising from below, surrounding the listener, or simply having no identifiable direction. What does it actually take for an ear to locate a sound above or below? Why might the low drone and the drum's sharper, brighter events carry different spatial information? And when a listener says the music seems to come from “everywhere,” how can KLAAT respect the experience without treating it as proof of a special acoustic field or altered consciousness?
 
 
 This session investigates the VERTICAL-LOCALIZATION ATTRIBUTION GATE. It is not about how far away a stationary source seems (Session 110), how large an instrument seems (109), whether a source seems to approach (105), or whether an abstract visual projection captures perceived sound location (hourly research, October 22 at 09:16). It asks a narrower, new question: how the listener infers ELEVATION and front/back position from sound reaching the ears, and why the answer can fail even when the sound is powerful and clear.
@@ -38,7 +38,7 @@ For left-right localization, the auditory system can use differences in arrival 
 Macpherson and Middlebrooks (2002) manipulated ITD by as much as 600 microseconds and ILD by as much as 20 dB in virtual-source tests. For low-pass stimuli, listeners tended to weight timing more than level; for high-pass stimuli, level differences became more influential. The authors also found that amplitude modulation and onset duration could alter the weighting of high-frequency timing information [1]. This experiment primarily concerns LATERAL ANGLE, not an automatic formula for elevation. Its importance here is negative as well as positive: knowing a sound's side does not mean knowing its height.
 
 
-This matters for Amastacia because the deep carrier may convey little stable ear-specific elevation information even when it sounds commanding. It matters for Ankora because its transient includes broadband information that may offer more spatial cues than a low-frequency component alone. Neither inference can be confirmed for an actual mixed KLAAT take without inspecting the received signal and the listener's response.
+This matters for the didgeridoo because the deep carrier may convey little stable ear-specific elevation information even when it sounds commanding. It matters for the drum because its transient includes broadband information that may offer more spatial cues than a low-frequency component alone. Neither inference can be confirmed for an actual mixed KLAAT take without inspecting the received signal and the listener's response.
 
 
 3. THE OUTER EAR IS A PERSONAL DIRECTIONAL FILTER
@@ -53,7 +53,7 @@ The pinna's filtering is not simply an equalizer applied by the instrument. It d
 Butler and Humanski (1992) compared high-pass and low-pass noise separated at 3 kHz in median and lateral vertical planes [2]. High-pass stimuli were localized more proficiently than low-pass stimuli across their binaural listening conditions (reported p < .01). Yet low-pass noise could still support respectable localization in the LATERAL vertical plane, where binaural cues were informative. They also found that the importance of pinna cues varied with elevation; their data suggested reduced influence above 45 degrees. This is an instructive contradiction to the simplistic slogan “bass cannot be localized.” Bass may support direction under some conditions; what is difficult is treating low-frequency information as a unique, reliable elevation address, particularly near the median plane.
 
 
-It would be wrong to transfer that 3-kHz split directly into a claim about Ankora. The drum has a complex changing spectrum, not a laboratory high-pass noise stimulus. Likewise, Amastacia has upper harmonics and breath texture, not only a pure C# fundamental. The actual spectrum at the listener's ears matters.
+It would be wrong to transfer that 3-kHz split directly into a claim about the drum. The drum has a complex changing spectrum, not a laboratory high-pass noise stimulus. Likewise, the didgeridoo has upper harmonics and breath texture, not only a pure C# fundamental. The actual spectrum at the listener's ears matters.
 
 
 4. ONE FREQUENCY CAN POINT TO THE WRONG HEIGHT
@@ -62,10 +62,10 @@ It would be wrong to transfer that 3-kHz split directly into a claim about Ankor
 Middlebrooks (1992) tested brief, one-sixth-octave noise bursts centered at 6, 8, 10 and 12 kHz [3]. Listeners' horizontal responses remained comparatively accurate, while their vertical and front/back responses clustered into systematic, frequency-dependent errors. The researchers measured external-ear directional transfer functions across 360 source locations and found that the patterns of mistaken directions were related to which directional filters best matched the received narrowband spectra.
 
 
-The lesson is subtle: more high-frequency content is not automatically more accurate height perception. The ear needs an interpretable PATTERN across frequency, not simply an isolated high-frequency line. A prominent overtone or narrow hiss band might be audible and attention-grabbing without uniquely locating a source. A broadband Ankora attack might supply more useful cues than a sustained narrow spectral feature, but its own room reflections, microphone position and recording mix can distort those cues.
+The lesson is subtle: more high-frequency content is not automatically more accurate height perception. The ear needs an interpretable PATTERN across frequency, not simply an isolated high-frequency line. A prominent overtone or narrow hiss band might be audible and attention-grabbing without uniquely locating a source. A broadband the drum attack might supply more useful cues than a sustained narrow spectral feature, but its own room reflections, microphone position and recording mix can distort those cues.
 
 
-This finding is directly relevant to KLAAT's sound language. Amastacia can shift from dark, rounded resonance to breathy or sharply articulated texture while Paul maintains the same underlying drone. A listener might then report a changed spatial impression. That would be worth observing. It would not prove that the physical acoustic source moved, that the sound rose through the body, or that the brain entered trance.
+This finding is directly relevant to KLAAT's sound language. The didgeridoo can shift from dark, rounded resonance to breathy or sharply articulated texture while Paul maintains the same underlying drone. A listener might then report a changed spatial impression. That would be worth observing. It would not prove that the physical acoustic source moved, that the sound rose through the body, or that the brain entered trance.
 
 
 5. WE LEARN OUR OWN EARS
@@ -89,7 +89,7 @@ Wightman and Kistler (1999) compared localization when listeners' head movements
 Perrett and Noble (1997) examined low-pass sound localization under different head-movement conditions [6]. For front/back judgments, even slight head rotation could be informative; elevation benefits were less uniform across listeners. Some listeners benefited from rotation, some from natural movement, and some from both. This prevents a second oversimplification: head motion is not a universal cure for every height illusion.
 
 
-For KLAAT, physical engagement matters. People may sit, stand, sway, turn toward the performer or listen while moving through daily life. These actions alter auditory sampling and visual context. A listener who turns toward Ankora may find its location more definite; a stationary headphone listener may not. A listener's movement can therefore change perceived source position without any change in Paul's improvisation.
+For KLAAT, physical engagement matters. People may sit, stand, sway, turn toward the performer or listen while moving through daily life. These actions alter auditory sampling and visual context. A listener who turns toward the drum may find its location more definite; a stationary headphone listener may not. A listener's movement can therefore change perceived source position without any change in Paul's improvisation.
 
 
 The research does NOT justify telling listeners to move in a prescribed way or claiming that head turns enhance trance. It simply identifies movement as a variable to record when comparing spatial reports.
@@ -113,13 +113,13 @@ In an ordinary two-speaker playback system, the loudspeakers themselves provide 
 8. WHY THE DRONE AND THE PULSE MAY DISAGREE
 
 
-Amastacia and Ankora are not acoustically identical objects. Amastacia's low sustained carrier is accompanied by harmonics, breath noise, and vocal-tract-shaped changes; Ankora produces time-limited attacks and decays with a potentially broader initial spectrum. Their radiation patterns, positions relative to the listener, and interactions with a room can differ. An unedited performance therefore contains multiple candidate spatial cues.
+the didgeridoo and drum are not acoustically identical objects. The didgeridoo's low sustained carrier is accompanied by harmonics, breath noise, and vocal-tract-shaped changes; the drum produces time-limited attacks and decays with a potentially broader initial spectrum. Their radiation patterns, positions relative to the listener, and interactions with a room can differ. An unedited performance therefore contains multiple candidate spatial cues.
 
 
-Three distinct outcomes are possible. A listener might localize Ankora clearly and describe Amastacia as diffuse. A listener might hear both as coming from the same physical performer despite their different timbres. Or a listener might report a vertical or surrounding presence unrelated to the actual placement of either instrument. These are hypotheses, not observed KLAAT results. There is no reason to choose the most dramatic one in advance.
+Three distinct outcomes are possible. A listener might localize the drum clearly and describe the didgeridoo as diffuse. A listener might hear both as coming from the same physical performer despite their different timbres. Or a listener might report a vertical or surrounding presence unrelated to the actual placement of either instrument. These are hypotheses, not observed KLAAT results. There is no reason to choose the most dramatic one in advance.
 
 
-Ankora's sharper attack may help listeners orient toward the source, but the attack's high-frequency energy is not guaranteed to survive a particular microphone, compression process, playback speaker, hearing aid or reverberant room. Amastacia's harmonics might supply some directional cues, but their mere existence does not establish usable pinna-notch information at the listener's ears. If a recording has only a single channel, the room and playback arrangement may dominate apparent position. If it is close-miked and heavily mixed, the original source geometry may be absent from the file.
+The drum's sharper attack may help listeners orient toward the source, but the attack's high-frequency energy is not guaranteed to survive a particular microphone, compression process, playback speaker, hearing aid or reverberant room. The didgeridoo's harmonics might supply some directional cues, but their mere existence does not establish usable pinna-notch information at the listener's ears. If a recording has only a single channel, the room and playback arrangement may dominate apparent position. If it is close-miked and heavily mixed, the original source geometry may be absent from the file.
 
 
 KLAAT's minimalism can make the spatial question especially compelling because there are few competing sound sources. But minimalism does not create a special localization mechanism. A sparse sound field may simply make its ambiguities easier to notice.
@@ -128,7 +128,7 @@ KLAAT's minimalism can make the spatial question especially compelling because t
 9. FIVE THINGS A VERTICAL-SPATIAL REPORT MUST NOT COLLAPSE
 
 
-PHYSICAL GEOMETRY: Where Amastacia, Ankora, microphones, loudspeakers and listeners actually were, including source heights and orientations. This is measurable.
+PHYSICAL GEOMETRY: Where the didgeridoo, the drum, microphones, loudspeakers and listeners actually were, including source heights and orientations. This is measurable.
 
 
 RECEIVED ACOUSTICS: The direction-dependent sound arriving at the left and right ears, including spectral shape, timing, level, reflections and head movement. A single room microphone is not a complete substitute for this.
@@ -170,13 +170,13 @@ ESTABLISHED OUTSIDE KLAAT: Horizontal localization draws on interaural time, lev
 CONTEXT-DEPENDENT: A 3-kHz high/low-pass contrast produced significant differences in Butler and Humanski's stimuli; Middlebrooks' one-sixth-octave 6–12-kHz bands caused systematic frequency-specific mislocalizations; Wenzel's 12/16 result concerns a particular virtual-audio test after confusions were resolved. None is a KLAAT detection threshold, a guaranteed outcome for a frame drum, or a universal headphone-performance statistic.
 
 
-PLAUSIBLE AND TESTABLE FOR KLAAT: Listeners may report different spatial precision for Amastacia and Ankora; high-frequency attack and breath texture may contribute to direction judgments differently from the low drone; live room position, head movement and playback method may alter those reports without changing the performance.
+PLAUSIBLE AND TESTABLE FOR KLAAT: Listeners may report different spatial precision for the didgeridoo and drum; high-frequency attack and breath texture may contribute to direction judgments differently from the low drone; live room position, head movement and playback method may alter those reports without changing the performance.
 
 
 SPECULATION: Ambiguous elevation and front/back cues could contribute to the sensation of an immense, unlocated, or archaeosonic presence. This could become one aspect of KLAAT's visual and sonic world. It is an aesthetic interpretation, not evidence of ancient ritual continuity, altered neural states or an objectively overhead source.
 
 
-UNSUPPORTED: C# itself produces overhead localization; an elk-hide drum makes listeners hear sound from below; headphones automatically recreate the original vertical acoustic field; high frequencies always improve localization; the drone physically fills every height in the room; a reported vertical presence demonstrates entrainment, trance or bodily vibration; or KLAAT has been shown to cause any of these effects. No such KLAAT-specific test has been performed.
+UNSUPPORTED: C# itself produces overhead localization; an drum makes listeners hear sound from below; headphones automatically recreate the original vertical acoustic field; high frequencies always improve localization; the drone physically fills every height in the room; a reported vertical presence demonstrates entrainment, trance or bodily vibration; or KLAAT has been shown to cause any of these effects. No such KLAAT-specific test has been performed.
 
 
 12. NOVELTY AND RESEARCH CONTINUITY
@@ -191,7 +191,7 @@ The strongest unresolved KLAAT question is not whether the sound can be engineer
 13. ONE OPTIONAL OBSERVATION — WHERE, IF ANYWHERE?
 
 
-After one unchanged, comfortable-level KLAAT performance or recording, ask a consenting listener one open question before showing any visual: “Did the sound seem to come from any particular place, or not really?” Let them answer without a diagram or categories. Only afterward, if they spontaneously mention location, ask separately whether they mean a physical direction, a felt image, or a metaphor. Note whether they describe Amastacia and Ankora differently, and whether the sound seemed above/below, near/far, or simply enveloping. Record whether the listening was live, loudspeaker or headphone; the approximate physical geometry; whether the listener moved their head; and whether the instruments or artwork were visible. “No clear location” and “I don't know” are valid results. Do not ask anyone to change posture, use unsafe volume, or follow a score.
+After one unchanged, comfortable-level KLAAT performance or recording, ask a consenting listener one open question before showing any visual: “Did the sound seem to come from any particular place, or not really?” Let them answer without a diagram or categories. Only afterward, if they spontaneously mention location, ask separately whether they mean a physical direction, a felt image, or a metaphor. Note whether they describe the didgeridoo and drum differently, and whether the sound seemed above/below, near/far, or simply enveloping. Record whether the listening was live, loudspeaker or headphone; the approximate physical geometry; whether the listener moved their head; and whether the instruments or artwork were visible. “No clear location” and “I don't know” are valid results. Do not ask anyone to change posture, use unsafe volume, or follow a score.
 
 
 This observation does not require altering one note of KLAAT. It asks what a listener's perceptual system makes of the sound that already exists.
@@ -200,7 +200,7 @@ This observation does not require altering one note of KLAAT. It asks what a lis
 THE RETURN
 
 
-Amastacia has a body. Ankora has a membrane. Their positions in a room are real. But the place a listener hears is assembled from the acoustics reaching two ears, from learned experience, and from the circumstances of listening. Sometimes that construction is precise. Sometimes it is wonderfully uncertain. KLAAT can welcome the uncertainty without misnaming it a measured physical force.
+The didgeridoo has a body. The drum has a membrane. Their positions in a room are real. But the place a listener hears is assembled from the acoustics reaching two ears, from learned experience, and from the circumstances of listening. Sometimes that construction is precise. Sometimes it is wonderfully uncertain. KLAAT can welcome the uncertainty without misnaming it a measured physical force.
 
 
 Experience-led creation. Science-informed refinement.

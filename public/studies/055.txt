@@ -2,7 +2,7 @@ KLAAT Resonance Research — Session 55
 THE DIVISION OF LABOR: Hearing Carries the Clock, Touch Gives the Pulse a Body
 
 
-Session 54 defined Threshold Gate as controlled model replacement. The strongest new hourly finding changes another part of KLAAT: Ankora's audible strike and felt vibration should not be assumed to perform the same temporal job.
+Session 54 defined Threshold Gate as controlled model replacement. The strongest new hourly finding changes another part of KLAAT: the drum's audible strike and felt vibration should not be assumed to perform the same temporal job.
 
 
 A 2025 Journal of Neuroscience experiment comparing the same rhythmic structure in audition and touch found stronger beat-related low-frequency periodization and more stable tapping for auditory rhythm. Tactile stimulation robustly represented individual events but did not show the same significant higher-order beat-related organization in that paradigm. Broader multisensory work still supports tactile rhythm perception and audiotactile interaction. The correct conclusion is modality asymmetry, not tactile incapacity.
@@ -18,7 +18,7 @@ TOUCH GIVES SELECTED EVENTS A BODY.
 1. ONE STRIKE, SEVERAL PERCEPTUAL JOBS
 
 
-An Ankora strike reaches a listener through airborne sound, structure-borne vibration, room reflections, body contact and sometimes vision. Those channels need not perform the same computation.
+An the drum strike reaches a listener through airborne sound, structure-borne vibration, room reflections, body contact and sometimes vision. Those channels need not perform the same computation.
 
 
 Audition has unusually strong temporal resolution and a well-established role in beat perception and sensorimotor synchronization. Touch can represent rhythm and timing, but current evidence does not justify assuming that felt vibration independently constructs the same hierarchical beat representation with equal strength.
@@ -31,16 +31,16 @@ NOT "HOW MUCH AUDIO + VIBRATION?"
 BUT "WHAT JOB IS EACH CHANNEL DOING?"
 
 
-2. ANKORA MAY CONTAIN A CLOCK AND AN IMPACT LAYER
+2. DRUM MAY CONTAIN A CLOCK AND AN IMPACT LAYER
 
 
 Provisional decomposition:
 
 
-AUDITORY ANKORA — temporal scaffold, beat prediction, omission expectation, synchronization cue.
+AUDITORY DRUM — temporal scaffold, beat prediction, omission expectation, synchronization cue.
 
 
-TACTILE ANKORA — bodily localization, impact, event salience, physical consequence, and possibly stronger common-event unity when it agrees with the sound.
+TACTILE DRUM — bodily localization, impact, event salience, physical consequence, and possibly stronger common-event unity when it agrees with the sound.
 
 
 These roles can overlap. They are not mutually exclusive. But separating them yields falsifiable predictions.
@@ -52,7 +52,7 @@ If audible timing is already clear, increasing tactile energy may greatly increa
 3. "ENTRAINMENT" NEEDS A HARDER DEFINITION
 
 
-At approximately 137 BPM, Ankora's provisional calibration Pulse is about 2.28 beats per second, with an inter-beat interval near 438 ms. That lies comfortably inside ordinary human beat-perception and synchronization territory.
+At approximately 137 BPM, the drum's provisional calibration Pulse is about 2.28 beats per second, with an inter-beat interval near 438 ms. That lies comfortably inside ordinary human beat-perception and synchronization territory.
 
 
 That makes it useful. It does not make 137 BPM biologically magical.
@@ -73,10 +73,10 @@ None automatically means global brain synchronization, a forced 2.28-Hz brain st
 4. TOUCH MAY MAKE A BEAT CONSEQUENTIAL WITHOUT MAKING IT MORE BEAT-LIKE
 
 
-Imagine two passages with identical audible Ankora timing. In A, little structure-borne vibration reaches the listener. In B, selected strikes are strongly coupled into the support.
+Imagine two passages with identical audible the drum timing. In A, little structure-borne vibration reaches the listener. In B, selected strikes are strongly coupled into the support.
 
 
-B may feel more embodied, consequential and physically real. But if both conditions produce equally accurate continuation tapping after Ankora stops, tactile augmentation strengthened embodiment without strengthening the internal beat representation.
+B may feel more embodied, consequential and physically real. But if both conditions produce equally accurate continuation tapping after the drum stops, tactile augmentation strengthened embodiment without strengthening the internal beat representation.
 
 
 That is not failure. It maps the tactile channel's actual role.
@@ -97,7 +97,7 @@ CROSSMODAL CAUSAL COHERENCE — the degree to which heard and felt components ar
 This is not yet a proven KLAAT mechanism. But it is a better hypothesis than "more vibration = more embodiment."
 
 
-A powerful floor vibration that arrives late, feels spatially disconnected, or has an envelope unrelated to Ankora may add energy while weakening event unity. A smaller tactile event with plausible timing and location may feel more convincingly like the body-component of Ankora.
+A powerful floor vibration that arrives late, feels spatially disconnected, or has an envelope unrelated to the drum may add energy while weakening event unity. A smaller tactile event with plausible timing and location may feel more convincingly like the body-component of the drum.
 
 
 IMPROVE THE ORGANIZATION OF THE CHANNELS BEFORE INCREASING THEIR ENERGY.
@@ -109,26 +109,26 @@ IMPROVE THE ORGANIZATION OF THE CHANNELS BEFORE INCREASING THEIR ENERGY.
 Audiotactile perception has finite timing tolerance. Laboratory work shows that sound and touch need not be physically simultaneous to interact, and sustained exposure to a stable crossmodal delay can shift perceived simultaneity.
 
 
-Live KLAAT has multiple propagation paths. Airborne Ankora travels through air. Mechanical transients travel through drum support, floor, furniture and body. Each path has its own filtering, onset, rise, decay and latency.
+Live KLAAT has multiple propagation paths. Airborne the drum travels through air. Mechanical transients travel through drum support, floor, furniture and body. Each path has its own filtering, onset, rise, decay and latency.
 
 
 So "generated at the same instant" does not guarantee "received as one event." Literal zero measured delay is not necessarily the perceptual optimum either. The relevant variable is listener- and setup-specific alignment.
 
 
-7. AMASTACIA'S ROLE: THE CONTINUOUS WORLD
+7. DIDGERIDOO'S ROLE: THE CONTINUOUS WORLD
 
 
-The modality-weighted model clarifies Amastacia.
+The modality-weighted model clarifies the didgeridoo.
 
 
-She does not need to compete with Ankora for temporal dominance. Her strongest role may be maintaining the continuous spectral, spatial, respiratory and mechanical world inside which Ankora's discrete clock becomes meaningful.
+She does not need to compete with the drum for temporal dominance. Her strongest role may be maintaining the continuous spectral, spatial, respiratory and mechanical world inside which the drum's discrete clock becomes meaningful.
 
 
-Auditorily, Amastacia supplies sustained context against which transient Ankora onsets become distinct. Mechanically, she may create a continuous bodily field against which selected Ankora events become figures. Perceptually, she can preserve identity across state changes.
+Auditorily, the didgeridoo supplies sustained context against which transient the drum onsets become distinct. Mechanically, she may create a continuous bodily field against which selected the drum events become figures. Perceptually, she can preserve identity across state changes.
 
 
-AMASTACIA DEFINES THE WORLD.
-ANKORA DEFINES WHEN.
+DIDGERIDOO DEFINES THE WORLD.
+DRUM DEFINES WHEN.
 TOUCH HELPS DECIDE WHICH MOMENTS BECOME PHYSICALLY CONSEQUENTIAL.
 
 
@@ -136,15 +136,15 @@ TOUCH HELPS DECIDE WHICH MOMENTS BECOME PHYSICALLY CONSEQUENTIAL.
 
 
 GROUND ANCHOR — ESTABLISH THE WORLD AND BODY MAP
-Amastacia establishes continuous acoustic identity and, where coupling permits, a stable somatic background. The listener learns the room, Drone, body-contact field and source relationship.
+The didgeridoo establishes continuous acoustic identity and, where coupling permits, a stable somatic background. The listener learns the room, Drone, body-contact field and source relationship.
 
 
 THRESHOLD GATE — INTRODUCE A CLOCK WITH A BODY
-Ankora's audible transient establishes or changes temporal grammar. Its felt component makes selected temporal events physically consequential. A strong Gate may be the first unmistakable moment when the new auditory clock and bodily event become causally coherent.
+The drum's audible transient establishes or changes temporal grammar. Its felt component makes selected temporal events physically consequential. A strong Gate may be the first unmistakable moment when the new auditory clock and bodily event become causally coherent.
 
 
 RISING PULSE — SEPARATE TEMPORAL DENSITY FROM TACTILE DENSITY
-The audible Ankora pattern can become dense while tactile emphasis remains sparse. Strong tactile coupling can be reserved for metrically important beats, rule changes, omissions followed by returns, or other consequential events.
+The audible the drum pattern can become dense while tactile emphasis remains sparse. Strong tactile coupling can be reserved for metrically important beats, rule changes, omissions followed by returns, or other consequential events.
 
 
 KLAAT gains two independently controllable trajectories:
@@ -214,7 +214,7 @@ ESTABLISHED: Whole-body/tactile sensitivity varies with frequency, axis, body si
 ESTABLISHED: Vestibular organs can respond to sufficiently intense sound/vibration, but this does not establish routine vestibular activation by ordinary musical low-frequency exposure.
 
 
-CONTEXT-DEPENDENT: The auditory-versus-tactile beat result used controlled stimulation, not live whole-body Ankora vibration. It supports modality asymmetry, not tactile incapacity.
+CONTEXT-DEPENDENT: The auditory-versus-tactile beat result used controlled stimulation, not live whole-body the drum vibration. It supports modality asymmetry, not tactile incapacity.
 
 
 CONTEXT-DEPENDENT: Audiotactile binding windows, preferred delays, spatial tolerances and recalibration time courses are stimulus-, task-, listener- and setup-dependent.
@@ -223,10 +223,10 @@ CONTEXT-DEPENDENT: Audiotactile binding windows, preferred delays, spatial toler
 CONTEXT-DEPENDENT: Laboratory vibration thresholds and ISO-style weightings cannot be imported directly as a KLAAT felt-intensity function.
 
 
-PLAUSIBLE/TESTABLE: In normal-hearing KLAAT listeners, audible Ankora provides the primary beat scaffold while mechanically felt Ankora contributes more strongly to bodily impact, localization, salience and event unity.
+PLAUSIBLE/TESTABLE: In normal-hearing KLAAT listeners, audible the drum provides the primary beat scaffold while mechanically felt the drum contributes more strongly to bodily impact, localization, salience and event unity.
 
 
-PLAUSIBLE/TESTABLE: Concentrating tactile emphasis on structurally important Ankora events may increase bodily impact without requiring every subdivision to be equally vibratory.
+PLAUSIBLE/TESTABLE: Concentrating tactile emphasis on structurally important the drum events may increase bodily impact without requiring every subdivision to be equally vibratory.
 
 
 PLAUSIBLE/TESTABLE: Audiotactile common-source/unity judgments may predict embodied impact better than SPL or acceleration alone.
@@ -241,7 +241,7 @@ SPECULATION: KLAAT may work better when modalities are assigned complementary co
 SPECULATION: Rising Pulse may benefit from increasing auditory density while keeping tactile consequence sparse enough to preserve bodily contrast.
 
 
-UNSUPPORTED: Whole-body vibration independently entrains the brain to Ankora's beat.
+UNSUPPORTED: Whole-body vibration independently entrains the brain to the drum's beat.
 UNSUPPORTED: Auditory and tactile entrainment are neurologically equivalent.
 UNSUPPORTED: 137 BPM is a therapeutic, shamanic or biologically privileged frequency.
 UNSUPPORTED: A 2.28-Hz Pulse forces the brain into a 2.28-Hz state.
@@ -252,7 +252,7 @@ UNSUPPORTED: Felt bass, pressure, sway or dizziness proves vestibular activation
 12. KLAAT METHODOLOGY UPDATE
 
 
-From Session 55 onward, Ankora experiments should separate:
+From Session 55 onward, the drum experiments should separate:
 BEAT ORGANIZATION — prediction, continuation accuracy, tapping phase consistency.
 BODILY IMPACT — how physically consequential the event feels.
 EVENT UNITY — whether heard and felt components seem like one cause.
@@ -272,11 +272,11 @@ FELT LOW FREQUENCY IS NOT SYNONYMOUS WITH VESTIBULAR STIMULATION.
 13. KRX-055 — THE CLOCK-AND-BODY TEST
 
 
-Create one simple Ankora rhythm around the current ~137 BPM reference and reproduce it in four conditions.
+Create one simple the drum rhythm around the current ~137 BPM reference and reproduce it in four conditions.
 
 
 A — AUDITORY ONLY
-Clear audible Ankora Pulse with mechanical transmission minimized as far as practical.
+Clear audible the drum Pulse with mechanical transmission minimized as far as practical.
 
 
 B — TACTILE ONLY
@@ -322,7 +322,7 @@ The highest-value unresolved direction is CROSSMODAL CAUSAL COHERENCE.
 If hearing carries much of the temporal scaffold while touch gives selected events bodily consequence, the next question is:
 
 
-WHAT MAKES THE HEARD ANKORA AND FELT ANKORA BECOME ONE PHYSICAL EVENT IN THE LISTENER'S MODEL?
+WHAT MAKES THE HEARD DRUM AND FELT DRUM BECOME ONE PHYSICAL EVENT IN THE LISTENER'S MODEL?
 
 
 The hourly work identifies timing, spatial correspondence, cue reliability and exposure history as candidate variables. Session 49 established timing fidelity as a candidate control variable; the next step is to test whether timing and space jointly influence a higher-order common-cause judgment, and whether that judgment predicts bodily impact better than either physical variable alone.

@@ -6,7 +6,7 @@ Guiding principle: Experience-led creation. Science-informed refinement.
 
 
 RESEARCH QUESTION
-When Paul plays Amastacia while simultaneously striking Ankora, is the sound he experiences physically and perceptually the same sound a nearby listener hears? In particular, how much of the performer’s experience comes from air-conducted sound, mechanical vibration through contact, bone-conducted sound, breathing effort, and predictive motor signals? This question is distinct from asking whether the audience feels trance, and from asking whether the recording accurately preserves the drum: it asks whether performer and listener are receiving the same sensory stimulus in the first place.
+When Paul plays the didgeridoo while simultaneously striking the drum, is the sound he experiences physically and perceptually the same sound a nearby listener hears? In particular, how much of the performer’s experience comes from air-conducted sound, mechanical vibration through contact, bone-conducted sound, breathing effort, and predictive motor signals? This question is distinct from asking whether the audience feels trance, and from asking whether the recording accurately preserves the drum: it asks whether performer and listener are receiving the same sensory stimulus in the first place.
 
 
 WHY THIS IS A LIVE KLAAT QUESTION
@@ -24,7 +24,7 @@ This does not mean the player literally hears a completely separate song, or tha
 
 
 ESTABLISHED EVIDENCE: SELF-GENERATED SOUND IS PERCEPTUALLY SPECIAL
-Auditory perception is shaped by action. Experimental research on self-generated versus externally generated sounds shows that predictable sensory consequences of voluntary actions can be processed differently. The literature includes auditory attenuation and motor-related predictive effects, but their magnitude depends on task, timing, expectation and stimulus type. It would be an overreach to claim that every self-produced Ankora strike is necessarily perceived as quieter by Paul. A complex improvised sound is not the same as a simple button-triggered tone.
+Auditory perception is shaped by action. Experimental research on self-generated versus externally generated sounds shows that predictable sensory consequences of voluntary actions can be processed differently. The literature includes auditory attenuation and motor-related predictive effects, but their magnitude depends on task, timing, expectation and stimulus type. It would be an overreach to claim that every self-produced the drum strike is necessarily perceived as quieter by Paul. A complex improvised sound is not the same as a simple button-triggered tone.
 
 
 The important inference is narrower: Paul's knowledge of his intended breath and strike, and the bodily sensations accompanying them, can influence his experience of the resulting sound. A listener does not share the same motor commands. This creates a principled performer–listener asymmetry before we invoke mystical explanations or claims of neurological entrainment.

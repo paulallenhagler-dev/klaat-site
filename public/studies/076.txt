@@ -7,7 +7,7 @@ Status: Synthesis and proposed protocol; no new KLAAT listener or annotator resu
 
 
 CENTRAL QUESTION
-Session 75 gave KLAAT an event dictionary. It separated Ankora attacks from beats, Amastacia gestures from instantaneous onsets, intended phases from perceived transitions, and physical exposure from listener reports. The next obstacle is subtler: after two annotators use that dictionary, what happens when their labels disagree? If the research director quietly replaces two uncertain observations with one clean-looking consensus timestamp, the uncertainty has not disappeared. It has merely been hidden.
+Session 75 gave KLAAT an event dictionary. It separated the drum attacks from beats, the didgeridoo gestures from instantaneous onsets, intended phases from perceived transitions, and physical exposure from listener reports. The next obstacle is subtler: after two annotators use that dictionary, what happens when their labels disagree? If the research director quietly replaces two uncertain observations with one clean-looking consensus timestamp, the uncertainty has not disappeared. It has merely been hidden.
 
 
 The governing principle of Session 76 is:
@@ -22,19 +22,19 @@ KLAAT has accumulated hypotheses about the continuous Field, rhythmic prediction
 
 
 2. A SINGLE TIMESTAMP CAN BE A MISLEADING SUMMARY
-Imagine two trained annotators hear an Amastacia breath-led spectral transition. One marks 02:11–02:16. The other marks 02:14–02:20. Both recognize a change. They disagree about its onset, duration, and perhaps the precise feature that defines it. Replacing those intervals with the midpoint 02:15 would destroy useful information: neither annotator actually claimed that the event was an instantaneous change at 02:15. A better record retains both intervals, the operational definition, the reasons for the marks, and a clearly labeled adjudication decision if one is made.
+Imagine two trained annotators hear an the didgeridoo breath-led spectral transition. One marks 02:11–02:16. The other marks 02:14–02:20. Both recognize a change. They disagree about its onset, duration, and perhaps the precise feature that defines it. Replacing those intervals with the midpoint 02:15 would destroy useful information: neither annotator actually claimed that the event was an instantaneous change at 02:15. A better record retains both intervals, the operational definition, the reasons for the marks, and a clearly labeled adjudication decision if one is made.
 
 
 3. THREE DIFFERENT FORMS OF UNCERTAINTY
 Timing uncertainty concerns when an event begins or ends. Category uncertainty concerns what kind of event it is: breath phrase, spectral shift, accent, structural boundary, or something else. Interpretive uncertainty concerns whether the event belongs to a larger phase, a smaller gesture, or a different perceived meter. These uncertainties must not be reduced to one generic confidence score. A confident classification can have imprecise timing; a sharply timed acoustic attack can have uncertain musical function.
 
 
-4. ANKORA: PHYSICAL ATTACK VERSUS MUSICAL BEAT
+4. DRUM: PHYSICAL ATTACK VERSUS MUSICAL BEAT
 A waveform can support an estimate of the onset of a drum attack. It cannot by itself decide whether the listener hears that attack as a beat, subdivision, syncopation, or isolated event. At the provisional 137 BPM reference, the nominal quarter-note interval is about 438 milliseconds, but half-time hearing yields a different perceptual scaffold. A 40-millisecond onset disagreement is a different problem from a two-to-one metrical disagreement. The first may be sensor or annotation variability; the second may be a valid alternative organization of the same music.
 
 
-5. AMASTACIA: STATES, GESTURES, AND CHANGE ZONES
-Amastacia's C# agave didgeridoo produces a sustained, breath-led Field whose acoustic changes can be gradual and overlapping. A change in spectral centroid may begin before the listener notices a phrase boundary. A breath phrase may be audible without a strong amplitude dip. A harmonic shift may occur without any agreed musical boundary. The ontology must allow simultaneous labels from different evidence channels rather than forcing every moment into one exclusive class.
+5. DIDGERIDOO: STATES, GESTURES, AND CHANGE ZONES
+The didgeridoo's C# agave didgeridoo produces a sustained, breath-led Field whose acoustic changes can be gradual and overlapping. A change in spectral centroid may begin before the listener notices a phrase boundary. A breath phrase may be audible without a strong amplitude dip. A harmonic shift may occur without any agreed musical boundary. The ontology must allow simultaneous labels from different evidence channels rather than forcing every moment into one exclusive class.
 
 
 6. THE RESEARCH LITERATURE DOES NOT REQUIRE ONE PERFECT GROUND TRUTH
@@ -42,19 +42,19 @@ McFee, Nieto, Farbood, and Bello (2017) analyzed hierarchical musical structure 
 
 
 7. THE REFERENCE RECORD SHOULD HAVE LAYERS
-Layer P — physical observations: Ankora attack times, source cessation, microphone-recorded amplitude and spectral features, any separately measured mechanical motion. Layer C — compositional intention: Paul's predeclared phase zones and intended gestures. Layer A — independent annotation: each annotator's point, interval, category, confidence, and evidence channel. Layer L — listener experience: spontaneous descriptions, retrospective macro boundaries, inferred Clock and metrical level. Layer D — derived analysis: matches, disagreement distributions, model estimates, and uncertainty intervals. No layer should overwrite another.
+Layer P — physical observations: the drum attack times, source cessation, microphone-recorded amplitude and spectral features, any separately measured mechanical motion. Layer C — compositional intention: Paul's predeclared phase zones and intended gestures. Layer A — independent annotation: each annotator's point, interval, category, confidence, and evidence channel. Layer L — listener experience: spontaneous descriptions, retrospective macro boundaries, inferred Clock and metrical level. Layer D — derived analysis: matches, disagreement distributions, model estimates, and uncertainty intervals. No layer should overwrite another.
 
 
 8. AGREEMENT IS CLASS-SPECIFIC
-For discrete Ankora attacks, one-to-one onset matching within predeclared windows can yield precision, recall, F1, unmatched events, and timing-offset distributions. For Amastacia transition intervals, onset F1 is inappropriate: compare overlap, boundary spreads, and category agreement separately. For Clock acquisition, preserve the earliest plausible acquisition time, latest plausible acquisition time, and listener confidence. For macro boundaries, distinguish point judgments from transition zones and use a chance baseline. A pooled '92% agreement' across all these classes would be nearly uninterpretable.
+For discrete the drum attacks, one-to-one onset matching within predeclared windows can yield precision, recall, F1, unmatched events, and timing-offset distributions. For the didgeridoo transition intervals, onset F1 is inappropriate: compare overlap, boundary spreads, and category agreement separately. For Clock acquisition, preserve the earliest plausible acquisition time, latest plausible acquisition time, and listener confidence. For macro boundaries, distinguish point judgments from transition zones and use a chance baseline. A pooled '92% agreement' across all these classes would be nearly uninterpretable.
 
 
 9. THE TOLERANCE CURVE IS MORE INFORMATIVE THAN ONE NUMBER
-Suppose Ankora annotations match at 50 milliseconds but not at 25 milliseconds. That may reveal a practical limit of the recording, annotators, or event definition. Rather than selecting whichever tolerance gives a flattering result, report a predeclared curve across several windows. The mir_eval onset evaluation framework uses tolerance-based matching for onset detection; its existence does not make any particular tolerance universally correct for KLAAT. Report the actual offsets and unmatched counts alongside F1.
+Suppose the drum annotations match at 50 milliseconds but not at 25 milliseconds. That may reveal a practical limit of the recording, annotators, or event definition. Rather than selecting whichever tolerance gives a flattering result, report a predeclared curve across several windows. The mir_eval onset evaluation framework uses tolerance-based matching for onset detection; its existence does not make any particular tolerance universally correct for KLAAT. Report the actual offsets and unmatched counts alongside F1.
 
 
 10. INTERVAL AGREEMENT NEEDS MORE THAN OVERLAP
-Two Amastacia annotations can overlap strongly but disagree about their start and end. Conversely, two short intervals can describe the same gradual change while barely overlapping. Preserve intersection-over-union as one descriptive statistic, but also report the start difference, end difference, duration difference, and whether both annotators identified the same acoustic phenomenon. A low overlap score should trigger a review of event definition before a declaration that the annotators heard different music.
+Two the didgeridoo annotations can overlap strongly but disagree about their start and end. Conversely, two short intervals can describe the same gradual change while barely overlapping. Preserve intersection-over-union as one descriptive statistic, but also report the start difference, end difference, duration difference, and whether both annotators identified the same acoustic phenomenon. A low overlap score should trigger a review of event definition before a declaration that the annotators heard different music.
 
 
 11. ADJUDICATION IS NOT A TIME MACHINE
@@ -66,7 +66,7 @@ If Paul knows exactly where Threshold Gate was intended and then adjudicates lis
 
 
 13. UNCERTAINTY MUST TRAVEL INTO THE NEXT MODEL
-Suppose a future analysis asks whether a rise in Ankora event density predicts a listener's boundary near Rising Pulse. If some strikes are ambiguous, the density estimate is uncertain. If the phase boundary is a transition zone, its location is uncertain. If the listener's click has response delay, the observation is uncertain. Fitting one model to one arbitrarily cleaned dataset produces false precision. A practical first step is sensitivity analysis: repeat the planned comparison across defensible label sets, tolerance windows, and transition-zone choices. Report which conclusions survive.
+Suppose a future analysis asks whether a rise in the drum event density predicts a listener's boundary near Rising Pulse. If some strikes are ambiguous, the density estimate is uncertain. If the phase boundary is a transition zone, its location is uncertain. If the listener's click has response delay, the observation is uncertain. Fitting one model to one arbitrarily cleaned dataset produces false precision. A practical first step is sensitivity analysis: repeat the planned comparison across defensible label sets, tolerance windows, and transition-zone choices. Report which conclusions survive.
 
 
 14. DO NOT CALL EVERY RESAMPLING METHOD A CONFIDENCE INTERVAL
@@ -74,27 +74,27 @@ A useful sensitivity range may show how a result changes when plausible annotati
 
 
 15. PRESERVE THE UNIT OF REPLICATION
-Twenty Ankora strikes from one take are not twenty independent performances. Twelve listeners at one event are not twelve independent venues. Two annotators labeling the same recording are not independent musical stimuli. Report results by recording, annotator, listener, and venue. When enough takes exist, reserve complete performances for held-out evaluation. Do not split adjacent windows from the same take between training and testing and then describe the result as generalization to new performances.
+Twenty the drum strikes from one take are not twenty independent performances. Twelve listeners at one event are not twelve independent venues. Two annotators labeling the same recording are not independent musical stimuli. Report results by recording, annotator, listener, and venue. When enough takes exist, reserve complete performances for held-out evaluation. Do not split adjacent windows from the same take between training and testing and then describe the result as generalization to new performances.
 
 
 16. A NEGATIVE RESULT CAN IMPROVE THE COMPOSITION
-If Ankora attacks are reliably annotated but the Threshold Gate is not independently perceived, the problem may be compositional rather than technical. If Amastacia gestures are not reproducibly classified, revise the gesture dictionary before testing their perceptual influence. If listener phase reports are stable but acoustic feature models fail, the current feature set may be incomplete. These are different outcomes requiring different responses. No one failure should be recast as proof of hidden resonance.
+If the drum attacks are reliably annotated but the Threshold Gate is not independently perceived, the problem may be compositional rather than technical. If the didgeridoo gestures are not reproducibly classified, revise the gesture dictionary before testing their perceptual influence. If listener phase reports are stable but acoustic feature models fail, the current feature set may be incomplete. These are different outcomes requiring different responses. No one failure should be recast as proof of hidden resonance.
 
 
 17. THE FOUR-PHASE ARCHITECTURE: GROUND ANCHOR
-Ground Anchor must be represented as more than 'no drum.' Log Amastacia's Field stability, breath phrases, spectral gestures, and any quiet intervals. Separate what the microphone measures from what listeners report as continuity or enclosure. A listener may perceive a coherent initial state without identifying many discrete boundaries. The experiment should allow that answer rather than requiring a high event count.
+Ground Anchor must be represented as more than 'no drum.' Log the didgeridoo's Field stability, breath phrases, spectral gestures, and any quiet intervals. Separate what the microphone measures from what listeners report as continuity or enclosure. A listener may perceive a coherent initial state without identifying many discrete boundaries. The experiment should allow that answer rather than requiring a high event count.
 
 
 18. THE FOUR-PHASE ARCHITECTURE: THRESHOLD GATE
-Record Ankora's first attack as a point event. Record the performer's intended Gate as a compositional zone. Record each listener's first report of a recoverable Clock separately. If those differ by several beats, that difference may be the finding. Test whether the gap persists across independent takes and whether it depends on Amastacia's simultaneous breath changes. Never set Gate time equal to the first drum onset merely because that is easiest to measure.
+Record the drum's first attack as a point event. Record the performer's intended Gate as a compositional zone. Record each listener's first report of a recoverable Clock separately. If those differ by several beats, that difference may be the finding. Test whether the gap persists across independent takes and whether it depends on the didgeridoo's simultaneous breath changes. Never set Gate time equal to the first drum onset merely because that is easiest to measure.
 
 
 19. THE FOUR-PHASE ARCHITECTURE: RISING PULSE
-Track event density, accents, omissions, loudness, and Field changes as different variables. A denser Ankora Surface may produce a smooth increase in urgency rather than additional section boundaries. A listener may experience activation without reporting tactile vibration. Record urgency, bodily sensation, and boundary perception separately. The claim that controlled density preserves absorption while increasing activation remains a KLAAT hypothesis until tested; annotation quality is only a prerequisite.
+Track event density, accents, omissions, loudness, and Field changes as different variables. A denser the drum Surface may produce a smooth increase in urgency rather than additional section boundaries. A listener may experience activation without reporting tactile vibration. Record urgency, bodily sensation, and boundary perception separately. The claim that controlled density preserves absorption while increasing activation remains a KLAAT hypothesis until tested; annotation quality is only a prerequisite.
 
 
 20. THE FOUR-PHASE ARCHITECTURE: RETURN PATH
-Mark the start of intended Withdrawal, reduction of subdivisions, last Ankora strike, and the later moment when a listener stops anticipating another strike. These may be separated in time. Amastacia's Field may remain stable or may itself change. The annotation scheme must distinguish 'no physical attack' from 'no perceived Clock.' A lingering felt Pulse is a perceptual report, not evidence of ongoing mechanical stimulation.
+Mark the start of intended Withdrawal, reduction of subdivisions, last the drum strike, and the later moment when a listener stops anticipating another strike. These may be separated in time. The didgeridoo's Field may remain stable or may itself change. The annotation scheme must distinguish 'no physical attack' from 'no perceived Clock.' A lingering felt Pulse is a perceptual report, not evidence of ongoing mechanical stimulation.
 
 
 21. WHAT THIS DOES TO KSV-0.1
@@ -118,9 +118,9 @@ CONTEXT-DEPENDENT — Statistical measurement-error corrections require assumpti
 
 
 24. PLAUSIBLE AND TESTABLE HYPOTHESES
-PLAUSIBLE/TESTABLE — Ankora attack annotation will be more temporally reproducible than Amastacia gradual-transition annotation under a common recording setup.
+PLAUSIBLE/TESTABLE — the drum attack annotation will be more temporally reproducible than the didgeridoo gradual-transition annotation under a common recording setup.
 PLAUSIBLE/TESTABLE — Class-specific intervals and uncertainty labels will reduce artificial disagreements compared with a single-timestamp codebook.
-PLAUSIBLE/TESTABLE — Listener estimates of Clock acquisition will vary more than annotator estimates of Ankora's first attack.
+PLAUSIBLE/TESTABLE — Listener estimates of Clock acquisition will vary more than annotator estimates of the drum's first attack.
 PLAUSIBLE/TESTABLE — A phase-boundary model that appears strong with one consensus reference may weaken when plausible alternate annotations are propagated through analysis.
 PLAUSIBLE/TESTABLE — A robust KLAAT phase effect, if present, will survive held-out performance testing and reasonable annotation/tolerance choices.
 PLAUSIBLE/TESTABLE — A pulse-conditional segmentation model may outperform fixed acoustic-cue weights, but only after independent labels and uncertainty are preserved.
@@ -140,7 +140,7 @@ UNSUPPORTED — More decimal places in an onset label mean greater physiological
 UNSUPPORTED — A single annotated take validates KSV-0.1.
 UNSUPPORTED — Statistical significance from many windows in one take constitutes independent replication.
 UNSUPPORTED — A response that survives annotation sensitivity checks establishes a neural or somatic mechanism.
-UNSUPPORTED — An omitted Ankora strike supplies tactile impact.
+UNSUPPORTED — An omitted the drum strike supplies tactile impact.
 UNSUPPORTED — KLAAT induces theta, heals tissue, resets the nervous system, or causes therapeutic activation by virtue of these annotation methods.
 
 
@@ -150,8 +150,8 @@ Add a REFERENCE-DISTRIBUTION GATE after the Event-Ontology and Uncertainty Gate.
 
 28. PRACTICAL KLAAT EXPERIMENT — KRX-076: THE REFERENCE-ROBUSTNESS AUDIT
 OBJECTIVE: Establish whether a KLAAT annotation and phase-boundary result survives reasonable uncertainty in the reference record.
-MATERIAL: Use the existing 66-second September reference recording if the actual analyzable audio can be obtained; otherwise use a newly recorded human-performed 8–12-minute Amastacia/Ankora four-phase take. Do not claim to have analyzed unavailable audio. Record microphone position, sample rate, recording date, and source identity. Paul privately logs intended phase zones before any listener test.
-ANNOTATION: Give two independent annotators the same frozen v0.1 codebook. Each marks (a) Ankora attacks as point events with uncertainty, (b) Amastacia breath/spectral gestures as intervals, (c) Clock acquisition and Withdrawal as transition zones, and (d) ambiguous cases explicitly. Annotators first listen without waveform display, then do a separate waveform-assisted pass; preserve both passes.
+MATERIAL: Use the existing 66-second September reference recording if the actual analyzable audio can be obtained; otherwise use a newly recorded human-performed 8–12-minute the didgeridoo and drum four-phase take. Do not claim to have analyzed unavailable audio. Record microphone position, sample rate, recording date, and source identity. Paul privately logs intended phase zones before any listener test.
+ANNOTATION: Give two independent annotators the same frozen v0.1 codebook. Each marks (a) the drum attacks as point events with uncertainty, (b) the didgeridoo breath/spectral gestures as intervals, (c) Clock acquisition and Withdrawal as transition zones, and (d) ambiguous cases explicitly. Annotators first listen without waveform display, then do a separate waveform-assisted pass; preserve both passes.
 RELIABILITY: For attacks, perform one-to-one matching at predeclared ±25 and ±50 ms windows, reporting matched/unmatched counts, F1, and median/dispersion of signed offsets. For Field gestures, report interval overlap plus start/end spread and category disagreements. For phase zones, report agreement on whether a transition exists and the distribution of its location/width. Keep each class separate. Do not label the consensus as infallible truth.
 SENSITIVITY: Create three analysis versions: raw annotator A, raw annotator B, and a separately adjudicated reference. Where interval uncertainty is explicit, add predeclared earliest/latest plausible bounds. Recompute the same simple boundary-alignment statistic under every version. Do not select the best-scoring reference. If there are no listeners yet, run this as a dry-run analysis of annotation reliability only; report no listener outcome.
 LISTENER FOLLOW-UP: Once event labels are sufficiently stable, ask a small group of consenting listeners to hear the uninterrupted take without KLAAT phase names. Collect open-ended reports, then blind macro-boundary marks on a later pass. Compare against the predeclared intended zones, with count-preserving and spacing-preserving chance baselines. Keep participant, take, and venue identifiers for later replication.

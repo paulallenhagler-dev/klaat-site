@@ -1,4 +1,4 @@
-SESSION 45 — REVERBERATION TIME & TEMPORAL SMEARING: WHEN THE ROOM STARTS PLAYING ANKORA
+SESSION 45 — REVERBERATION TIME & TEMPORAL SMEARING: WHEN THE ROOM STARTS PLAYING DRUM
 ORIGINAL SESSION TEXT PRESERVED FROM PROJECT CONVERSATION
 
 
@@ -14,7 +14,7 @@ the room.
 We have mentioned room modes and reflections before, but now we're going to study one specific acoustic property in depth: reverberation.
 
 
-This matters especially for Ankora because a room can fundamentally alter the temporal structure of a pulse without you changing your playing at all.
+This matters especially for the drum because a room can fundamentally alter the temporal structure of a pulse without you changing your playing at all.
 
 
 You strike once.
@@ -26,7 +26,7 @@ The room keeps striking.
 Direct sound is only the beginning
 
 
-Imagine you strike Ankora in an open field.
+Imagine you strike the drum in an open field.
 
 
 The listener receives a strong direct wave:
@@ -95,13 +95,13 @@ a room doesn't have one universal reverberation behavior.
 It has frequency-dependent decay characteristics.
 
 
-That is particularly important for KLAAT because both Amastacia and Ankora contain substantial low-frequency energy.
+That is particularly important for KLAAT because both the didgeridoo and drum contain substantial low-frequency energy.
 
 
 Why this matters for rhythm
 
 
-Suppose Ankora produces a strike every 438 ms, roughly corresponding to your ~137 BPM calibration pulse.
+Suppose the drum produces a strike every 438 ms, roughly corresponding to your ~137 BPM calibration pulse.
 
 
 Now imagine the room's audible decay from each strike lasts longer than 438 ms.
@@ -143,7 +143,7 @@ The room can therefore change perceived density
 This is important.
 
 
-Take exactly the same Ankora pattern.
+Take exactly the same the drum pattern.
 
 
 Play it in:
@@ -253,7 +253,7 @@ This connects directly to prediction
 Sessions 36–39 dealt extensively with temporal expectation.
 
 
-For the nervous system to predict Ankora accurately, it benefits from clear temporal landmarks.
+For the nervous system to predict the drum accurately, it benefits from clear temporal landmarks.
 
 
 A sharp attack gives excellent timing information:
@@ -286,13 +286,13 @@ A reverberant Pulse may produce stronger environmental immersion.
 Those could be intentionally different KLAAT states.
 
 
-Amastacia behaves differently
+The didgeridoo behaves differently
 
 
 Now consider the Drone.
 
 
-Amastacia is already sustained.
+The didgeridoo is already sustained.
 
 
 Reverberation therefore doesn't simply lengthen isolated events.
@@ -316,7 +316,7 @@ reduced localization precision,
 and a sense that the sound occupies the environment rather than coming strictly from the instrument.
 
 
-This is exactly where the room can help Amastacia become less:
+This is exactly where the room can help the didgeridoo become less:
 
 
 “Paul playing a didgeridoo over there”
@@ -331,16 +331,16 @@ and more:
 That's potentially ideal for Ground Anchor.
 
 
-But Ankora and Amastacia may want opposite rooms
+But the drum and didgeridoo may want opposite rooms
 
 
 Here's the problem.
 
 
-Amastacia can benefit aesthetically from a rich reverberant field.
+The didgeridoo can benefit aesthetically from a rich reverberant field.
 
 
-Ankora may benefit from temporal definition.
+The drum may benefit from temporal definition.
 
 
 Therefore the perfect room for Drone isn't necessarily the perfect room for Pulse.
@@ -349,10 +349,10 @@ Therefore the perfect room for Drone isn't necessarily the perfect room for Puls
 This creates a genuine acoustic design problem for KLAAT.
 
 
-You need enough reverberation to let Amastacia inhabit the architecture.
+You need enough reverberation to let the didgeridoo inhabit the architecture.
 
 
-But not so much that Ankora's rhythmic structure turns into mud.
+But not so much that the drum's rhythmic structure turns into mud.
 
 
 That balance is something we should eventually measure rather than guess.
@@ -397,10 +397,10 @@ For KLAAT, we shouldn't eventually evaluate a venue only by saying:
 We should listen for:
 
 
-Does Ankora remain articulate?
+Does the drum remain articulate?
 
 
-Does Amastacia spread?
+Does the didgeridoo spread?
 
 
 Are there obvious flutter echoes?
@@ -469,7 +469,7 @@ Reverberation gives us another interpretation.
 Ground Anchor
 
 
-Allow Amastacia to establish the room's decay field.
+Allow the didgeridoo to establish the room's decay field.
 
 
 You aren't only introducing the Drone.
@@ -481,7 +481,7 @@ You're exciting the architecture.
 Threshold Gate
 
 
-First Ankora strike enters.
+First the drum strike enters.
 
 
 For the first time, the listener hears the room's transient response.
@@ -505,7 +505,7 @@ The acoustic system moves gradually:
 event → overlapping events → field.
 
 
-At peak intensity, Ankora may cease behaving purely as discrete percussion and begin contributing to a nearly continuous resonant environment.
+At peak intensity, the drum may cease behaving purely as discrete percussion and begin contributing to a nearly continuous resonant environment.
 
 
 Return Path
@@ -517,16 +517,16 @@ As strike density decreases, space reappears between reverberant tails.
 Individual impacts separate again.
 
 
-Then Ankora disappears.
+Then the drum disappears.
 
 
 Its final reverberation decays.
 
 
-Amastacia remains.
+The didgeridoo remains.
 
 
-Eventually Amastacia stops.
+Eventually the didgeridoo stops.
 
 
 Then—as Session 40 established—the room itself returns.
@@ -562,7 +562,7 @@ performer hears room → changes performance.
 So the actual system is circular:
 
 
-you excite Amastacia/Ankora
+you excite the didgeridoo and drum
 
 
 ↓
@@ -625,10 +625,10 @@ Established: early reflections and late reverberation contribute differently to 
 Established: audiences alter room acoustics through absorption.
 
 
-Highly plausible: increasing reverberation will shift Ankora perceptually from discrete impacts toward a more continuous field as strike density increases.
+Highly plausible: increasing reverberation will shift the drum perceptually from discrete impacts toward a more continuous field as strike density increases.
 
 
-Highly plausible: Amastacia will appear more spatially diffuse in a reverberant environment.
+Highly plausible: the didgeridoo will appear more spatially diffuse in a reverberant environment.
 
 
 Testable: the same KLAAT passage should produce significantly different perceived activation, immersion and rhythmic clarity in rooms with different decay characteristics.
@@ -649,7 +649,7 @@ A room sounding more “resonant” does not automatically mean it is doing more
 KLAAT Experiment #45 — Find the Impact-to-Field Transition
 
 
-Take Ankora to three acoustically different spaces.
+Take the drum to three acoustically different spaces.
 
 
 You don't need a concert hall.
@@ -690,7 +690,7 @@ Can you clearly locate each strike in time?
 
 
 Environmental fusion
-How strongly does Ankora seem to become part of the room rather than remain a discrete object?
+How strongly does the drum seem to become part of the room rather than remain a discrete object?
 
 
 You're looking for an inverse relationship.
@@ -723,7 +723,7 @@ Then when you walk into a future performance space, you won't merely ask:
 You'll ask something far more useful:
 
 
-“At what Pulse density does this room stop returning individual Ankora strikes and begin returning a continuous field?”
+“At what Pulse density does this room stop returning individual the drum strikes and begin returning a continuous field?”
 
 
 Because at that moment, you are no longer playing only the drum.

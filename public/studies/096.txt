@@ -1,6 +1,6 @@
 KLAAT RESONANCE RESEARCH — SESSION 96
 THE STRIKE THE EYE CAN HEAR
-Visual causality, Ankora's apparent decay, and the difference between listening to KLAAT and watching it happen
+Visual causality, the drum's apparent decay, and the difference between listening to KLAAT and watching it happen
 Published: October 17, 2026 — 3:13 PM CDT (America/Chicago)
 
 
@@ -13,7 +13,7 @@ STATUS: Research synthesis and an optional future observational comparison. No K
 CENTRAL QUESTION
 
 
-Paul strikes Ankora while Amastacia's drone continues. The elk hide moves, the hand rebounds, and the drum's acoustic energy begins decaying. A person hearing the recording receives one set of cues. A person watching the same moment receives those cues plus a visible cause: a moving hand, a moment of contact, and the movement after contact. Could the viewer experience the drum as lasting longer, carrying more weight, or pulling the body more strongly into the pulse even though the audio signal has not changed?
+Paul strikes the drum while the didgeridoo's drone continues. The drumhead material moves, the hand rebounds, and the drum's acoustic energy begins decaying. A person hearing the recording receives one set of cues. A person watching the same moment receives those cues plus a visible cause: a moving hand, a moment of contact, and the movement after contact. Could the viewer experience the drum as lasting longer, carrying more weight, or pulling the body more strongly into the pulse even though the audio signal has not changed?
 
 
 This is not a question about whether KLAAT should become theatrical. It asks whether part of an authentic performance's perceived sound is constructed jointly by ear and eye. If so, audio-only KLAAT and visually witnessed KLAAT are not merely the same perceptual event with a picture added. They are different receiver conditions. That matters to a project that belongs both in a live room and in headphones during ordinary life.
@@ -33,7 +33,7 @@ PERCEIVED GROOVE ≠ OBSERVED MOVEMENT ≠ ABSORPTION OR TRANCE.
 The connected KLAAT Master Instructions, Curriculum Index, Research Ledger, and Session Corpus were reviewed. The Drive Session Corpus currently ends at Session 93; canonical Library studies and the Index/Ledger establish Sessions 94 and 95. The newest hourly research through October 17 at 14:29 CDT was checked, including the October 17 12:08 note on audiovisual impact causality. This session develops that specific new lead, rather than repeating a general account of live performance.
 
 
-Sessions 89–91 already separate groove from movement, physical source overlap from perceptual binding, and measured onset from perceived timing. Session 94 isolates recording-channel summation. Session 95 isolates individual auditory access. The unresolved variable here is different: when the audio file is held fixed, does a visible gesture that appears to CAUSE an Ankora sound alter the sound's experienced duration or the pulse's motor invitation? Prior KLAAT sessions discuss visual presentation in broader terms, but the corpus and recent notes did not establish a dedicated, source-verified impact-causality experiment or a within-audio audiovisual comparison for Ankora.
+Sessions 89–91 already separate groove from movement, physical source overlap from perceptual binding, and measured onset from perceived timing. Session 94 isolates recording-channel summation. Session 95 isolates individual auditory access. The unresolved variable here is different: when the audio file is held fixed, does a visible gesture that appears to CAUSE an the drum sound alter the sound's experienced duration or the pulse's motor invitation? Prior KLAAT sessions discuss visual presentation in broader terms, but the corpus and recent notes did not establish a dedicated, source-verified impact-causality experiment or a within-audio audiovisual comparison for the drum.
 
 
 2. THE PERCUSSION EXPERIMENT THAT BREAKS AN INTUITIVE RULE
@@ -45,7 +45,7 @@ Schutz and Lipscomb (2007) recorded a marimba performer making gestures conventi
 The surprising result is not that people admire a flamboyant performer. It is that vision affected a judgment the experiment explicitly directed toward hearing. An impact gesture can contribute to the perceptual interpretation of the auditory event itself.
 
 
-This is a primary experimental result from isolated marimba notes, not a demonstration about elk-hide frame drums, long improvisations, or trance. The original study's audiovisual manipulation was deliberately artificial, while its presentation was intended to look like a plausible musical action. We should not assume the magnitude or even the direction transfers unchanged to Ankora.
+This is a primary experimental result from isolated marimba notes, not a demonstration about drumhead material frame drums, long improvisations, or trance. The original study's audiovisual manipulation was deliberately artificial, while its presentation was intended to look like a plausible musical action. We should not assume the magnitude or even the direction transfers unchanged to the drum.
 
 
 3. THE MECHANISM IS NOT 'VISION ALWAYS WINS'
@@ -66,19 +66,19 @@ That 700-millisecond figure is a condition-specific experimental finding, not a 
 A further experiment by Armontrout, Schutz, and Kubovy (2009) reduced the visual gesture to its essential features. A visible sudden change of direction near impact and the duration of motion after impact were more important than several other movement descriptors such as distance, velocity, acceleration, and jerk [3]. A related schematic point-light demonstration could reproduce the effect with minimal visual information [4]. The causal-looking movement mattered more than elaborate imagery.
 
 
-This gives KLAAT a precise distinction: the natural rebound of a hand after striking Ankora may be perceptually relevant even if the audience is not attending to the performer's face, costume, or ritual symbolism. The hypothesis is about event perception, not spectacle.
+This gives KLAAT a precise distinction: the natural rebound of a hand after striking the drum may be perceptually relevant even if the audience is not attending to the performer's face, costume, or ritual symbolism. The hypothesis is about event perception, not spectacle.
 
 
-4. WHY ANKORA AND AMASTACIA MAY BE DIFFERENT CASES
+4. WHY DRUM AND DIDGERIDOO MAY BE DIFFERENT CASES
 
 
-Ankora is an impact source. Each strike has a visible action, an acoustic attack, membrane resonance, and decay. The visible action offers a plausible explanation for the sound. Amastacia is different: a sustained, continuously regenerated drone, with changes in vocal-tract shaping, lip oscillation, breath articulation, and noise. There is no isolated hand impact corresponding to every change in its spectrum.
+The drum is an impact source. Each strike has a visible action, an acoustic attack, membrane resonance, and decay. The visible action offers a plausible explanation for the sound. The didgeridoo is different: a sustained, continuously regenerated drone, with changes in vocal-tract shaping, lip oscillation, breath articulation, and noise. There is no isolated hand impact corresponding to every change in its spectrum.
 
 
-The 2009 experiments suggest that the specific visual-duration illusion should be more plausible for Ankora's impact-like events than for an unchanged sustained Amastacia tone. They do NOT show that sustained musical sounds are immune to all visual influence. A viewer can see Paul's breath, posture, facial effort, or instrument movement and form other kinds of expectation. Those would require different experiments and should not be smuggled into the marimba result.
+The 2009 experiments suggest that the specific visual-duration illusion should be more plausible for the drum's impact-like events than for an unchanged sustained the didgeridoo tone. They do NOT show that sustained musical sounds are immune to all visual influence. A viewer can see Paul's breath, posture, facial effort, or instrument movement and form other kinds of expectation. Those would require different experiments and should not be smuggled into the marimba result.
 
 
-KLAAT adds a distinctive ecological difficulty: the two instruments coexist. A listener may use the continuous drone to hear an Ankora tail as part of one ongoing texture. The perceived duration of the drum may not be a single measurable boundary at all. 'I still felt the strike' could refer to membrane decay, room reverberation, expectation, attention, memory, or audiovisual grouping. Session 96 therefore proposes measuring perceived persistence as a listener response while keeping actual acoustic decay as a separate measurement.
+KLAAT adds a distinctive ecological difficulty: the two instruments coexist. A listener may use the continuous drone to hear an the drum tail as part of one ongoing texture. The perceived duration of the drum may not be a single measurable boundary at all. 'I still felt the strike' could refer to membrane decay, room reverberation, expectation, attention, memory, or audiovisual grouping. Session 96 therefore proposes measuring perceived persistence as a listener response while keeping actual acoustic decay as a separate measurement.
 
 
 5. THE SECOND PRIMARY RESULT: SEEING A DRUMMER CAN CHANGE GROOVE
@@ -90,10 +90,10 @@ Eaves and colleagues (2019 online; 2020 journal issue) tested 36 participants li
 Both the audio groove level and the visual-display condition affected ratings. Fully corresponding drummer motion produced higher ratings than the incompatible display conditions. The experiment also showed that the effect of high versus low groove audio on desire to move was not uniform across visual conditions. This is especially relevant because it concerns a drummer, temporal movement cues, and a subjective motor invitation, rather than only isolated note duration.
 
 
-Important boundaries: the participants rated their DESIRE to move; the experiment did not establish that they actually moved more. The 0.5-second shift was an experimental mismatch, not a KLAAT production parameter. Point-light representations and popular-music patterns are not equivalent to watching an elk-hide frame drum during a continuous didgeridoo improvisation. Nor do these ratings demonstrate altered consciousness, physiological entrainment, or healing.
+Important boundaries: the participants rated their DESIRE to move; the experiment did not establish that they actually moved more. The 0.5-second shift was an experimental mismatch, not a KLAAT production parameter. Point-light representations and popular-music patterns are not equivalent to watching an drum during a continuous didgeridoo improvisation. Nor do these ratings demonstrate altered consciousness, physiological entrainment, or healing.
 
 
-Still, the result gives a new KLAAT question: does seeing Paul's naturally synchronized Ankora motion alter a listener's sense of rhythmic invitation when the exact same audio is heard? If yes, that would help explain why a live KLAAT encounter and an audio release may have different forms of intensity without treating either as incomplete.
+Still, the result gives a new KLAAT question: does seeing Paul's naturally synchronized the drum motion alter a listener's sense of rhythmic invitation when the exact same audio is heard? If yes, that would help explain why a live KLAAT encounter and an audio release may have different forms of intensity without treating either as incomplete.
 
 
 6. THE CONTRADICTION: AUDIO CAN DOMINATE, AND VISUAL EFFECTS DEPEND ON TASK
@@ -123,13 +123,13 @@ Visible, causally plausible impact gestures can change judgments of a percussive
 CONTEXT-DEPENDENT EVIDENCE
 
 
-The duration illusion depends on the impact-like character of the sound, the apparent causal relationship, and post-impact visual movement. The groove findings depend on visual congruence, musical material, training, and the response being measured. Findings from marimba, drum kit, piano, violin, and laboratory moving figures cannot be assigned an effect size for Amastacia and Ankora.
+The duration illusion depends on the impact-like character of the sound, the apparent causal relationship, and post-impact visual movement. The groove findings depend on visual congruence, musical material, training, and the response being measured. Findings from marimba, drum kit, piano, violin, and laboratory moving figures cannot be assigned an effect size for the didgeridoo and drum.
 
 
 PLAUSIBLE AND TESTABLE FOR KLAAT
 
 
-Seeing Ankora's natural strike and rebound may change perceived tail duration or pulse persistence when the identical audio is presented with versus without video. Corresponding motion may change groove or urge-to-move ratings. The effect may be stronger for Ankora attacks than for relatively stable Amastacia passages. Individual listeners may respond in opposite directions, especially when visual attention competes with immersion.
+Seeing the drum's natural strike and rebound may change perceived tail duration or pulse persistence when the identical audio is presented with versus without video. Corresponding motion may change groove or urge-to-move ratings. The effect may be stronger for the drum attacks than for relatively stable the didgeridoo passages. Individual listeners may respond in opposite directions, especially when visual attention competes with immersion.
 
 
 SPECULATION
@@ -141,7 +141,7 @@ The visible continuity of Paul's body across many strikes may help some listener
 UNSUPPORTED
 
 
-The visible gesture physically prolongs Ankora's recorded decay; video automatically increases absorption; watching KLAAT produces trance; visual causality proves neural entrainment; synchronized motion guarantees more actual audience movement; a 700-ms video offset is acceptable for KLAAT; choreographing longer strokes is a scientifically supported way to intensify KLAAT. None follows from the evidence.
+The visible gesture physically prolongs the drum's recorded decay; video automatically increases absorption; watching KLAAT produces trance; visual causality proves neural entrainment; synchronized motion guarantees more actual audience movement; a 700-ms video offset is acceptable for KLAAT; choreographing longer strokes is a scientifically supported way to intensify KLAAT. None follows from the evidence.
 
 
 8. A SOURCE–EVENT–RECEIVER MODEL
@@ -150,10 +150,10 @@ The visible gesture physically prolongs Ankora's recorded decay; video automatic
 The useful research model has five distinct layers:
 
 
-SOURCE ACTION: Paul's spontaneous hand strike, rebound, and body motion; simultaneous Amastacia playing.
+SOURCE ACTION: Paul's spontaneous hand strike, rebound, and body motion; simultaneous the didgeridoo playing.
 
 
-PHYSICAL SOUND: Ankora's attack and decay, Amastacia's spectrum, room reflections, and any microphone/playback effects.
+PHYSICAL SOUND: the drum's attack and decay, the didgeridoo's spectrum, room reflections, and any microphone/playback effects.
 
 
 DELIVERED MEDIA: audio alone, synchronized audio plus natural video, or live performance with additional room/tactile/social cues.
@@ -177,10 +177,10 @@ KLS-001 currently prioritizes authentic baseline takes and blind audio-first lis
 Instead, consider an optional separate KRX-096 follow-up AFTER the audio-only baseline. Keep the same audio file and playback setup in each condition; use synchronized, naturally captured video for the audiovisual condition. Randomize or counterbalance order across participants; where repeated exposure would contaminate the comparison, use separate listener groups or matched clips. Keep loudness, excerpt length, headphones/speakers, and audio processing identical. Use unprompted impressions first, then distinct ratings for perceived strike persistence, pulse clarity, groove/urge to move, enjoyment, and absorption. If actual movement is of interest, measure it separately. Store the video condition and timing offset as metadata.
 
 
-A technical trap deserves emphasis: extracting naturally occurring strikes from a continuous KLAAT take may leave Amastacia sounding throughout the excerpt. A listener asked to judge 'how long the sound lasts' may simply answer 'it never stopped.' The study must identify the object of judgment as the particular drum impact/tail, and ideally check that listeners can recognize it without turning the question into a leading explanation. Audio-only and audiovisual versions must preserve the exact same sound. Video editing must not introduce different fades, compression, onset trimming, or level changes.
+A technical trap deserves emphasis: extracting naturally occurring strikes from a continuous KLAAT take may leave the didgeridoo sounding throughout the excerpt. A listener asked to judge 'how long the sound lasts' may simply answer 'it never stopped.' The study must identify the object of judgment as the particular drum impact/tail, and ideally check that listeners can recognize it without turning the question into a leading explanation. Audio-only and audiovisual versions must preserve the exact same sound. Video editing must not introduce different fades, compression, onset trimming, or level changes.
 
 
-A further control could compare the full performance video with a version in which Ankora's striking hand is hidden while the audio remains unchanged. This is more ecologically natural than adding an artificial 500-ms mismatch. But masking the hand also changes visual composition and attention; it is not a perfect causal isolation. No one control removes every confound. A clean null is useful: KLAAT may be strong enough acoustically that seeing the gesture adds little to these specific judgments.
+A further control could compare the full performance video with a version in which the drum's striking hand is hidden while the audio remains unchanged. This is more ecologically natural than adding an artificial 500-ms mismatch. But masking the hand also changes visual composition and attention; it is not a perfect causal isolation. No one control removes every confound. A clean null is useful: KLAAT may be strong enough acoustically that seeing the gesture adds little to these specific judgments.
 
 
 10. WHY THIS MATTERS TO THE ART, WITHOUT GOVERNING IT
@@ -189,7 +189,7 @@ A further control could compare the full performance video with a version in whi
 KLAAT's archaeosonic identity is not simply a visual theme pasted onto a soundtrack. It is a performance made by a breathing human body interacting with agave, hide, air, and room. Seeing that process may reveal genuine causal information to the listener. This can be studied without adding stage movements, prescribing hand trajectories, or telling Paul to manufacture a particular visual effect.
 
 
-The study also protects KLAAT's two legitimate futures. A person watching Paul live may receive meaningful visual information. A person driving, drawing, walking, or working while listening to an audio release may be energized by Ankora's pulse and Amastacia's continuous texture without seeing any action at all. Those are not competing artistic claims. They are different listening ecologies, and each deserves its own outcome measures.
+The study also protects KLAAT's two legitimate futures. A person watching Paul live may receive meaningful visual information. A person driving, drawing, walking, or working while listening to an audio release may be energized by the drum's pulse and the didgeridoo's continuous texture without seeing any action at all. Those are not competing artistic claims. They are different listening ecologies, and each deserves its own outcome measures.
 
 
 The decisive question is no longer whether the live show is 'more powerful' than a recording. It is more precise: WHEN THE SOUND IS HELD FIXED, WHAT DOES SEEING THE ACT THAT MADE IT ADD TO THE LISTENER'S EXPERIENCE — AND WHAT DOES IT LEAVE UNCHANGED?
@@ -198,7 +198,7 @@ The decisive question is no longer whether the live show is 'more powerful' than
 11. OPTIONAL KRX-096 — SAME AUDIO, TWO WAYS OF ENCOUNTERING IT
 
 
-If Paul already has a video of an authentic improvised passage, select one short section with several clear Ankora strikes and continuous Amastacia. Keep the original audio exactly the same in two versions: audio-only, and that audio with the synchronized performance video. Ask a few willing listeners for their own description before giving any mechanism explanation. Then, if they are comfortable, ask whether individual drum strikes seemed to linger, whether the pulse invited movement, and whether the experience was absorbing. Compare responses without trying to make them agree. This is an exploratory observation, not a proof, and it requires no change to Paul's playing.
+If Paul already has a video of an authentic improvised passage, select one short section with several clear the drum strikes and continuous the didgeridoo. Keep the original audio exactly the same in two versions: audio-only, and that audio with the synchronized performance video. Ask a few willing listeners for their own description before giving any mechanism explanation. Then, if they are comfortable, ask whether individual drum strikes seemed to linger, whether the pulse invited movement, and whether the experience was absorbing. Compare responses without trying to make them agree. This is an exploratory observation, not a proof, and it requires no change to Paul's playing.
 
 
 If no usable video exists, nothing needs to be staged or recorded specially for this session. The research question can wait for an authentic take.
@@ -207,7 +207,7 @@ If no usable video exists, nothing needs to be staged or recorded specially for 
 FINAL POSITION
 
 
-Ankora's strike is an acoustic event, but its perceived persistence may be partly an audiovisual event. The eye can supply a plausible cause for a sound, and in some tested situations that cause changes what the listener reports hearing. KLAAT may possess this additional layer of embodied perception in live or filmed form. Whether it does, and whether it affects absorption or activation, remains to be discovered from KLAAT itself.
+The drum's strike is an acoustic event, but its perceived persistence may be partly an audiovisual event. The eye can supply a plausible cause for a sound, and in some tested situations that cause changes what the listener reports hearing. KLAAT may possess this additional layer of embodied perception in live or filmed form. Whether it does, and whether it affects absorption or activation, remains to be discovered from KLAAT itself.
 
 
 EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.

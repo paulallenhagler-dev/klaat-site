@@ -1,6 +1,6 @@
 KLAAT RESONANCE RESEARCH — SESSION 136
 THE ECHO THAT JOINS THE PERFORMANCE
-When the room and the monitor return different versions of Ankora, who is setting the pulse?
+When the room and the monitor return different versions of the drum, who is setting the pulse?
 Published: 2026-10-30, 19:11 CDT (America/Chicago)
 
 
@@ -11,13 +11,13 @@ Experience-led creation. Science-informed refinement.
 RESEARCH QUESTION
 
 
-KLAAT is played in a room, not into an abstract signal-processing diagram. Paul hears Ankora's elk-hide membrane immediately, feels the strike through his hand and arm, hears Amastacia's C# drone through his own body and the surrounding air, and may eventually hear both instruments again through a microphone, loop pedal, amplifier, and loudspeaker. A wall can return a delayed copy. A monitor can return another. Those copies may differ in delay, loudness, spectrum, and stability.
+KLAAT is played in a room, not into an abstract signal-processing diagram. Paul hears the drum's drumhead immediately, feels the strike through his hand and arm, hears the didgeridoo's C# drone through his own body and the surrounding air, and may eventually hear both instruments again through a microphone, loop pedal, amplifier, and loudspeaker. A wall can return a delayed copy. A monitor can return another. Those copies may differ in delay, loudness, spectrum, and stability.
 
 
-If a spontaneous Ankora passage begins to feel less immediate, or the next few strikes shift in spacing, is the environment merely changing what a microphone records? Or has the returned sound entered Paul's own motor decisions? Could the same environment feel natural during one improvised passage and disruptive during another, even when its delay has not changed? How can this be studied without instructing Paul to compose a fixed rhythm?
+If a spontaneous the drum passage begins to feel less immediate, or the next few strikes shift in spacing, is the environment merely changing what a microphone records? Or has the returned sound entered Paul's own motor decisions? Could the same environment feel natural during one improvised passage and disruptive during another, even when its delay has not changed? How can this be studied without instructing Paul to compose a fixed rhythm?
 
 
-The important novelty is not the already-established fact that echoes exist or that digital systems have latency. It is the MULTIPATH PERFORMER-FEEDBACK IDENTIFICATION PROBLEM: when direct acoustic sound, acoustic reflection, and electronically reinforced sound coexist, can one distinguish a change in the performed gesture from a change in the sound field, and can delay be interpreted relative to naturally varying Ankora intervals rather than a prescribed BPM?
+The important novelty is not the already-established fact that echoes exist or that digital systems have latency. It is the MULTIPATH PERFORMER-FEEDBACK IDENTIFICATION PROBLEM: when direct acoustic sound, acoustic reflection, and electronically reinforced sound coexist, can one distinguish a change in the performed gesture from a change in the sound field, and can delay be interpreted relative to naturally varying the drum intervals rather than a prescribed BPM?
 
 
 1. NOVELTY AND PROVENANCE GATE
@@ -35,10 +35,10 @@ No actual KLAAT monitor, room impulse response, sound-pressure measurement, orig
 2. THREE SOUNDS THAT CAN FOLLOW ONE STRIKE
 
 
-Imagine one ordinary Ankora strike at time t=0. This is a physical event: hand contacts membrane; the skin moves and transfers force to the air; Paul also receives tactile and proprioceptive information. These are not all simultaneous to the microsecond, but the event is local and causally tied to his action.
+Imagine one ordinary the drum strike at time t=0. This is a physical event: hand contacts membrane; the skin moves and transfers force to the air; Paul also receives tactile and proprioceptive information. These are not all simultaneous to the microsecond, but the event is local and causally tied to his action.
 
 
-The first airborne sound reaches his ears along a direct path after an acoustic travel time. At a representative sound speed of 343 meters per second, each additional meter of travel contributes approximately 2.92 milliseconds. That is elementary propagation physics, not a measured delay for Ankora in a particular room. An acoustic reflection travels a longer path, undergoes absorption and spectral filtering, and arrives later. A second, electrically processed route—microphone, preamp, converter, digital processing or looper, converter, amplifier, loudspeaker, and air—may add still another return. It is possible for the acoustic reflection and amplified return to overlap or to form distinguishable repetitions.
+The first airborne sound reaches his ears along a direct path after an acoustic travel time. At a representative sound speed of 343 meters per second, each additional meter of travel contributes approximately 2.92 milliseconds. That is elementary propagation physics, not a measured delay for the drum in a particular room. An acoustic reflection travels a longer path, undergoes absorption and spectral filtering, and arrives later. A second, electrically processed route—microphone, preamp, converter, digital processing or looper, converter, amplifier, loudspeaker, and air—may add still another return. It is possible for the acoustic reflection and amplified return to overlap or to form distinguishable repetitions.
 
 
 The performer therefore receives not one perfect copy but a mixture:
@@ -52,7 +52,7 @@ ELECTRONIC PATH: processed and re-radiated sound, potentially with buffer delay,
 These labels are causal routes, not separate musical instruments. Their signals sum at the ear, but their relative contribution depends on level, frequency, position, masking, and whether the performer wears isolating headphones. A phone recording made somewhere else in the room captures a different mixture. A single phone waveform cannot identify the paths merely because it contains a double transient.
 
 
-A continuous Amastacia drone complicates this further. Its sustained harmonics can mask or color a delayed Ankora attack. Its own breath articulations and tongue-driven changes can create new onsets that an automatic detector might mislabel as drum strikes. A monitoring delay may be obvious on a sharp transient yet difficult to identify in a sustained sound. Conversely, a drone's continuous low-frequency pressure may make some room resonances more salient than the transient reflections of a drum. We should not assume the same feedback mechanism applies equally to the two instruments.
+A continuous the didgeridoo drone complicates this further. Its sustained harmonics can mask or color a delayed the drum attack. Its own breath articulations and tongue-driven changes can create new onsets that an automatic detector might mislabel as drum strikes. A monitoring delay may be obvious on a sharp transient yet difficult to identify in a sustained sound. Conversely, a drone's continuous low-frequency pressure may make some room resonances more salient than the transient reflections of a drum. We should not assume the same feedback mechanism applies equally to the two instruments.
 
 
 3. THE EVIDENCE: SMALL DELAYS CAN CHANGE FEEL WITHOUT AN OBVIOUS TIMING ERROR
@@ -61,7 +61,7 @@ A continuous Amastacia drone complicates this further. Its sustained harmonics c
 Jack, Mehrabi, Stockman and McPherson (2018) studied action–sound latency in a digital percussive musical interface with professional percussionists and amateur musicians. The tested conditions were 0 ms, fixed 10 ms, 10 ms with approximately ±3 ms jitter, and fixed 20 ms. Participants rated the zero-delay interaction more favorably than the 20-ms and jittered-10-ms conditions on several instrument-quality dimensions. The fixed 10-ms condition did not differ significantly from zero in the reported comparisons. Professional percussionists were more sensitive to latency and generally better preserved timing, although their advantage weakened as task demands increased.
 
 
-This result matters because the subjective sense of control can change even when a summary timing measure does not show a comparably dramatic shift. It also warns against a universal threshold: the result comes from a particular digital percussive interface, group, feedback level, and task. A 20-ms electronically delayed signal mixed with Ankora's immediate acoustic sound is not the same exposure as an exclusively electronic instrument whose only audible sound arrives 20 ms late. Nor does a non-significant 0-versus-10-ms comparison prove that every musician is insensitive to 10 ms.
+This result matters because the subjective sense of control can change even when a summary timing measure does not show a comparably dramatic shift. It also warns against a universal threshold: the result comes from a particular digital percussive interface, group, feedback level, and task. A 20-ms electronically delayed signal mixed with the drum's immediate acoustic sound is not the same exposure as an exclusively electronic instrument whose only audible sound arrives 20 ms late. Nor does a non-significant 0-versus-10-ms comparison prove that every musician is insensitive to 10 ms.
 
 
 A practical KLAAT inference follows: if Paul adds amplification and suddenly says the drum feels 'rubbery,' 'behind the hand,' or less responsive, the experience is data worth recording. It is not proof of a timing deficit, a failure of concentration, or a degraded improvisation. The first question is what changed in the feedback path. This is a technical diagnosis, not a request to change his rhythm.
@@ -76,7 +76,7 @@ Pfordresher and Palmer (2002) conducted three experiments on delayed auditory fe
 Finney and Warren (2002) used rhythmic tapping and found that the delay associated with maximal disruption shifted with tapping rate; the disruptive interval was not a universal fixed number. The tasks were controlled, rhythmic, and often explicitly paced. KLAAT is not. The studies do not imply that Paul should subdivide his playing, use a metronome, or make his phrases land on an experimentally preferred fraction.
 
 
-They do identify a better descriptive variable than delay alone: the relation between a delayed sound and the LOCAL interval between genuine produced events. Let d denote the time between a strike and a returned copy, and let I denote a particular inter-strike interval. The dimensionless ratio r=d/I says where the copy lands relative to the next strike. For example, an illustrative 100-ms return is r=0.23 when I=438 ms, and r=0.31 when I=326 ms. These I values correspond arithmetically to 137 and 184 events per minute if those rates represented a single uniform strike sequence. They do NOT establish that either is Paul's current beat, a prescribed tempo, or a measured local Ankora interval.
+They do identify a better descriptive variable than delay alone: the relation between a delayed sound and the LOCAL interval between genuine produced events. Let d denote the time between a strike and a returned copy, and let I denote a particular inter-strike interval. The dimensionless ratio r=d/I says where the copy lands relative to the next strike. For example, an illustrative 100-ms return is r=0.23 when I=438 ms, and r=0.31 when I=326 ms. These I values correspond arithmetically to 137 and 184 events per minute if those rates represented a single uniform strike sequence. They do NOT establish that either is Paul's current beat, a prescribed tempo, or a measured local the drum interval.
 
 
 In spontaneous KLAAT, I can change from strike to strike; one can hear flurries, gaps, accents, and a drone articulation that suggests a pulse without any new drum impact. Therefore r is a descriptive relation that varies throughout a take. A constant monitor delay can occupy a different fraction of each successive gap. This suggests a reason the same monitor might feel unobtrusive in a spacious passage and more intrusive in a dense one. It remains a KLAAT hypothesis until tested.
@@ -85,7 +85,7 @@ In spontaneous KLAAT, I can change from strike to strike; one can hear flurries,
 5. THE EVIDENCE: ROOM ECHOES MAY ALTER THE PERFORMANCE ITSELF
 
 
-Agator and colleagues (2025), in the Journal of the Acoustical Society of America, examined people producing a basic rhythmic pattern while hearing an added delayed echo of their own sound. Their reported direction was striking: echoes shorter than the produced inter-onset interval tended to be associated with acceleration; echoes longer than the interval tended to be associated with slowing. The authors explicitly cautioned that the echo delays were long and were not directly representative of ordinary acoustic environments. Without their full experimental delay table, it would be irresponsible to transplant a numerical effect size or to predict that a normal wall reflection will accelerate Ankora.
+Agator and colleagues (2025), in the Journal of the Acoustical Society of America, examined people producing a basic rhythmic pattern while hearing an added delayed echo of their own sound. Their reported direction was striking: echoes shorter than the produced inter-onset interval tended to be associated with acceleration; echoes longer than the interval tended to be associated with slowing. The authors explicitly cautioned that the echo delays were long and were not directly representative of ordinary acoustic environments. Without their full experimental delay table, it would be irresponsible to transplant a numerical effect size or to predict that a normal wall reflection will accelerate the drum.
 
 
 Kato, Ueno and Kawai (2015) studied four professional instrumentalists and one operatic baritone under five simulated room-acoustic conditions. Some performers changed tempo, note duration, articulation, dynamics, or other measured features, but patterns were performer- and condition-dependent. The work supports a general point: a room can alter the behavior of the musician, not merely filter the emitted sound. It does not establish a single direction of change for KLAAT.
@@ -106,7 +106,7 @@ Second is the RETURNED ACOUSTIC FIELD: what arrives at Paul's approximate ear po
 Third is PERFORMER EXPERIENCE: immediacy, ease, confidence, distraction, fatigue, flow, and willingness to continue. These are legitimate first-person observations. They cannot be inferred from a single timing-variability statistic. Paul's own spontaneous report should be recorded before suggesting that 'latency' caused anything.
 
 
-Fourth is LISTENER EXPERIENCE: the audience's beat, groove, activation, bodily sensation, and absorption. Listeners may hear a very different direct-to-reflected ratio and may not know whether an attack was produced by Ankora, a delayed loudspeaker, or the recorded loop. An interesting performance-side change does not demonstrate listener trance or entrainment.
+Fourth is LISTENER EXPERIENCE: the audience's beat, groove, activation, bodily sensation, and absorption. Listeners may hear a very different direct-to-reflected ratio and may not know whether an attack was produced by the drum, a delayed loudspeaker, or the recorded loop. An interesting performance-side change does not demonstrate listener trance or entrainment.
 
 
 These four outcomes can move independently. A monitor can feel uncomfortable without changing average attack intervals. A room can create two recorded peaks from one actual strike. A listener can hear greater rhythmic density because of an echo even if Paul has not struck more often. Conversely, Paul might adapt his playing while the audience perceives little difference.
@@ -115,7 +115,7 @@ These four outcomes can move independently. A monitor can feel uncomfortable wit
 7. THE ATTRIBUTION TRAP: MORE RECORDED ATTACKS DO NOT NECESSARILY MEAN MORE PLAYED ATTACKS
 
 
-Suppose a distant microphone shows a cluster of six transient peaks where a close source sensor shows only three genuine membrane strikes. One tempting interpretation is that Paul doubled his rhythmic activity. Another is that reflections, loudspeaker reinforcement, or Amastacia articulation produced additional peaks. Automatic onset detectors are especially vulnerable when an acoustic event is followed by an echo of comparable shape.
+Suppose a distant microphone shows a cluster of six transient peaks where a close source sensor shows only three genuine membrane strikes. One tempting interpretation is that Paul doubled his rhythmic activity. Another is that reflections, loudspeaker reinforcement, or the didgeridoo articulation produced additional peaks. Automatic onset detectors are especially vulnerable when an acoustic event is followed by an echo of comparable shape.
 
 
 The distinction matters to the entire KLAAT research program. If an apparent increase in attack density is later correlated with a listener's energy rating, we must ask what the predictor represents: hand actions, audible arrivals, or an algorithm's detected peaks. Each can be scientifically meaningful, but they are different questions. The audience's experienced event density may genuinely increase without the performer's strike rate increasing. That would be an acoustic-delivery effect, not a new compositional gesture.
@@ -145,13 +145,13 @@ As an artistic metaphor, a room that answers the drum can feel like a third part
 There are at least three plausible outcomes for KLAAT. One: Paul largely ignores the delayed path because direct acoustic and tactile information dominate. Two: he notices it and adjusts unconsciously, changing timing or dynamics while maintaining a strong sense of spontaneous control. Three: he consciously enjoys the delayed layer and uses it as part of the improvised world. The third is not an error to be corrected. A looper can become a creative instrument rather than a failed attempt to reproduce a dry acoustic source.
 
 
-Which occurs may depend on whether Ankora or Amastacia dominates the monitor, on relative level, on the passage's density, on Paul's prior familiarity with the room, and on how the feedback arrives spatially. These are hypotheses, not demonstrated mechanisms for KLAAT.
+Which occurs may depend on whether the drum or the didgeridoo dominates the monitor, on relative level, on the passage's density, on Paul's prior familiarity with the room, and on how the feedback arrives spatially. These are hypotheses, not demonstrated mechanisms for KLAAT.
 
 
 10. WHY THE SCIENCE DOES NOT GOVERN THE ART
 
 
-The KLAAT core remains a person playing Amastacia and Ankora instinctively. The scientific question is not 'What BPM should the room make him play?' It is 'When the playing feels different, what evidence would distinguish a new artistic decision from a changed feedback environment?' The answer can help Paul select a comfortable portable amplifier or looper, troubleshoot a performance that suddenly feels disconnected, and preserve trustworthy recordings of his evolving technique. It does not require a score, compulsory phase sequence, prescribed transitions, or the replacement of his organic instruments with laboratory stimuli.
+The KLAAT core remains a person playing the didgeridoo and drum instinctively. The scientific question is not 'What BPM should the room make him play?' It is 'When the playing feels different, what evidence would distinguish a new artistic decision from a changed feedback environment?' The answer can help Paul select a comfortable portable amplifier or looper, troubleshoot a performance that suddenly feels disconnected, and preserve trustworthy recordings of his evolving technique. It does not require a score, compulsory phase sequence, prescribed transitions, or the replacement of his organic instruments with laboratory stimuli.
 
 
 This distinction is especially important because KLAAT has two lives. In an intimate acoustic ritual, the immediate physical coupling may dominate. In an amplified public performance, the same musical gestures enter a different room and sound system. As an everyday soundtrack, a passive listener receives a recording and cannot influence Paul's earlier performance. These are three distinct causal situations, even when the artistic identity remains continuous.
@@ -169,7 +169,7 @@ ESTABLISHED PHYSICS: Additional acoustic path length adds propagation delay; sig
 CONTEXT-DEPENDENT: The size and direction of performance changes vary with delay, delay variability, produced interval, task, musical expertise, room and monitor balance. The 2025 long-echo sign pattern is not a general law for ordinary rooms.
 
 
-PLAUSIBLE, TESTABLE FOR KLAAT: The same monitoring setup may feel different across naturally dense and sparse Ankora passages; Amastacia's sustained sound and Ankora's transients may expose different return-path cues; a change in performer-side feedback could alter improvisational comfort before a measurable change in mean strike rate.
+PLAUSIBLE, TESTABLE FOR KLAAT: The same monitoring setup may feel different across naturally dense and sparse the drum passages; the didgeridoo's sustained sound and the drum's transients may expose different return-path cues; a change in performer-side feedback could alter improvisational comfort before a measurable change in mean strike rate.
 
 
 SPECULATIVE: A delayed room response might become a valued conversational element in the improvisation, or a stable drone might perceptually organize the returns of drum strikes. This is artistic and psychoacoustic possibility, not a demonstrated neural explanation.
@@ -190,7 +190,7 @@ Crucially, the comparison should not judge the music by how metronomic it become
 OPTIONAL KRX-136 — THE SOUND THAT ANSWERED
 
 
-At the first ordinary session where a monitor or loudspeaker is already being used, do not change your playing. Afterward, write one sentence about whether Ankora felt immediate, echoed, pleasantly spacious, disconnected, or unchanged. Note the room and whether the monitor was on. If you happened to record the take, preserve the original file. That single observation is enough for now; do not add artificial delays, force a steady beat, or redesign a performance. A future technical comparison can be considered only if the sensation actually matters to you.
+At the first ordinary session where a monitor or loudspeaker is already being used, do not change your playing. Afterward, write one sentence about whether the drum felt immediate, echoed, pleasantly spacious, disconnected, or unchanged. Note the room and whether the monitor was on. If you happened to record the take, preserve the original file. That single observation is enough for now; do not add artificial delays, force a steady beat, or redesign a performance. A future technical comparison can be considered only if the sensation actually matters to you.
 
 
 PRIMARY SOURCES AND METHODS — VERIFIED 2026-10-30

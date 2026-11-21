@@ -2,7 +2,7 @@ KLAAT RESONANCE RESEARCH — SESSION 50
 THE BODY–SURFACE INTERFACE: WHY THE FLOOR IS NOT THE STIMULUS
 
 
-Session 49 established audio–tactile coherence as a serious KLAAT variable: an Ankora strike or Amastacia modulation may be more bodily salient when airborne and mechanically transmitted information agree in time. The strongest unresolved finding from the hourly research now sits one step earlier in the chain.
+Session 49 established audio–tactile coherence as a serious KLAAT variable: an the drum strike or the didgeridoo modulation may be more bodily salient when airborne and mechanically transmitted information agree in time. The strongest unresolved finding from the hourly research now sits one step earlier in the chain.
 
 
 Before vibration reaches a listener, it must cross an interface.
@@ -23,7 +23,7 @@ The missing variable is BODY–SURFACE COUPLING.
 WHY THIS MATTERS TO KLAAT
 
 
-KLAAT deliberately works with physical sound. Amastacia produces a sustained low-frequency-rich acoustic field. Ankora contributes sharper transients and repeated pulse structure. In a responsive room, some of that energy becomes structure-borne motion.
+KLAAT deliberately works with physical sound. The didgeridoo produces a sustained low-frequency-rich acoustic field. The drum contributes sharper transients and repeated pulse structure. In a responsive room, some of that energy becomes structure-borne motion.
 
 
 It is tempting to measure the floor, see a larger acceleration value, and conclude that the listener is receiving “more vibration.”
@@ -80,7 +80,7 @@ Earlier KLAAT sessions established that the room is not acoustically neutral. Th
 A suspended wooden floor can flex. A concrete slab behaves differently. A stage platform can have structural modes. A chair can introduce its own resonances and damping. Soft upholstery can attenuate some components while transmitting others.
 
 
-That means a surface can transform Amastacia and Ankora in at least four ways:
+That means a surface can transform the didgeridoo and drum in at least four ways:
 
 
 MAGNITUDE — how much motion reaches the contact point.
@@ -89,7 +89,7 @@ MAGNITUDE — how much motion reaches the contact point.
 SPECTRUM — which vibration frequencies are enhanced or attenuated.
 
 
-TIMING — whether Ankora’s attack remains sharp or becomes mechanically smeared.
+TIMING — whether the drum’s attack remains sharp or becomes mechanically smeared.
 
 
 SPATIAL DISTRIBUTION — where on the structure the motion is strongest.
@@ -101,22 +101,22 @@ Session 49 gave us temporal fidelity. Session 50 adds the physical reason tempor
 A floor that “vibrates more” is not automatically a better KLAAT floor.
 
 
-It may have a strong narrow structural resonance that produces a large RMS acceleration while blurring Ankora’s transient pattern. Another floor might show less total acceleration but preserve the pulse envelope more faithfully.
+It may have a strong narrow structural resonance that produces a large RMS acceleration while blurring the drum’s transient pattern. Another floor might show less total acceleration but preserve the pulse envelope more faithfully.
 
 
 For KLAAT, useful coupling may therefore mean the right transformation, not maximum motion.
 
 
-AMASTACIA AND ANKORA SHOULD NOT BE EXPECTED TO COUPLE IDENTICALLY
+DIDGERIDOO AND DRUM SHOULD NOT BE EXPECTED TO COUPLE IDENTICALLY
 
 
-Amastacia and Ankora excite the room differently.
+the didgeridoo and drum excite the room differently.
 
 
-Amastacia is a sustained air-column source. Its mechanical contribution may emerge through airborne excitation of surfaces, direct performer/instrument contact, low-frequency room pressure, or combinations of those pathways.
+The didgeridoo is a sustained air-column source. Its mechanical contribution may emerge through airborne excitation of surfaces, direct performer/instrument contact, low-frequency room pressure, or combinations of those pathways.
 
 
-Ankora produces transient force and a broad time-varying spectrum. Depending on how it is held and how Paul contacts the floor or stage while playing, some mechanical energy may also reach the structure through the performer.
+The drum produces transient force and a broad time-varying spectrum. Depending on how it is held and how Paul contacts the floor or stage while playing, some mechanical energy may also reach the structure through the performer.
 
 
 This creates an unresolved KLAAT question:
@@ -173,13 +173,13 @@ THE FOUR-PHASE ARCHITECTURE
 GROUND ANCHOR
 
 
-Ground Anchor can establish the baseline body–surface relationship. If Amastacia creates sustained mechanical activity, this phase lets us observe whether the listener gradually becomes aware of the surface without Ankora providing obvious transient cues.
+Ground Anchor can establish the baseline body–surface relationship. If the didgeridoo creates sustained mechanical activity, this phase lets us observe whether the listener gradually becomes aware of the surface without the drum providing obvious transient cues.
 
 
 THRESHOLD GATE
 
 
-Threshold Gate can change coupling without necessarily changing acoustic level. A posture shift, contact change, or movement onto a more responsive surface could create a perceptual threshold event even if Amastacia remains acoustically stable.
+Threshold Gate can change coupling without necessarily changing acoustic level. A posture shift, contact change, or movement onto a more responsive surface could create a perceptual threshold event even if the didgeridoo remains acoustically stable.
 
 
 This is artistically interesting because it creates another path to transition that does not depend on becoming louder.
@@ -188,16 +188,16 @@ This is artistically interesting because it creates another path to transition t
 RISING PULSE
 
 
-Rising Pulse is where coupling becomes most consequential. Ankora’s repeated attacks provide a temporally structured mechanical signal. A good interface may preserve those attacks as distinct bodily events. A poor or highly resonant interface may turn them into a less articulated wash.
+Rising Pulse is where coupling becomes most consequential. The drum’s repeated attacks provide a temporally structured mechanical signal. A good interface may preserve those attacks as distinct bodily events. A poor or highly resonant interface may turn them into a less articulated wash.
 
 
-The question becomes not “How hard is Ankora hitting the floor?” but “How much of the Pulse survives the entire structure–contact–body chain?”
+The question becomes not “How hard is the drum hitting the floor?” but “How much of the Pulse survives the entire structure–contact–body chain?”
 
 
 RETURN PATH
 
 
-Return Path may exploit decoupling as subtraction. Removing a contact pathway, changing posture, stopping Ankora, or moving away from a responsive surface could reduce bodily salience before the airborne Drone disappears.
+Return Path may exploit decoupling as subtraction. Removing a contact pathway, changing posture, stopping the drum, or moving away from a responsive surface could reduce bodily salience before the airborne Drone disappears.
 
 
 That gives Return Path another compositional resource: the body can lose the Pulse before the ear loses the field.
@@ -245,7 +245,7 @@ A mechanically responsive floor or seat can increase KLAAT bodily salience witho
 PLAUSIBLE / TESTABLE
 
 
-Temporal fidelity of Ankora’s structure-borne Pulse may matter more than maximum broadband acceleration for pulse clarity.
+Temporal fidelity of the drum’s structure-borne Pulse may matter more than maximum broadband acceleration for pulse clarity.
 
 
 SPECULATION
@@ -263,7 +263,7 @@ A single acceleration RMS value is a universal “tactile dose.”
 UNSUPPORTED
 
 
-A floor resonance matching Amastacia’s nominal C# is automatically beneficial, therapeutic, or evidence of bodily resonance.
+A floor resonance matching the didgeridoo’s nominal C# is automatically beneficial, therapeutic, or evidence of bodily resonance.
 
 
 UNSUPPORTED
@@ -307,7 +307,7 @@ The hourly research after Session 49 also identified attention, temporal predict
 PRACTICAL EXPERIMENT — KRX-050: THE COUPLING MATRIX
 
 
-Use one repeatable KLAAT-derived passage containing both sustained Amastacia and clearly articulated Ankora pulse. Keep source position, performance level, room position and passage identical.
+Use one repeatable KLAAT-derived passage containing both sustained the didgeridoo and clearly articulated the drum pulse. Keep source position, performance level, room position and passage identical.
 
 
 At one listener location, compare four standardized contact conditions:
@@ -351,7 +351,7 @@ If they do not, its importance for that interface and stimulus is reduced.
 OPEN QUESTIONS
 
 
-Which contact site dominates live KLAAT bodily salience: feet, pelvis, back, or distributed contact? Does footwear meaningfully attenuate the dominant KLAAT vibration bands? Do responsive wooden floors preserve Ankora timing better or worse than rigid slabs? Can seating improve Amastacia bodily salience without making Ankora muddy? How much listener-to-listener variability remains after posture and contact are standardized? And how much of Rising Pulse activation comes from physical coupling versus attention and temporal prediction?
+Which contact site dominates live KLAAT bodily salience: feet, pelvis, back, or distributed contact? Does footwear meaningfully attenuate the dominant KLAAT vibration bands? Do responsive wooden floors preserve the drum timing better or worse than rigid slabs? Can seating improve the didgeridoo bodily salience without making the drum muddy? How much listener-to-listener variability remains after posture and contact are standardized? And how much of Rising Pulse activation comes from physical coupling versus attention and temporal prediction?
 
 
 RECOMMENDED NEXT DIRECTION

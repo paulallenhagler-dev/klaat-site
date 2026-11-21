@@ -8,13 +8,13 @@ Governing principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 
 
 RESEARCH STATUS
-This is a critical synthesis of controlled human motor-learning experiments, including musician-specific studies and recent contradictory results. No Amastacia or Ankora skill acquisition, sleep-dependent change, neural replay, listener absorption, or listener physiology has been measured in KLAAT. The purpose is to better interpret Paul's naturally evolving technique, not to schedule his art, prescribe a score, or convert improvisation into a training protocol.
+This is a critical synthesis of controlled human motor-learning experiments, including musician-specific studies and recent contradictory results. No the didgeridoo or the drum skill acquisition, sleep-dependent change, neural replay, listener absorption, or listener physiology has been measured in KLAAT. The purpose is to better interpret Paul's naturally evolving technique, not to schedule his art, prescribe a score, or convert improvisation into a training protocol.
 
 
 CENTRAL QUESTION
 
 
-Paul sometimes discovers a coordination while playing: an Ankora accent happens as Amastacia's airflow shifts; a circular-breathing changeover becomes less effortful; a transition between pulse textures emerges without conscious calculation. The next time he plays, a movement that had been awkward may seem available almost immediately. Did he improve while practicing, during a pause, during sleep, or simply because fatigue and self-conscious monitoring receded?
+Paul sometimes discovers a coordination while playing: an the drum accent happens as the didgeridoo's airflow shifts; a circular-breathing changeover becomes less effortful; a transition between pulse textures emerges without conscious calculation. The next time he plays, a movement that had been awkward may seem available almost immediately. Did he improve while practicing, during a pause, during sleep, or simply because fatigue and self-conscious monitoring receded?
 
 
 The question sounds simple but reaches an active scientific dispute. A musician's performance is not identical to the motor skill that supports it. An excellent moment can reflect a genuinely strengthened skill, but also temporary alertness, attention, warming up, favorable instrument conditions, or chance. Conversely, a rough moment can conceal learning that will become visible later. KLAAT's improvisational freedom makes this distinction especially valuable: we want to understand how fluency grows without deciding in advance what the music must become.
@@ -35,7 +35,7 @@ This is not a rebranding of the practice-schedule question. It asks whether the 
 2. THREE CLOCKS THAT CAN MAKE ONE GESTURE LOOK BETTER
 
 
-CLOCK A: ONLINE ACQUISITION. During actual playing, the nervous system receives sensory feedback and updates motor control. This can happen while the performer remains deeply engaged and is not verbally analyzing what is learned. Observable change may include more reliable lip/cheek/soft-palate coordination, a smoother return to the drone after nasal inspiration, or fewer unintentional Ankora interruptions. These are possible indicators, not required artistic goals.
+CLOCK A: ONLINE ACQUISITION. During actual playing, the nervous system receives sensory feedback and updates motor control. This can happen while the performer remains deeply engaged and is not verbally analyzing what is learned. Observable change may include more reliable lip/cheek/soft-palate coordination, a smoother return to the drone after nasal inspiration, or fewer unintentional the drum interruptions. These are possible indicators, not required artistic goals.
 
 
 CLOCK B: BETWEEN-BOUT PERFORMANCE. A brief pause may allow motor slowing, local fatigue, or reactive inhibition to dissipate. It may also provide an opportunity for planning or memory stabilization. If the first gesture after a pause is better, the difference alone does not tell us which process occurred. This is a measurement problem: 'after the pause' does not automatically mean 'learned during the pause.'
@@ -65,7 +65,7 @@ Duke and Davis (2006) also studied brief digital-piano keyboard sequences across
 Rickard, Cai, Rieth, Jones, and Ard (2008) argued that apparent overnight improvement in motor-sequence experiments can be inflated by analytical choices and performance-state confounds [5]. They identified four hazards: learning hidden by averaging, reactive inhibition hidden by averaging, time-of-day and time-since-sleep differences, and fatigue accumulating during concentrated practice. In two experiments designed to reduce those problems, the expected special enhancement from sleep was eliminated. Their conclusion allowed that sleep might protect a learned skill from forgetting without necessarily adding a new performance gain.
 
 
-This is not proof that the 2002 and 2006 findings were fabricated or that sleep is irrelevant. Different protocols, outcome measures, training amounts, test timing, and skill demands can yield different results. It is, however, decisive against the blanket statement 'every motor skill improves overnight because sleep consolidates it.' A listener cannot infer Paul's neural consolidation from hearing a more fluent Ankora passage the next morning. Nor can Paul infer it from how easy the gesture feels.
+This is not proof that the 2002 and 2006 findings were fabricated or that sleep is irrelevant. Different protocols, outcome measures, training amounts, test timing, and skill demands can yield different results. It is, however, decisive against the blanket statement 'every motor skill improves overnight because sleep consolidates it.' A listener cannot infer Paul's neural consolidation from hearing a more fluent the drum passage the next morning. Nor can Paul infer it from how easy the gesture feels.
 
 
 In a 2023 controlled study, Truong and colleagues randomized 36 right-handed adults to learn a finger-tapping task at 10 a.m., 3 p.m., or 8 p.m. and retested them 24 hours later [6]. Immediate acquisition was similar across groups. The evening-trained group improved at the delayed test; the morning group deteriorated; the afternoon group was approximately stable. Two additional control experiments supported a contribution of intervening sleep in the evening condition. This is a compelling demonstration that acquisition and retention can separate. But it does not establish that 8 p.m. is the ideal time for KLAAT practice. The study used a specific non-dominant-hand sequence, a defined test, and controlled schedules; it was not a test of Paul's natural circadian preference or free musical improvisation.
@@ -89,13 +89,13 @@ A still sharper counterexample arrived in a five-experiment 2025 PNAS paper by D
 The key disagreement is not whether a break can make performance feel or look better; both sides observe that it can. The disagreement is what that improvement MEANS. One interpretation emphasizes rapid memory stabilization and replay; another emphasizes relief from transient slowing and the opportunity to preplan. The 2024 hybrid model suggests both online learning and offline processes may contribute. It would be premature to announce a single universal mechanism.
 
 
-6. WHY THIS DISPUTE IS USEFUL FOR AMASTACIA AND ANKORA
+6. WHY THIS DISPUTE IS USEFUL FOR DIDGERIDOO AND DRUM
 
 
-KLAAT makes the problem unusually visible. Consider a difficult circular-breathing handoff while the supporting hand continues to position Ankora. During several minutes of playing, the lips, cheeks, jaw, tongue, soft palate, respiratory system, arm, and auditory attention all work together. A later smoother handoff could reflect better coordination learned during the earlier attempt. It could also reflect relief from local muscular strain, a different breath volume, a change in Amastacia's bore temperature, or the fact that Paul begins the next phrase with a clearer motor plan. Those explanations can coexist.
+KLAAT makes the problem unusually visible. Consider a difficult circular-breathing handoff while the supporting hand continues to position the drum. During several minutes of playing, the lips, cheeks, jaw, tongue, soft palate, respiratory system, arm, and auditory attention all work together. A later smoother handoff could reflect better coordination learned during the earlier attempt. It could also reflect relief from local muscular strain, a different breath volume, a change in the didgeridoo's bore temperature, or the fact that Paul begins the next phrase with a clearer motor plan. Those explanations can coexist.
 
 
-Likewise, a rhythmic transition that suddenly 'clicks' after setting the drum down may not be evidence that a whole musical phrase was consolidated in silence. The next attempt may simply occur when Paul is less tired or less busy correcting the previous one. Conversely, a real improvement in coordination could be hidden by a drier Ankora membrane, a changed microphone angle, or a more exploratory musical choice. Session 117 already established that animal-skin membrane state can vary; Session 118 established that files from one take are not independent evidence of a general trend.
+Likewise, a rhythmic transition that suddenly 'clicks' after setting the drum down may not be evidence that a whole musical phrase was consolidated in silence. The next attempt may simply occur when Paul is less tired or less busy correcting the previous one. Conversely, a real improvement in coordination could be hidden by a drier the drum membrane, a changed microphone angle, or a more exploratory musical choice. Session 117 already established that animal-skin membrane state can vary; Session 118 established that files from one take are not independent evidence of a general trend.
 
 
 The correct artistic response is not to impose a drill, score, or required break. It is to stop using the immediate smoothness of one attempt as a complete account of technical development. KLAAT can preserve spontaneous emergence and still ask careful questions about what becomes easier across days.
@@ -125,7 +125,7 @@ Listener response is a FOURTH and separate level. A listener might find a slight
 Much of the motor-consolidation literature scores the number of correct sequences per unit time, reaction time, or tapping speed. Those measures are well suited to a defined laboratory task. They are not universal measures of artistry.
 
 
-A faster Ankora transition may be neither more expressive nor more controlled. A longer sustained Amastacia passage may be neither more musical nor more absorbing. Circular breathing that leaves no audible seam may be technically desirable in some moments, while an exposed, breath-shaped seam may be integral to KLAAT's organic aesthetic in others. A more relevant technical question is whether Paul can CHOOSE, spontaneously, among possibilities without being trapped by an unwanted mechanical limitation.
+A faster the drum transition may be neither more expressive nor more controlled. A longer sustained the didgeridoo passage may be neither more musical nor more absorbing. Circular breathing that leaves no audible seam may be technically desirable in some moments, while an exposed, breath-shaped seam may be integral to KLAAT's organic aesthetic in others. A more relevant technical question is whether Paul can CHOOSE, spontaneously, among possibilities without being trapped by an unwanted mechanical limitation.
 
 
 The strongest future indicators would therefore be Paul-identified, rather than externally imposed: 'I wanted to continue the drone but lost it,' 'I intended the drum to remain independent but the hand froze,' or 'this transition felt available without conscious rescue.' Even those labels should be documented after playing rather than turning every moment into self-surveillance.
@@ -146,7 +146,7 @@ For the rest-versus-learning dispute, the crucial outcome is PERSISTENCE under c
 10. THE NEURAL CLAIM MUST STAY IN ITS LANE
 
 
-Some studies record EEG or MEG activity during rest and sleep; others report behavior alone. A correlation between beta-band activity and a later keypress improvement does not establish that a specific brain rhythm caused the gain, nor that a particular acoustic drone frequency 'tuned' the brain. The neural frequencies in motor-learning studies are not Amastacia's nominal C# fundamental, Ankora's strike rate, or a therapeutic resonance target.
+Some studies record EEG or MEG activity during rest and sleep; others report behavior alone. A correlation between beta-band activity and a later keypress improvement does not establish that a specific brain rhythm caused the gain, nor that a particular acoustic drone frequency 'tuned' the brain. The neural frequencies in motor-learning studies are not the didgeridoo's nominal C# fundamental, the drum's strike rate, or a therapeutic resonance target.
 
 
 Similarly, sleep-dependent motor memory is a hypothesis about the PERFORMER'S skill, not about what happens in a passive KLAAT listener. It provides no evidence that KLAAT induces sleep, theta activity, trance, or motor rehabilitation. The science may help us understand Paul's developing fluency; it does not convert the music into a neurological intervention.
@@ -161,7 +161,7 @@ ESTABLISHED IN TESTED NON-KLAAT TASKS: Some finger-sequence and keyboard-melody 
 CONTEXT-DEPENDENT / CONTRADICTORY: Walker et al. and music-keyboard studies support sleep-associated gains under specified designs. Rickard et al. found no special sleep enhancement after reducing key confounds. Bönstrup et al. interpret micro-offline gains as rapid consolidation; Gupta and Rickard favor a hybrid model with reactive inhibition; Das et al. show that micro-offline gains can disappear under standardized retention tests and can occur without repeating a learned sequence. These results do not share one endpoint or one theoretical assumption.
 
 
-PLAUSIBLE, TESTABLE KLAAT HYPOTHESES: A difficult but personally valued Amastacia–Ankora coordination may become more consistently available across independent playing occasions, perhaps partly through offline stabilization. Some immediate post-rest fluency may instead reflect relief from transient strain or improved motor planning. Natural sleep and rest may matter, but their contributions and effect sizes in Paul's playing are unknown.
+PLAUSIBLE, TESTABLE KLAAT HYPOTHESES: A difficult but personally valued the didgeridoo–the drum coordination may become more consistently available across independent playing occasions, perhaps partly through offline stabilization. Some immediate post-rest fluency may instead reflect relief from transient strain or improved motor planning. Natural sleep and rest may matter, but their contributions and effect sizes in Paul's playing are unknown.
 
 
 SPECULATION: A broadening repertoire of implicitly available hand–breath gestures might permit longer, more absorbing performer flow without requiring Paul to monitor mechanics. That is an artistically coherent possibility, not an established neurophysiological effect and not a listener claim.
@@ -182,13 +182,13 @@ The larger insight is a separation between the living performance and the slowly
 13. OPEN QUESTIONS
 
 
-Does Paul's circular-breathing coordination feel easier on a later day without becoming acoustically more uniform? Do naturally occurring Ankora transitions show fewer unwanted hesitations across independent occasions even as the rhythms themselves remain different? Does an immediate improvement after a pause persist after another few minutes of playing, or disappear as effort accumulates? Can a skill become more available while Paul's subjective flow stays unchanged? Could some deliberate imperfections be artistically valued and therefore intentionally retained? Can a future listener hear a difference in expressive continuity without being told which take came later? None of these has been tested in KLAAT.
+Does Paul's circular-breathing coordination feel easier on a later day without becoming acoustically more uniform? Do naturally occurring the drum transitions show fewer unwanted hesitations across independent occasions even as the rhythms themselves remain different? Does an immediate improvement after a pause persist after another few minutes of playing, or disappear as effort accumulates? Can a skill become more available while Paul's subjective flow stays unchanged? Could some deliberate imperfections be artistically valued and therefore intentionally retained? Can a future listener hear a difference in expressive continuity without being told which take came later? None of these has been tested in KLAAT.
 
 
 14. ONE OPTIONAL, LOW-PRESSURE OBSERVATION
 
 
-On an ordinary day when a particular Amastacia–Ankora coordination happens to feel difficult, make a brief AFTER-PLAYING note in your own words about what felt awkward. If you naturally encounter that same kind of movement again on another day, note whether it feels easier, unchanged, or harder, and whether you were fresh or tired. There is no requirement to repeat the gesture, count successes, set a tempo, film the attempt, or change the music. Two impressions cannot prove sleep consolidation; they can begin a useful record of how your personal technique evolves.
+On an ordinary day when a particular the didgeridoo–the drum coordination happens to feel difficult, make a brief AFTER-PLAYING note in your own words about what felt awkward. If you naturally encounter that same kind of movement again on another day, note whether it feels easier, unchanged, or harder, and whether you were fresh or tired. There is no requirement to repeat the gesture, count successes, set a tempo, film the attempt, or change the music. Two impressions cannot prove sleep consolidation; they can begin a useful record of how your personal technique evolves.
 
 
 The conclusion: AN IMPROVED MOMENT AFTER REST IS NOT AUTOMATICALLY NEW LEARNING. Genuine motor skill can change across practice and delayed intervals, but the observable result also depends on fatigue, planning, sleep, context, and artistic choice. For KLAAT, the purpose of understanding those processes is to expand freedom inside the improvisation—not to regulate the improvisation.

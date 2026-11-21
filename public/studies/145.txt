@@ -8,7 +8,7 @@ Principle: Experience-led creation. Science-informed refinement.
 THE QUESTION
 
 
-A person listens to a spontaneous Amastacia–Ankora recording, completes a questionnaire, then reopens the form to correct an answer. The system stores two rows. Did KLAAT reach two people? No. Did it generate two listening experiences? Possibly not. Does the second row deserve to be discarded? Not automatically: it might contain a legitimate correction. This apparently mundane distinction can determine whether the first KLAAT listener pilot yields interpretable evidence or an inflated audience.
+A person listens to a spontaneous the didgeridoo–the drum recording, completes a questionnaire, then reopens the form to correct an answer. The system stores two rows. Did KLAAT reach two people? No. Did it generate two listening experiences? Possibly not. Does the second row deserve to be discarded? Not automatically: it might contain a legitimate correction. This apparently mundane distinction can determine whether the first KLAAT listener pilot yields interpretable evidence or an inflated audience.
 
 
 This study concerns the unit of observation, not a new theory of trance. It is relevant precisely because KLAAT aims to learn from genuine reactions rather than impose a composition scheme on the performer. Its subject is not how Paul should play; it is what counts as one person, one exposure, one questionnaire attempt, and one independent observation.
@@ -104,7 +104,7 @@ A response that is incomplete should not automatically be considered fraudulent.
 VI. REPEATED LISTENING IS NOT 'BAD DATA'
 
 
-A listener who returns to KLAAT voluntarily may be especially interesting. On first hearing, Ankora's attacks may feel startling against Amastacia's sustained drone. On a second exposure, the same person might anticipate the pulse and experience stronger bodily engagement—or find the passage less novel. Both possibilities are hypotheses, not established KLAAT effects. If we discard repeat exposures, we lose information about familiarity and adaptation. If we count repeat exposures as new people, we exaggerate the breadth of audience evidence.
+A listener who returns to KLAAT voluntarily may be especially interesting. On first hearing, the drum's attacks may feel startling against the didgeridoo's sustained drone. On a second exposure, the same person might anticipate the pulse and experience stronger bodily engagement—or find the passage less novel. Both possibilities are hypotheses, not established KLAAT effects. If we discard repeat exposures, we lose information about familiarity and adaptation. If we count repeat exposures as new people, we exaggerate the breadth of audience evidence.
 
 
 This leads to two distinct questions: 'What fraction of unique listeners reported activation after their first exposure?' and 'How did activation change within the same people across exposures?' The first requires one defined first-exposure record per person. The second requires linked observations and an analysis that recognizes dependence. With only a handful of listeners, descriptive paired plots and individual trajectories may be more informative than formal statistical significance tests.
@@ -140,7 +140,7 @@ Unsupported: Claims that KLAAT has already produced neurological entrainment, cl
 IX. IMPLICATIONS FOR THE ARTISTIC WORK
 
 
-None of this is an instruction to make Amastacia more regular, alter Ankora's tempo, or formalize a ritual sequence. The goal is to preserve the distinction between Paul's spontaneous musical event and the evidence later gathered about it. A recording of an improvisation is an artistic artifact. A listener's report is an experience report. A questionnaire row is an administrative artifact. The study becomes more trustworthy when those three are not mistaken for each other.
+None of this is an instruction to make the didgeridoo more regular, alter the drum's tempo, or formalize a ritual sequence. The goal is to preserve the distinction between Paul's spontaneous musical event and the evidence later gathered about it. A recording of an improvisation is an artistic artifact. A listener's report is an experience report. A questionnaire row is an administrative artifact. The study becomes more trustworthy when those three are not mistaken for each other.
 
 
 The same principle applies when KLAAT functions as a daily-life soundtrack. A listener who plays the same recording while working, walking, or resting may have multiple legitimate experiences. Rather than compressing those encounters into a single invented 'average listener,' future research can examine context, familiarity, and changes within the person while keeping the sound untouched.

@@ -20,7 +20,7 @@ This does not mean the experience is imagined, false, or physiologically irrelev
 1. THE NEXT GAP AFTER SESSION 68
 
 
-Session 68 warned against adding seat, foot, and back accelerations as though they represented one bodily dose. It proposed checking whether actual live KLAAT even creates reliably measurable contact vibration. The next question is logically prior to claims of somatic causation: what if the listener reports that Ankora is “in the chest” or that Amastacia “fills the body,” yet contact sensors show no substantial change? That is not necessarily a contradiction. It is a clue that several kinds of embodied musical experience have been conflated.
+Session 68 warned against adding seat, foot, and back accelerations as though they represented one bodily dose. It proposed checking whether actual live KLAAT even creates reliably measurable contact vibration. The next question is logically prior to claims of somatic causation: what if the listener reports that the drum is “in the chest” or that the didgeridoo “fills the body,” yet contact sensors show no substantial change? That is not necessarily a contradiction. It is a clue that several kinds of embodied musical experience have been conflated.
 
 
 2. FOUR DISTINCT MEANINGS OF “I FELT IT”
@@ -53,7 +53,7 @@ That is substantial evidence that people organize music-related experiences spat
 4. THE CRUCIAL MEASUREMENT ERROR
 
 
-Imagine a participant shades their chest on a silhouette after a strong Ankora passage. We could label that “chest activation,” but the label does not specify a mechanism.
+Imagine a participant shades their chest on a silhouette after a strong the drum passage. We could label that “chest activation,” but the label does not specify a mechanism.
 
 
 It might refer to perceived pressure, an emotional surge, an urge to breathe or move, muscle tension, a remembered bodily association, or an actual tactile sensation. Even a participant who says “vibration” may be describing low-frequency auditory weight metaphorically.
@@ -65,7 +65,7 @@ KLAAT should never treat body-map shading as a proxy for local acceleration or t
 5. PHYSICAL ABSENCE IS NOT PROOF OF PERCEPTUAL ABSENCE
 
 
-Suppose a chair accelerometer registers no signal distinguishable from the noise floor during Amastacia. That result constrains one mechanical explanation: detectable chair motion at that sensor location and frequency range. It does not rule out airborne sound reaching the ears, tiny unmeasured motions, bone-conducted pathways, changes in breathing, affect, or movement expectation.
+Suppose a chair accelerometer registers no signal distinguishable from the noise floor during the didgeridoo. That result constrains one mechanical explanation: detectable chair motion at that sensor location and frequency range. It does not rule out airborne sound reaching the ears, tiny unmeasured motions, bone-conducted pathways, changes in breathing, affect, or movement expectation.
 
 
 The scientifically correct statement is narrow: “We did not detect a reliable change in this contact-motion channel under these conditions.”
@@ -95,10 +95,10 @@ A continuous “where do you feel it?” prompt may not merely measure embodimen
 8. PERFORMANCE CONTEXT IS ANOTHER INPUT
 
 
-Krahé, Hahn, and Whitney (2015) experimentally combined congruent and incongruent performance visuals with music. Visual information about a performer's movements affected emotional judgments. A live Amastacia/Ankora performance therefore cannot automatically be equated with an audio-only recording.
+Krahé, Hahn, and Whitney (2015) experimentally combined congruent and incongruent performance visuals with music. Visual information about a performer's movements affected emotional judgments. A live the didgeridoo and drum performance therefore cannot automatically be equated with an audio-only recording.
 
 
-Seeing breath, effort, the elk-hide drum, and the didgeridoo can influence what a listener expects and feels. That does not make live experience less genuine. It means KLAAT must separate acoustic delivery from visible and contextual cues when making causal claims.
+Seeing breath, effort, the drum, and the didgeridoo can influence what a listener expects and feels. That does not make live experience less genuine. It means KLAAT must separate acoustic delivery from visible and contextual cues when making causal claims.
 
 
 9. PHYSIOLOGICAL CHANGES ARE POSSIBLE, BUT NOT ASSURED
@@ -134,19 +134,19 @@ WHAT CAUSAL INFERENCE IS WARRANTED? (association, moderation, or an experimental
 This gate prevents a compelling description from becoming an unsupported mechanism.
 
 
-11. AMASTACIA: THE FIELD CAN BE FELT WITHOUT BEING A CHAIR SHAKER
+11. DIDGERIDOO: THE FIELD CAN BE FELT WITHOUT BEING A CHAIR SHAKER
 
 
-Amastacia's C# agave didgeridoo supplies a sustained, harmonically structured, breath-shaped acoustic Field. Listeners may describe fullness, pressure, enclosure, chest sensation, or bodily stillness. Some of those reports may be related to audible spectrum and level, some to expectation or emotional response, and some to measurable structure-borne motion in particular rooms.
+The didgeridoo's C# agave didgeridoo supplies a sustained, harmonically structured, breath-shaped acoustic Field. Listeners may describe fullness, pressure, enclosure, chest sensation, or bodily stillness. Some of those reports may be related to audible spectrum and level, some to expectation or emotional response, and some to measurable structure-borne motion in particular rooms.
 
 
-Until the actual pathway is measured, KLAAT should call these reports “bodily experience associated with Amastacia,” not “Amastacia physically vibrating the chest.”
+Until the actual pathway is measured, KLAAT should call these reports “bodily experience associated with the didgeridoo,” not “the didgeridoo physically vibrating the chest.”
 
 
-12. ANKORA: THE STRIKE CAN REACH THE BODY THROUGH EXPECTATION
+12. DRUM: THE STRIKE CAN REACH THE BODY THROUGH EXPECTATION
 
 
-Ankora's elk-hide strikes provide transients, a recurring clock, and moments where a learned strike can be withheld. A listener may feel a strong bodily pull just before an expected event. If the event is omitted, the sense of anticipation can remain even when no strike occurs.
+The drum's drumhead material strikes provide transients, a recurring clock, and moments where a learned strike can be withheld. A listener may feel a strong bodily pull just before an expected event. If the event is omitted, the sense of anticipation can remain even when no strike occurs.
 
 
 That makes a clean experimental possibility: bodily impact need not peak at the moment of greatest acoustic energy. But it remains a KLAAT hypothesis; the missing-beat response must be measured, not presumed.
@@ -155,7 +155,7 @@ That makes a clean experimental possibility: bodily impact need not peak at the 
 13. GROUND ANCHOR — BASELINE WITHOUT FORCING A BODY NARRATIVE
 
 
-Ground Anchor should establish Amastacia's Field while obtaining a neutral listener baseline. Ask broad, non-leading questions such as “What changed during this passage?” before showing a body silhouette or naming vibration. The research must not plant a chest-resonance story that the participant then repeats.
+Ground Anchor should establish the didgeridoo's Field while obtaining a neutral listener baseline. Ask broad, non-leading questions such as “What changed during this passage?” before showing a body silhouette or naming vibration. The research must not plant a chest-resonance story that the participant then repeats.
 
 
 Measure the airborne Field and any contact motion separately. If listeners report bodily locations, record their own descriptions and confidence without reinterpreting them as physical sensor readings.
@@ -164,7 +164,7 @@ Measure the airborne Field and any contact motion separately. If listeners repor
 14. THRESHOLD GATE — EVENT ARRIVAL VERSUS SOMATIC ATTRIBUTION
 
 
-When Ankora enters, distinguish three times: first physical strike, first reliably detectable contact-motion event, and first reported change in bodily state. These times may coincide or differ.
+When the drum enters, distinguish three times: first physical strike, first reliably detectable contact-motion event, and first reported change in bodily state. These times may coincide or differ.
 
 
 A listener's Gate may be primarily temporal (the clock becomes legible), primarily auditory (new transient texture), tactile (a physically received impact), or affective. The evidence should decide rather than the phase label.
@@ -173,7 +173,7 @@ A listener's Gate may be primarily temporal (the clock becomes legible), primari
 15. RISING PULSE — ACTIVATION WITHOUT MAXIMUM MECHANICAL ENERGY
 
 
-As Ankora increases Surface Pressure around a stable Scaffold, the urge to move and subjective intensity may increase. If those ratings rise while contact acceleration remains unchanged or below reliable detection, the result would motivate an auditory/predictive explanation. It would not prove which cognitive or neural mechanism caused the effect.
+As the drum increases Surface Pressure around a stable Scaffold, the urge to move and subjective intensity may increase. If those ratings rise while contact acceleration remains unchanged or below reliable detection, the result would motivate an auditory/predictive explanation. It would not prove which cognitive or neural mechanism caused the effect.
 
 
 Compare ratings with both sound features and mechanical channels. Preserve SPL as a competitor. Do not reward the more elaborate interpretation automatically.
@@ -182,7 +182,7 @@ Compare ratings with both sound features and mechanical channels. Preserve SPL a
 16. RETURN PATH — WHEN THE EVENT ENDS BUT THE FEELING CONTINUES
 
 
-Return Path withdraws Ankora's Surface and Clock, leaving Amastacia and eventually silence. Ask whether the listener still expects a pulse, still feels a bodily afterstate, or still experiences a particular body region as salient.
+Return Path withdraws the drum's Surface and Clock, leaving the didgeridoo and eventually silence. Ask whether the listener still expects a pulse, still feels a bodily afterstate, or still experiences a particular body region as salient.
 
 
 A lingering sensation may reflect attention, affect, motor prediction, actual room decay, or multiple factors. Its persistence does not demonstrate continuing mechanical vibration, a physiological reset, or a therapeutic release.
@@ -263,7 +263,7 @@ CONTEXT-DEPENDENT — An accelerometer null depends on sensor bandwidth, calibra
 PLAUSIBLE/TESTABLE — Listeners can report localized bodily salience during recorded KLAAT even when seat/floor acceleration is not reliably detected above baseline.
 
 
-PLAUSIBLE/TESTABLE — Bodily reports vary with Ankora Surface Pressure and predictive structure after accounting for acoustic level.
+PLAUSIBLE/TESTABLE — Bodily reports vary with the drum Surface Pressure and predictive structure after accounting for acoustic level.
 
 
 PLAUSIBLE/TESTABLE — Visual access to Paul's breath/striking movements changes the timing or intensity of bodily reports for the same recorded sound.
@@ -275,7 +275,7 @@ PLAUSIBLE/TESTABLE — Neutral versus body-focused reporting tasks yield differe
 PLAUSIBLE/TESTABLE — Some listeners show correspondence between measured contact-motion events and tactile reports; others show bodily salience that is better associated with auditory or contextual variables.
 
 
-PLAUSIBLE/TESTABLE — Return Path preserves subjective pulse/bodily afterstate after the measured Ankora event stream ends.
+PLAUSIBLE/TESTABLE — Return Path preserves subjective pulse/bodily afterstate after the measured the drum event stream ends.
 
 
 23. SPECULATION
@@ -284,7 +284,7 @@ PLAUSIBLE/TESTABLE — Return Path preserves subjective pulse/bodily afterstate 
 SPECULATION — KLAAT's strongest sense of bodily presence may often come from a combination of auditory weight, temporal prediction, attention, and emotion rather than unusually strong mechanical contact vibration.
 
 
-SPECULATION — Amastacia's sustained Field may give a sense of bodily space while Ankora organizes the body's anticipated motion within that space.
+SPECULATION — the didgeridoo's sustained Field may give a sense of bodily space while the drum organizes the body's anticipated motion within that space.
 
 
 SPECULATION — A future KLAAT body-map vocabulary may identify repeatable experience profiles without implying fixed organ frequencies or localized physical stimulation.
@@ -296,7 +296,7 @@ SPECULATION — Some of KLAAT's strongest activation-per-dB moments may occur wh
 24. UNSUPPORTED CLAIMS
 
 
-UNSUPPORTED — A shaded chest or abdomen proves those tissues were mechanically resonating with Amastacia.
+UNSUPPORTED — A shaded chest or abdomen proves those tissues were mechanically resonating with the didgeridoo.
 
 
 UNSUPPORTED — A listener reporting vibration proves that the floor, seat, or body experienced high-amplitude structure-borne vibration.
@@ -347,7 +347,7 @@ A PHYSIOLOGICAL CORRELATE IS NOT A THERAPEUTIC OUTCOME.
 26. CORE KLAAT — NO ADDED PERFORMANCE INSTRUMENT
 
 
-Amastacia remains the Drone / continuous Field; Ankora remains the Pulse / discrete Event. Breath, repetition, silence, duration, room, and the listener's body remain the performance's real materials. Microphones, accelerometers, video and body silhouettes are tools for investigating the human-played event, not additional musical voices. The aim remains activation rather than sedation, but the kind and evidence of activation must be stated precisely.
+The didgeridoo remains the Drone / continuous Field; the drum remains the Pulse / discrete Event. Breath, repetition, silence, duration, room, and the listener's body remain the performance's real materials. Microphones, accelerometers, video and body silhouettes are tools for investigating the human-played event, not additional musical voices. The aim remains activation rather than sedation, but the kind and evidence of activation must be stated precisely.
 
 
 27. KRX-069 — THE SOMATIC ATTRIBUTION CROSSOVER TEST
@@ -356,7 +356,7 @@ Amastacia remains the Drone / continuous Field; Ankora remains the Pulse / discr
 GOAL: Test whether KLAAT-related bodily reports require reliably measurable support vibration and how those reports change with presentation context and attention.
 
 
-PREPARATION: Record one human-performed, four-phase Amastacia + Ankora excerpt (about 8–12 minutes), preserving Ground Anchor, Threshold Gate, Rising Pulse, and Return Path. Measure the actual Ankora timing and audio level; do not synthesize a replacement performance. Choose comfortable safe playback levels.
+PREPARATION: Record one human-performed, four-phase the didgeridoo and drum excerpt (about 8–12 minutes), preserving Ground Anchor, Threshold Gate, Rising Pulse, and Return Path. Measure the actual the drum timing and audio level; do not synthesize a replacement performance. Choose comfortable safe playback levels.
 
 
 CONDITION A — AUDIO-FOCUSED PLAYBACK: Present the same recording over calibrated, comfortable headphones in a quiet setting with ordinary seating. Monitor seat/floor acceleration where feasible. Ask for broad musical-change reports first; only afterward ask about bodily sensations.
@@ -374,7 +374,7 @@ MEASURES: Preserve synchronized audio level/spectrum; contact-sensor noise floor
 CONTROL: Avoid labeling a passage as “healing,” “resonance in the chest,” or “trance-inducing.” Don't tell listeners the predicted bodily location. If using headphones, do not claim that all mechanical stimulation has been eliminated. Do not introduce additional vibration devices to make a desired effect appear.
 
 
-ANALYSIS: Compare within-listener A vs B, then audio-only vs optional audiovisual presentation. Separate the proportion reporting bodily changes from the intensity and location of those changes. Examine whether reports cluster near Ankora entry, high Surface Pressure, earned omissions, and Return Path, while checking actual acoustic level and contact motion. Treat any associations as preliminary unless they replicate in new listeners/excerpts.
+ANALYSIS: Compare within-listener A vs B, then audio-only vs optional audiovisual presentation. Separate the proportion reporting bodily changes from the intensity and location of those changes. Examine whether reports cluster near the drum entry, high Surface Pressure, earned omissions, and Return Path, while checking actual acoustic level and contact motion. Treat any associations as preliminary unless they replicate in new listeners/excerpts.
 
 
 DECISION RULE: If listeners repeatedly report meaningful bodily experience under conditions with no reliably detected support-motion change, retain AUDITORY/CONTEXTUAL EMBODIMENT as an explanatory research path and stop equating bodily salience with contact acceleration. If bodily reports are consistently strongest where contact vibration is measurable, test that pathway directly in a later controlled experiment. If task framing changes reports, preserve attention as a moderator rather than calling one condition more “real.”
@@ -383,7 +383,7 @@ DECISION RULE: If listeners repeatedly report meaningful bodily experience under
 THE DECISIVE QUESTION:
 
 
-WHEN PEOPLE SAY THAT AMASTACIA AND ANKORA ARE “IN THE BODY,” HOW MUCH OF THAT REPORT TRACKS MEASURABLE CONTACT MOTION, HOW MUCH TRACKS THE SOUND'S TEMPORAL/ACOUSTIC STRUCTURE, AND HOW MUCH CHANGES WITH ATTENTION AND PERFORMANCE CONTEXT?
+WHEN PEOPLE SAY THAT DIDGERIDOO AND DRUM ARE “IN THE BODY,” HOW MUCH OF THAT REPORT TRACKS MEASURABLE CONTACT MOTION, HOW MUCH TRACKS THE SOUND'S TEMPORAL/ACOUSTIC STRUCTURE, AND HOW MUCH CHANGES WITH ATTENTION AND PERFORMANCE CONTEXT?
 
 
 A single pilot will not identify every mechanism. It will tell KLAAT which explanations deserve more rigorous testing and which claims must remain off-limits.

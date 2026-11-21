@@ -4,7 +4,7 @@ Core lesson
 When frequency components fall close enough together within auditory filters, their interaction can produce beating and perceptual roughness. Roughness contributes to urgency, tension, and sensory salience without requiring faster tempo or higher overall volume.
 
 
-Amastacia can potentially control roughness through vocalization, embouchure, overtone structure, and spectral instability. This makes roughness a separate compositional axis from loudness or BPM.
+The didgeridoo can potentially control roughness through vocalization, embouchure, overtone structure, and spectral instability. This makes roughness a separate compositional axis from loudness or BPM.
 
 
 Evidence boundary
@@ -12,4 +12,4 @@ Established: close spectral interactions and rapid amplitude fluctuations contri
 
 
 KLAAT test
-Record three matched-loudness Amastacia passages: spectrally stable, moderately rough, and intentionally rough. Compare listener ratings for tension, activation, urgency, and loudness.
+Record three matched-loudness the didgeridoo passages: spectrally stable, moderately rough, and intentionally rough. Compare listener ratings for tension, activation, urgency, and loudness.

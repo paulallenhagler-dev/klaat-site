@@ -9,13 +9,13 @@ Status: Evidence synthesis, open questions, and optional KLAAT observation. No K
 CENTRAL QUESTION
 
 
-A KLAAT performance ends. Amastacia's C# drone has stopped; Ankora's last membrane vibration has decayed; the playback device is silent. Yet a listener later notices a rhythm, a drone contour, a breath texture, or a short passage recurring in the mind without deciding to remember it. Is this possible in the ordinary science of music cognition? What would it mean if a sparse, improvised sound world remained mentally active after the external sound ended—and what would it NOT mean?
+A KLAAT performance ends. The didgeridoo's C# drone has stopped; the drum's last membrane vibration has decayed; the playback device is silent. Yet a listener later notices a rhythm, a drone contour, a breath texture, or a short passage recurring in the mind without deciding to remember it. Is this possible in the ordinary science of music cognition? What would it mean if a sparse, improvised sound world remained mentally active after the external sound ended—and what would it NOT mean?
 
 
 The central distinction is between hearing KLAAT now, voluntarily recalling KLAAT, spontaneously experiencing an internal fragment of KLAAT later, and experiencing a sound that seems to come from the external environment. These are different events. The first is acoustic perception; the next two involve musical memory and imagery; the last requires careful distinction from ordinary imagery. None is, by itself, proof of entrainment, altered consciousness, therapy, or a continuing physical vibration.
 
 
-This is an investigation of what spontaneous listening can leave behind. It is not a suggestion that Paul make a catchy hook, repeat a fixed bar, or change the improvised sound of Amastacia and Ankora.
+This is an investigation of what spontaneous listening can leave behind. It is not a suggestion that Paul make a catchy hook, repeat a fixed bar, or change the improvised sound of the didgeridoo and drum.
 
 
 1. WHY SESSION 100 IS A DISTINCT QUESTION
@@ -45,7 +45,7 @@ The mechanism does not require the air in a room to keep vibrating. Involuntary 
 Liikkanen (2012) reported three internet-based experiments using cued recall and delayed reports. Under conditions where familiarity was controlled, INMI was induced in more than half of participants. Importantly, this was a particular laboratory-style induction paradigm using musical stimuli and prompts; 'more than half' is not the probability that any KLAAT listener will experience a drone or drum earworm. The experiments also suggested that rehearsal in the recent past could be a stronger predictor than immediate activation of a musical memory. Thus, exposure and later imagery are related but not equivalent.
 
 
-Byron and Fowles (2015) tested 36 participants with previously unfamiliar songs. Participants heard a song either twice or six times, then completed three days of probe-caught experience sampling. More familiarized songs appeared more often as INMI, and reports were more common earlier in the sampling period. A personal-life-processing manipulation did not produce the expected difference. This is particularly useful because it shows that familiarity need not be established over years, but the stimuli were songs, not a C# drone with elk-hide percussion.
+Byron and Fowles (2015) tested 36 participants with previously unfamiliar songs. Participants heard a song either twice or six times, then completed three days of probe-caught experience sampling. More familiarized songs appeared more often as INMI, and reports were more common earlier in the sampling period. A personal-life-processing manipulation did not produce the expected difference. This is particularly useful because it shows that familiarity need not be established over years, but the stimuli were songs, not a C# drone with drumming.
 
 
 Hyman and colleagues (2013) combined surveys, diaries and laboratory experiments. Familiar, liked songs—not merely annoying ones—could recur involuntarily. Immediate continuation in the mind after listening was associated with recurrence during the following 24 hours. Environmental cues and cognitive context mattered. However, this was not a randomized test of KLAAT, and reports of 'intrusiveness' must not be equated with clinical pathology.
@@ -60,13 +60,13 @@ Evidence tier: ESTABLISHED in studied musical populations and stimuli that recen
 This is the difficult KLAAT question. Conventional earworm research overwhelmingly studies recognizable songs with melody and often lyrics. Jakubowski, Finkel, Stewart and Müllensiefen (2017) examined tunes named as INMI by 3,000 survey respondents. They compared 100 frequently named INMI tunes with 100 comparison tunes matched for popularity and style, using 83 melodic features. INMI tunes showed relatively common global melodic contours, less common gradients between turning points, and faster average tempi. These are group-level associations in a song corpus; they are not a recipe for making music memorable, nor evidence that fast tempo causes an earworm.
 
 
-Amastacia is not a pop-song melody generator. It can sustain a pitch center while its harmonic emphasis, formant-like vowel character, breath articulation and noise surface shift. Ankora may supply a recurring temporal identity without a pitched tune. The essential empirical question is whether listeners spontaneously reproduce a particular acoustic feature, a rhythmic pattern, an imagined overall atmosphere, or something too vague to identify reliably.
+The didgeridoo is not a pop-song melody generator. It can sustain a pitch center while its harmonic emphasis, formant-like vowel character, breath articulation and noise surface shift. The drum may supply a recurring temporal identity without a pitched tune. The essential empirical question is whether listeners spontaneously reproduce a particular acoustic feature, a rhythmic pattern, an imagined overall atmosphere, or something too vague to identify reliably.
 
 
 Bailes (2007) found in an experience-sampling study of music students that melody and lyrics were generally more vividly imagined than timbre and expression; 58% of sampled imagery episodes were associated by participants with recently hearing or performing the music. The 58% is a reported possible antecedent in that sample, not a causal effect or a universal prevalence. If timbre is less vivid than melody on average, KLAAT's most distinctive textures might be less likely to return as precise mental audio than its drum pulse. That is a plausible hypothesis, not a conclusion.
 
 
-A KLAAT listener might internally replay only the spacing of Ankora's attacks, only Amastacia's breath-colored drone, both as a coupled gesture, or nothing at all. The research should accept all four possibilities.
+A KLAAT listener might internally replay only the spacing of the drum's attacks, only the didgeridoo's breath-colored drone, both as a coupled gesture, or nothing at all. The research should accept all four possibilities.
 
 
 5. THE INTERNAL CLOCK IS MEASURABLE, BUT NOT PERFECT
@@ -81,7 +81,7 @@ For 115 episodes with an identifiable canonical recording, after excluding likel
 Crucial limitations: only 17 selected volunteers; repeated observations are not 228 independent people; participants were screened for reliable tapping; many songs lacked one canonical recording; half/double-time cases were removed; tapping may alter the mental experience. Within-person recurrences of the same eight songs showed a mean 19.6% slowest-to-fastest tempo difference, emphasizing variability.
 
 
-KLAAT's reference Ankora pulse of approximately 137 BPM is a provisional measurement of one recording, not a compulsory tempo. If a listener spontaneously 'hears' Ankora afterward and taps around 137 BPM, that could be interesting, but tapping at roughly 68.5 or 274 BPM could reflect metrical level rather than memory failure. Even an accurate match would demonstrate tempo memory or temporal reconstruction—not neural entrainment or a persisting physical pulse.
+KLAAT's reference the drum pulse of approximately 137 BPM is a provisional measurement of one recording, not a compulsory tempo. If a listener spontaneously 'hears' the drum afterward and taps around 137 BPM, that could be interesting, but tapping at roughly 68.5 or 274 BPM could reflect metrical level rather than memory failure. Even an accurate match would demonstrate tempo memory or temporal reconstruction—not neural entrainment or a persisting physical pulse.
 
 
 6. THE CONTRADICTION: REPETITION HELPS MEMORY, BUT 'CATCHINESS' IS NOT A SINGLE PROPERTY
@@ -102,7 +102,7 @@ The artistic aim should remain welcome engagement and genuine effect, not maximi
 7. THE LISTENER'S DAY MATTERS
 
 
-Floridou and Müllensiefen (2015) used experience sampling with 40 volunteers, six prompts per day for one week. Their findings associated INMI with the person's activity and mind-wandering context. Williamson and colleagues (2012) classified self-reported triggers into music exposure, memory cues, affective states and low-attention states. Such findings help explain why a listener might not think of KLAAT during an intense conversation but might notice a remembered Ankora figure while walking home, cleaning, drawing or sitting quietly.
+Floridou and Müllensiefen (2015) used experience sampling with 40 volunteers, six prompts per day for one week. Their findings associated INMI with the person's activity and mind-wandering context. Williamson and colleagues (2012) classified self-reported triggers into music exposure, memory cues, affective states and low-attention states. Such findings help explain why a listener might not think of KLAAT during an intense conversation but might notice a remembered the drum figure while walking home, cleaning, drawing or sitting quietly.
 
 
 However, environmental associations are often retrospectively inferred. A person who notices a rhythm while walking might have begun the rhythm internally before walking; movement may cue it; or both may be associated with another variable. Likewise, spontaneous internal replay during chores is not proof that KLAAT improved task performance or elevated physiological arousal.
@@ -117,7 +117,7 @@ A later study by Floridou and colleagues (2015) developed the Involuntary Musica
 The proposed AFTER-SOUND GATE separates six layers:
 
 
-A. PERFORMANCE SOURCE — Paul's authentic, improvised Amastacia/Ankora actions; no required structure or tempo.
+A. PERFORMANCE SOURCE — Paul's authentic, improvised the didgeridoo and drum actions; no required structure or tempo.
 B. DELIVERED EXPOSURE — the actual recording, duration, listening level, context and number of prior hearings.
 C. POST-EXPOSURE INTERVAL — elapsed time, other music, tasks, movement, sleep and environmental cues.
 D. SPONTANEOUS INTERNAL EVENT — whether anything returned unbidden; whether it looped; its content, onset and approximate duration.
@@ -125,7 +125,7 @@ E. PERSONAL APPRAISAL — welcome, neutral, intrusive, activating, soothing, dis
 F. INFERENCE — a bounded statement about memory/imagery; no causal neural, physiological or trance claim without separate appropriate data.
 
 
-This gate guards against four category mistakes. Remembering that KLAAT was powerful is not the same as hearing it in the mind. Intentionally humming Ankora's rhythm is not an involuntary event. A recurring mental rhythm is not continuing airborne vibration. A mental beat that feels energetic is not evidence of measured heart-rate, motor, or neural synchronization.
+This gate guards against four category mistakes. Remembering that KLAAT was powerful is not the same as hearing it in the mind. Intentionally humming the drum's rhythm is not an involuntary event. A recurring mental rhythm is not continuing airborne vibration. A mental beat that feels energetic is not evidence of measured heart-rate, motor, or neural synchronization.
 
 
 It also leaves open an interesting, less conventional possibility: the listener may not reproduce the exact sound but may retain a felt sense of its movement or contour. That would be worth describing in the listener's own words, not retrofitting to the label 'earworm.'
@@ -134,19 +134,19 @@ It also leaves open an interesting, less conventional possibility: the listener 
 9. TESTABLE KLAAT HYPOTHESES, WITHOUT WRITING TO THEM
 
 
-H1 — SOURCE IDENTITY: Some listeners exposed to an authentic KLAAT excerpt may later report involuntary imagery identifiable as an Ankora pattern, an Amastacia drone gesture, or their combination. Competing result: reports are vague, unrelated, or absent.
+H1 — SOURCE IDENTITY: Some listeners exposed to an authentic KLAAT excerpt may later report involuntary imagery identifiable as an the drum pattern, an the didgeridoo drone gesture, or their combination. Competing result: reports are vague, unrelated, or absent.
 
 
 H2 — EXPOSURE HISTORY: Repeated natural listening to the same authentic take may increase the frequency of recognizable KLAAT imagery compared with a first hearing, but this is confounded by familiarity, preference and selection unless exposure is assigned and controlled. No prescription to repeat material within the performance follows.
 
 
-H3 — INTERNAL METRICAL LEVEL: When a remembered Ankora pulse is tapped, apparent half-time or double-time responses may reflect metric interpretation rather than loss of temporal identity. A preregistered tolerance rule would need to specify what counts as matching before inspecting data.
+H3 — INTERNAL METRICAL LEVEL: When a remembered the drum pulse is tapped, apparent half-time or double-time responses may reflect metric interpretation rather than loss of temporal identity. A preregistered tolerance rule would need to specify what counts as matching before inspecting data.
 
 
 H4 — DAILY-LIFE FUNCTION: KLAAT imagery, if it occurs, might be welcome during a low-demand task yet distracting during concentrated work or sleep. The direction of effect may vary by person. Imagery occurrence is not equivalent to actual task benefit or harm.
 
 
-H5 — TIMBRE LIMIT: A listener may remember a pulse more precisely than a didgeridoo's changing spectral texture; alternatively, Amastacia's distinctive breath/vowel gestures may be the strongest remembered feature. Existing earworm studies do not resolve this for drone-and-frame-drum music.
+H5 — TIMBRE LIMIT: A listener may remember a pulse more precisely than a didgeridoo's changing spectral texture; alternatively, the didgeridoo's distinctive breath/vowel gestures may be the strongest remembered feature. Existing earworm studies do not resolve this for drone-and-frame-drum music.
 
 
 Each hypothesis has a null outcome worth preserving. A small convenience pilot cannot estimate prevalence in the public, and a listener's description is not an acoustic measurement of what is 'playing' inside their head.
@@ -161,7 +161,7 @@ ESTABLISHED: Ordinary listeners sometimes experience uninvited, repetitive inter
 CONTEXT-DEPENDENT: The role of song structure, melody, lyrics, familiarity, task load, personal meaning and sleep context; the direction and strength of reported affect; the fidelity of imagined timbre and rhythm.
 
 
-PLAUSIBLE / TESTABLE FOR KLAAT: A recurring Ankora pulse or Amastacia texture may sometimes return unbidden after listening; source-specific content and affect can be reported and compared against actual audio without altering Paul's performance.
+PLAUSIBLE / TESTABLE FOR KLAAT: A recurring the drum pulse or the didgeridoo texture may sometimes return unbidden after listening; source-specific content and affect can be reported and compared against actual audio without altering Paul's performance.
 
 
 SPECULATIVE: KLAAT's minimal drone-and-pulse texture might create an especially persistent nonmelodic mental image; a distinctive breath timbre might function as a cue for internal replay. There is no direct evidence of either claim.
@@ -173,10 +173,10 @@ UNSUPPORTED: KLAAT has demonstrated INMI, trance, neural entrainment, autonomic 
 11. INTERPRETING A REAL RESULT
 
 
-Suppose three of ten volunteers later say that Ankora's pulse returned to mind. That is three reports from those ten volunteers, not '30% of people experience KLAAT aftereffects.' We would need to know how they were recruited, whether they had heard KLAAT before, whether the description was spontaneous or prompted, whether the sound was mentally replayed or merely remembered, and whether it felt pleasant. Without a control condition, we cannot isolate KLAAT from generic music exposure or expectancy.
+Suppose three of ten volunteers later say that the drum's pulse returned to mind. That is three reports from those ten volunteers, not '30% of people experience KLAAT aftereffects.' We would need to know how they were recruited, whether they had heard KLAAT before, whether the description was spontaneous or prompted, whether the sound was mentally replayed or merely remembered, and whether it felt pleasant. Without a control condition, we cannot isolate KLAAT from generic music exposure or expectancy.
 
 
-Suppose one listener reports a pulse at 140 BPM after a recording with an Ankora reference around 137 BPM. A close match may be notable but not conclusive: the listener could have tapped from a remembered pulse, inferred a beat from general familiarity, or been affected by walking cadence. A recording of the tapping would be a behavioral measure; a written claim about inner sound would remain subjective; no brain activity would have been measured.
+Suppose one listener reports a pulse at 140 BPM after a recording with an the drum reference around 137 BPM. A close match may be notable but not conclusive: the listener could have tapped from a remembered pulse, inferred a beat from general familiarity, or been affected by walking cadence. A recording of the tapping would be a behavioral measure; a written claim about inner sound would remain subjective; no brain activity would have been measured.
 
 
 Suppose nobody reports spontaneous imagery. That does not mean the performance failed. KLAAT's artistic purpose includes real-time immersion, bodily energy, attentive listening and ordinary daily use. A piece can matter deeply without repeating in the listener's head.
@@ -185,7 +185,7 @@ Suppose nobody reports spontaneous imagery. That does not mean the performance f
 12. HOW THIS FITS KLAAT'S ARTISTIC IDENTITY
 
 
-KLAAT's world is built from two sources that need not explain themselves: Amastacia, the Drone; Ankora, the Pulse. Their power is in actual playing—breath, hide, pressure, gesture, imperfect recurrence, duration, and the dense perceptual life of a sparse acoustic scene. Paul's spontaneous flow is not a research variable to be optimized out of existence. It is the source of the music that research can subsequently describe.
+KLAAT's world is built from two sources that need not explain themselves: the didgeridoo, the Drone; the drum, the Pulse. Their power is in actual playing—breath, hide, pressure, gesture, imperfect recurrence, duration, and the dense perceptual life of a sparse acoustic scene. Paul's spontaneous flow is not a research variable to be optimized out of existence. It is the source of the music that research can subsequently describe.
 
 
 The prospect that something might remain mentally alive after silence is artistically compelling, but the scientific question is modest: what, if anything, do real listeners involuntarily retrieve, under what conditions, and how does that experience differ from remembering, imagining deliberately, or feeling physically stimulated? The honest answer today is that general music research makes the question plausible and provides tools to investigate it; KLAAT itself has not been tested.

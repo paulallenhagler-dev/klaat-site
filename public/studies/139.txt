@@ -1,6 +1,6 @@
 KLAAT RESONANCE RESEARCH — SESSION 139
 THE RESPONSE THAT CROSSED TIME ZERO
-Why a bodily signal recorded after Amastacia begins may belong to the moments before the sound
+Why a bodily signal recorded after the didgeridoo begins may belong to the moments before the sound
 Published: 2026-10-31, 19:12 CDT (America/Chicago)
 
 
@@ -15,7 +15,7 @@ Critical synthesis of primary psychophysiology and KLAAT's accumulated research 
 CENTRAL QUESTION
 
 
-Imagine that a consenting listener hears Paul begin a spontaneous Amastacia-and-Ankora performance. An electrodermal sensor rises three seconds after the first audible C# drone. A researcher marks that rise as an immediate response to KLAAT. But the listener saw Ankora, heard a description of a 'resonance ritual,' and anticipated the first sound several seconds earlier. Could the physiological signal that APPEARED after the first note have been initiated before the first note?
+Imagine that a consenting listener hears Paul begin a spontaneous the didgeridoo-and-the drum performance. An electrodermal sensor rises three seconds after the first audible C# drone. A researcher marks that rise as an immediate response to KLAAT. But the listener saw the drum, heard a description of a 'resonance ritual,' and anticipated the first sound several seconds earlier. Could the physiological signal that APPEARED after the first note have been initiated before the first note?
 
 
 Yes, in principle. The body does not report every sympathetic event at the exact moment it is initiated. The recorded skin-conductance trace is a delayed, temporally extended consequence of sudomotor activity, and responses to adjacent events can overlap. An observed post-onset increase is therefore not sufficient to identify the sound as its cause. The issue is not whether the experience was authentic. It is whether the research assigns its origin to the correct part of the experience.
@@ -36,7 +36,7 @@ This session does NOT merely repeat the warning that a goosebump can occur befor
 For any future KLAAT listener session, distinguish these timestamps:
 
 
-T_context: first meaningful context, such as entering the performance space, seeing Amastacia and Ankora, or receiving a verbal description.
+T_context: first meaningful context, such as entering the performance space, seeing the didgeridoo and drum, or receiving a verbal description.
 T_expectation: when the listener starts anticipating an imminent event. This is often latent; it cannot be read directly from a stopwatch.
 T_audio: the actual first audible sound reaching the listener, not simply the moment Paul moves or a playback button is pressed.
 T_initiation: when a physiological process begins upstream of the measured sensor output. Usually unobserved without specialized measurements.
@@ -46,7 +46,7 @@ T_observation: when a sensor or observer detects a change, such as an electroder
 A sixth time, T_report, is when a person describes what they felt. That may be minutes later and may reflect memory reconstruction. The ordering T_context < T_audio < T_observation is easy to measure in principle; it does not establish T_audio < T_initiation. This distinction is the heart of the session.
 
 
-In an ordinary acoustic KLAAT performance, T_audio itself can be ambiguous: Amastacia may begin with a soft breath edge before the stable drone is audible; Ankora may enter after the drone; room reflections and audience position alter the arrival of the first sound. These are small acoustic-timeline issues relative to a twenty-second introduction, but they matter if someone later makes claims about subsecond response timing. Do not treat the first large waveform peak as the only possible acoustic onset.
+In an ordinary acoustic KLAAT performance, T_audio itself can be ambiguous: the didgeridoo may begin with a soft breath edge before the stable drone is audible; the drum may enter after the drone; room reflections and audience position alter the arrival of the first sound. These are small acoustic-timeline issues relative to a twenty-second introduction, but they matter if someone later makes claims about subsecond response timing. Do not treat the first large waveform peak as the only possible acoustic onset.
 
 
 3. WHAT THE HUMAN SKIN-CONDUCTANCE LITERATURE ACTUALLY SHOWS
@@ -96,13 +96,13 @@ The following times and amplitudes are invented solely to demonstrate the logic.
 
 
 At t = -15 s, a listener is told that an acoustic resonance ritual is about to begin.
-At t = -3 s, the listener sees Paul raise Ankora and prepare Amastacia.
-At t = 0 s, the first audible Amastacia sound reaches the listener.
+At t = -3 s, the listener sees Paul raise the drum and prepare the didgeridoo.
+At t = 0 s, the first audible the didgeridoo sound reaches the listener.
 At t = +2.5 s, a skin-conductance trace begins rising.
 At t = +5 s, the trace reaches a local peak.
 
 
-An analyst who only knows the audio file's zero point may attribute the rise to Amastacia. Yet a hypothetical sympathetic event initiated near t = -1 s, in response to the visible preparation or expectation, could produce a delayed skin-conductance change after t = 0. A different event initiated by the actual sound might also contribute. A third spontaneous event could be unrelated to either. The recorded curve alone cannot decide among them.
+An analyst who only knows the audio file's zero point may attribute the rise to the didgeridoo. Yet a hypothetical sympathetic event initiated near t = -1 s, in response to the visible preparation or expectation, could produce a delayed skin-conductance change after t = 0. A different event initiated by the actual sound might also contribute. A third spontaneous event could be unrelated to either. The recorded curve alone cannot decide among them.
 
 
 If two such events occur close together, the sensor can register a combined response. Even a sophisticated decomposition algorithm can only estimate latent impulses under assumptions; it cannot infer an unlogged introduction, visual cue, or participant thought from skin conductance alone. The physiological signal is a response channel, not a causal history recorder.
@@ -117,7 +117,7 @@ A useful conceptual model is:
 Observed EDA(t) = tonic baseline(t) + sum of event-linked response shapes(t - event time) + movement/environmental noise(t).
 
 
-In signal-processing language, each initiating event is blurred by a physiological response kernel. The kernel has a rise and decay, so two events separated by only a few seconds may yield one broad observed wave. A simplified convolution model can express this as observed phasic EDA = latent sympathetic drive convolved with a response function, plus noise. The kernel is a model of measurement dynamics; it is NOT a composition plan, a prescribed KLAAT phase, or evidence that the body is 'entrained' to Ankora.
+In signal-processing language, each initiating event is blurred by a physiological response kernel. The kernel has a rise and decay, so two events separated by only a few seconds may yield one broad observed wave. A simplified convolution model can express this as observed phasic EDA = latent sympathetic drive convolved with a response function, plus noise. The kernel is a model of measurement dynamics; it is NOT a composition plan, a prescribed KLAAT phase, or evidence that the body is 'entrained' to the drum.
 
 
 A stronger model would represent separate candidate event series: introductory speech, visual reveal, first audible drone, first drum attack, major spontaneous acoustic changes, and any voluntary participant movement. But adding regressors does not automatically identify causal effects. If every performance always follows the same introduction with the same delay, the cue and music remain tightly correlated. No mathematical technique can create independent variation that the experiment never contained.
@@ -129,10 +129,10 @@ This is a problem of IDENTIFIABILITY. When two potential causes always occur tog
 7. THE CONTRADICTION: REAL ANTICIPATION IS PART OF THE ART, BUT NOT THE SOUND'S EFFECT
 
 
-KLAAT has an intentional ancient/ritual/archaeosonic identity. A dark performance space, the sight of an agave instrument, the physical presence of an elk-hide drum, and the expectation of an unusual acoustic event may all be artistically meaningful. The goal is not to strip KLAAT of these things or pretend that the live ritual is identical to an audio-only recording. The artistic event can legitimately include anticipation.
+KLAAT has an intentional ancient/ritual/archaeosonic identity. A dark performance space, the sight of an agave instrument, the physical presence of an drum, and the expectation of an unusual acoustic event may all be artistically meaningful. The goal is not to strip KLAAT of these things or pretend that the live ritual is identical to an audio-only recording. The artistic event can legitimately include anticipation.
 
 
-Scientific claims need a more exact object. 'People reacted during the KLAAT event' may include visual presentation, anticipation, room context, social expectation, and sound. 'The Amastacia drone caused this skin-conductance response' is a narrower claim requiring evidence that distinguishes those influences. Neither statement should be quietly substituted for the other.
+Scientific claims need a more exact object. 'People reacted during the KLAAT event' may include visual presentation, anticipation, room context, social expectation, and sound. 'the didgeridoo drone caused this skin-conductance response' is a narrower claim requiring evidence that distinguishes those influences. Neither statement should be quietly substituted for the other.
 
 
 This also matters for KLAAT as an everyday soundtrack. A person pressing play on an unlabeled recording while cleaning has different anticipatory cues from someone watching Paul prepare the instruments in a ritual setting. The same musical recording may be associated with different experiences. Those differences are not failures of authenticity; they are distinct listening conditions.
@@ -144,7 +144,7 @@ This also matters for KLAAT as an everyday soundtrack. A person pressing play on
 A future researcher might collect EDA, heart rate, respiration, visible goosebumps, and voluntary reports. These are not five identical sensors of 'trance.' Each has different temporal resolution, biological determinants, and response dynamics. Heart rate is influenced by breathing, posture, movement, and autonomic regulation; respiration can be voluntarily adjusted; piloerection may be intermittent and body-site dependent; subjective chills can occur without visible piloerection. A response observed earlier on one channel does not establish that it caused a later response on another.
 
 
-For KLAAT, this means that aligning every channel to the nearest Ankora strike would be a category error. Ankora's fast attack sequence, Amastacia's sustained breath and harmonics, the listener's changing attention, and autonomic response windows unfold on different timescales. A three-second EDA rise can encompass many Ankora attacks. Without independent variation and a justified model, the data cannot identify which individual strike 'caused' the rise.
+For KLAAT, this means that aligning every channel to the nearest the drum strike would be a category error. The drum's fast attack sequence, the didgeridoo's sustained breath and harmonics, the listener's changing attention, and autonomic response windows unfold on different timescales. A three-second EDA rise can encompass many the drum attacks. Without independent variation and a justified model, the data cannot identify which individual strike 'caused' the rise.
 
 
 9. A CAUSAL DESIGN THAT DOES NOT GOVERN THE PERFORMANCE
@@ -156,7 +156,7 @@ If KLAAT ever develops a physiological pilot, three distinctions can make the in
 First, keep an uncued baseline where feasible. This means a quiet interval before an evocative introduction or instrument reveal, not merely a pause after the listener has been told what to expect. A quiet baseline is still not psychologically empty, and equipment attachment itself may change arousal. Its value is that the timing is documented.
 
 
-Second, mark the entire cue timeline. Record when the listener enters, sees the instruments, hears a description, receives a start signal, first hears Amastacia, first hears Ankora, and begins or stops any voluntary movement. Distinguish the acoustic file's zero from the sound reaching the listener. The goal is not to add elaborate production requirements to a small informal pilot; it is to avoid false precision if formal physiology is ever collected.
+Second, mark the entire cue timeline. Record when the listener enters, sees the instruments, hears a description, receives a start signal, first hears the didgeridoo, first hears the drum, and begins or stops any voluntary movement. Distinguish the acoustic file's zero from the sound reaching the listener. The goal is not to add elaborate production requirements to a small informal pilot; it is to avoid false precision if formal physiology is ever collected.
 
 
 Third, if a later controlled study genuinely needs to estimate the effect of framing, compare neutral and evocative introductions with the SAME unedited authentic recording, assigned across different listeners or appropriately counterbalanced occasions. Predefine a primary subjective outcome and an analysis of the cue period. Keep listening level and delivery comparable. Avoid showing an individual the same short clip repeatedly and then treating each response as an independent new listener. Even with randomization, such a design estimates an effect of the framing condition in that sample; it does not prove which specific thought or neural mechanism generated it.
@@ -174,7 +174,7 @@ CASE A — A response begins before audio. Observation: a physiological event is
 CASE B — A response begins just after audio. Observation: a sensor change follows sound onset. Warranted conclusion: temporal ordering alone does not establish the sound as cause, because physiological lag can shift a cue-driven response across time zero. Inspect earlier cue timing and model assumptions.
 
 
-CASE C — A response begins well into an unedited performance. Observation: a delayed physiological change occurs while Amastacia and Ankora continue. Warranted conclusion: the change may be associated with acoustic events, anticipation of what follows, attention, movement, ordinary drift, or other causes. Do not assign it to a specific drum strike merely because one occurs nearby.
+CASE C — A response begins well into an unedited performance. Observation: a delayed physiological change occurs while the didgeridoo and drum continue. Warranted conclusion: the change may be associated with acoustic events, anticipation of what follows, attention, movement, ordinary drift, or other causes. Do not assign it to a specific drum strike merely because one occurs nearby.
 
 
 CASE D — No detectable physiological change. Observation: no response exceeds a prespecified threshold on the measured channel. Warranted conclusion: the selected channel did not show a detectable event under those conditions. It does not prove that the listener felt nothing, was not absorbed, or did not find the music energizing. The sensor may be insensitive to the experience of interest.
@@ -206,12 +206,12 @@ PLAUSIBLE, TESTABLE KLAAT HYPOTHESES:
 
 
 SPECULATION:
-- The distinctive visual identity of Amastacia and Ankora could make some listeners especially anticipatory before the first sound. No KLAAT listener dataset currently tests this.
+- The distinctive visual identity of the didgeridoo and drum could make some listeners especially anticipatory before the first sound. No KLAAT listener dataset currently tests this.
 
 
 UNSUPPORTED CLAIMS:
 - KLAAT has already produced physiological trance or neural entrainment.
-- A post-onset skin-conductance rise proves that Amastacia or Ankora caused it.
+- A post-onset skin-conductance rise proves that the didgeridoo or the drum caused it.
 - A cue-period goosebump proves ritual symbolism activated a specific brain system.
 - A particular C# frequency has a special autonomic effect.
 - A deconvolution program can identify the true psychological cause of an individual response from a single trace.

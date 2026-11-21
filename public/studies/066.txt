@@ -78,11 +78,11 @@ The accumulated work suggests four candidate dimensions that may be sufficient t
 
 
 FIELD STABILITY
-How stable or transformed Amastacia’s continuous spectral/breath field is.
+How stable or transformed the didgeridoo’s continuous spectral/breath field is.
 
 
 CLOCK STRENGTH
-How clearly Ankora establishes a predictable temporal scaffold.
+How clearly the drum establishes a predictable temporal scaffold.
 
 
 SURFACE PRESSURE
@@ -123,13 +123,13 @@ If SPL alone predicts listener segmentation as well as the four-dimensional stat
 If KSV predicts state boundaries beyond SPL, the richer grammar earns support.
 
 
-5. FIELD STABILITY — AMASTACIA’S STATE VARIABLE
+5. FIELD STABILITY — DIDGERIDOO’S STATE VARIABLE
 
 
 FIELD STABILITY is not “didgeridoo volume.”
 
 
-It describes how much Amastacia preserves versus transforms the continuous acoustic world.
+It describes how much the didgeridoo preserves versus transforms the continuous acoustic world.
 
 
 Candidate measurements include:
@@ -150,10 +150,10 @@ The exact measurement should be chosen for reliability, not because it sounds th
 The compositional question is simple:
 
 
-IS AMASTACIA HOLDING THE WORLD STEADY, ALTERING IT, OR WITHDRAWING IT?
+IS DIDGERIDOO HOLDING THE WORLD STEADY, ALTERING IT, OR WITHDRAWING IT?
 
 
-6. CLOCK STRENGTH — ANKORA’S SCAFFOLD VARIABLE
+6. CLOCK STRENGTH — DRUM’S SCAFFOLD VARIABLE
 
 
 CLOCK STRENGTH is not merely BPM.
@@ -184,7 +184,7 @@ Listener Pulse clarity remains a perceptual validation measure rather than part 
 7. SURFACE PRESSURE — RISING WITHOUT ACCELERATING
 
 
-SURFACE PRESSURE describes what Ankora does around the scaffold.
+SURFACE PRESSURE describes what the drum does around the scaffold.
 
 
 It can increase through:
@@ -241,8 +241,8 @@ Candidate indicators include:
 loss of subdivisions after sustained density;
 loss of accents after an established accent grammar;
 restoration and then removal of the scaffold;
-Ankora cessation after stable clock acquisition;
-Amastacia thinning after sustained Field;
+The drum cessation after stable clock acquisition;
+The didgeridoo thinning after sustained Field;
 predictive silence at locations where events had become expected.
 
 
@@ -326,7 +326,7 @@ Research on live contemporary music shows that listeners can agree on meaningful
 That is directly relevant to KLAAT.
 
 
-A listener may say “it sped up” during Rising Pulse even if Ankora’s scaffold BPM never changed.
+A listener may say “it sped up” during Rising Pulse even if the drum’s scaffold BPM never changed.
 
 
 The actual cue may have been increasing event density.
@@ -403,8 +403,8 @@ A useful state vector should let Paul hear and perform the variables it contains
 If a variable cannot eventually be translated into:
 
 
-Amastacia;
-Ankora;
+The didgeridoo;
+The drum;
 breath;
 silence;
 repetition;
@@ -449,31 +449,31 @@ A new variable stays only if it adds reliable explanatory value across performan
 This prevents the State Vector from becoming a museum of every concept the research program has ever invented.
 
 
-16. AMASTACIA MUST EARN HER DIMENSION
+16. DIDGERIDOO MUST EARN HER DIMENSION
 
 
-Field Stability is included because the current architecture claims Amastacia actively shapes phase identity.
+Field Stability is included because the current architecture claims the didgeridoo actively shapes phase identity.
 
 
 That claim now becomes testable.
 
 
-If removing all Amastacia-derived variables from the model does not meaningfully reduce phase or boundary prediction, then the measured architecture may be overwhelmingly Ankora-driven.
+If removing all the didgeridoo-derived variables from the model does not meaningfully reduce phase or boundary prediction, then the measured architecture may be overwhelmingly the drum-driven.
 
 
-That would not make Amastacia artistically unimportant.
+That would not make the didgeridoo artistically unimportant.
 
 
 But it would force a correction to the scientific model.
 
 
-Conversely, if Amastacia variables predict Ground Anchor, Gate strength, or Return Path beyond Ankora and SPL, the two-instrument grammar gains direct support.
+Conversely, if the didgeridoo variables predict Ground Anchor, Gate strength, or Return Path beyond the drum and SPL, the two-instrument grammar gains direct support.
 
 
-17. ANKORA MAY REQUIRE TWO DIMENSIONS, NOT ONE
+17. DRUM MAY REQUIRE TWO DIMENSIONS, NOT ONE
 
 
-Ankora probably cannot be represented by “drum intensity.”
+The drum probably cannot be represented by “drum intensity.”
 
 
 Clock Strength and Surface Pressure describe different jobs.
@@ -490,7 +490,7 @@ accent grammar;
 predictability.
 
 
-If blind listeners distinguish those passages as different states, collapsing Ankora to one scalar variable loses important structure.
+If blind listeners distinguish those passages as different states, collapsing the drum to one scalar variable loses important structure.
 
 
 This is precisely why KSV begins with separate CLOCK and SURFACE dimensions.
@@ -523,7 +523,7 @@ ESTABLISHED: More complex models can classify or predict patterns without necess
 CONTEXT-DEPENDENT: Findings from contemporary piano music do not establish which cues dominate KLAAT segmentation.
 
 
-CONTEXT-DEPENDENT: Spectral centroid, roughness, event density, and other computational descriptors are only useful if they track musically meaningful Amastacia/Ankora behavior reliably.
+CONTEXT-DEPENDENT: Spectral centroid, roughness, event density, and other computational descriptors are only useful if they track musically meaningful the didgeridoo and drum behavior reliably.
 
 
 CONTEXT-DEPENDENT: Listener boundary agreement may change with KLAAT familiarity, room position, attention, and performance duration.
@@ -544,13 +544,13 @@ PLAUSIBLE/TESTABLE: KSV-0.1 [Field, Clock, Surface, Withdrawal] will predict bli
 PLAUSIBLE/TESTABLE: Rising Pulse can produce perceived acceleration while measured scaffold BPM remains stable, with Surface Pressure explaining the effect.
 
 
-PLAUSIBLE/TESTABLE: Threshold Gate strength is best predicted by simultaneous Clock strengthening and Field transformation rather than Ankora onset alone.
+PLAUSIBLE/TESTABLE: Threshold Gate strength is best predicted by simultaneous Clock strengthening and Field transformation rather than the drum onset alone.
 
 
 PLAUSIBLE/TESTABLE: Return Path is best distinguished from low-activity Ground Anchor by the history-sensitive Withdrawal variable.
 
 
-PLAUSIBLE/TESTABLE: Amastacia-derived Field measures add explanatory value beyond Ankora variables.
+PLAUSIBLE/TESTABLE: the didgeridoo-derived Field measures add explanatory value beyond the drum variables.
 
 
 PLAUSIBLE/TESTABLE: The same reduced state vector can describe multiple KLAAT performances even when exact durations and microtiming differ.
@@ -636,7 +636,7 @@ ADD VARIABLES ONLY WHEN THEY IMPROVE OUT-OF-SAMPLE OR CROSS-PERFORMANCE EXPLANAT
 TEST SPL AND SIMPLE BASELINES FIRST.
 
 
-KEEP AMASTACIA AND ANKORA VARIABLES INTERPRETABLE BY A HUMAN PERFORMER.
+KEEP DIDGERIDOO AND DRUM VARIABLES INTERPRETABLE BY A HUMAN PERFORMER.
 
 
 IF A DIMENSION DOES NOT SURVIVE REPLICATION, REMOVE IT.
@@ -652,15 +652,15 @@ It is a compact language for things Paul can already do physically.
 
 
 FIELD:
-How Amastacia holds, changes, thins, opens, roughens, or withdraws.
+How the didgeridoo holds, changes, thins, opens, roughens, or withdraws.
 
 
 CLOCK:
-How Ankora establishes a legible Pulse.
+How the drum establishes a legible Pulse.
 
 
 SURFACE:
-How Ankora increases or decreases activity around that Pulse.
+How the drum increases or decreases activity around that Pulse.
 
 
 WITHDRAWAL:
@@ -684,7 +684,7 @@ No extra instrument required.
 25. KRX-066 — THE MINIMUM STATE VECTOR TEST
 
 
-Use three separate 20–30 minute Amastacia + Ankora performances, preferably on different days.
+Use three separate 20–30 minute the didgeridoo and drum performances, preferably on different days.
 
 
 Before analysis, preserve Paul’s intended phase boundaries privately.
@@ -698,13 +698,13 @@ overall acoustic level / SPL proxy.
 
 
 B. FIELD CANDIDATES
-Amastacia amplitude-envelope stability;
+The didgeridoo amplitude-envelope stability;
 two or three preselected spectral/timbral measures;
 continuous-tone versus break structure.
 
 
 C. CLOCK CANDIDATES
-dominant Ankora period;
+dominant the drum period;
 inter-onset regularity;
 proportion of events aligned with the inferred scaffold.
 
@@ -720,7 +720,7 @@ E. WITHDRAWAL CANDIDATES
 decline in previously established Surface;
 decline/removal of previously established Clock;
 predictive silences after learned events;
-Amastacia withdrawal after sustained Field.
+The didgeridoo withdrawal after sustained Field.
 
 
 Have blind listeners mark meaningful state changes without teaching them the four-phase vocabulary.
@@ -752,7 +752,7 @@ replication across the other performances.
 The decisive question is:
 
 
-WHAT IS THE SMALLEST INTERPRETABLE SET OF AMASTACIA/ANKORA VARIABLES THAT PREDICTS RECURRING KLAAT STATE TRANSITIONS BETTER THAN LOUDNESS OR CHRONOLOGY ALONE?
+WHAT IS THE SMALLEST INTERPRETABLE SET OF DIDGERIDOO/DRUM VARIABLES THAT PREDICTS RECURRING KLAAT STATE TRANSITIONS BETTER THAN LOUDNESS OR CHRONOLOGY ALONE?
 
 
 A particularly important sub-test:
@@ -785,7 +785,7 @@ RECOMMENDED NEXT DIRECTION
 Do not add KSV dimensions after one test.
 
 
-The next step should be repeated-performance validation and then a deliberate challenge condition: create two performances with similar global loudness and similar average Ankora BPM but intentionally different KSV trajectories.
+The next step should be repeated-performance validation and then a deliberate challenge condition: create two performances with similar global loudness and similar average the drum BPM but intentionally different KSV trajectories.
 
 
 If blind listeners reliably distinguish their state architecture, the composition grammar has explanatory power beyond volume and tempo.

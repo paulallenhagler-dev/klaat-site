@@ -1,6 +1,6 @@
 KLAAT RESONANCE RESEARCH — SESSION 93
 THE LOW NOTE THAT SURVIVES WITHOUT BASS
-Missing fundamentals, vocal-tract harmonics, and what a small speaker can preserve of Amastacia
+Missing fundamentals, vocal-tract harmonics, and what a small speaker can preserve of the didgeridoo
 Published: October 16, 2026 — 3:13 PM CDT (America/Chicago)
 
 
@@ -10,7 +10,7 @@ EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 CENTRAL QUESTION
 
 
-If a playback system cannot reproduce the deepest part of Amastacia's C# drone, why might listeners still hear a low note—and what exactly has been lost? This is not a question about adding bass, changing Paul's sound, or selecting a mystical frequency. It is about a discrepancy between the acoustic signal and the pitch and texture that a human ear reconstructs.
+If a playback system cannot reproduce the deepest part of the didgeridoo's C# drone, why might listeners still hear a low note—and what exactly has been lost? This is not a question about adding bass, changing Paul's sound, or selecting a mystical frequency. It is about a discrepancy between the acoustic signal and the pitch and texture that a human ear reconstructs.
 
 
 Session 92 established the Received-Stimulus Gate: recorded bass, received sound pressure, tactile vibration, and subjective bodily energy must be distinguished. Session 93 develops its most immediate unresolved auditory implication. Low-frequency sound can be physically reduced or absent while higher harmonics still provide cues to the original fundamental. The ear may infer a low pitch from those cues. Yet a reconstructed pitch is not the same thing as the missing low-frequency acoustic energy, nor is it a substitute for every detail of timbre, spatial pressure, or bodily sensation.
@@ -22,7 +22,7 @@ THE CORE FINDING: A LISTENER CAN HEAR THE IDENTITY OF A LOW DRONE WITHOUT RECEIV
 WHY THIS TOPIC NOW
 
 
-The previous three sessions clarified instrument grouping, expressive microtiming, and the actual delivery of low-frequency sound. Session 92 explicitly noted that small speakers may preserve rhythmic identity even when they reproduce little deep bass. That observation deserves a full investigation before any discussion of optimizing recording or playback. It also intersects an older unresolved direction: how Amastacia's changing vocal-tract resonances and harmonics maintain an identifiable drone under different listening conditions. The connected Curriculum Index and Research Ledger through Session 92 were consulted; the newest available hourly research note is still October 5, 2026 at 18:33 CDT. No new hourly notes have appeared since Session 92. This session therefore advances a documented unresolved gap rather than inventing a new assignment for Paul's improvisation.
+The previous three sessions clarified instrument grouping, expressive microtiming, and the actual delivery of low-frequency sound. Session 92 explicitly noted that small speakers may preserve rhythmic identity even when they reproduce little deep bass. That observation deserves a full investigation before any discussion of optimizing recording or playback. It also intersects an older unresolved direction: how the didgeridoo's changing vocal-tract resonances and harmonics maintain an identifiable drone under different listening conditions. The connected Curriculum Index and Research Ledger through Session 92 were consulted; the newest available hourly research note is still October 5, 2026 at 18:33 CDT. No new hourly notes have appeared since Session 92. This session therefore advances a documented unresolved gap rather than inventing a new assignment for Paul's improvisation.
 
 
 1. A DRONE IS NOT JUST ONE FREQUENCY
@@ -31,13 +31,13 @@ The previous three sessions clarified instrument grouping, expressive microtimin
 A simple sinusoidal tone has one frequency. A didgeridoo drone is not a simple sinusoid. Lip oscillation establishes a fundamental periodicity, while the resulting waveform can contain a family of harmonic components at approximately integer multiples of that fundamental. The instrument bore, lip motion, vocal tract, mouth configuration, breath and vocalization change the strength and character of those components. Breath noise and attacks add energy that is not neatly harmonic.
 
 
-To illustrate without claiming to have measured Amastacia, suppose a hypothetical drone has a fundamental near 69.3 Hz, the equal-tempered pitch C#2. Its second, third and fourth harmonics would lie near 138.6, 207.9 and 277.2 Hz. Those numbers are an illustration, not a verified recording analysis. Amastacia is described as a C# instrument, but its precise sounding fundamental, tuning drift, and octave must be measured before we assign them to a particular take. A 137 BPM pulse is approximately 2.28 events per second, not a 2.28 Hz sound wave or a brainwave.
+To illustrate without claiming to have measured the didgeridoo, suppose a hypothetical drone has a fundamental near 69.3 Hz, the equal-tempered pitch C#2. Its second, third and fourth harmonics would lie near 138.6, 207.9 and 277.2 Hz. Those numbers are an illustration, not a verified recording analysis. The didgeridoo is described as a C# instrument, but its precise sounding fundamental, tuning drift, and octave must be measured before we assign them to a particular take. A 137 BPM pulse is approximately 2.28 events per second, not a 2.28 Hz sound wave or a brainwave.
 
 
 A small speaker might reproduce some of the 139, 208 and 277 Hz components while contributing little energy near 69 Hz. The ear can sometimes use the spacing and periodic relationships among the surviving harmonics to perceive a pitch corresponding to the absent fundamental. This is called residue pitch, virtual pitch, or the missing-fundamental phenomenon. It is a property of auditory perception, not evidence that the loudspeaker secretly radiated the missing 69 Hz tone.
 
 
-There are important limits. Real instruments can have inharmonic partials, noise, transient components, multiple concurrent periodicities, and nonlinear distortions. Ankora's drum is not a second ideal harmonic complex. Its low resonance and attack may mask, compete with, or reinforce particular components of Amastacia. Missing-fundamental perception is therefore a mechanism to investigate in a complex KLAAT recording, not a guarantee that every phone speaker will preserve a clear C# drone.
+There are important limits. Real instruments can have inharmonic partials, noise, transient components, multiple concurrent periodicities, and nonlinear distortions. the drum is not a second ideal harmonic complex. Its low resonance and attack may mask, compete with, or reinforce particular components of the didgeridoo. Missing-fundamental perception is therefore a mechanism to investigate in a complex KLAAT recording, not a guarantee that every phone speaker will preserve a clear C# drone.
 
 
 2. THE CLASSIC EXPERIMENT: THE PITCH IS NOT REQUIRED TO EXIST AS A SINGLE LOW COMPONENT
@@ -58,7 +58,7 @@ A further caution follows. A listener may report a low-pitched sound because of 
 Houtsma and Smurzynski (1990) conducted four experiments on complex tones containing as many as 11 successive harmonics. Participants' melodic-interval identification remained above chance even when the components occupied approximately the 20th through 30th harmonic positions. However, discrimination of the missing-fundamental pitch worsened as harmonic order increased, and performance changed as components became less individually resolved. In other words, the phenomenon can persist with surprisingly high partials, but pitch precision and salience are not invariant to which partials survive.
 
 
-This is important for Amastacia. A phone speaker's ability to transmit a little upper-harmonic buzz does not guarantee it will preserve a convincing low note. The relative levels of the harmonics, their resolvability, and competing sound all matter. A very thin, nasal version of the drone may convey its pitch category while losing much of its fullness and texture. A listener might recognize Amastacia yet prefer the full-range presentation. Another might enjoy the sharper, more articulate version during ordinary activity. Neither preference is determined by the missing-fundamental literature.
+This is important for the didgeridoo. A phone speaker's ability to transmit a little upper-harmonic buzz does not guarantee it will preserve a convincing low note. The relative levels of the harmonics, their resolvability, and competing sound all matter. A very thin, nasal version of the drone may convey its pitch category while losing much of its fullness and texture. A listener might recognize the didgeridoo yet prefer the full-range presentation. Another might enjoy the sharper, more articulate version during ordinary activity. Neither preference is determined by the missing-fundamental literature.
 
 
 The 1981 experiments by Houtsma using dichotic two-tone complexes further showed that theoretical accounts did not explain all higher-order harmonic conditions. This is a genuine scientific limitation: the auditory system's ability to derive pitch from harmonic patterns is established, but the relative contributions of spectral templates, temporal periodicity and cross-channel integration remain stimulus dependent.
@@ -70,10 +70,10 @@ The 1981 experiments by Houtsma using dichotic two-tone complexes further showed
 The didgeridoo-specific evidence is unusually strong. Tarnopolsky and colleagues simultaneously measured performers' vocal-tract acoustic impedance and radiated sound. Their 2005 Nature report and 2006 Journal of the Acoustical Society of America experiment found that changes in the player's vocal tract shape corresponded to pronounced changes in the sound spectrum. In the detailed measurements, vocal-tract impedance peaks in roughly the 1–3 kHz region could suppress neighboring components and leave stronger bands between them, producing moving formants. High-speed lip observations also helped explain the strength of upper harmonics. Their papers include examples of circular breathing and combined playing/vocalization.
 
 
-This gives a concrete reason why Amastacia can be recognizable on limited playback systems. Much of the didgeridoo's expressive vocabulary may be carried by spectral emphasis in frequencies far above the lowest drone component. The listener may hear vowel-like motion, breath articulation, buzzing edge, roughness and changing brightness even when the fundamental is attenuated. Those expressive movements do not require a change of fundamental pitch.
+This gives a concrete reason why the didgeridoo can be recognizable on limited playback systems. Much of the didgeridoo's expressive vocabulary may be carried by spectral emphasis in frequencies far above the lowest drone component. The listener may hear vowel-like motion, breath articulation, buzzing edge, roughness and changing brightness even when the fundamental is attenuated. Those expressive movements do not require a change of fundamental pitch.
 
 
-But do not equate this with an exact fingerprint for Amastacia. The experiments involved particular players, instruments and tract configurations. An agave didgeridoo's bore and player's technique may produce different spectral distributions. Until Amastacia is measured, the general mechanism is supported while its particular spectral profile remains unknown. And the vocal tract's acoustic role is a mechanism of timbral control, not evidence that the instrument produces a special physiological frequency.
+But do not equate this with an exact fingerprint for the didgeridoo. The experiments involved particular players, instruments and tract configurations. An agave didgeridoo's bore and player's technique may produce different spectral distributions. Until the didgeridoo is measured, the general mechanism is supported while its particular spectral profile remains unknown. And the vocal tract's acoustic role is a mechanism of timbral control, not evidence that the instrument produces a special physiological frequency.
 
 
 5. THE CENTRAL CONTRADICTION: PRESERVED PITCH CAN COEXIST WITH LOST PHYSICAL WEIGHT
@@ -85,7 +85,7 @@ The ear can recover a low-pitch percept from surviving harmonics, but that does 
 This explains why two superficially contradictory reports may both be accurate. A listener using a phone can say, 'I can still hear the drone,' while a listener using a full-range speaker says, 'This is a completely different physical experience.' The first statement can concern pitch identity and timbre; the second can concern received low-frequency pressure, spatial response, or actual tactile vibration. Session 92's Received-Stimulus Gate still applies.
 
 
-There is also a recording complication: high-pass filters can alter more than bass amplitude. They may affect phase, time-domain envelopes, transient shape and the balance between Amastacia and Ankora. Codec processing, automatic gain control and loudspeaker distortion may add further differences. A listener comparison across devices cannot isolate missing-fundamental perception unless the acoustic output is characterized or the stimulus is controlled more carefully.
+There is also a recording complication: high-pass filters can alter more than bass amplitude. They may affect phase, time-domain envelopes, transient shape and the balance between the didgeridoo and drum. Codec processing, automatic gain control and loudspeaker distortion may add further differences. A listener comparison across devices cannot isolate missing-fundamental perception unless the acoustic output is characterized or the stimulus is controlled more carefully.
 
 
 6. THE ENGINEERING EVIDENCE: VIRTUAL BASS WORKS SOMETIMES, AND CAN ALSO SOUND WORSE
@@ -97,7 +97,7 @@ Audio engineers have exploited missing-fundamental perception to create the impr
 The technique has a cost. Adding harmonics can change timbre, emphasize harshness, create distortion or alter transients. Mu and Gan (2015) addressed the problem through timbre-matched weighting and hybrid virtual-bass processing. Moliner, Rämö and Välimäki (2020) separated tonal, transient and noisy components for different treatment; their listening tests reported an improvement over prior virtual-bass approaches in perceived bass sound quality. These are engineering demonstrations for particular content, algorithms and speakers, not proof that synthetic bass is aesthetically appropriate for KLAAT.
 
 
-This is an especially important artistic safeguard. Amastacia's naturally occurring overtones are not a flaw to be corrected. The distinction between her breathing, noisy edge and sustained harmonic body is part of the performance. Processing that makes a small speaker seem heavier could also flatten or exaggerate that relationship. Ankora's transient might become harder, and the drone's roughness could be mistaken for added aggression. A processed version might be more exciting to one listener and less authentic to another. The science supplies no rule that says 'more bass impression' equals 'better KLAAT.'
+This is an especially important artistic safeguard. The didgeridoo's naturally occurring overtones are not a flaw to be corrected. The distinction between her breathing, noisy edge and sustained harmonic body is part of the performance. Processing that makes a small speaker seem heavier could also flatten or exaggerate that relationship. The drum's transient might become harder, and the drone's roughness could be mistaken for added aggression. A processed version might be more exciting to one listener and less authentic to another. The science supplies no rule that says 'more bass impression' equals 'better KLAAT.'
 
 
 7. PITCH, TIMBRE, AND BODILY PRESENCE ARE THREE DIFFERENT OUTCOMES
@@ -109,13 +109,13 @@ Pitch identity asks whether a listener recognizes the drone's approximate tonal 
 A listener might identify the same C# pitch on headphones and a small speaker while describing radically different texture. Another might hear a more 'powerful' sound on a small speaker because midrange harmonics are prominent, without receiving stronger low-frequency pressure. Another might experience bodily movement or absorption without clearly identifying any pitch. We should not force these into a single 'resonance effectiveness' number.
 
 
-This distinction also matters for Ankora. Its attack conveys timing and physical gesture; its decay contributes low-frequency resonance and changing tone. A small speaker may retain the strike's rhythmic edge while losing some drum body. When both instruments are present, loss of bass could alter their perceptual balance: Ankora may sound more prominent, or Amastacia's formant gestures may become clearer. That is a change in the received mix, not necessarily a change in the underlying musical relationship.
+This distinction also matters for the drum. Its attack conveys timing and physical gesture; its decay contributes low-frequency resonance and changing tone. A small speaker may retain the strike's rhythmic edge while losing some drum body. When both instruments are present, loss of bass could alter their perceptual balance: the drum may sound more prominent, or the didgeridoo's formant gestures may become clearer. That is a change in the received mix, not necessarily a change in the underlying musical relationship.
 
 
 8. WHAT THIS MEANS FOR THE KLAAT WORLD
 
 
-KLAAT's core artistic materials remain Amastacia, Ankora, breath, repetition, duration, texture, silence and spontaneous engagement. The aesthetic is ancient and tactile, but its effectiveness need not depend on reproducing maximum sub-bass. A piece can remain recognizable through upper harmonics, articulation, rhythmic grouping and expectation. At the same time, faithful full-range playback may reveal a physical depth that smaller devices simply cannot provide.
+KLAAT's core artistic materials remain the didgeridoo, the drum, breath, repetition, duration, texture, silence and spontaneous engagement. The aesthetic is ancient and tactile, but its effectiveness need not depend on reproducing maximum sub-bass. A piece can remain recognizable through upper harmonics, articulation, rhythmic grouping and expectation. At the same time, faithful full-range playback may reveal a physical depth that smaller devices simply cannot provide.
 
 
 This suggests a more interesting research question than 'How do we make KLAAT bassier?' It is: 'Which aspects of the actual performance survive across real listening environments, and which are essential to particular listener experiences?' The answer may differ for attentive headphone listening, a full-range live room, a car, a laptop, and the daily-life soundtrack KLAAT is also intended to be.
@@ -136,7 +136,7 @@ LEVEL A — SOURCE/FILE: Identify the actual fundamental where measurable; note 
 LEVEL B — REPRODUCED SIGNAL: Measure or document the playback path. A calibrated acoustic measurement is needed to establish whether a particular component is physically absent at the listening position. Device specifications alone are not sufficient.
 
 
-LEVEL C — AUDITORY PERCEPTION: Ask independently whether the drone's low pitch is recognizable, whether its timbre feels intact, and whether Ankora's pulse remains clear. Pitch recognition cannot be inferred from a spectrogram alone.
+LEVEL C — AUDITORY PERCEPTION: Ask independently whether the drone's low pitch is recognizable, whether its timbre feels intact, and whether the drum's pulse remains clear. Pitch recognition cannot be inferred from a spectrogram alone.
 
 
 LEVEL D — EXPERIENCE: Ask about enjoyment, absorption, felt energy, and authenticity without conflating them with pitch. If physical vibration is claimed, obtain a mechanical measurement at the contact point rather than relying on adjectives.
@@ -151,10 +151,10 @@ These levels protect KLAAT from both extremes: dismissing the music because the 
 10. QUANTITATIVE ANCHORS AND THEIR LIMITS
 
 
-The harmonic example at 69.3/138.6/207.9/277.2 Hz is arithmetic for a hypothetical C#2 drone, not a measurement of Amastacia. The didgeridoo experiments identified vocal-tract impedance features roughly between 1 and 3 kHz, but their spectral effect depends on instrument and player. Houtsma and Smurzynski's 1990 experiments used up to 11 successive harmonics and still observed above-chance interval identification with harmonics numbered 20–30; this establishes possible perception under laboratory conditions, not robust pitch preservation in every real recording. Virtual-bass engineering studies reported subjective improvements but did not establish a universal benefit for natural acoustic drone music.
+The harmonic example at 69.3/138.6/207.9/277.2 Hz is arithmetic for a hypothetical C#2 drone, not a measurement of the didgeridoo. The didgeridoo experiments identified vocal-tract impedance features roughly between 1 and 3 kHz, but their spectral effect depends on instrument and player. Houtsma and Smurzynski's 1990 experiments used up to 11 successive harmonics and still observed above-chance interval identification with harmonics numbered 20–30; this establishes possible perception under laboratory conditions, not robust pitch preservation in every real recording. Virtual-bass engineering studies reported subjective improvements but did not establish a universal benefit for natural acoustic drone music.
 
 
-It would be misleading to claim a universal loudspeaker cutoff, a minimum number of harmonics, or a fixed decibel threshold at which KLAAT 'retains its soul.' None is supported by the cited experiments. A playback system may introduce distortion components that complicate the physical-versus-virtual distinction. Listening level, hearing differences, masking, room position and the presence of Ankora may all affect the result.
+It would be misleading to claim a universal loudspeaker cutoff, a minimum number of harmonics, or a fixed decibel threshold at which KLAAT 'retains its soul.' None is supported by the cited experiments. A playback system may introduce distortion components that complicate the physical-versus-virtual distinction. Listening level, hearing differences, masking, room position and the presence of the drum may all affect the result.
 
 
 11. EVIDENCE CLASSIFICATION
@@ -174,9 +174,9 @@ CONTEXT-DEPENDENT EVIDENCE
 
 
 PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
-- H1: Some listeners will identify Amastacia's tonal center despite strong attenuation of the fundamental, provided enough higher harmonics survive.
+- H1: Some listeners will identify the didgeridoo's tonal center despite strong attenuation of the fundamental, provided enough higher harmonics survive.
 - H2: Those listeners may nevertheless report reduced fullness, authenticity or bodily presence.
-- H3: Amastacia's vowel-like timbral movement and Ankora's rhythmic clarity may survive low-bass attenuation differently.
+- H3: the didgeridoo's vowel-like timbral movement and the drum's rhythmic clarity may survive low-bass attenuation differently.
 - H4: Listener preference may depend on context: attentive listening versus daily activity may favor different received balances.
 - H5: More bass reproduction will not reliably increase absorption or felt energy for every listener.
 
@@ -186,7 +186,7 @@ SPECULATION
 
 
 UNSUPPORTED CLAIMS
-- Amastacia's C# note automatically creates a special neural, emotional or healing state.
+- the didgeridoo's C# note automatically creates a special neural, emotional or healing state.
 - A virtual low pitch produces the same mechanical vibration as a physically radiated fundamental.
 - Added harmonics, synthetic sub-bass, or any specific equalization will necessarily intensify trance or improve KLAAT.
 - A listener's felt energy proves autonomic activation, vestibular stimulation, neural entrainment or altered consciousness.
@@ -196,22 +196,22 @@ UNSUPPORTED CLAIMS
 12. THE NEXT UNRESOLVED QUESTION
 
 
-We now have a concrete bridge between psychoacoustics and KLAAT's practical recording identity. The next decisive unknown is whether authentic Amastacia passages retain their tonal and expressive identity under controlled removal of the lowest octave, and whether any loss of perceived physical depth predicts enjoyment or absorption. This is not yet a finding. It needs the actual recording, a defensible filter and playback comparison, and listener reports gathered without leading questions. Before that, even the exact fundamental and harmonics in the reference recording remain provisional.
+We now have a concrete bridge between psychoacoustics and KLAAT's practical recording identity. The next decisive unknown is whether authentic the didgeridoo passages retain their tonal and expressive identity under controlled removal of the lowest octave, and whether any loss of perceived physical depth predicts enjoyment or absorption. This is not yet a finding. It needs the actual recording, a defensible filter and playback comparison, and listener reports gathered without leading questions. Before that, even the exact fundamental and harmonics in the reference recording remain provisional.
 
 
-The strongest technical follow-up would compare real source-separated Amastacia and Ankora recordings with the mixed take and examine what the device actually reproduces. But that is a measurement direction, not a requirement to re-record, compose, or perform differently. If source separation is unavailable, preserve the limitation rather than pretending to know which instrument produced each spectral feature.
+The strongest technical follow-up would compare real source-separated the didgeridoo and drum recordings with the mixed take and examine what the device actually reproduces. But that is a measurement direction, not a requirement to re-record, compose, or perform differently. If source separation is unavailable, preserve the limitation rather than pretending to know which instrument produced each spectral feature.
 
 
 13. KRX-093 — THE DRONE THAT FITS IN A SMALL SPEAKER
 
 
-One optional, low-pressure observation: choose a familiar, authentic, unedited 60–120-second KLAAT excerpt containing a clear Amastacia drone and some Ankora. Hear the same file once on ordinary headphones and once on a small speaker, both at comfortable, roughly comparable perceived loudness. Before thinking about bass, notice whether Amastacia still seems to have the same pitch and recognizable identity. Then notice separately what happened to her breath/texture, Ankora's pulse, and the overall feeling of weight or energy. 'No meaningful difference' is a valid result. This is an informal device comparison, NOT a controlled demonstration of the missing-fundamental effect: the two devices differ in many ways. No alteration of Paul's performance is suggested.
+One optional, low-pressure observation: choose a familiar, authentic, unedited 60–120-second KLAAT excerpt containing a clear the didgeridoo drone and some the drum. Hear the same file once on ordinary headphones and once on a small speaker, both at comfortable, roughly comparable perceived loudness. Before thinking about bass, notice whether the didgeridoo still seems to have the same pitch and recognizable identity. Then notice separately what happened to her breath/texture, the drum's pulse, and the overall feeling of weight or energy. 'No meaningful difference' is a valid result. This is an informal device comparison, NOT a controlled demonstration of the missing-fundamental effect: the two devices differ in many ways. No alteration of Paul's performance is suggested.
 
 
 DECISIVE QUESTION
 
 
-When the deepest part of Amastacia's drone cannot travel through a small speaker, what survives in the listener's ear, what disappears from the room, and which of those differences actually matters to the experience of KLAAT?
+When the deepest part of the didgeridoo's drone cannot travel through a small speaker, what survives in the listener's ear, what disappears from the room, and which of those differences actually matters to the experience of KLAAT?
 
 
 EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.

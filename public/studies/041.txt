@@ -1,4 +1,4 @@
-SESSION 41 — AUDITORY MASKING: AMASTACIA CAN MAKE SOUNDS DISAPPEAR
+SESSION 41 — AUDITORY MASKING: DIDGERIDOO CAN MAKE SOUNDS DISAPPEAR
 ARCHIVAL RECONSTRUCTION — NOT VERBATIM
 
 
@@ -6,7 +6,7 @@ Core lesson
 Masking depends on the overlap of sounds within cochlear auditory filters. Strong low-frequency energy can under many conditions mask higher-frequency components asymmetrically, often described as an upward spread of masking.
 
 
-Amastacia can therefore act as a spectral gatekeeper. A change in its timbre can hide or reveal components of Ankora without changing the drum itself.
+The didgeridoo can therefore act as a spectral gatekeeper. A change in its timbre can hide or reveal components of the drum without changing the drum itself.
 
 
 Evidence boundary
@@ -14,4 +14,4 @@ Established: masking is level- and frequency-dependent; cochlear filters shape s
 
 
 KLAAT test
-Use the same ten Ankora strikes beneath three Amastacia conditions: soft drone, strong dense drone, and strong drone with a different harmonic balance. Ask whether the drum itself seemed to change.
+Use the same ten the drum strikes beneath three the didgeridoo conditions: soft drone, strong dense drone, and strong drone with a different harmonic balance. Ask whether the drum itself seemed to change.

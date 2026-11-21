@@ -1,4 +1,4 @@
-SESSION 44 — AUDITORY SCENE ANALYSIS: HOW THE BRAIN DECIDES WHETHER AMASTACIA AND ANKORA ARE TWO INSTRUMENTS—OR ONE SOUNDING ORGANISM
+SESSION 44 — AUDITORY SCENE ANALYSIS: HOW THE BRAIN DECIDES WHETHER DIDGERIDOO AND DRUM ARE TWO INSTRUMENTS—OR ONE SOUNDING ORGANISM
 ORIGINAL SESSION TEXT PRESERVED FROM PROJECT CONVERSATION
 
 
@@ -8,7 +8,7 @@ Session 43 gave us roughness as a controllable dimension of activation. We now h
 But there is a deeper question underneath all of them:
 
 
-When Amastacia and Ankora are sounding simultaneously, what does the listener think they are hearing?
+When the didgeridoo and drum are sounding simultaneously, what does the listener think they are hearing?
 
 
 Not intellectually. Perceptually.
@@ -137,7 +137,7 @@ Strike an object and many of its resonant modes begin together.
 So simultaneous onset is evidence of a common physical cause.
 
 
-Now think about Ankora.
+Now think about the drum.
 
 
 A strike produces many frequency components almost simultaneously:
@@ -185,7 +185,7 @@ The auditory system tends to group harmonically related components.
 This is one reason a harmonically rich sound can still be perceived as one pitch-bearing object rather than many individual tones.
 
 
-Amastacia depends heavily on this.
+The didgeridoo depends heavily on this.
 
 
 Its spectrum can be enormously complex while still being heard as:
@@ -197,7 +197,7 @@ one drone.
 But vocalization and nonlinear playing can weaken or complicate that harmonic organization.
 
 
-As you increase spectral instability and roughness, parts of Amastacia may begin feeling less like one unified tone and more like a collection of interacting textures.
+As you increase spectral instability and roughness, parts of the didgeridoo may begin feeling less like one unified tone and more like a collection of interacting textures.
 
 
 That's a perceptual transition we can exploit.
@@ -221,7 +221,7 @@ The auditory system has evidence that they belong to the same source.
 This principle is sometimes described in terms of temporal coherence.
 
 
-Now imagine Amastacia's spectral components fluctuate with your breath.
+Now imagine the didgeridoo's spectral components fluctuate with your breath.
 
 
 They move together.
@@ -230,7 +230,7 @@ They move together.
 The brain groups them.
 
 
-But Ankora follows an independent amplitude envelope:
+But the drum follows an independent amplitude envelope:
 
 
 attack → decay
@@ -248,7 +248,7 @@ Therefore Drone and Pulse initially provide strong evidence that they are separa
 But KLAAT can deliberately weaken that separation
 
 
-Imagine Ankora strikes exactly when Amastacia receives a strong breath-pressure accent.
+Imagine the drum strikes exactly when the didgeridoo receives a strong breath-pressure accent.
 
 
 Every time:
@@ -302,10 +302,10 @@ Now consider synchronization as source identity.
 Early performance:
 
 
-Amastacia —————————
+The didgeridoo —————————
 
 
-Ankora     THUMP      THUMP
+The drum     THUMP      THUMP
 
 
 Clearly separate behaviors.
@@ -314,13 +314,13 @@ Clearly separate behaviors.
 Later:
 
 
-Amastacia ———WAA———WAA———WAA——
+The didgeridoo ———WAA———WAA———WAA——
 
 
-Ankora       THUMP   THUMP   THUMP
+The drum       THUMP   THUMP   THUMP
 
 
-If those Amastacia articulations precisely coincide with Ankora, they begin forming repeating compound events:
+If those the didgeridoo articulations precisely coincide with the drum, they begin forming repeating compound events:
 
 
 WAA-THUMP
@@ -350,7 +350,7 @@ Spatial position can strengthen or weaken separation
 Auditory localization provides another grouping cue.
 
 
-If Amastacia comes strongly from the listener's left and Ankora from the right, their identities remain relatively easy to separate.
+If the didgeridoo comes strongly from the listener's left and the drum from the right, their identities remain relatively easy to separate.
 
 
 Bring their apparent acoustic origins closer together and spatial evidence for separation decreases.
@@ -389,16 +389,16 @@ Here's another fascinating part.
 The acoustic signal can remain identical while perception changes depending on what the listener attends to.
 
 
-Listen specifically for Ankora:
+Listen specifically for the drum:
 
 
 suddenly you notice membrane decay, tiny timing differences, high attack components.
 
 
-Shift attention to Amastacia:
+Shift attention to the didgeridoo:
 
 
-the drum may recede while internal harmonics become prominent.
+The drum may recede while internal harmonics become prominent.
 
 
 Shift attention to the room:
@@ -419,10 +419,10 @@ This is another reason KLAAT shouldn't constantly demand attention through novel
 Long repetition can allow listeners to explore different layers of the same acoustic environment.
 
 
-One person may spend several minutes “inside” Ankora.
+One person may spend several minutes “inside” the drum.
 
 
-Then Amastacia suddenly becomes foreground.
+Then the didgeridoo suddenly becomes foreground.
 
 
 Then breath.
@@ -494,13 +494,13 @@ Now imagine the whole session architecture through this lens.
 Ground Anchor
 
 
-Amastacia establishes one dominant auditory object.
+The didgeridoo establishes one dominant auditory object.
 
 
 Threshold Gate
 
 
-Ankora appears as a clearly separate object:
+The drum appears as a clearly separate object:
 
 
 Drone + Pulse.
@@ -512,7 +512,7 @@ Rising Pulse
 Timing becomes increasingly coordinated.
 
 
-Amastacia articulations synchronize with Ankora.
+The didgeridoo articulations synchronize with the drum.
 
 
 Spectral density increases.
@@ -539,7 +539,7 @@ KLAAT as one multisensory object.
 Then Return Path begins.
 
 
-Ankora separates.
+The drum separates.
 
 
 Density decreases.
@@ -617,10 +617,10 @@ Established: attention influences which components of an auditory scene become p
 Established: spatial separation can assist segregation of competing sound sources.
 
 
-Highly plausible: Amastacia and Ankora can move between stronger perceptual separation and stronger perceptual integration depending on timing, spectral overlap and spatial presentation.
+Highly plausible: the didgeridoo and drum can move between stronger perceptual separation and stronger perceptual integration depending on timing, spectral overlap and spatial presentation.
 
 
-Testable: synchronizing Amastacia articulations precisely with Ankora should increase listener reports that the instruments feel perceptually unified.
+Testable: synchronizing the didgeridoo articulations precisely with the drum should increase listener reports that the instruments feel perceptually unified.
 
 
 Unknown: whether the particular KLAAT performance techniques you're currently using already produce a reliable fusion point.
@@ -638,7 +638,7 @@ That's poetic language, not a scientific conclusion.
 KLAAT Experiment #44 — Find the Fusion Point
 
 
-Use one simple Ankora pulse.
+Use one simple the drum pulse.
 
 
 Keep tempo and intensity constant.
@@ -650,10 +650,10 @@ Perform three approximately two-minute conditions.
 Condition 1 — Independence
 
 
-Play Amastacia continuously.
+Play the didgeridoo continuously.
 
 
-Do not coordinate its articulations with Ankora.
+Do not coordinate its articulations with the drum.
 
 
 Let Drone and Pulse behave independently.
@@ -662,7 +662,7 @@ Let Drone and Pulse behave independently.
 Condition 2 — Partial coupling
 
 
-Begin occasionally emphasizing Amastacia on Ankora strikes.
+Begin occasionally emphasizing the didgeridoo on the drum strikes.
 
 
 Maybe every fourth Pulse.
@@ -680,7 +680,7 @@ You're changing temporal relationship.
 Condition 3 — Strong coupling
 
 
-Synchronize Amastacia's strongest articulations as precisely as possible with Ankora.
+Synchronize the didgeridoo's strongest articulations as precisely as possible with the drum.
 
 
 Create a repeating compound event:
@@ -728,10 +728,10 @@ Rising Pulse gradually destroys the distinction between them.
 At peak:
 
 
-there is no Amastacia.
+there is no the didgeridoo.
 
 
-There is no Ankora.
+There is no the drum.
 
 
 There is simply KLAAT.

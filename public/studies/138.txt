@@ -11,7 +11,7 @@ Experience-led creation. Science-informed refinement.
 CENTRAL QUESTION
 
 
-Suppose two authentic, unedited KLAAT improvisations are heard by volunteers. One take features the dense, urgent interaction of Amastacia's C# agave drone and Ankora's elk-hide pulse; the other is more spacious. Without imposing any form on either performance, listeners report how absorbed, energized, moved, or physically engaged they felt. The first set of average ratings seems to say that the spacious take was more energizing. But what if that result reverses when we compare people who actually heard both takes, or people with similar prior familiarity? Did the music change, or did the population represented by each average change?
+Suppose two authentic, unedited KLAAT improvisations are heard by volunteers. One take features the dense, urgent interaction of the didgeridoo's C# agave drone and the drum's drumhead material pulse; the other is more spacious. Without imposing any form on either performance, listeners report how absorbed, energized, moved, or physically engaged they felt. The first set of average ratings seems to say that the spacious take was more energizing. But what if that result reverses when we compare people who actually heard both takes, or people with similar prior familiarity? Did the music change, or did the population represented by each average change?
 
 
 This session investigates a statistical reversal known as Simpson's paradox. It is not a technique for manufacturing stronger listener effects. It is a safeguard against falsely attributing an effect to the music, and against allowing a misleading number to govern a spontaneous artistic practice.
@@ -20,7 +20,7 @@ This session investigates a statistical reversal known as Simpson's paradox. It 
 1. WHY THIS IS THE NEXT UNRESOLVED QUESTION
 
 
-The most recent published sessions isolated the physical sources of sound: Session 132 considered Amastacia's material versus its acoustics; 135 separated texture, loudness and perceived energy; 136 examined delayed feedback; and 137 showed why Ankora's recorded spectrum cannot uniquely identify how it was struck. Session 118 had already warned that clips nested within one performance are not independent performances. Session 131 established that identical audio files do not guarantee equivalent playback experiences. None of those is the same as the present question: can a perfectly accurate calculation of listener averages point in the opposite direction from every meaningful within-group comparison?
+The most recent published sessions isolated the physical sources of sound: Session 132 considered the didgeridoo's material versus its acoustics; 135 separated texture, loudness and perceived energy; 136 examined delayed feedback; and 137 showed why the drum's recorded spectrum cannot uniquely identify how it was struck. Session 118 had already warned that clips nested within one performance are not independent performances. Session 131 established that identical audio files do not guarantee equivalent playback experiences. None of those is the same as the present question: can a perfectly accurate calculation of listener averages point in the opposite direction from every meaningful within-group comparison?
 
 
 The October 31, 10:18 CDT hourly note developed the precise mathematical counterexample and checked the published corpus, index and ledger for a dedicated aggregation-reversal treatment. Other hourly work on recruitment self-selection, dropout, ordinal ratings, and independent listener coding provides relevant context, but not this particular inversion. The latest hourly notes through 14:16 CDT were also inspected: they address, separately, tinnitus residual inhibition, barometric pressure, transcription integrity, and video-light artifacts. This session advances the listener-study inference problem rather than repeating any of those topics. Session 138 is sequential after the verified published Session 137; no Session 138 was present in the connected corpus, index or ledger when checked.
@@ -92,7 +92,7 @@ MATCHED-LISTENER QUESTION: Among people who heard both A and B, did their respon
 GENERALIZATION QUESTION: How would an appropriately defined population of potential listeners respond to A versus B? A convenience sample of friends does not establish this, however carefully the spreadsheet is built.
 
 
-These are not three competing ways of computing the same truth. They are different estimands: different target quantities. If the claim is 'the listeners in this pilot gave B a higher pooled score,' the aggregate may be accurate. If the claim is 'B is more energizing than A for an individual listener,' that aggregate may be uninformative or even directionally misleading. If the claim is 'Ankora's faster attacks caused greater activation,' neither comparison alone identifies the cause, because authentic improvisations vary in many acoustic properties simultaneously.
+These are not three competing ways of computing the same truth. They are different estimands: different target quantities. If the claim is 'the listeners in this pilot gave B a higher pooled score,' the aggregate may be accurate. If the claim is 'B is more energizing than A for an individual listener,' that aggregate may be uninformative or even directionally misleading. If the claim is 'the drum's faster attacks caused greater activation,' neither comparison alone identifies the cause, because authentic improvisations vary in many acoustic properties simultaneously.
 
 
 5. THE SPECIAL VALUE AND LIMITS OF PAIRED LISTENING
@@ -197,7 +197,7 @@ UNSUPPORTED: KLAAT reliably induces trance, alters brain rhythms, produces thera
 12. THE ARTISTIC CONSEQUENCE
 
 
-KLAAT is not trying to win a rating contest between two pieces of audio. Its strength lies in the continuing relationship between Amastacia's breathing harmonic field, Ankora's physical pulse, and the instinctive decisions of a performer who can lose himself in the act. Research should make that encounter more legible, not turn the music into a set of optimization targets.
+KLAAT is not trying to win a rating contest between two pieces of audio. Its strength lies in the continuing relationship between the didgeridoo's breathing harmonic field, the drum's physical pulse, and the instinctive decisions of a performer who can lose himself in the act. Research should make that encounter more legible, not turn the music into a set of optimization targets.
 
 
 The paradox gives a useful artistic safeguard: a crowd average can describe a crowd without describing a single person in it. The 'average listener' is a calculation, not someone who actually sat in the room. If KLAAT becomes a soundtrack for walking, working, driving attention safely, making art, or entering concentrated stillness, those contexts may draw different people and different reports. Their diversity should not be erased to produce a dramatic headline about universal activation.

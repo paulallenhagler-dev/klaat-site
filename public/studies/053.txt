@@ -2,7 +2,7 @@ KLAAT Resonance Research — Session 53
 THE PREDICTION BUDGET: How KLAAT Can Escalate Without Becoming Louder, Denser, or Random
 
 
-Session 52 introduced tactile negative space: Amastacia can potentially make Ankora more bodily legible by yielding sensory space before selected Pulse events. The newest hourly work reveals the danger in turning that into a trick.
+Session 52 introduced tactile negative space: the didgeridoo can potentially make the drum more bodily legible by yielding sensory space before selected Pulse events. The newest hourly work reveals the danger in turning that into a trick.
 
 
 A contrast stops functioning as a true surprise if the listener learns that the contrast itself is coming.
@@ -38,16 +38,16 @@ Most important for KLAAT, a "deviant" is not permanently deviant.
 If an unusual event begins occurring reliably, listeners can learn the higher-order regularity governing that event. Research on repeated deviants and statistical learning shows that events initially functioning as violations can themselves become predictive.
 
 
-This immediately changes how we should treat techniques such as a pre-Ankora Amastacia dip, displaced accent, omitted strike, recurring density burst, spectral opening, or delayed entrance. None is intrinsically surprising. Its effect depends on history.
+This immediately changes how we should treat techniques such as a pre-the drum the didgeridoo dip, displaced accent, omitted strike, recurring density burst, spectral opening, or delayed entrance. None is intrinsically surprising. Its effect depends on history.
 
 
-If Amastacia ducks before every fourth Ankora strike for several minutes, the duck may stop functioning as negative space that renews the Pulse and become part of the Pulse itself. That is not necessarily bad. It means the device has changed function: VIOLATION to RULE.
+If the didgeridoo ducks before every fourth the drum strike for several minutes, the duck may stop functioning as negative space that renews the Pulse and become part of the Pulse itself. That is not necessarily bad. It means the device has changed function: VIOLATION to RULE.
 
 
 2. KLAAT NEEDS HIERARCHICAL EXPECTATION
 
 
-LEVEL 1 — PULSE: the listener learns the basic Ankora temporal scaffold.
+LEVEL 1 — PULSE: the listener learns the basic the drum temporal scaffold.
 LEVEL 2 — CONTRAST MOTIF: a recurring event appears against that scaffold.
 LEVEL 3 — CONTRAST RULE: the listener begins to learn when or how that motif tends to occur.
 LEVEL 4 — RULE CHANGE: KLAAT alters probability, family, placement, or governing logic while preserving enough lower-level scaffold for the change to remain intelligible.
@@ -68,7 +68,7 @@ If predictability can reduce surprise, maximizing unpredictability sounds tempti
 The useful KLAAT lesson is: PREDICTION ERROR NEEDS PREDICTION.
 
 
-If Ankora becomes so irregular that the listener cannot infer a temporal scaffold, an omission may cease to feel like an omission. If Amastacia changes continuously, a spectral opening may no longer feel like an opening because there was no stable field from which it departed.
+If the drum becomes so irregular that the listener cannot infer a temporal scaffold, an omission may cease to feel like an omission. If the didgeridoo changes continuously, a spectral opening may no longer feel like an opening because there was no stable field from which it departed.
 
 
 KLAAT is not searching for maximum surprise. It is searching for CONTROLLED LEGIBILITY.
@@ -89,22 +89,22 @@ If one contrast device becomes expected, KLAAT can allow it to become a motif; c
 Escalation can occur by moving UP THE HIERARCHY rather than increasing the magnitude of the same event.
 
 
-5. AMASTACIA'S ROLE: DEFINE WHAT COUNTS AS STABLE
+5. DIDGERIDOO'S ROLE: DEFINE WHAT COUNTS AS STABLE
 
 
-Amastacia can provide continuity while Ankora's local grammar changes: spectral identity, room field, breath continuity, mechanical background, and the sense that the listener remains inside one acoustic world.
+The didgeridoo can provide continuity while the drum's local grammar changes: spectral identity, room field, breath continuity, mechanical background, and the sense that the listener remains inside one acoustic world.
 
 
-But Amastacia can also participate in the prediction hierarchy. A recurring breath articulation can become expected. A spectral opening can become a motif. A pre-Pulse reduction can become a cue. Sudden absence can become a rule-level event.
+But the didgeridoo can also participate in the prediction hierarchy. A recurring breath articulation can become expected. A spectral opening can become a motif. A pre-Pulse reduction can become a cue. Sudden absence can become a rule-level event.
 
 
-Amastacia can move between FIELD, CUE, and EVENT.
+The didgeridoo can move between FIELD, CUE, and EVENT.
 
 
-6. ANKORA'S ROLE: PRESERVE THE CLOCK WHILE CHANGING THE GRAMMAR
+6. DRUM'S ROLE: PRESERVE THE CLOCK WHILE CHANGING THE GRAMMAR
 
 
-At the provisional ~137 BPM reference, Ankora can maintain a temporal scaffold while local events change. The Pulse can say THIS IS STILL THE SAME WORLD while the contrast grammar says BUT THE RULES INSIDE IT ARE CHANGING.
+At the provisional ~137 BPM reference, the drum can maintain a temporal scaffold while local events change. The Pulse can say THIS IS STILL THE SAME WORLD while the contrast grammar says BUT THE RULES INSIDE IT ARE CHANGING.
 
 
 7. DISHABITUATION IS NOT A UNIVERSAL RESET BUTTON
@@ -125,7 +125,7 @@ THRESHOLD GATE — INTRODUCE A LEGIBLE VIOLATION. Make a meaningful exception co
 RISING PULSE — CLIMB THE PREDICTION HIERARCHY. Progress through stable Pulse, recognizable contrast motif, variation in motif probability, multiple contrast families, rule change, and strategic return to an expected anchor. Cycle CERTAINTY → VIOLATION → LEARNING → RULE CHANGE → RECONFIRMATION.
 
 
-RETURN PATH — COLLAPSE THE HIERARCHY. Remove higher-order complexity, restore predictable anchors, let Ankora simplify or vanish, and allow Amastacia to reclaim the field.
+RETURN PATH — COLLAPSE THE HIERARCHY. Remove higher-order complexity, restore predictable anchors, let the drum simplify or vanish, and allow the didgeridoo to reclaim the field.
 
 
 9. WHY THIS IS KLAAT
@@ -158,7 +158,7 @@ CONTEXT-DEPENDENT: The time required for a KLAAT contrast device to become expec
 CONTEXT-DEPENDENT: Groove findings cannot prescribe an optimal syncopation, complexity, or surprise percentage for KLAAT.
 
 
-PLAUSIBLE / TESTABLE: A stable Ankora scaffold with multiple sparse, learnable contrast families will sustain activation and Pulse clarity longer than repeatedly using one identical contrast device.
+PLAUSIBLE / TESTABLE: A stable the drum scaffold with multiple sparse, learnable contrast families will sustain activation and Pulse clarity longer than repeatedly using one identical contrast device.
 
 
 PLAUSIBLE / TESTABLE: Changing the higher-order rule governing familiar contrast events can restore perceptual salience without increasing SPL, tempo, or event count.
@@ -203,10 +203,10 @@ WHEN A CONTRAST BECOMES THE RULE, CHANGE THE LEVEL OF THE RULE — NOT JUST ITS 
 12. PRACTICAL EXPERIMENT — KRX-053: THE PREDICTION-BUDGET TEST
 
 
-Build four six-minute Amastacia/Ankora passages. Keep approximate SPL, duration, Pulse rate, total Ankora strike count, and broad spectral content as similar as practical.
+Build four six-minute the didgeridoo and drum passages. Keep approximate SPL, duration, Pulse rate, total the drum strike count, and broad spectral content as similar as practical.
 
 
-A — STABLE ANCHOR: highly regular Ankora scaffold with minimal contrast.
+A — STABLE ANCHOR: highly regular the drum scaffold with minimal contrast.
 B — SINGLE TRICK: one repeated contrast family at a stable location.
 C — HIERARCHICAL CONTRAST: same underlying Pulse, two or three contrast families according to a learnable higher-order rule; allow the rule to establish, then change it once at a preregistered point.
 D — HIGH UNCERTAINTY: similar contrast count, but both placement and family are difficult to predict.

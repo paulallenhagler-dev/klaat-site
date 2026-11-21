@@ -32,12 +32,12 @@ Tier 1 requires raw lossless audio with device/gain/sample-rate/bit-depth/microp
 Add validated beat-to-beat cardiac measurement, direct respiration when mechanistically relevant, synchronized movement, and only hypothesis-required optional diagnostic channels. More sensors do not automatically mean better science.
 
 
-6. AMASTACIA REQUIRES LOW-FREQUENCY DISCIPLINE
-Amastacia’s sustained C# Drone requires preservation of low-frequency content and slow envelopes. Frequency response, sensitivity, noise floor and gain/range state matter. Sensor roll-off can masquerade as reduced Amastacia energy; automatic gain/normalization can corrupt the envelope. RAW FIRST.
+6. DIDGERIDOO REQUIRES LOW-FREQUENCY DISCIPLINE
+The didgeridoo’s sustained C# Drone requires preservation of low-frequency content and slow envelopes. Frequency response, sensitivity, noise floor and gain/range state matter. Sensor roll-off can masquerade as reduced the didgeridoo energy; automatic gain/normalization can corrupt the envelope. RAW FIRST.
 
 
-7. ANKORA REQUIRES TRANSIENT DISCIPLINE
-Ankora’s sharp attack plus decay requires headroom and bandwidth adequate to represent the transient. BPM describes strike recurrence, not the bandwidth required to capture a strike.
+7. DRUM REQUIRES TRANSIENT DISCIPLINE
+The drum’s sharp attack plus decay requires headroom and bandwidth adequate to represent the transient. BPM describes strike recurrence, not the bandwidth required to capture a strike.
 
 
 8. THE INTERFACE HAS TO BE DOCUMENTED
@@ -49,7 +49,7 @@ Preserve raw stream, processing script/version, parameters, processed derivative
 
 
 10. ONE TIMEBASE, ONE EVENT TABLE
-Every instrumented run gets a canonical event table: run ID, run-relative time, phase, event type/source, expected/unexpected status, Ankora/Amastacia event class, notes and annotation confidence/source. Every stream maps to the same timebase.
+Every instrumented run gets a canonical event table: run ID, run-relative time, phase, event type/source, expected/unexpected status, the drum and didgeridoo event class, notes and annotation confidence/source. Every stream maps to the same timebase.
 
 
 11. CLAIM-ELIGIBILITY RULES
@@ -57,7 +57,7 @@ No calibrated acoustic level → no absolute dB comparison across setups. No cha
 
 
 12. FOUR-PHASE ARCHITECTURE
-GROUND ANCHOR baselines room, Amastacia, mechanics, posture/contact and pre-transition physiology. THRESHOLD GATE is independently marked before analysis rather than moved to fit physiology. RISING PULSE is checked for clipping, artifact and saturation. RETURN PATH includes a predeclared post-run recording interval.
+GROUND ANCHOR baselines room, the didgeridoo, mechanics, posture/contact and pre-transition physiology. THRESHOLD GATE is independently marked before analysis rather than moved to fit physiology. RISING PULSE is checked for clipping, artifact and saturation. RETURN PATH includes a predeclared post-run recording interval.
 
 
 13. ESTABLISHED EVIDENCE
@@ -89,7 +89,7 @@ IT MAKES A TEST CAPABLE OF BEING WRONG FOR THE RIGHT REASON.
 
 
 19. KRX-058 — ACQUISITION CHAIN VALIDATION
-AUDIO: record a reference where available, Amastacia-like sustained low-frequency signal and Ankora-like transients; verify noise floor, headroom, clipping, envelope preservation and repeatability.
+AUDIO: record a reference where available, the didgeridoo-like sustained low-frequency signal and the drum-like transients; verify noise floor, headroom, clipping, envelope preservation and repeatability.
 MECHANICAL: apply a repeatable support impulse/vibration, record tri-axial acceleration, remount three times and quantify amplitude/axis variance.
 SYNCHRONIZATION: create an event visible across streams; measure initial offset and repeat after ~30 minutes for drift.
 CARDIAC/RESPIRATION: record validated cardiac timing plus direct respiration during quiet, deliberately slower/faster breathing and movement; compare derived respiration against direct respiration.

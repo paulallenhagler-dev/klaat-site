@@ -13,7 +13,7 @@ Critical synthesis of six published primary studies and their methodological bou
 
 
 CENTRAL QUESTION
-When a listener closes their eyes during Amastacia's sustained C# agave-didgeridoo drone and Ankora's elk-hide pulse, does the sound become more absorbing, more emotionally intense, or more vividly imagined? If the experience changes, what changed: the sound, the listener's visual environment, the allocation of attention, the construction of mental imagery, or a measurable neural state? Most importantly, how would we know which explanation is justified?
+When a listener closes their eyes during the didgeridoo's sustained C# agave-didgeridoo drone and the drum's drumhead material pulse, does the sound become more absorbing, more emotionally intense, or more vividly imagined? If the experience changes, what changed: the sound, the listener's visual environment, the allocation of attention, the construction of mental imagery, or a measurable neural state? Most importantly, how would we know which explanation is justified?
 
 
 1. THE ROOM STAYS THE SAME; THE LISTENING CONTEXT DOES NOT
@@ -22,7 +22,7 @@ When a listener closes their eyes during Amastacia's sustained C# agave-didgerid
 A person can hear the same performance twice and encounter two different worlds. With eyes open, they may see Paul's breath, the movement of the drum hand, the room, the light, the floor, the people nearby. With eyes closed, much of that visual input disappears. The drone remains. The pulse remains. The listener may become more aware of internal imagery, breathing, bodily sensations, or the temporal relationship between sounds. Or they may become restless, sleepy, anxious, or distracted. None of those outcomes is predetermined.
 
 
-This is a particularly important question for KLAAT because its ritual/archaeosonic atmosphere can invite a listener to close their eyes, but KLAAT also aspires to be music for walking, working, and ordinary energetic life. An eye-closed experience is one possible mode of listening, not the canonical or superior one. If a difference exists, it belongs partly to the listener's context rather than exclusively to Amastacia or Ankora.
+This is a particularly important question for KLAAT because its ritual/archaeosonic atmosphere can invite a listener to close their eyes, but KLAAT also aspires to be music for walking, working, and ordinary energetic life. An eye-closed experience is one possible mode of listening, not the canonical or superior one. If a difference exists, it belongs partly to the listener's context rather than exclusively to the didgeridoo or the drum.
 
 
 The new variable is EYE STATE. It is not interchangeable with darkness, visual distraction, performer visibility, ritual suggestion, or meditation instruction. Closing the eyes while seated in a quiet room differs from watching a performance with eyes open; both differ from staring at a fixed cross on a blank screen, following a moving visual target, or listening in complete darkness. Studies that manipulate these different conditions must not be treated as one uniform 'visual deprivation' experiment.
@@ -76,7 +76,7 @@ The finding matters because an apparent KLAAT listener-state difference might be
 Herff, McConnell, Ji and Prince (2022) studied 100 participants in a within-person experiment combining eyes open versus closed with silence, relaxing orchestral music, and arousing orchestral music [5]. Participants first saw a short visual scene and were asked to imagine the continuation of a journey. Music and eye closure increased the reported vividness of this DIRECTED imagery; the eye-closure effect was larger with music than with silence. In the authors' standardized mixed models, the eye-closure effects on vividness were approximately beta = .19 for silence, .50 for the relaxing music, and .40 for the arousing music. Interaction contrasts relative to silence were beta = .31 and .24 for the two musical conditions. These are model coefficients on a standardized outcome, not percentages of KLAAT listeners who would 'enter trance.'
 
 
-Crucially, the outcomes separated. Music increased reported imagined travel distance compared with silence, but eye closure did not show the same strong distance effect in both music conditions. There was little evidence for a reliable eye-closure effect on imagined passage of time, and positive sentiment increased with eye closure for one of the two musical pieces, not both. The authors explicitly noted that the work did not establish the mechanism, and that the analyses were not preregistered. Participants were mostly young university students and listened remotely on their own equipment. The pieces were Western orchestral music, not Amastacia and Ankora.
+Crucially, the outcomes separated. Music increased reported imagined travel distance compared with silence, but eye closure did not show the same strong distance effect in both music conditions. There was little evidence for a reliable eye-closure effect on imagined passage of time, and positive sentiment increased with eye closure for one of the two musical pieces, not both. The authors explicitly noted that the work did not establish the mechanism, and that the analyses were not preregistered. Participants were mostly young university students and listened remotely on their own equipment. The pieces were Western orchestral music, not the didgeridoo and drum.
 
 
 This is the most useful study here for a methodological reason: it shows how music and eye closure can interact rather than simply adding two independent boosts to 'immersion.' It also shows why vividness, imagined distance, imagined time, and emotional sentiment must remain distinct outcomes. A person who pictures an enormous desert under KLAAT may report strong imagery without reporting changed time perception or heightened physical energy. A person who feels the pulse through their body may report no visual images at all.
@@ -109,7 +109,7 @@ MECHANISM C — EMOTIONAL APPRAISAL. The same sound may be interpreted as more t
 MECHANISM D — STATE-DEPENDENT NEURAL ACTIVITY. Eye closure changes EEG alpha even without music. Auditory attention can modulate alpha activity, but an alpha difference is not proof of improved perception, physiological entrainment, altered consciousness, or a KLAAT-specific causal mechanism.
 
 
-The mechanisms may interact. A vivid image may change emotion. A change in emotion may direct attention toward a particular Ankora strike. A listener who feels tense may notice breathing and interpret a low drone differently. But interaction is not identity. A chain of plausible stories is not evidence that the chain occurred in any actual KLAAT listener.
+The mechanisms may interact. A vivid image may change emotion. A change in emotion may direct attention toward a particular the drum strike. A listener who feels tense may notice breathing and interpret a low drone differently. But interaction is not identity. A chain of plausible stories is not evidence that the chain occurred in any actual KLAAT listener.
 
 
 8. WHAT THIS DOES TO THE IDEA OF 'TRANCE'
@@ -121,7 +121,7 @@ Paul's flow-like experience while playing is a first-person performer report. Th
 It would be tempting to turn the current literature into a rule: close your eyes for the strongest KLAAT experience. That would be premature and artistically narrowing. Eye closure can increase imagery vividness in some settings, but it has not reliably improved auditory detection, and the emotional direction is not universally positive. It may also be impractical or unsafe while walking, driving, cooking, or doing other tasks. The energetic daily-life soundtrack version of KLAAT is no less authentic than an eyes-closed listening session.
 
 
-A more honest artistic interpretation is that the listener is an active participant in making the experience. The sound provides materials: Amastacia's living harmonics, breath noise, continuity and changing pressure; Ankora's strike and decay, irregular human placement, and physical pulse. The listener brings a visual world, bodily condition, memory, expectation, and attention. The resulting experience is a relationship, not a property stored in one note.
+A more honest artistic interpretation is that the listener is an active participant in making the experience. The sound provides materials: the didgeridoo's living harmonics, breath noise, continuity and changing pressure; the drum's strike and decay, irregular human placement, and physical pulse. The listener brings a visual world, bodily condition, memory, expectation, and attention. The resulting experience is a relationship, not a property stored in one note.
 
 
 9. WHAT WOULD ACTUALLY COUNT AS KLAAT EVIDENCE?
@@ -157,11 +157,11 @@ The size and direction of subjective effects depend on music, emotional valence,
 
 
 PLAUSIBLE AND TESTABLE FOR KLAAT
-Some listeners may report greater spontaneous imagery or absorption with eyes closed during an unchanged KLAAT recording, while others may report greater energy or connection with eyes open. Eye state may influence what listeners notice in Amastacia's harmonic motion or Ankora's pulse, but no such difference has been measured in KLAAT.
+Some listeners may report greater spontaneous imagery or absorption with eyes closed during an unchanged KLAAT recording, while others may report greater energy or connection with eyes open. Eye state may influence what listeners notice in the didgeridoo's harmonic motion or the drum's pulse, but no such difference has been measured in KLAAT.
 
 
 SPECULATION
-For a listener already inclined toward inward imagery, the stable drone might support an imagined spatial field while Ankora's attacks punctuate it. That story is an interpretation to test, not a property of C#, a guaranteed psychological pathway, or an instruction to change performance.
+For a listener already inclined toward inward imagery, the stable drone might support an imagined spatial field while the drum's attacks punctuate it. That story is an interpretation to test, not a property of C#, a guaranteed psychological pathway, or an instruction to change performance.
 
 
 UNSUPPORTED / DO NOT CLAIM

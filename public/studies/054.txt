@@ -23,10 +23,10 @@ That is much stronger than “something dramatic happens.”
 1. SURPRISE IS NOT THE SAME THING AS A GATE
 
 
-Imagine one unusually hard Ankora strike. It may be surprising, physically salient, and attention-grabbing. But if the performance immediately returns to the established pattern, the listener can interpret it as an exception inside the old state.
+Imagine one unusually hard the drum strike. It may be surprising, physically salient, and attention-grabbing. But if the performance immediately returns to the established pattern, the listener can interpret it as an exception inside the old state.
 
 
-Now imagine a smaller transition: Ankora's pulse grammar changes; Amastacia's articulation changes with it; the spatial or mechanical field shifts; and those changes persist long enough for a new regularity to become apparent.
+Now imagine a smaller transition: the drum's pulse grammar changes; the didgeridoo's articulation changes with it; the spatial or mechanical field shifts; and those changes persist long enough for a new regularity to become apparent.
 
 
 The immediate acoustic difference could be smaller than the isolated hard strike, yet the second transition may produce the stronger sense that the performance has entered somewhere new.
@@ -48,7 +48,7 @@ KLAAT should not misuse that evidence. No ERP, fMRI state change, SCR, or other 
 The useful behavioral principle is: CONVERGING STRUCTURAL EVIDENCE CAN SUPPORT SEGMENTATION.
 
 
-For KLAAT, relevant cue families include Ankora pulse grammar; Amastacia articulation and spectral behavior; density; dynamics; spatial field; body-surface coupling; tactile contrast; breath behavior; and the presence or absence of Pulse.
+For KLAAT, relevant cue families include the drum pulse grammar; the didgeridoo articulation and spectral behavior; density; dynamics; spatial field; body-surface coupling; tactile contrast; breath behavior; and the presence or absence of Pulse.
 
 
 A Gate may emerge when several of these stop behaving according to the old regime and begin behaving coherently according to a new one.
@@ -75,7 +75,7 @@ This is a compositional hypothesis, not yet an established law.
 Predictive uncertainty—entropy—can promote auditory boundary perception independently of the local surprise of one event.
 
 
-Translated carefully into KLAAT, the Gate may begin before the obvious transition. Ground Anchor teaches a stable model. Threshold Gate can then weaken confidence in that model: Ankora introduces ambiguous spacing; Amastacia alters articulation without fully changing identity; the field becomes less predictable; or a familiar contrast occurs in the wrong place.
+Translated carefully into KLAAT, the Gate may begin before the obvious transition. Ground Anchor teaches a stable model. Threshold Gate can then weaken confidence in that model: the drum introduces ambiguous spacing; the didgeridoo alters articulation without fully changing identity; the field becomes less predictable; or a familiar contrast occurs in the wrong place.
 
 
 Then several cues converge and a new rule stabilizes:
@@ -99,22 +99,22 @@ Randomness can spend prediction budget by making the old model unreliable. But i
 A Gate is therefore not maximum prediction error. It is CONTROLLED MODEL REPLACEMENT.
 
 
-6. AMASTACIA'S ROLE
+6. DIDGERIDOO'S ROLE
 
 
-Amastacia can preserve continuity through the transition. The Drone can tell the listener THIS IS STILL KLAAT while its internal behavior says THIS IS NO LONGER THE SAME STATE.
+The didgeridoo can preserve continuity through the transition. The Drone can tell the listener THIS IS STILL KLAAT while its internal behavior says THIS IS NO LONGER THE SAME STATE.
 
 
-Amastacia can preserve fundamental identity while changing articulation, spectral emphasis, roughness, breath density, amplitude envelope, spatial orientation, or mechanical coupling. Amastacia can therefore become the bridge across the Gate.
+The didgeridoo can preserve fundamental identity while changing articulation, spectral emphasis, roughness, breath density, amplitude envelope, spatial orientation, or mechanical coupling. The didgeridoo can therefore become the bridge across the Gate.
 
 
-7. ANKORA'S ROLE
+7. DRUM'S ROLE
 
 
-Ankora is especially suited to making the new regime legible. A single unusual strike is local novelty. A persistent change in pulse grammar is structural evidence.
+The drum is especially suited to making the new regime legible. A single unusual strike is local novelty. A persistent change in pulse grammar is structural evidence.
 
 
-A strong candidate Gate: Amastacia begins destabilizing the old state; Ankora enters a new grammar; Amastacia's altered behavior persists; the listener receives converging evidence that the change was not accidental.
+A strong candidate Gate: the didgeridoo begins destabilizing the old state; the drum enters a new grammar; the didgeridoo's altered behavior persists; the listener receives converging evidence that the change was not accidental.
 
 
 The Gate is not one sound. It is the interval during which the listener's best model of the performance changes.
@@ -136,7 +136,7 @@ After the Gate becomes legible, develop the new regime's own Prediction Budget: 
 
 
 RETURN PATH — COLLAPSE OR RESTORE THE MODEL
-Either dismantle the Rising Pulse regime until only Amastacia remains, or restore elements of the original Ground Anchor: dissolution versus homecoming.
+Either dismantle the Rising Pulse regime until only the didgeridoo remains, or restore elements of the original Ground Anchor: dissolution versus homecoming.
 
 
 9. A PROVISIONAL BEHAVIORAL GATE CRITERION
@@ -182,7 +182,7 @@ CONTEXT-DEPENDENT: Neural boundary signatures cannot currently define or certify
 
 PLAUSIBLE / TESTABLE: A KLAAT transition involving two or three coordinated persistent rule changes will produce stronger cross-listener boundary agreement and state-change confidence than an equally salient isolated novelty.
 PLAUSIBLE / TESTABLE: A transition that briefly destabilizes the old model and then establishes a coherent new rule will feel more Gate-like than equally surprising changes that remain incoherent.
-PLAUSIBLE / TESTABLE: Amastacia can preserve global identity across a Gate while Ankora supplies clear evidence that the local temporal regime has changed.
+PLAUSIBLE / TESTABLE: the didgeridoo can preserve global identity across a Gate while the drum supplies clear evidence that the local temporal regime has changed.
 
 
 SPECULATION: KLAAT may eventually control Gate strength continuously by manipulating cue convergence and the rate of model replacement.
@@ -210,11 +210,11 @@ DO NOT USE PHYSIOLOGY TO PROVE A GATE BEFORE BEHAVIOR SHOWS THAT A GATE EXISTS.
 13. KRX-054 — THE GATE TEST
 
 
-Create four 3–4 minute Amastacia/Ankora passages. Keep overall duration, loudness range, approximate energy, and number of unusual events as similar as practical.
+Create four 3–4 minute the didgeridoo and drum passages. Keep overall duration, loudness range, approximate energy, and number of unusual events as similar as practical.
 
 
 A — LOCAL NOVELTY: Maintain the regime but insert one conspicuous isolated event, then return to the old rule.
-B — SINGLE PERSISTENT RULE CHANGE: Change one important rule, such as Ankora's pulse grammar, while Amastacia otherwise preserves the previous regime.
+B — SINGLE PERSISTENT RULE CHANGE: Change one important rule, such as the drum's pulse grammar, while the didgeridoo otherwise preserves the previous regime.
 C — CONVERGENT GATE: Change two or three meaningfully different rule families together, then maintain a coherent new regime.
 D — INCOHERENT CHANGE: Use changes of comparable magnitude and count but do not allow them to converge into a stable new rule.
 

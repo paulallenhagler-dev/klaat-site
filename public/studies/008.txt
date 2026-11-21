@@ -4,7 +4,7 @@ Core lesson
 Rooms have resonant modes and standing-wave patterns. A simple axial-mode estimate is f = c/(2L); a 12-foot room dimension gives a first mode around the high-40-Hz range. Because low-frequency wavelengths are comparable to room dimensions, a few feet of listener movement can produce large differences in bass level and spectral balance.
 
 
-Amastacia therefore excites not only the air but the geometry of the venue. The same performance can feel radically different at different audience positions.
+The didgeridoo therefore excites not only the air but the geometry of the venue. The same performance can feel radically different at different audience positions.
 
 
 Evidence boundary
@@ -12,4 +12,4 @@ Established: enclosed spaces produce modal reinforcement and cancellation; rever
 
 
 KLAAT test
-Hold one stable Amastacia configuration and map at least six positions in the room. Rate loudness, bass weight, overtone clarity, and bodily vibration separately.
+Hold one stable the didgeridoo configuration and map at least six positions in the room. Rate loudness, bass weight, overtone clarity, and bodily vibration separately.

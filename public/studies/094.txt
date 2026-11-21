@@ -1,6 +1,6 @@
 KLAAT RESONANCE RESEARCH — SESSION 94
 THE SOUND THAT NEITHER MICROPHONE HEARD
-Comb filtering, multi-microphone interference, and the risk of manufacturing an Amastacia timbre in the mix
+Comb filtering, multi-microphone interference, and the risk of manufacturing an the didgeridoo timbre in the mix
 Published: October 16, 2026 — 7:12 PM CDT (America/Chicago)
 
 
@@ -10,13 +10,13 @@ EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 CENTRAL QUESTION
 
 
-Suppose Paul records a spontaneous KLAAT performance with one microphone near Amastacia and another near Ankora, or with a close microphone and a room microphone. Both recordings sound convincing when heard separately. Yet when the tracks are combined, the drone seems hollow, certain overtones disappear, or Ankora loses some of its weight. Did Paul play differently? Did the room swallow the bass? Did a listener's brain reconstruct the wrong pitch? Or did the act of combining two legitimate recordings create a third sound that existed in neither individual track?
+Suppose Paul records a spontaneous KLAAT performance with one microphone near the didgeridoo and another near the drum, or with a close microphone and a room microphone. Both recordings sound convincing when heard separately. Yet when the tracks are combined, the drone seems hollow, certain overtones disappear, or the drum loses some of its weight. Did Paul play differently? Did the room swallow the bass? Did a listener's brain reconstruct the wrong pitch? Or did the act of combining two legitimate recordings create a third sound that existed in neither individual track?
 
 
 The answer may be the last one. A microphone records pressure at its own position. Two microphones can receive overlapping versions of the same acoustic event at different times and amplitudes. Their electrical or digital sum is not necessarily a neutral reconstruction of the room. Frequency-dependent reinforcement and cancellation can reshape the recorded spectrum even when the performance, microphones, and raw files are individually functioning as intended.
 
 
-THE CORE FINDING: TWO FAITHFUL RECORDING CHANNELS CAN PRODUCE A MISLEADING MIX. A CHANGE IN THE MIXED SPECTRUM IS NOT, BY ITSELF, A CHANGE IN AMASTACIA, ANKORA, THE ROOM, OR THE LISTENER'S PHYSIOLOGY.
+THE CORE FINDING: TWO FAITHFUL RECORDING CHANNELS CAN PRODUCE A MISLEADING MIX. A CHANGE IN THE MIXED SPECTRUM IS NOT, BY ITSELF, A CHANGE IN DIDGERIDOO, DRUM, THE ROOM, OR THE LISTENER'S PHYSIOLOGY.
 
 
 WHY THIS TOPIC NOW — NOVELTY GATE
@@ -31,7 +31,7 @@ This session does not repackage any one of those notes. It introduces a differen
 1. TWO MICROPHONES DO NOT HEAR THE SAME TIME
 
 
-Consider a single Amastacia articulation. The pressure disturbance travels outward through air. A microphone nearer one radiating region receives it before a more distant microphone, subject to the instrument's complex radiation and the room. At approximately 343 meters per second, a 34.3-centimeter difference in direct-path length corresponds to roughly one millisecond of arrival-time difference. This is an illustrative speed-of-sound calculation near room temperature, not a measurement of any KLAAT setup.
+Consider a single the didgeridoo articulation. The pressure disturbance travels outward through air. A microphone nearer one radiating region receives it before a more distant microphone, subject to the instrument's complex radiation and the room. At approximately 343 meters per second, a 34.3-centimeter difference in direct-path length corresponds to roughly one millisecond of arrival-time difference. This is an illustrative speed-of-sound calculation near room temperature, not a measurement of any KLAAT setup.
 
 
 Now imagine summing two otherwise identical versions of a sound, one delayed by time tau. In an ideal equal-level two-path model, the combined transfer function is H(f) = 1 + exp(-j 2 pi f tau). Its magnitude is 2 |cos(pi f tau)|. Reinforcement occurs where the delay spans an integer number of cycles; cancellation occurs where it spans an odd half-cycle. The lowest theoretical null is at f = 1/(2 tau), and adjacent nulls are separated by 1/tau. This regularly spaced pattern of peaks and notches is called a comb filter.
@@ -46,7 +46,7 @@ The numerical scale matters:
 - tau = 7.2 ms: first ideal null near 69.4 Hz; notch spacing about 139 Hz.
 
 
-These are exact consequences of the simplified model, not universal microphone-placement recommendations. Complete nulls require equal amplitudes and a sufficiently coherent duplicate of the same component. Real Amastacia/Ankora tracks have different frequency responses, direct-to-reverberant ratios, microphone patterns, source balances, and time-varying content. The notches may therefore be shallow, broad, shifting, or absent. A 1-ms delay does not automatically erase a 69-Hz fundamental: its first ideal null is near 500 Hz. A low-frequency cancellation requires the appropriate phase relation at that low frequency, which may arise from longer delays, channel polarity, frequency-dependent phase, or other paths.
+These are exact consequences of the simplified model, not universal microphone-placement recommendations. Complete nulls require equal amplitudes and a sufficiently coherent duplicate of the same component. Real the didgeridoo and drum tracks have different frequency responses, direct-to-reverberant ratios, microphone patterns, source balances, and time-varying content. The notches may therefore be shallow, broad, shifting, or absent. A 1-ms delay does not automatically erase a 69-Hz fundamental: its first ideal null is near 500 Hz. A low-frequency cancellation requires the appropriate phase relation at that low frequency, which may arise from longer delays, channel polarity, frequency-dependent phase, or other paths.
 
 
 Crucially, this particular comb filtering occurs when overlapping channels are SUMMED. A pair of isolated recordings need not sound colored in the same way. If each microphone already contains a direct sound plus reflected copies, however, that individual channel can also exhibit interference before the tracks are mixed. There are therefore two related but distinct situations: acoustic interference arriving at one capsule, and electronic/digital interference created when multiple channels are combined.
@@ -55,25 +55,25 @@ Crucially, this particular comb filtering occurs when overlapping channels are S
 2. WHY THIS MATTERS TO THE TWO-INSTRUMENT WORLD
 
 
-KLAAT is not a single stationary loudspeaker. Amastacia has a drone, upper harmonics, breath and vocal-tract articulation, and radiating regions that may not behave as one point source. Ankora has a struck hide membrane with multiple modes, attacks, decays, and an acoustically different location. A microphone near Amastacia will still capture some Ankora; a microphone near Ankora will still capture some Amastacia. Their bleed is not inherently bad. It is part of recording a shared acoustic world.
+KLAAT is not a single stationary loudspeaker. The didgeridoo has a drone, upper harmonics, breath and vocal-tract articulation, and radiating regions that may not behave as one point source. The drum has a struck hide membrane with multiple modes, attacks, decays, and an acoustically different location. A microphone near the didgeridoo will still capture some the drum; a microphone near the drum will still capture some the didgeridoo. Their bleed is not inherently bad. It is part of recording a shared acoustic world.
 
 
-But each instrument reaches the two microphones with its OWN relative timing and spectrum. If a recording engineer shifts one track to align an Ankora attack perfectly, that edit may change the relative arrival relationship for Amastacia. Conversely, aligning a stable drone feature may change the shape of the combined drum transient. There is no guarantee that one global delay correction can simultaneously optimize two moving, spatially separated acoustic sources.
+But each instrument reaches the two microphones with its OWN relative timing and spectrum. If a recording engineer shifts one track to align an the drum attack perfectly, that edit may change the relative arrival relationship for the didgeridoo. Conversely, aligning a stable drone feature may change the shape of the combined drum transient. There is no guarantee that one global delay correction can simultaneously optimize two moving, spatially separated acoustic sources.
 
 
 This is particularly important for the KLAAT aesthetic. The combination of one persistent tonal center and a human hide-drum pulse is deliberately sparse. When a dense arrangement contains many instruments, a narrow spectral notch may be partially masked by other content. In a minimal drone-and-drum recording, a small change in a prominent harmonic or attack band may be much more noticeable. That is a plausible KLAAT-specific sensitivity, not a demonstrated effect size.
 
 
-Imagine that Amastacia's moving upper harmonics seem to vanish during one section. The disappearance might be Paul's vocal-tract shaping, a room position effect, masking by Ankora, a microphone's frequency response, or phase cancellation in the mixed tracks. These possibilities make different predictions and require different evidence. We cannot choose the most evocative explanation from the finished waveform alone.
+Imagine that the didgeridoo's moving upper harmonics seem to vanish during one section. The disappearance might be Paul's vocal-tract shaping, a room position effect, masking by the drum, a microphone's frequency response, or phase cancellation in the mixed tracks. These possibilities make different predictions and require different evidence. We cannot choose the most evocative explanation from the finished waveform alone.
 
 
 3. PRIMARY AUDIO-ENGINEERING EVIDENCE: ALIGNMENT IS NOT AUTOMATICALLY EASY
 
 
-Clifford and Reiss (2013) studied delay estimation for arbitrary musical sources in multi-microphone recording [1]. Their Journal of the Audio Engineering Society article explicitly identifies comb-filter/flanging effects from summing microphones at different source distances and investigates generalized cross-correlation with phase transform (GCC-PHAT) as an alignment method. The reported technical limitation is especially relevant to Amastacia: delay estimation is vulnerable to spectral leakage and windowing choices, with the greatest interference problems for narrowband input and windows with large side lobes.
+Clifford and Reiss (2013) studied delay estimation for arbitrary musical sources in multi-microphone recording [1]. Their Journal of the Audio Engineering Society article explicitly identifies comb-filter/flanging effects from summing microphones at different source distances and investigates generalized cross-correlation with phase transform (GCC-PHAT) as an alignment method. The reported technical limitation is especially relevant to the didgeridoo: delay estimation is vulnerable to spectral leakage and windowing choices, with the greatest interference problems for narrowband input and windows with large side lobes.
 
 
-A long, strongly periodic drone is exactly the kind of signal for which an algorithm can encounter ambiguous repeating structures. If several candidate delays align similar cycles, the highest correlation peak may not uniquely identify the physical arrival time. Ankora's sharper attacks could help estimate timing locally, but the two instruments' overlapping signals and the room complicate interpretation. This is a methodological inference from the published analysis, not a validation study on KLAAT.
+A long, strongly periodic drone is exactly the kind of signal for which an algorithm can encounter ambiguous repeating structures. If several candidate delays align similar cycles, the highest correlation peak may not uniquely identify the physical arrival time. The drum's sharper attacks could help estimate timing locally, but the two instruments' overlapping signals and the room complicate interpretation. This is a methodological inference from the published analysis, not a validation study on KLAAT.
 
 
 Clifford and Reiss (2011) separately investigated multi-microphone interference suppression for live sound, comparing a delay-estimation/adaptive-filter approach in anechoic and echoic conditions [2]. Their reported improvement was stronger in the anechoic case; the echoic case was harder, although their method introduced fewer artifacts than the compared methods. This is a useful contradiction to the idea that one digital button can always recover an objectively 'correct' instrument sound from a reverberant multi-microphone capture.
@@ -88,13 +88,13 @@ Engineering guides from Biamp and Shure also explain the same underlying interfe
 A frequency-response comb is an acoustic or electrical description. Whether a listener notices it, dislikes it, or mistakes it for the instrument is a different question.
 
 
-Buchholz (2011) measured detection thresholds for coloration caused by a single reflection using 320-ms bandpass-noise bursts and varying spectral bandwidth and reflection delay [5]. Detection became less sensitive as bandwidth narrowed and reflection delay increased in the tested conditions; low-frequency components contributed more to detection than high-frequency components. The study is quantitative psychophysics, but its stimulus is controlled noise, not Amastacia's harmonic drone or Ankora's strikes. Its key contribution is that audible coloration is stimulus dependent: a spectrogram notch does not tell us its perceptual importance without considering the source spectrum and task.
+Buchholz (2011) measured detection thresholds for coloration caused by a single reflection using 320-ms bandpass-noise bursts and varying spectral bandwidth and reflection delay [5]. Detection became less sensitive as bandwidth narrowed and reflection delay increased in the tested conditions; low-frequency components contributed more to detection than high-frequency components. The study is quantitative psychophysics, but its stimulus is controlled noise, not the didgeridoo's harmonic drone or the drum's strikes. Its key contribution is that audible coloration is stimulus dependent: a spectrogram notch does not tell us its perceptual importance without considering the source spectrum and task.
 
 
 Krumbholz and colleagues (2004) investigated the salience of the pitch associated with a broadband sound and one reflection [6]. Three experiments manipulated delay and the relative spatial information carried to the ears. Their results were consistent with a central combination of internal representations from the two ears. This matters because the perceived pitch/color of an echoed signal need not map transparently onto one microphone's spectrum or one ear's local waveform. It does not imply that a KLAAT comb filter will create a musical note or induce a trance state.
 
 
-Watkins (1999) examined vowel identification under direct-plus-reflection filtering [7]. Reflected energy could substantially influence vowel identity even when spatial localization remained dominated by the direct arrival. The result is a useful warning against conflating 'I can tell where the source is' with 'I am hearing its timbre unchanged.' Applied to KLAAT as a hypothesis, a listener could correctly recognize Amastacia as the drone source while hearing a mixed recording whose formant-like character has been reshaped by reflections or summation.
+Watkins (1999) examined vowel identification under direct-plus-reflection filtering [7]. Reflected energy could substantially influence vowel identity even when spatial localization remained dominated by the direct arrival. The result is a useful warning against conflating 'I can tell where the source is' with 'I am hearing its timbre unchanged.' Applied to KLAAT as a hypothesis, a listener could correctly recognize the didgeridoo as the drone source while hearing a mixed recording whose formant-like character has been reshaped by reflections or summation.
 
 
 A separate study of group-delay equalization by Liski, Mäkivirta and Välimäki (2021) found highly signal-dependent audibility thresholds in ABX headphone tests; the smallest mean threshold reported for a specially constructed pink-impulse condition was about -0.56 ms for negative group delay and 0.64 ms for positive group delay [8]. Those are not KLAAT comb-filter detection thresholds. The point is methodological: transient-rich signals and sustained material need not expose the same timing/phase alterations equally. A striking numerical threshold from a test signal must not be generalized to a drum-and-drone performance.
@@ -109,7 +109,7 @@ There is a practical second consequence. Two microphone tracks can be panned apa
 The opposite can also occur: a stereo image may contain spatial and timbral information that a mono fold-down legitimately removes without any severe phase cancellation. Stereo-versus-mono differences are not all defects. The useful distinction is whether the mono result has a predictable cancellation/tonal shift caused by overlapping channels, as opposed to simply losing stereo width. Recording-chain phase is also different from the room's live sound field and from the listener's auditory spatial integration.
 
 
-KLAAT's two listening roles make this especially relevant. A focused headphone listener may hear a spacious Amastacia/Ankora scene, while someone playing the same recording through a single small speaker may hear a mono or near-mono version. If the drone becomes weak, we must distinguish small-speaker bass roll-off (Session 93), playback-level differences (Session 92), and mono summation of the actual master (this session). These explanations can coexist. A weak mono version is not evidence that a small speaker failed to reproduce a missing fundamental unless the fold-down itself has been checked.
+KLAAT's two listening roles make this especially relevant. A focused headphone listener may hear a spacious the didgeridoo and drum scene, while someone playing the same recording through a single small speaker may hear a mono or near-mono version. If the drone becomes weak, we must distinguish small-speaker bass roll-off (Session 93), playback-level differences (Session 92), and mono summation of the actual master (this session). These explanations can coexist. A weak mono version is not evidence that a small speaker failed to reproduce a missing fundamental unless the fold-down itself has been checked.
 
 
 6. FIVE DISTINCT PLACES WHERE THE SOUND CAN CHANGE
@@ -118,7 +118,7 @@ KLAAT's two listening roles make this especially relevant. A focused headphone l
 The October 16 hourly notes now make a coherent capture-provenance picture, but the mechanisms should remain separate:
 
 
-SOURCE STATE: Ankora's elk hide may respond to humidity and acclimation, changing the actual source. That is an instrument-state hypothesis requiring instrument-specific measurement.
+SOURCE STATE: the drum's drumhead material may respond to humidity and acclimation, changing the actual source. That is an instrument-state hypothesis requiring instrument-specific measurement.
 
 
 LOCAL MICROPHONE GEOMETRY: A pressure-gradient microphone can boost apparent bass near a source through proximity effect. This is a distance/polar-pattern property, not a property of Paul's playing.
@@ -161,7 +161,7 @@ A high absolute correlation coefficient is not a proof that the mix is faithful.
 8. A NUMERICAL EXAMPLE WITHOUT AN ARTISTIC PRESCRIPTION
 
 
-Imagine a hypothetical two-microphone KLAAT capture with a 1-ms relative arrival delay for a coherent component of Amastacia. In the ideal equal-level model, the mixed signal has a notch at 500 Hz and further notches at 1,500, 2,500 Hz, and so on. It is tempting to call that a 'thin' or 'nasal' recording, but the actual audible result depends on which harmonics Amastacia contains, their amplitudes, the microphone transfer functions, and the rest of the mix. A strong 500-Hz harmonic could be affected while a weaker one might be perceptually irrelevant.
+Imagine a hypothetical two-microphone KLAAT capture with a 1-ms relative arrival delay for a coherent component of the didgeridoo. In the ideal equal-level model, the mixed signal has a notch at 500 Hz and further notches at 1,500, 2,500 Hz, and so on. It is tempting to call that a 'thin' or 'nasal' recording, but the actual audible result depends on which harmonics the didgeridoo contains, their amplitudes, the microphone transfer functions, and the rest of the mix. A strong 500-Hz harmonic could be affected while a weaker one might be perceptually irrelevant.
 
 
 Now suppose a different coherent component has a 5-ms relative delay. The first ideal null falls at 100 Hz, with further nulls at 300, 500 Hz, etc. Such a configuration could reshape low-frequency energy much more directly. But that example is not a prediction that microphones separated by a particular physical distance will cause that pattern in a real room: each source has its own paths, reflections, and levels, and the relevant difference is acoustic arrival time, not merely the distance between microphone bodies.
@@ -194,10 +194,10 @@ CONTEXT-DEPENDENT
 PLAUSIBLE, TESTABLE KLAAT HYPOTHESES
 
 
-- H1: A two-microphone KLAAT mix may alter the apparent Amastacia harmonic balance even when each isolated channel preserves its own coherent drone.
-- H2: Mono summation may change perceived drone fullness or Ankora impact independently of small-speaker bass roll-off.
-- H3: A delay adjustment chosen for Ankora's attacks may have a different effect on Amastacia's sustained spectrum; no single alignment is necessarily optimal for both.
-- H4: The audibility of mix-induced notches may depend on whether they coincide with prominent Amastacia formants/harmonics or salient Ankora attack bands.
+- H1: A two-microphone KLAAT mix may alter the apparent the didgeridoo harmonic balance even when each isolated channel preserves its own coherent drone.
+- H2: Mono summation may change perceived drone fullness or the drum impact independently of small-speaker bass roll-off.
+- H3: A delay adjustment chosen for the drum's attacks may have a different effect on the didgeridoo's sustained spectrum; no single alignment is necessarily optimal for both.
+- H4: The audibility of mix-induced notches may depend on whether they coincide with prominent the didgeridoo formants/harmonics or salient the drum attack bands.
 - H5: A listener's absorption or activation rating may be relatively insensitive to a measurable spectral notch—or may change substantially—depending on the take and listening context.
 
 
@@ -212,7 +212,7 @@ UNSUPPORTED
 
 - The September KLAAT reference definitely suffers from phase cancellation.
 - Two microphones are inherently inferior to one, or mono is inherently inferior to stereo.
-- A single polarity flip, the 3:1 rule, or automatic alignment always produces the 'true' Amastacia/Ankora sound.
+- A single polarity flip, the 3:1 rule, or automatic alignment always produces the 'true' the didgeridoo and drum sound.
 - Comb-filter notches cause, prevent, or quantify trance, neural entrainment, autonomic activation, or bodily resonance.
 - A change in a mixed spectrogram establishes that Paul played differently or that a listener received more physical vibration.
 
@@ -223,7 +223,7 @@ UNSUPPORTED
 Name: SUMMATION-PROVENANCE GATE.
 
 
-Before interpreting a mixed recording as evidence of Amastacia's spectral behavior, Ankora's timing, or their interaction, ask:
+Before interpreting a mixed recording as evidence of the didgeridoo's spectral behavior, the drum's timing, or their interaction, ask:
 
 
 A. SOURCE: Was the feature present in a raw individual microphone channel, or only after channels were combined?
@@ -234,7 +234,7 @@ E. PERCEPTION: Can a listener detect the difference without being told which ver
 F. CLAIM: Is the conclusion about the mix, the source, the listener's report, or a causal effect? State only what the data actually identify.
 
 
-This gate belongs in the recording/analysis metadata and in any future comparison of KLAAT takes. It is not a phase of a performance, a required mixing aesthetic, or an instruction to make Amastacia and Ankora sound 'perfectly aligned.' Their living temporal relationship remains Paul's artistic territory.
+This gate belongs in the recording/analysis metadata and in any future comparison of KLAAT takes. It is not a phase of a performance, a required mixing aesthetic, or an instruction to make the didgeridoo and drum sound 'perfectly aligned.' Their living temporal relationship remains Paul's artistic territory.
 
 
 11. WHAT THIS CHANGES IN THE RESEARCH PROGRAM
@@ -243,7 +243,7 @@ This gate belongs in the recording/analysis metadata and in any future compariso
 KLS-001's authentic baseline remains the priority. This session adds a provenance field, not a new demand on the player. If the baseline is recorded with more than one microphone, retain the untouched individual channels and the routing/mix recipe as well as the listening master. Mark whether a listening stimulus was a single-mic capture, an unaltered stereo pair, a multi-mic sum, or a processed derivative. The blind listener pilot should use a stable, clearly labeled listening master; it need not become a mixing comparison unless the data reveal a reason to study that later.
 
 
-The key methodological distinction is between 'a faithful artistic master' and 'a neutral measurement of the source.' Both can be valuable, but they answer different questions. Paul and Matt may deliberately prefer a colored mix because it conveys the world of KLAAT more convincingly. That preference is an artistic choice, not an error. The research error would be treating the coloration as proof of an intrinsic Amastacia acoustic property or a listener-body mechanism without verifying the signal path.
+The key methodological distinction is between 'a faithful artistic master' and 'a neutral measurement of the source.' Both can be valuable, but they answer different questions. Paul and Matt may deliberately prefer a colored mix because it conveys the world of KLAAT more convincingly. That preference is an artistic choice, not an error. The research error would be treating the coloration as proof of an intrinsic the didgeridoo acoustic property or a listener-body mechanism without verifying the signal path.
 
 
 12. ONE OPTIONAL, LOW-PRESSURE KLAAT OBSERVATION — KRX-094
@@ -252,13 +252,13 @@ The key methodological distinction is between 'a faithful artistic master' and '
 THE THIRD SOUND TEST
 
 
-Only if a genuine two-channel recording already exists: take a short authentic Amastacia-and-Ankora passage and listen at comfortable level to microphone A alone, microphone B alone, the current stereo mix, and a level-matched mono fold-down. Do not edit the performance. First notice, without staring at a spectrogram, whether Amastacia's tone, Ankora's impact, or the feeling that the two instruments inhabit one space changes between versions. 'No difference' is a valid result. If something changes, preserve the original channels and note the exact routing before attempting any phase correction. This is a recording-chain observation, not a controlled listener study and not evidence of physiological change.
+Only if a genuine two-channel recording already exists: take a short authentic the didgeridoo-and-the drum passage and listen at comfortable level to microphone A alone, microphone B alone, the current stereo mix, and a level-matched mono fold-down. Do not edit the performance. First notice, without staring at a spectrogram, whether the didgeridoo's tone, the drum's impact, or the feeling that the two instruments inhabit one space changes between versions. 'No difference' is a valid result. If something changes, preserve the original channels and note the exact routing before attempting any phase correction. This is a recording-chain observation, not a controlled listener study and not evidence of physiological change.
 
 
 DECISIVE QUESTION
 
 
-When a KLAAT recording seems to lose its drone's body or change the relationship between Amastacia and Ankora, did the instruments change—or did the recording system create a third sound when it combined two truthful views of the same performance?
+When a KLAAT recording seems to lose its drone's body or change the relationship between the didgeridoo and drum, did the instruments change—or did the recording system create a third sound when it combined two truthful views of the same performance?
 
 
 EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.

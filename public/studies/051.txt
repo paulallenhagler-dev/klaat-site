@@ -5,7 +5,7 @@ THE STABLE STIMULUS PARADOX: How KLAAT Can Change Without Getting Louder, Faster
 Session 50 ended with a problem that reaches directly into the center of KLAAT.
 
 
-Suppose Amastacia holds essentially the same drone. Suppose Ankora repeats essentially the same pulse. Suppose measured airborne level and contact-surface vibration remain approximately stable. Does the listener therefore experience a stable state?
+Suppose the didgeridoo holds essentially the same drone. Suppose the drum repeats essentially the same pulse. Suppose measured airborne level and contact-surface vibration remain approximately stable. Does the listener therefore experience a stable state?
 
 
 No.
@@ -32,7 +32,7 @@ The crucial scientific discipline is that several mechanisms can operate at the 
 Sensory systems adjust to sustained or repeated stimulation. In tactile research, prolonged exposure can change subsequent perception; for example, tactile motion adaptation can make a later moving stimulus appear slower. More generally, sensory adaptation means that response and perception depend on recent stimulation history rather than only the present physical input.
 
 
-For KLAAT, the important inference is not that Amastacia will inevitably “fade out.” The actual amount of adaptation will depend on spectrum, modulation, contact site, intensity, duration, attention, posture, room behavior, and whether the stimulus is truly stable.
+For KLAAT, the important inference is not that the didgeridoo will inevitably “fade out.” The actual amount of adaptation will depend on spectrum, modulation, contact site, intensity, duration, attention, posture, room behavior, and whether the stimulus is truly stable.
 
 
 The useful principle is narrower:
@@ -41,7 +41,7 @@ The useful principle is narrower:
 RECENT HISTORY CHANGES THE MEANING OF THE CURRENT STIMULUS.
 
 
-If Amastacia establishes a sufficiently stable Ground Anchor, some features may become less novel or less salient over time even if their physical magnitude remains nearly constant.
+If the didgeridoo establishes a sufficiently stable Ground Anchor, some features may become less novel or less salient over time even if their physical magnitude remains nearly constant.
 
 
 That is not automatically a weakness.
@@ -62,7 +62,7 @@ Tactile attention can enhance processing of attended vibration. Experimental wor
 This does not mean “attention makes vibration physically stronger.” It means that the perceptual system can allocate processing differently to the same or similar incoming information.
 
 
-During Ground Anchor, a listener may initially notice the room, other people, visual details, posture, breathing, and Amastacia simultaneously. As external novelty decreases, attention may become increasingly available to fine internal details of the Drone: beating, envelope movement, breath articulation, contact vibration, or the boundary between hearing and feeling.
+During Ground Anchor, a listener may initially notice the room, other people, visual details, posture, breathing, and the didgeridoo simultaneously. As external novelty decreases, attention may become increasingly available to fine internal details of the Drone: beating, envelope movement, breath articulation, contact vibration, or the boundary between hearing and feeling.
 
 
 So two processes may coexist:
@@ -83,7 +83,7 @@ The experience can therefore evolve even without a simple rise or fall in physic
 3. TEMPORAL EXPECTATION: REPETITION BUILDS A PREDICTION
 
 
-The hourly research also strengthened a second mechanism that is extremely relevant to Ankora: temporal expectation.
+The hourly research also strengthened a second mechanism that is extremely relevant to the drum: temporal expectation.
 
 
 When events occur with predictable timing, the nervous system can prepare for when relevant information is likely to arrive. Controlled tactile work has shown that temporal predictability can improve aspects of tactile processing, and tactile temporal expectation is associated with preparatory changes before the expected event.
@@ -92,7 +92,7 @@ When events occur with predictable timing, the nervous system can prepare for wh
 This gives repetition a second function.
 
 
-Ankora is not merely producing repeated impacts.
+The drum is not merely producing repeated impacts.
 
 
 It is teaching the listener WHEN.
@@ -112,7 +112,7 @@ A strike can be emphasized.
 A strike can be omitted.
 The spacing can stretch.
 Density can increase around the underlying pulse.
-The pulse can disappear while Amastacia remains.
+The pulse can disappear while the didgeridoo remains.
 
 
 These are physically different manipulations, but their perceptual force partly depends on the expectation built before them.
@@ -145,7 +145,7 @@ But conceptually it is valuable because it destroys a bad assumption:
 BETTER PERCEPTION DOES NOT NECESSARILY MEAN STRONGER PERCEPTION.
 
 
-For KLAAT, a repeated Ankora pulse might become temporally clearer without becoming subjectively harder. A listener might become better able to anticipate and parse its structure even while adaptation reduces the raw novelty of each impact.
+For KLAAT, a repeated the drum pulse might become temporally clearer without becoming subjectively harder. A listener might become better able to anticipate and parse its structure even while adaptation reduces the raw novelty of each impact.
 
 
 This is exactly why future experiments must stop asking only “How intense was it?”
@@ -197,13 +197,13 @@ LEARNING = longer-timescale change produced by experience.
 These mechanisms overlap in a performance, but the research ledger should keep them separate.
 
 
-6. AMASTACIA: STABILITY CAN BECOME AN ACTIVE MATERIAL
+6. DIDGERIDOO: STABILITY CAN BECOME AN ACTIVE MATERIAL
 
 
 This session changes how we should think about the Drone.
 
 
-A stable Amastacia passage is not necessarily “nothing happening.”
+A stable the didgeridoo passage is not necessarily “nothing happening.”
 
 
 Its stability can create the reference against which later changes become meaningful.
@@ -222,26 +222,26 @@ a vocal-tract resonance moves,
 a rougher state appears,
 a breath articulation becomes audible,
 a mechanical vibration disappears,
-Ankora enters,
+The drum enters,
 or the Drone abruptly stops.
 
 
 The perceptual size of that event cannot be inferred solely from its physical size because the preceding stable period has constructed a reference.
 
 
-This gives Amastacia a role beyond “continuous sonic bed.”
+This gives the didgeridoo a role beyond “continuous sonic bed.”
 
 
-AMASTACIA CAN BUILD THE PERCEPTUAL BASELINE THAT MAKES SMALL DEVIATIONS LARGE.
+DIDGERIDOO CAN BUILD THE PERCEPTUAL BASELINE THAT MAKES SMALL DEVIATIONS LARGE.
 
 
 That is deeply KLAAT.
 
 
-7. ANKORA: THE PULSE CAN TRAIN THE LISTENER BEFORE IT CHALLENGES THEM
+7. DRUM: THE PULSE CAN TRAIN THE LISTENER BEFORE IT CHALLENGES THEM
 
 
-Ankora performs the complementary function.
+The drum performs the complementary function.
 
 
 Repeated pulse establishes temporal regularity.
@@ -259,7 +259,7 @@ DO NOT BREAK A PATTERN BEFORE THE LISTENER HAS HAD TIME TO BUILD IT.
 If a pulse is constantly changing from the moment it enters, there may be little stable prediction to violate.
 
 
-But if Ankora establishes a clear temporal grammar first, later deviations can operate against something the nervous system has already learned.
+But if the drum establishes a clear temporal grammar first, later deviations can operate against something the nervous system has already learned.
 
 
 That does not require metronomic rigidity. Human timing variation may itself become part of the learned distribution.
@@ -280,7 +280,7 @@ GROUND ANCHOR — ESTABLISH THE PRIOR
 Ground Anchor is not merely the quiet beginning.
 
 
-Its job can be to create a reliable sensory world: Amastacia, room field, body-surface coupling, breath cycle, and perhaps recurring internal modulation.
+Its job can be to create a reliable sensory world: the didgeridoo, room field, body-surface coupling, breath cycle, and perhaps recurring internal modulation.
 
 
 Duration matters because the listener needs enough exposure for a reference state to form.
@@ -298,10 +298,10 @@ Once a baseline exists, Threshold Gate does not need maximal change.
 A small but structurally important deviation may be more effective than a large arbitrary one.
 
 
-Ankora's first entrance is the obvious example: the listener moves from continuous field to temporally punctuated field.
+The drum's first entrance is the obvious example: the listener moves from continuous field to temporally punctuated field.
 
 
-But the Gate could also be created by omission, sudden spectral opening, a new bodily contact pathway, a changed spatial direction, or a break in Amastacia's established envelope behavior.
+But the Gate could also be created by omission, sudden spectral opening, a new bodily contact pathway, a changed spatial direction, or a break in the didgeridoo's established envelope behavior.
 
 
 The key is relational:
@@ -316,7 +316,7 @@ RISING PULSE — MANAGE THE TENSION BETWEEN PREDICTION AND VIOLATION
 Rising Pulse should not simply mean “more hits.”
 
 
-If Ankora becomes completely predictable, adaptation and habituation may reduce novelty.
+If the drum becomes completely predictable, adaptation and habituation may reduce novelty.
 
 
 If it becomes completely unpredictable, the listener may lose the temporal model that gives deviations meaning.
@@ -338,10 +338,10 @@ RETURN PATH — MAKE ABSENCE PERCEPTIBLE
 Return Path may exploit the strongest consequence of accumulated expectation.
 
 
-After repeated Ankora events, stopping the Pulse does not immediately erase the listener's temporal model. The next expected event can remain perceptually meaningful precisely because it fails to occur.
+After repeated the drum events, stopping the Pulse does not immediately erase the listener's temporal model. The next expected event can remain perceptually meaningful precisely because it fails to occur.
 
 
-Likewise, after sustained Amastacia, silence can be heard against the memory of the field that preceded it.
+Likewise, after sustained the didgeridoo, silence can be heard against the memory of the field that preceded it.
 
 
 Return Path therefore does not need to be understood as merely “lower energy.”
@@ -371,10 +371,10 @@ The goal is to ask whether composition can manipulate perceptual organization ef
 For example:
 
 
-If Ankora level rises 1 dB but activation rises dramatically after a strategically timed omission, the important variable may not be acoustic power.
+If the drum level rises 1 dB but activation rises dramatically after a strategically timed omission, the important variable may not be acoustic power.
 
 
-If Amastacia remains physically stable but listeners report increasing awareness of internal modulation, attention may be contributing.
+If the didgeridoo remains physically stable but listeners report increasing awareness of internal modulation, attention may be contributing.
 
 
 If a sustained tactile component feels progressively weaker despite stable acceleration, adaptation becomes a candidate.
@@ -422,19 +422,19 @@ The size, time course, and direction of these effects depend on the stimulus, ta
 CONTEXT-DEPENDENT
 
 
-Laboratory tactile adaptation and temporal-cueing experiments do not tell us how many seconds or minutes KLAAT should hold Ground Anchor, how many Ankora strikes establish a prediction, or which deviation will produce the strongest live effect.
+Laboratory tactile adaptation and temporal-cueing experiments do not tell us how many seconds or minutes KLAAT should hold Ground Anchor, how many the drum strikes establish a prediction, or which deviation will produce the strongest live effect.
 
 
 PLAUSIBLE / TESTABLE
 
 
-A stable Amastacia Ground Anchor can increase the perceptual impact of a later spectral, temporal, spatial, or mechanical deviation without requiring a large increase in acoustic level.
+A stable the didgeridoo Ground Anchor can increase the perceptual impact of a later spectral, temporal, spatial, or mechanical deviation without requiring a large increase in acoustic level.
 
 
 PLAUSIBLE / TESTABLE
 
 
-A sufficiently regular Ankora pulse can establish temporal expectation such that strategically omitted or displaced strikes produce increased salience or activation despite reduced acoustic energy.
+A sufficiently regular the drum pulse can establish temporal expectation such that strategically omitted or displaced strikes produce increased salience or activation despite reduced acoustic energy.
 
 
 PLAUSIBLE / TESTABLE
@@ -446,7 +446,7 @@ Rising Pulse may be most effective when it alternates periods of learnable regul
 SPECULATION
 
 
-There is a universal ideal duration for Ground Anchor or a universal number of Ankora repetitions required to create prediction.
+There is a universal ideal duration for Ground Anchor or a universal number of the drum repetitions required to create prediction.
 
 
 SPECULATION
@@ -512,14 +512,14 @@ REPETITION IS NOT EMPTY TIME. IT IS WHERE THE LISTENER LEARNS THE SYSTEM.
 This experiment requires no mystical claims and can be run before sophisticated physiological equipment is available.
 
 
-Create a repeatable KLAAT passage with Amastacia held as steadily as practical and Ankora playing one simple pulse pattern at a controlled level.
+Create a repeatable KLAAT passage with the didgeridoo held as steadily as practical and the drum playing one simple pulse pattern at a controlled level.
 
 
 Use three conditions, presented in randomized order.
 
 
 A — REGULAR
-Ankora continues the established pulse without omission.
+The drum continues the established pulse without omission.
 
 
 B — EARLY OMISSION

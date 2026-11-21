@@ -2,10 +2,10 @@ KLAAT Resonance Research — Session 57
 THE SECOND CLOCK: Why KLAAT’s Body Response May Follow Phrases and Boundaries More Than 137 BPM
 
 
-Session 56 introduced Crossmodal Causal Coherence: the possibility that Ankora’s heard and felt components become more bodily consequential when they are perceived as one credible physical event. The newest hourly work reveals a larger timing problem.
+Session 56 introduced Crossmodal Causal Coherence: the possibility that the drum’s heard and felt components become more bodily consequential when they are perceived as one credible physical event. The newest hourly work reveals a larger timing problem.
 
 
-KLAAT currently has a conspicuous fast clock: Ankora’s provisional ~137 BPM Pulse, about 2.28 beats per second. It is tempting to treat that clock as the principal driver of any measured physiological change.
+KLAAT currently has a conspicuous fast clock: the drum’s provisional ~137 BPM Pulse, about 2.28 beats per second. It is tempting to treat that clock as the principal driver of any measured physiological change.
 
 
 The evidence does not justify that shortcut.
@@ -17,7 +17,7 @@ Recent music-physiology work indicates that cardiorespiratory trajectories can c
 KLAAT therefore needs a two-timescale model:
 
 
-THE FAST CLOCK — Ankora’s event-level Pulse.
+THE FAST CLOCK — the drum’s event-level Pulse.
 THE SLOW CLOCK — phrase/envelope/phase architecture unfolding across seconds to minutes.
 
 
@@ -27,7 +27,7 @@ The strongest current hypothesis is that the fast clock organizes attention and 
 1. BPM IS A PREDICTOR, NOT AN EXPLANATION
 
 
-A performance can change several things at once when Ankora enters or intensifies: pulse rate, onset density, broadband level, low-frequency energy, spectral flux, mechanical impact, predictability, crossmodal coherence, and structural meaning.
+A performance can change several things at once when the drum enters or intensifies: pulse rate, onset density, broadband level, low-frequency energy, spectral flux, mechanical impact, predictability, crossmodal coherence, and structural meaning.
 
 
 If heart rate or breathing changes at the same time, attributing the response to “137 BPM entrainment” is underdetermined.
@@ -63,7 +63,7 @@ These are not interchangeable.
 If ten listeners’ heart rates rise near Threshold Gate, they may be responding independently to the same salient transition. That is not evidence that their hearts synchronized directly with one another.
 
 
-If breathing slows during Return Path, that is not evidence that respiration was phase-locked to Ankora.
+If breathing slows during Return Path, that is not evidence that respiration was phase-locked to the drum.
 
 
 If a cardiac signal contains periodicity related to musical structure, that does not prove a therapeutic autonomic state.
@@ -72,7 +72,7 @@ If a cardiac signal contains periodicity related to musical structure, that does
 KLAAT should use the strongest term only when the corresponding analysis has actually been performed.
 
 
-3. THE FAST CLOCK: ANKORA’S ~137 BPM PULSE
+3. THE FAST CLOCK: DRUM’S ~137 BPM PULSE
 
 
 The current reference Pulse remains compositionally important.
@@ -84,7 +84,7 @@ At ~137 BPM, each beat is separated by roughly 438 ms. That is a plausible human
 The fast clock can support temporal expectation, motor synchronization, omission detection, event segmentation, crossmodal event unity, and Prediction Budget operations.
 
 
-But ordinary respiration and heart-rate dynamics do not need to oscillate at 2.28 Hz simply because Ankora does.
+But ordinary respiration and heart-rate dynamics do not need to oscillate at 2.28 Hz simply because the drum does.
 
 
 A listener can track a fast auditory beat while breathing on a much slower timescale. Cardiac timing can change gradually across phrases without matching the beat frequency.
@@ -120,37 +120,37 @@ THE BODY MAY FOLLOW THE ARC MORE THAN THE BEAT.
 Not always. Not universally. But strongly enough that the fast Pulse cannot be treated as the default autonomic explanation.
 
 
-5. AMASTACIA MAY CARRY THE SLOW CLOCK
+5. DIDGERIDOO MAY CARRY THE SLOW CLOCK
 
 
-Amastacia is particularly suited to shaping slow temporal structure.
+The didgeridoo is particularly suited to shaping slow temporal structure.
 
 
 Her sustained Drone can change gradually in breath pressure, roughness, spectral emphasis, amplitude envelope, phrase duration, spatial orientation, mechanical coupling, and silence/continuity.
 
 
-These slow changes can occur while Ankora’s BPM remains fixed.
+These slow changes can occur while the drum’s BPM remains fixed.
 
 
-That makes Amastacia scientifically useful as more than “the background.”
+That makes the didgeridoo scientifically useful as more than “the background.”
 
 
 She can provide a controlled way to manipulate the slow clock independently of the fast one.
 
 
-A stable Ankora Pulse over a changing Amastacia envelope creates one experimental condition. A changing Ankora tempo over a stable Amastacia envelope creates another.
+A stable the drum Pulse over a changing the didgeridoo envelope creates one experimental condition. A changing the drum tempo over a stable the didgeridoo envelope creates another.
 
 
 That separation is exactly what KLAAT needs if it wants to know what the body is actually following.
 
 
-6. ANKORA MAY CARRY BOTH CLOCKS
+6. DRUM MAY CARRY BOTH CLOCKS
 
 
-Ankora is not restricted to the fast clock.
+The drum is not restricted to the fast clock.
 
 
-Even at constant BPM, Ankora can create slower structure through changes in onset density, accent grouping, omissions, dynamic arcs, tactile consequence density, crossmodal coherence, and phrase-level entry/withdrawal.
+Even at constant BPM, the drum can create slower structure through changes in onset density, accent grouping, omissions, dynamic arcs, tactile consequence density, crossmodal coherence, and phrase-level entry/withdrawal.
 
 
 Therefore “tempo” and “drum structure” must not be treated as synonyms.
@@ -188,7 +188,7 @@ For ecological KLAAT runs, respiration should not be paced unless paced breathin
 GROUND ANCHOR — ESTABLISH THE SLOW BASELINE
 
 
-Amastacia establishes the acoustic and crossmodal world. Ankora may be absent, sparse, or stable. Measure whether respiration, RR/heart rate, and movement settle into reproducible trajectories without assuming “relaxation.”
+The didgeridoo establishes the acoustic and crossmodal world. The drum may be absent, sparse, or stable. Measure whether respiration, RR/heart rate, and movement settle into reproducible trajectories without assuming “relaxation.”
 
 
 THRESHOLD GATE — TEST THE BOUNDARY RESPONSE
@@ -239,7 +239,7 @@ The newest research also makes the room impossible to ignore.
 Reverberation and echoes can alter perceived rhythmic timing and temporal envelope. A nominal 137 BPM performance in two rooms may not deliver the same effective temporal stimulus.
 
 
-Likewise, room and support mechanics can smear Ankora transients, lengthen tactile decay, and alter crossmodal coherence.
+Likewise, room and support mechanics can smear the drum transients, lengthen tactile decay, and alter crossmodal coherence.
 
 
 Therefore live physiology studies need at least basic room characterization.
@@ -260,14 +260,14 @@ A physiology result without acoustic/mechanical context may be real but mechanis
 Every serious physiology experiment should derive a synchronized feature track containing at minimum:
 
 
-ANKORA ONSET TIMES
+DRUM ONSET TIMES
 INSTANTANEOUS PULSE RATE
 ONSET DENSITY
 CALIBRATED BROADBAND LEVEL / LAeq TRAJECTORY
 LOW-FREQUENCY BAND ENERGY
 SPECTRAL FLUX
 SPECTRAL CENTROID OR OTHER PREDECLARED SPECTRAL DESCRIPTOR
-AMASTACIA ENVELOPE
+DIDGERIDOO ENVELOPE
 FOUR-PHASE BOUNDARIES
 MAJOR PREDICTION / OMISSION EVENTS
 CROSSMODAL EVENT MARKERS WHERE MEASURED
@@ -305,16 +305,16 @@ Room acoustics can alter rhythmic timing/perception, so nominal performer BPM do
 
 
 CONTEXT-DEPENDENT:
-Most existing music-physiology findings use conventional recorded or live music, not Amastacia/Ankora drone-pulse architecture.
+Most existing music-physiology findings use conventional recorded or live music, not the didgeridoo and drum drone-pulse architecture.
 The relative contributions of BPM, loudness envelope, onset density, spectral change, boundary salience, respiration, movement, and reverberation will depend on stimulus and listener.
 Consumer and field sensors vary in timing accuracy, artifact sensitivity, and suitability for beat-to-beat analysis.
 
 
 PLAUSIBLE / TESTABLE:
-KLAAT’s cardiorespiratory changes will be better predicted by slow phrase/envelope/structural-boundary variables than by absolute Ankora BPM alone.
+KLAAT’s cardiorespiratory changes will be better predicted by slow phrase/envelope/structural-boundary variables than by absolute the drum BPM alone.
 Threshold Gate and Return Path will produce reproducible within-listener cardiorespiratory trajectories after controlling major acoustic covariates.
-Amastacia can manipulate slow envelope structure while Ankora BPM remains fixed, allowing KLAAT to separate slow-clock from fast-clock effects.
-A stable ~137 BPM Ankora Pulse can organize attention/movement without forcing respiration or cardiac oscillations to phase-lock at 2.28 Hz.
+The didgeridoo can manipulate slow envelope structure while the drum BPM remains fixed, allowing KLAAT to separate slow-clock from fast-clock effects.
+A stable ~137 BPM the drum Pulse can organize attention/movement without forcing respiration or cardiac oscillations to phase-lock at 2.28 Hz.
 
 
 SPECULATION:
@@ -324,7 +324,7 @@ Return Path may produce a more reproducible cardiorespiratory signature than Ris
 
 UNSUPPORTED:
 137 BPM causes a specific autonomic state.
-A heart-rate change after Ankora accelerates proves cardiac entrainment to the drum.
+A heart-rate change after the drum accelerates proves cardiac entrainment to the drum.
 Increased HF-HRV proves vagus activation.
 LF/HF is a direct sympathetic-versus-parasympathetic balance meter.
 Listeners whose heart rates change together are physiologically coupled to one another.
@@ -380,19 +380,19 @@ DO NOT LET THE MOST VISIBLE CLOCK HIDE THE SLOWER ONE.
 14. KRX-057 — THE TWO-CLOCK TEST
 
 
-Build four matched 6–8 minute KLAAT excerpts around the same Amastacia tonal world.
+Build four matched 6–8 minute KLAAT excerpts around the same the didgeridoo tonal world.
 
 
 A — STABLE FAST CLOCK / FLAT SLOW CLOCK
-Ankora remains near the reference BPM. Keep onset density, amplitude envelope, spectral trajectory, and structural boundaries as flat as practical.
+The drum remains near the reference BPM. Keep onset density, amplitude envelope, spectral trajectory, and structural boundaries as flat as practical.
 
 
 B — STABLE FAST CLOCK / ACTIVE SLOW CLOCK
-Keep Ankora BPM matched to A, but introduce a clear KLAAT-style slow arc through amplitude/onset-density/spectral organization and one predeclared structural boundary.
+Keep the drum BPM matched to A, but introduce a clear KLAAT-style slow arc through amplitude/onset-density/spectral organization and one predeclared structural boundary.
 
 
 C — CHANGING FAST CLOCK / MATCHED SLOW CLOCK
-Alter Ankora BPM while matching the broad amplitude envelope, onset density, and spectral trajectory to A or B as closely as practical.
+Alter the drum BPM while matching the broad amplitude envelope, onset density, and spectral trajectory to A or B as closely as practical.
 
 
 D — BOUNDARY WITHOUT BPM CHANGE
@@ -434,7 +434,7 @@ The critical result is not “heart rate changed during KLAAT.”
 The critical result is WHICH CLOCK explains the change.
 
 
-If BPM retains a unique effect after covariate control, Ankora tempo earns a stronger mechanistic role.
+If BPM retains a unique effect after covariate control, the drum tempo earns a stronger mechanistic role.
 
 
 If phrase/envelope/boundary predictors dominate while BPM contributes little, KLAAT should shift its physiological model toward slow structural organization.

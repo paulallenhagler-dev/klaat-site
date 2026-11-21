@@ -2,7 +2,7 @@ KLAAT Resonance Research — Session 62
 THE FREQUENCY GATE: Whole-Body Motion, Cutaneous Vibration, and Why KLAAT Needs Two Somatic Regimes
 
 
-Session 61 ended with a methodological warning: much of the strongest whole-body-vibration literature used in Sessions 60–61 concentrates on low frequencies, while Amastacia and Ankora can plausibly deliver mechanically relevant energy well above that range. The next task is therefore not to import another model. It is to determine which somatic model is valid at which frequencies.
+Session 61 ended with a methodological warning: much of the strongest whole-body-vibration literature used in Sessions 60–61 concentrates on low frequencies, while the didgeridoo and drum can plausibly deliver mechanically relevant energy well above that range. The next task is therefore not to import another model. It is to determine which somatic model is valid at which frequencies.
 
 
 KLAAT currently risks using one word — “vibration” — for mechanically and perceptually different regimes.
@@ -92,19 +92,19 @@ The perceptual system does not provide a clean “Meissner below X / Pacinian ab
 For KLAAT, mechanoreceptor language is explanatory context — not a compositional frequency chart.
 
 
-4. AMASTACIA’S C# IS NOT HER SOMATIC FREQUENCY
+4. DIDGERIDOO’S C# IS NOT HER SOMATIC FREQUENCY
 
 
 This distinction is now mandatory.
 
 
-Amastacia’s named musical pitch does not tell us the mechanical spectrum arriving at the listener’s feet, seat, back, floor, or chair.
+The didgeridoo’s named musical pitch does not tell us the mechanical spectrum arriving at the listener’s feet, seat, back, floor, or chair.
 
 
 The route is:
 
 
-AMASTACIA SOURCE SPECTRUM → AIR / STRUCTURE COUPLING → VENUE FILTERING → SUPPORT FILTERING → LOADED BODY/INTERFACE FILTERING → PERCEPTIBLE MECHANICAL SPECTRUM.
+DIDGERIDOO SOURCE SPECTRUM → AIR / STRUCTURE COUPLING → VENUE FILTERING → SUPPORT FILTERING → LOADED BODY/INTERFACE FILTERING → PERCEPTIBLE MECHANICAL SPECTRUM.
 
 
 Her fundamental may dominate one location while harmonics or structural resonances dominate another.
@@ -119,10 +119,10 @@ The correct KLAAT object is not nominal pitch.
 It is the measured INTERFACE SPECTRUM.
 
 
-5. ANKORA’S 137 BPM IS NOT HER TACTILE CARRIER FREQUENCY
+5. DRUM’S 137 BPM IS NOT HER TACTILE CARRIER FREQUENCY
 
 
-The same separation applies even more strongly to Ankora.
+The same separation applies even more strongly to the drum.
 
 
 Approximately 137 BPM is about 2.28 strikes per second at the event level.
@@ -134,7 +134,7 @@ That is a rhythmic repetition rate.
 It is not the same thing as the mechanical frequency content inside each strike.
 
 
-Every Ankora impact contains a broadband transient with energy across a much wider frequency range. The support and listener interface then filter that transient.
+Every the drum impact contains a broadband transient with energy across a much wider frequency range. The support and listener interface then filter that transient.
 
 
 So KLAAT must keep three variables separate:
@@ -196,7 +196,7 @@ KLAAT may be most distinctive when the listener receives multiple somatic scales
 
 slow or low-frequency movement of the support/body system;
 plus
-faster local vibrotactile texture from Amastacia harmonics or Ankora transients.
+faster local vibrotactile texture from the didgeridoo harmonics or the drum transients.
 
 
 That would create a nested somatic structure analogous to the Two-Clock musical model.
@@ -205,7 +205,7 @@ That would create a nested somatic structure analogous to the Two-Clock musical 
 A slow bodily Field could coexist with a faster tactile surface.
 
 
-Amastacia might provide sustained mechanical texture while Ankora punctuates it with transient tactile articulation.
+The didgeridoo might provide sustained mechanical texture while the drum punctuates it with transient tactile articulation.
 
 
 But this cannot be inferred from the instruments alone.
@@ -220,7 +220,7 @@ It has to appear in the measured listener-interface spectrum.
 Ground Anchor becomes the ideal diagnostic phase.
 
 
-Amastacia alone allows KLAAT to measure what actually reaches the listener without Ankora’s transient broadband events complicating the spectrum.
+The didgeridoo alone allows KLAAT to measure what actually reaches the listener without the drum’s transient broadband events complicating the spectrum.
 
 
 For each interface, ask:
@@ -247,7 +247,7 @@ Ground Anchor can therefore establish not only the acoustic Field but the SOMATI
 Threshold Gate becomes especially interesting if the somatic spectrum changes category without a large increase in total energy.
 
 
-For example, Ankora’s entrance might introduce sharper higher-frequency interface transients on top of a lower-frequency Amastacia Field.
+For example, the drum’s entrance might introduce sharper higher-frequency interface transients on top of a lower-frequency the didgeridoo Field.
 
 
 The listener may experience a dramatic increase in bodily articulation even if total RMS acceleration changes modestly.
@@ -271,7 +271,7 @@ It is a change in what kind of vibration is perceptually available.
 Rising Pulse is where confusion is most likely.
 
 
-As Ankora density increases, three things can change independently:
+As the drum density increases, three things can change independently:
 
 
 how often impacts occur;
@@ -297,7 +297,7 @@ The change may be temporal occupancy.
 Return Path provides a clean decomposition test.
 
 
-When Ankora withdraws, higher-frequency transient tactile content may disappear rapidly while Amastacia’s sustained lower-frequency or harmonic mechanical Field remains.
+When the drum withdraws, higher-frequency transient tactile content may disappear rapidly while the didgeridoo’s sustained lower-frequency or harmonic mechanical Field remains.
 
 
 Or the actual interface measurements may show something different.
@@ -309,7 +309,7 @@ The question becomes:
 WHAT SOMATIC INFORMATION SURVIVES THE RETURN?
 
 
-That surviving layer may help explain why the post-Ankora state feels different from the opening Ground Anchor even if Amastacia is nominally similar: adaptation, prediction, posture, and room/body state have changed.
+That surviving layer may help explain why the post-the drum state feels different from the opening Ground Anchor even if the didgeridoo is nominally similar: adaptation, prediction, posture, and room/body state have changed.
 
 
 12. BODY SITE IS PART OF THE FREQUENCY GATE
@@ -443,10 +443,10 @@ Vestibular contribution depends on actual head motion, not on the word “low-fr
 18. PLAUSIBLE / TESTABLE KLAAT HYPOTHESES
 
 
-Amastacia and Ankora produce measurably different listener-interface spectral profiles even when their airborne levels are matched approximately.
+the didgeridoo and drum produce measurably different listener-interface spectral profiles even when their airborne levels are matched approximately.
 
 
-Ground Anchor will contain a more sustained somatic spectrum, while Ankora will add transient higher-frequency tactile information during Threshold Gate and Rising Pulse.
+Ground Anchor will contain a more sustained somatic spectrum, while the drum will add transient higher-frequency tactile information during Threshold Gate and Rising Pulse.
 
 
 Listener ratings of bodily impact will be predicted better by frequency-resolved sensation-level metrics than by broadband RMS acceleration alone.
@@ -467,7 +467,7 @@ At realistic KLAAT levels, some occupational whole-body interaction terms may be
 The most distinctive KLAAT bodily state may arise from nested somatic scales: a slow occupied-support Field plus a faster cutaneous texture.
 
 
-Amastacia may eventually be optimized for sustained somatic continuity while Ankora is optimized for transient tactile articulation.
+The didgeridoo may eventually be optimized for sustained somatic continuity while the drum is optimized for transient tactile articulation.
 
 
 The four-phase architecture may be partly describable as a controlled migration between FIELD-dominant and EVENT-dominant somatic regimes.
@@ -491,10 +491,10 @@ All vibration below 20 Hz is vestibular.
 All vibration above 40 or 60 Hz is Pacinian.
 
 
-Amastacia’s musical C# equals the vibration frequency experienced by the body.
+The didgeridoo’s musical C# equals the vibration frequency experienced by the body.
 
 
-Ankora’s ~137 BPM is the tactile carrier frequency of a drum strike.
+The drum’s ~137 BPM is the tactile carrier frequency of a drum strike.
 
 
 A higher-frequency tactile component is inherently more activating.
@@ -520,8 +520,8 @@ Before invoking a somatic mechanism, preserve:
 
 RAW TRI-AXIAL INTERFACE TIME SERIES;
 FREQUENCY-RESOLVED SPECTRUM;
-EVENT-LOCKED SPECTRUM FOR ANKORA;
-SUSTAINED SPECTRUM FOR AMASTACIA;
+EVENT-LOCKED SPECTRUM FOR DRUM;
+SUSTAINED SPECTRUM FOR DIDGERIDOO;
 BODY SITE / INTERFACE;
 CONTACT AREA / FORCE WHERE PRACTICAL;
 POSTURE AND LOADING;
@@ -567,8 +567,8 @@ This session also formalizes the artistic boundary clarified after Session 60.
 Core KLAAT remains:
 
 
-AMASTACIA;
-ANKORA;
+DIDGERIDOO;
+DRUM;
 BREATH;
 SILENCE;
 REPETITION;
@@ -583,7 +583,7 @@ Accelerometers, shakers, tactors, test chairs, calibrated probes, and artificial
 They do not become KLAAT merely because they reveal an interesting mechanism.
 
 
-A laboratory finding enters the CORE COMPOSITION GRAMMAR only when it can be translated back into a playable or performable variable of Amastacia, Ankora, breath, silence, repetition, duration, room, or body.
+A laboratory finding enters the CORE COMPOSITION GRAMMAR only when it can be translated back into a playable or performable variable of the didgeridoo, the drum, breath, silence, repetition, duration, room, or body.
 
 
 That rule prevents the scientific program from quietly turning KLAAT into an electronic haptics installation.
@@ -601,9 +601,9 @@ STAGE 1 — RECORD THE SOURCES
 Record three repeatable conditions:
 
 
-AMASTACIA ONLY;
-ANKORA ONLY;
-AMASTACIA + ANKORA.
+DIDGERIDOO ONLY;
+DRUM ONLY;
+DIDGERIDOO + DRUM.
 
 
 Preserve calibrated airborne audio and synchronized tri-axial acceleration at the occupied seat, feet, and back interfaces that are realistically available.
@@ -612,13 +612,13 @@ Preserve calibrated airborne audio and synchronized tri-axial acceleration at th
 STAGE 2 — SEPARATE EVENT AND FIELD ANALYSIS
 
 
-For Amastacia, compute sustained spectra and slow envelope statistics.
+For the didgeridoo, compute sustained spectra and slow envelope statistics.
 
 
-For Ankora, compute event-locked spectra around individual strikes plus attack/decay envelopes.
+For the drum, compute event-locked spectra around individual strikes plus attack/decay envelopes.
 
 
-Do not infer Ankora’s mechanical spectrum from BPM.
+Do not infer the drum’s mechanical spectrum from BPM.
 
 
 STAGE 3 — FREQUENCY-BAND DESCRIPTION
@@ -699,7 +699,7 @@ Until KRX-062 answers that, KLAAT should treat all detailed frequency-specific b
 RECOMMENDED NEXT DIRECTION
 
 
-If KRX-062 reveals meaningful energy spanning both low biodynamic and higher cutaneous bands, the next synthesis should build TACTILE ORCHESTRATION v0.1 around measured variables rather than imagined ones: FIELD versus EVENT, spectrum, envelope, duty cycle, masking, adaptation, contact geometry, and negative space — all translated back into Amastacia and Ankora performance decisions.
+If KRX-062 reveals meaningful energy spanning both low biodynamic and higher cutaneous bands, the next synthesis should build TACTILE ORCHESTRATION v0.1 around measured variables rather than imagined ones: FIELD versus EVENT, spectrum, envelope, duty cycle, masking, adaptation, contact geometry, and negative space — all translated back into the didgeridoo and drum performance decisions.
 
 
 If the real KLAAT mechanical spectrum is dominated by only one regime, simplify aggressively and abandon mechanisms that the instrument does not actually excite.

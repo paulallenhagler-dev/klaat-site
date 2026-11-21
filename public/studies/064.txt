@@ -1,8 +1,8 @@
 KLAAT Resonance Research — Session 64 THE CLOCK AND THE WOUND: A Core
-Temporal Grammar for Amastacia and Ankora
+Temporal Grammar for the didgeridoo and drum
 
 
-Session 63 introduced Listener Temporal Baseline and showed why Ankora’s
+Session 63 introduced Listener Temporal Baseline and showed why the drum’s
 ~137 BPM reference cannot be treated as a universal human tempo. The
 strongest unresolved synthesis now sits one level above tempo: KLAAT
 needs a temporal grammar that explains how a two-instrument system can
@@ -13,7 +13,7 @@ augmentation.
 
 This is not a proposal to let research compose KLAAT by formula. It is a
 constrained model for testing what the existing instruments already do:
-Amastacia establishes duration and spectral continuity; Ankora
+The didgeridoo establishes duration and spectral continuity; the drum
 establishes discrete temporal events; breath limits and shapes phrase;
 silence removes expected events; repetition teaches a rule; variation
 changes that rule; the room and body determine how those changes are
@@ -49,7 +49,7 @@ remove layers while allowing the listener’s prediction to continue
 briefly without them.
 
 
-These operations can all be performed with Amastacia, Ankora, breath,
+These operations can all be performed with the didgeridoo, the drum, breath,
 silence, repetition, duration, room, and body.
 
 
@@ -59,7 +59,7 @@ No added instrument is required.
 2.  A CLOCK IS NOT JUST BPM
 
 
-Session 63 separated Ankora’s nominal tempo from the listener’s own
+Session 63 separated the drum’s nominal tempo from the listener’s own
 timing tendencies. Session 64 adds another distinction.
 
 
@@ -76,7 +76,7 @@ storing a chain of absolute durations. Predictable rhythmic structure
 supports sensorimotor synchronization and temporal anticipation.
 
 
-Therefore Ankora’s ~137 BPM is best understood as a candidate CLOCK
+Therefore the drum’s ~137 BPM is best understood as a candidate CLOCK
 CARRIER.
 
 
@@ -184,9 +184,9 @@ larger temporal body remains intact.
 Examples include:
 
 
-one omitted Ankora strike; one delayed attack; one unexpectedly empty
+one omitted the drum strike; one delayed attack; one unexpectedly empty
 subdivision; one accent shifted away from its learned location; one
-Amastacia withdrawal immediately before an expected strike; one breath
+The didgeridoo withdrawal immediately before an expected strike; one breath
 break that exposes the clock instead of erasing it.
 
 
@@ -237,10 +237,10 @@ KLAAT’s useful region may be neither perfect regularity nor chaos.
 It may be CONTROLLED INSTABILITY around a legible scaffold.
 
 
-7.  AMASTACIA IS NOT “THE PART WITHOUT RHYTHM”
+7.  DIDGERIDOO IS NOT “THE PART WITHOUT RHYTHM”
 
 
-Amastacia does not need to strike beats to participate in temporal
+The didgeridoo does not need to strike beats to participate in temporal
 grammar.
 
 
@@ -249,14 +249,14 @@ articulations, circular-breath transitions, roughness, and withdrawals
 all create temporal information.
 
 
-The important distinction is that Amastacia usually produces CONTINUOUS
-TIME rather than Ankora’s DISCRETE TIME.
+The important distinction is that the didgeridoo usually produces CONTINUOUS
+TIME rather than the drum’s DISCRETE TIME.
 
 
 This gives the instruments complementary temporal roles:
 
 
-AMASTACIA — DURATION, CONTINUITY, PHRASE, FIELD. ANKORA — EVENT, PERIOD,
+DIDGERIDOO — DURATION, CONTINUITY, PHRASE, FIELD. DRUM — EVENT, PERIOD,
 ACCENT, CLOCK.
 
 
@@ -282,7 +282,7 @@ pressure and embouchure; fatigue and recovery; intentional openings and
 contractions.
 
 
-KLAAT should not pretend Amastacia is an infinite electronic oscillator.
+KLAAT should not pretend the didgeridoo is an infinite electronic oscillator.
 
 
 Her living temporal irregularity may be part of why the Field remains
@@ -300,11 +300,11 @@ imperfections.
 Ground Anchor should not be temporally empty.
 
 
-Its job is to establish the temporal ecology before Ankora imposes a
+Its job is to establish the temporal ecology before the drum imposes a
 clock.
 
 
-Amastacia can establish:
+The didgeridoo can establish:
 
 
 continuity; breath-scale recurrence; slow spectral cycles; room decay;
@@ -314,7 +314,7 @@ expectation of persistence.
 The listener learns that the Field continues.
 
 
-This matters because Threshold Gate becomes stronger if Ankora does not
+This matters because Threshold Gate becomes stronger if the drum does not
 merely add sound but changes the KIND OF TIME available.
 
 
@@ -333,7 +333,7 @@ CONTINUOUS TIME WITHOUT A DISCRETE EXTERNAL CLOCK.
 10. THRESHOLD GATE — THE MOMENT TIME BECOMES COUNTABLE
 
 
-When Ankora enters clearly enough for a recurring period to become
+When the drum enters clearly enough for a recurring period to become
 inferable, KLAAT crosses a genuine organizational threshold.
 
 
@@ -356,7 +356,7 @@ emergence of a learnable temporal rule, not simply by instrumentation.
 This suggests a measurable distinction:
 
 
-ANKORA ONSET — first strike. CLOCK ACQUISITION — point at which
+DRUM ONSET — first strike. CLOCK ACQUISITION — point at which
 listeners can predict or continue the pulse above chance/reliably.
 PERCEIVED GATE — point at which the passage feels structurally
 transformed.
@@ -371,7 +371,7 @@ Those three points may not coincide.
 Rising Pulse is where the temporal grammar earns its value.
 
 
-Instead of treating escalation as “play faster,” Ankora can orbit a
+Instead of treating escalation as “play faster,” the drum can orbit a
 stable scaffold through:
 
 
@@ -393,14 +393,14 @@ I KNOW WHERE I AM. I DO NOT KNOW EXACTLY WHAT WILL HAPPEN THERE.
 That may be a far more powerful KLAAT state than simple speed.
 
 
-12. AMASTACIA CAN CONTROL ANKORA WITHOUT TOUCHING THE CLOCK
+12. DIDGERIDOO CAN CONTROL DRUM WITHOUT TOUCHING THE CLOCK
 
 
 Session 52’s Tactile Negative Space and Session 56’s Crossmodal Causal
 Coherence now translate directly into core composition.
 
 
-Amastacia can alter how Ankora lands without changing Ankora’s BPM.
+The didgeridoo can alter how the drum lands without changing the drum’s BPM.
 
 
 A slight pre-strike withdrawal can create auditory and potentially
@@ -410,7 +410,7 @@ tactile space.
 A spectral opening can make a strike feel fused with the Drone.
 
 
-A rougher Field can make Ankora feel embedded rather than isolated.
+A rougher Field can make the drum feel embedded rather than isolated.
 
 
 A brief thinning can expose the Pulse.
@@ -419,7 +419,7 @@ A brief thinning can expose the Pulse.
 This creates a core-KLAAT operation:
 
 
-FIELD GATING — changing the perceptual context around an Ankora event
+FIELD GATING — changing the perceptual context around an the drum event
 while leaving the event’s nominal timing intact.
 
 
@@ -473,13 +473,13 @@ A more informative temporal decomposition is:
 
 remove high subdivisions; remove displaced accents; remove syncopation;
 restore the simple scaffold; allow the scaffold to repeat plainly;
-remove Ankora; leave Amastacia; leave silence.
+remove the drum; leave the didgeridoo; leave silence.
 
 
 This lets the listener hear the architecture being stripped down.
 
 
-It also creates a continuation test: after Ankora disappears, does the
+It also creates a continuation test: after the drum disappears, does the
 body or mind continue the expected clock?
 
 
@@ -562,7 +562,7 @@ CONTEXT-DEPENDENT — An inverted-U result does not provide a universal
 
 
 CONTEXT-DEPENDENT — Omission responses in laboratory paradigms do not
-establish that a missing Ankora strike will be subjectively powerful in
+establish that a missing the drum strike will be subjectively powerful in
 every live performance.
 
 
@@ -570,8 +570,8 @@ CONTEXT-DEPENDENT — A stable nominal BPM does not guarantee that every
 listener perceives the same metrical level.
 
 
-CONTEXT-DEPENDENT — Amastacia’s continuous Field may strengthen, weaken,
-or reorganize Ankora’s perceived clock depending on spectrum, level,
+CONTEXT-DEPENDENT — the didgeridoo’s continuous Field may strengthen, weaken,
+or reorganize the drum’s perceived clock depending on spectrum, level,
 masking, room, and listener state.
 
 
@@ -584,7 +584,7 @@ phase locking in some experiments.
 
 
 PLAUSIBLE / TESTABLE — KLAAT can increase activation and bodily impact
-by increasing surface complexity around a stable Ankora scaffold without
+by increasing surface complexity around a stable the drum scaffold without
 increasing underlying BPM.
 
 
@@ -595,17 +595,17 @@ than the same omission introduced before the clock is established.
 
 PLAUSIBLE / TESTABLE — Intermediate controlled instability will preserve
 more movement/pulse clarity than either strict repetition or highly
-unpredictable Ankora patterns.
+unpredictable the drum patterns.
 
 
-PLAUSIBLE / TESTABLE — Amastacia Field Gating immediately before
-selected Ankora events will increase event salience without requiring a
+PLAUSIBLE / TESTABLE — the didgeridoo Field Gating immediately before
+selected the drum events will increase event salience without requiring a
 louder strike.
 
 
 PLAUSIBLE / TESTABLE — Threshold Gate strength will correlate more
 strongly with clock acquisition than with the literal first appearance
-of Ankora.
+of the drum.
 
 
 PLAUSIBLE / TESTABLE — Return Path will remain structurally legible when
@@ -613,7 +613,7 @@ surface complexity is removed before the underlying scaffold.
 
 
 PLAUSIBLE / TESTABLE — Listeners will continue or internally anticipate
-the Ankora scaffold briefly after the drum stops, with individual
+The drum scaffold briefly after the drum stops, with individual
 continuation periods partly moderated by the Listener Temporal Baseline
 from Session 63.
 
@@ -630,8 +630,8 @@ SPECULATION — One strategically earned missing beat may create more
 activation than another layer of speed or volume.
 
 
-SPECULATION — Amastacia may function as a continuous temporal body while
-Ankora creates wounds, scars, and reorganizations in that body.
+SPECULATION — the didgeridoo may function as a continuous temporal body while
+The drum creates wounds, scars, and reorganizations in that body.
 
 
 SPECULATION — Return Path may become more powerful when it restores the
@@ -682,9 +682,9 @@ formula.
 For temporal experiments and annotated performances, preserve:
 
 
-MEASURED ANKORA EVENT TIMES INFERRED / INTENDED SCAFFOLD PERIOD SURFACE
+MEASURED DRUM EVENT TIMES INFERRED / INTENDED SCAFFOLD PERIOD SURFACE
 EVENT DENSITY SUBDIVISION LEVEL ACCENT LOCATION OMISSIONS DELAYED EVENTS
-PHRASE LENGTH AMASTACIA ENVELOPE AROUND KEY STRIKES AMASTACIA BREATH /
+PHRASE LENGTH DIDGERIDOO ENVELOPE AROUND KEY STRIKES DIDGERIDOO BREATH /
 SPECTRAL STATE SILENCE TYPE — structural / predictive / residual
 CLOCK-ACQUISITION ESTIMATE LISTENER METRIC LEVEL WHEN MEASURED MOVEMENT
 / TAPPING RELATION WHEN MEASURED PULSE CLARITY PREDICTABILITY SURPRISE
@@ -721,11 +721,11 @@ SILENCE MUST BE CLASSIFIED BY WHAT THE LISTENER HAD REASON TO EXPECT.
 This grammar is intentionally restricted to the original KLAAT system.
 
 
-AMASTACIA supplies Field, duration, breath, spectral motion, and
+DIDGERIDOO supplies Field, duration, breath, spectral motion, and
 withdrawal.
 
 
-ANKORA supplies Event, clock, accent, density, omission, and return.
+DRUM supplies Event, clock, accent, density, omission, and return.
 
 
 BREATH shapes phrase.
@@ -750,24 +750,23 @@ response.
 AI can analyze or propose experimental realizations of this grammar, but
 an AI-generated performance is not evidence that the grammar works
 artistically, and it is not canonical KLAAT. The grammar only becomes
-musically real when it survives human performance with Amastacia and
-Ankora.
+musically real when it survives human performance with the didgeridoo and drum.
 
 
 23. KRX-064 — THE SCAFFOLD / WOUND TEST
 
 
-Use one short Amastacia + Ankora passage performed live or from a
+Use one short the didgeridoo and drum passage performed live or from a
 tightly controlled recording.
 
 
-Keep Ankora’s underlying BPM fixed throughout.
+Keep the drum’s underlying BPM fixed throughout.
 
 
 Build four conditions from the same core material:
 
 
-A — LOW UNCERTAINTY Amastacia Field + simple repeated Ankora scaffold
+A — LOW UNCERTAINTY the didgeridoo Field + simple repeated the drum scaffold
 with minimal surface variation.
 
 
@@ -785,12 +784,12 @@ that the scaffold becomes difficult to infer, while keeping overall
 event count and level as comparable as practical.
 
 
-For a second block, add an Amastacia Field-Gating manipulation around
+For a second block, add an the didgeridoo Field-Gating manipulation around
 the earned wound:
 
 
-C1 — continuous Amastacia; C2 — brief Amastacia thinning immediately
-before the expected Ankora event; C3 — control thinning at a
+C1 — continuous the didgeridoo; C2 — brief the didgeridoo thinning immediately
+before the expected the drum event; C3 — control thinning at a
 non-critical temporal location.
 
 
@@ -808,7 +807,7 @@ metrical level rather than forcing 1:1 tapping.
 The decisive questions are:
 
 
-DOES THE SAME MISSING OR DISPLACED ANKORA EVENT BECOME MORE POWERFUL
+DOES THE SAME MISSING OR DISPLACED DRUM EVENT BECOME MORE POWERFUL
 AFTER THE SCAFFOLD HAS BEEN LEARNED?
 
 
@@ -816,8 +815,8 @@ DOES TOO MUCH VIOLATION REDUCE PULSE CLARITY OR MOVEMENT EVEN WHEN EVENT
 DENSITY REMAINS HIGH?
 
 
-CAN AMASTACIA CREATE MORE SPACE AROUND THE CRITICAL ANKORA EVENT WITHOUT
-INCREASING ANKORA LEVEL?
+CAN DIDGERIDOO CREATE MORE SPACE AROUND THE CRITICAL DRUM EVENT WITHOUT
+INCREASING DRUM LEVEL?
 
 
 CAN RISING PULSE FEEL MORE INTENSE WHILE THE UNDERLYING CLOCK REMAINS

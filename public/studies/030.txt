@@ -6,7 +6,7 @@ Core lesson
 The first milliseconds of a sound carry strong information about identity, timing, and impact. Attack and decay shape how precisely an event is localized in time and how urgent it feels.
 
 
-At the same BPM and approximate loudness, rounded Ankora attacks can feel softer and less time-locked than sharp attacks.
+At the same BPM and approximate loudness, rounded the drum attacks can feel softer and less time-locked than sharp attacks.
 
 
 Evidence boundary
@@ -14,4 +14,4 @@ Established: transient structure strongly influences timbre and temporal percept
 
 
 KLAAT test
-Hold Ankora near 135–140 BPM and alternate rounded, normal, and sharp attacks. Collect ratings for urgency, perceived speed, physical impact, precision, activation, and loudness.
+Hold the drum near 135–140 BPM and alternate rounded, normal, and sharp attacks. Collect ratings for urgency, perceived speed, physical impact, precision, activation, and loudness.

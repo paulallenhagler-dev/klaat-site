@@ -1,6 +1,6 @@
 KLAAT RESONANCE RESEARCH — SESSION 104
 THE PATTERN THAT FINDS ITS WAY BACK
-How to recognize spontaneous recurrence in Amastacia and Ankora without inventing a score
+How to recognize spontaneous recurrence in the didgeridoo and drum without inventing a score
 Published: October 20, 2026 — 08:12 CDT
 
 
@@ -8,13 +8,13 @@ GUIDING PRINCIPLE: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 
 
 RESEARCH STATUS
-This is a critical synthesis of primary research in audio-structure analysis, musical pattern representation, and human annotation. No new KLAAT recording has been analyzed; no listener has been tested; no neural, physiological, trance, or therapeutic outcome has been measured. All numerical findings below describe the cited outside datasets, not Amastacia or Ankora. The purpose is to make spontaneous recurrence observable without turning it into a compositional rule.
+This is a critical synthesis of primary research in audio-structure analysis, musical pattern representation, and human annotation. No new KLAAT recording has been analyzed; no listener has been tested; no neural, physiological, trance, or therapeutic outcome has been measured. All numerical findings below describe the cited outside datasets, not the didgeridoo or the drum. The purpose is to make spontaneous recurrence observable without turning it into a compositional rule.
 
 
 CENTRAL QUESTION
 
 
-When Paul plays an extended improvised KLAAT passage, something may return. It might not be the same sequence of drum hits. It might be a familiar density of Ankora attacks, a certain pressure and rasp in Amastacia, a breath gesture, or the way a handful of strikes seem to lean against a sustained tone. Perhaps the return happens ten minutes later, at a different speed, with different accents and a different room sound. Paul did not plan it; he may not notice it until listening afterward.
+When Paul plays an extended improvised KLAAT passage, something may return. It might not be the same sequence of drum hits. It might be a familiar density of the drum attacks, a certain pressure and rasp in the didgeridoo, a breath gesture, or the way a handful of strikes seem to lean against a sustained tone. Perhaps the return happens ten minutes later, at a different speed, with different accents and a different room sound. Paul did not plan it; he may not notice it until listening afterward.
 
 
 Is it meaningful to call that a recurring musical idea? What would count as evidence? And how do we prevent software from calling every persistent C# drone a repeated motif simply because the drone is present almost everywhere?
@@ -35,10 +35,10 @@ None of those is a dedicated study of LONG-RANGE WITHIN-TAKE RECURRENCE: whether
 2. FIVE THINGS THAT CAN LOOK LIKE REPETITION
 
 
-First, there is SOURCE PERSISTENCE. Amastacia may remain present for minutes. A spectrogram can show similar low-frequency energy from one minute to the next. That does not mean Paul has repeated a phrase. It may mean only that the instrument's drone has not stopped.
+First, there is SOURCE PERSISTENCE. The didgeridoo may remain present for minutes. A spectrogram can show similar low-frequency energy from one minute to the next. That does not mean Paul has repeated a phrase. It may mean only that the instrument's drone has not stopped.
 
 
-Second, there is EVENT RECURRENCE. Ankora may produce repeated attacks with similar intervals or force. These events can be acoustically alike without constituting a recognizable multi-event figure.
+Second, there is EVENT RECURRENCE. The drum may produce repeated attacks with similar intervals or force. These events can be acoustically alike without constituting a recognizable multi-event figure.
 
 
 Third, there is GESTURAL RECURRENCE. A rasp followed by a rounded overtone and a denser drum figure may return in an altered form. The order or contour may matter more than the absolute pitch, loudness, or duration.
@@ -80,28 +80,28 @@ They evaluated the method on 174 Beatles tracks and 735 SALAMI tracks. Their aut
 Those figures are NOT KLAAT predictions. F-measure depends on annotation convention, allowed boundary tolerance, repertoire, feature extraction, and the selected evaluation target. The underlying tracks include song structures, tonal changes, and sections that often have verse/chorus-like functions. KLAAT's continuous drone and improvised frame drum may violate several assumptions at once.
 
 
-One particularly important assumption is BEAT-SYNCHRONOUS ANALYSIS. McFee and Ellis's implementation aggregated features between detected beats. For conventional songs that can be useful. For a KLAAT passage in which Ankora stops, re-enters, accelerates locally, or supports several plausible metrical levels, a beat tracker may invent an unstable grid. If the feature windows depend on a false beat track, the recurrence map can inherit that error. The scientifically appropriate response is not to force Paul to play a clearer beat. It is to compare beat-synchronous results with clock-time windows and event-based descriptions.
+One particularly important assumption is BEAT-SYNCHRONOUS ANALYSIS. McFee and Ellis's implementation aggregated features between detected beats. For conventional songs that can be useful. For a KLAAT passage in which the drum stops, re-enters, accelerates locally, or supports several plausible metrical levels, a beat tracker may invent an unstable grid. If the feature windows depend on a false beat track, the recurrence map can inherit that error. The scientifically appropriate response is not to force Paul to play a clearer beat. It is to compare beat-synchronous results with clock-time windows and event-based descriptions.
 
 
 5. WHY ONE FEATURE FAMILY IS NOT ENOUGH
 
 
-A harmonic or chroma-like representation emphasizes pitch-class relationships. That is useful for music with chord changes. But Amastacia's nominal C# drone may make many unrelated KLAAT passages look harmonically identical. A feature that says 'still C#' cannot, by itself, distinguish a dry open drone from a rough, vocal-tract-shaped passage with Ankora's fast attacks underneath.
+A harmonic or chroma-like representation emphasizes pitch-class relationships. That is useful for music with chord changes. But the didgeridoo's nominal C# drone may make many unrelated KLAAT passages look harmonically identical. A feature that says 'still C#' cannot, by itself, distinguish a dry open drone from a rough, vocal-tract-shaped passage with the drum's fast attacks underneath.
 
 
 A timbral representation emphasizes spectral envelope and texture. It might detect returning breath color or a particular cluster of drum strikes. But it can also be fooled by a microphone moving, a changing room reflection, or a level-dependent playback effect. An onset-density representation may identify sparse-to-dense transitions but ignore the characteristic sound of the instruments. A pitch estimator can make octave errors; a transient detector can miss soft hand strokes or double-count noisy attacks.
 
 
-Tralie and McFee (2019) tested a feature-fusion method for hierarchical music structure analysis. Their approach combined multiple time-series representations into a fused similarity network and reported better agreement with human structural annotations under their hierarchical L-measure evaluation than their compared pipeline. The significance for KLAAT is conceptual: a returning musical configuration can be represented across timbre, harmony, and rhythm rather than being reduced to one of them. The result does NOT establish which representation best captures a two-instrument, nonharmonically developing KLAAT improvisation. The model was not validated on Amastacia, Ankora, or a KLAAT listener panel.
+Tralie and McFee (2019) tested a feature-fusion method for hierarchical music structure analysis. Their approach combined multiple time-series representations into a fused similarity network and reported better agreement with human structural annotations under their hierarchical L-measure evaluation than their compared pipeline. The significance for KLAAT is conceptual: a returning musical configuration can be represented across timbre, harmony, and rhythm rather than being reduced to one of them. The result does NOT establish which representation best captures a two-instrument, nonharmonically developing KLAAT improvisation. The model was not validated on the didgeridoo, the drum, or a KLAAT listener panel.
 
 
-For KLAAT, a reasonable future analysis would retain several separate maps before attempting any fusion: (a) Amastacia's evolving harmonic-envelope and noise texture, (b) Ankora's attack times and envelope characteristics, and (c) the combined recording's broader energy/texture contour. If separate stems are unavailable, source attribution must remain tentative. The aim is to ask whether different feature families agree, not to manufacture a single authoritative diagram.
+For KLAAT, a reasonable future analysis would retain several separate maps before attempting any fusion: (a) the didgeridoo's evolving harmonic-envelope and noise texture, (b) the drum's attack times and envelope characteristics, and (c) the combined recording's broader energy/texture contour. If separate stems are unavailable, source attribution must remain tentative. The aim is to ask whether different feature families agree, not to manufacture a single authoritative diagram.
 
 
 6. THE REPEATED C# TRAP
 
 
-Consider a hypothetical 25-minute KLAAT recording in which Amastacia plays continuously. Suppose a similarity algorithm uses short-time spectral energy concentrated near the drone's strongest harmonics. It might mark the entire performance as one repeating region. In one narrow sense the program is correct: the spectrum contains persistent components. But the map has failed to discriminate what makes the performance interesting.
+Consider a hypothetical 25-minute KLAAT recording in which the didgeridoo plays continuously. Suppose a similarity algorithm uses short-time spectral energy concentrated near the drone's strongest harmonics. It might mark the entire performance as one repeating region. In one narrow sense the program is correct: the spectrum contains persistent components. But the map has failed to discriminate what makes the performance interesting.
 
 
 Now imagine another algorithm looking only at drum attacks. It finds two stretches with similar average attack rate, perhaps six minutes apart. Yet in one stretch the strikes form a three-plus-two grouping and in the other they are evenly spaced. The same event count is not the same pattern.
@@ -143,7 +143,7 @@ In Paul's practice, the freedom to let the next sound emerge remains primary. If
 9. WHAT A KLAAT-SPECIFIC TEST COULD MEASURE
 
 
-A future study would begin with an actual, unedited KLAAT take. It should retain the original stereo master, recording chain information, playback level, and, if they already exist, isolated Amastacia and Ankora tracks. It should not require Paul to repeat a phrase on command.
+A future study would begin with an actual, unedited KLAAT take. It should retain the original stereo master, recording chain information, playback level, and, if they already exist, isolated the didgeridoo and drum tracks. It should not require Paul to repeat a phrase on command.
 
 
 The analyst would choose two or three window lengths before looking for exciting matches. For example, short windows might characterize individual textures; longer windows might characterize evolving gestures. These durations would be ANALYSIS SETTINGS, not prescribed performance units. The analyst would calculate separate feature maps for spectral texture, attack-event sequences, and broad dynamic contour, with explicit notes about normalization. Matching should exclude the trivial main diagonal and adjacent windows. Candidate matches should be checked against a distribution of nonmatches.
@@ -197,7 +197,7 @@ This is not an inconvenience to erase with a more complicated model. It is the c
 12. WHAT THIS MEANS FOR KLAAT AS ART
 
 
-KLAAT does not need a written architecture to possess identity. Amastacia and Ankora already provide a constrained material world: one breathing resonant body, one hand-struck membrane, two kinds of continuity, a particular relationship between pressure and release, and a human performer whose choices emerge in real time. Within those constraints, returns may arise from memory, habit, touch, instrument mechanics, or coincidence. Research can reveal which possibilities are supported in a recording. It cannot assign artistic necessity to them.
+KLAAT does not need a written architecture to possess identity. the didgeridoo and drum already provide a constrained material world: one breathing resonant body, one hand-struck membrane, two kinds of continuity, a particular relationship between pressure and release, and a human performer whose choices emerge in real time. Within those constraints, returns may arise from memory, habit, touch, instrument mechanics, or coincidence. Research can reveal which possibilities are supported in a recording. It cannot assign artistic necessity to them.
 
 
 This is why the guiding principle matters. Experience-led creation means Paul remains free to follow the sound without listening for a recurrence graph in his head. Science-informed refinement means that afterward, when he wonders why a particular long take felt coherent or why a listener recognized something returning, there are better questions available than 'Was it all at the same BPM?'
@@ -209,7 +209,7 @@ The research may eventually help KLAAT document its own living vocabulary: not a
 OPTIONAL OBSERVATION — KRX-104: THE UNPROMPTED RETURN
 
 
-On a day when Paul already wants to listen back to an authentic take, mark one or two moments that simply feel familiar, as though a gesture has returned. Do not stop playback to analyze or change the playing. Later, compare those timestamps with an earlier passage and ask only: what actually resembles what—Ankora's timing, Amastacia's color, the joint texture, or just the feeling? If nothing clearly recurs, record that too. No additional performance, score, tempo target, or listener recruitment is required.
+On a day when Paul already wants to listen back to an authentic take, mark one or two moments that simply feel familiar, as though a gesture has returned. Do not stop playback to analyze or change the playing. Later, compare those timestamps with an earlier passage and ask only: what actually resembles what—the drum's timing, the didgeridoo's color, the joint texture, or just the feeling? If nothing clearly recurs, record that too. No additional performance, score, tempo target, or listener recruitment is required.
 
 
 PRIMARY RESEARCH AND METHOD SOURCES (verified October 20, 2026)

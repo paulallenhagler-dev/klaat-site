@@ -2,7 +2,7 @@ KLAAT Resonance Research — Session 61
 THE ROOM IS NOT ONE ROOM: Spatial Resonance Fields, Listener Zones, and the Venue as a Distributed Instrument
 
 
-Session 60 established that the listener and occupied support form a coupled mechanical system. The strongest unresolved direction in the subsequent hourly work is the airborne counterpart: KLAAT has repeatedly spoken about “the room,” but at low frequencies there is no guarantee that one listener position experiences the same Amastacia field as another.
+Session 60 established that the listener and occupied support form a coupled mechanical system. The strongest unresolved direction in the subsequent hourly work is the airborne counterpart: KLAAT has repeatedly spoken about “the room,” but at low frequencies there is no guarantee that one listener position experiences the same the didgeridoo field as another.
 
 
 Room modes, standing-wave nodes and antinodes, source position, seating geometry, occupancy, and support structure can make a venue spatially heterogeneous. One microphone at the center cannot automatically characterize what the audience receives.
@@ -15,16 +15,16 @@ THE VENUE IS NOT A SINGLE RESPONSE. IT IS A FIELD OF DIFFERENT LISTENER CONDITIO
 A calibrated microphone describes its point, not the whole audience. Low-frequency standing waves produce spatial maxima and minima. ONE SPL NUMBER IS NOT THE KLAAT VENUE.
 
 
-2. AMASTACIA IS ESPECIALLY VULNERABLE TO SPATIAL NON-UNIFORMITY
-Amastacia’s sustained C# Drone and harmonics can establish stable low-frequency interference patterns. Different positions may receive different spectral balances even with identical performance.
+2. DIDGERIDOO IS ESPECIALLY VULNERABLE TO SPATIAL NON-UNIFORMITY
+The didgeridoo’s sustained C# Drone and harmonics can establish stable low-frequency interference patterns. Different positions may receive different spectral balances even with identical performance.
 
 
 3. ACOUSTIC NULL DOES NOT MEAN SOMATIC NULL
 Airborne pressure and support vibration are different channels. Listener positions can have different AUDIO–TACTILE BALANCE fields.
 
 
-4. ANKORA OCCUPIES THE FIELD DIFFERENTLY
-Ankora’s broadband transients interrogate many room frequencies at once. Her perceptual anchoring can remain different from Amastacia’s sustained spatial coloration.
+4. DRUM OCCUPIES THE FIELD DIFFERENTLY
+The drum’s broadband transients interrogate many room frequencies at once. Her perceptual anchoring can remain different from the didgeridoo’s sustained spatial coloration.
 
 
 5. THE LISTENER ZONE
@@ -40,7 +40,7 @@ Use coarse map → identify gradients/extrema → refine locally → confirm. Th
 
 
 8. GROUND ANCHOR
-Use Amastacia to establish the venue field. Participant/listener coordinates become required research metadata.
+Use the didgeridoo to establish the venue field. Participant/listener coordinates become required research metadata.
 
 
 9. THRESHOLD GATE
@@ -52,7 +52,7 @@ Test SPATIAL ROBUSTNESS: does the KLAAT state remain recognizable across listene
 
 
 11. RETURN PATH
-As Ankora recedes, Amastacia and room decay expose spatial differences again. Return Path can be a diagnostic phase for venue heterogeneity.
+As the drum recedes, the didgeridoo and room decay expose spatial differences again. Return Path can be a diagnostic phase for venue heterogeneity.
 
 
 12. OCCUPANCY
@@ -72,7 +72,7 @@ Exact KLAAT variation depends on venue, source, spectra, seating and occupancy. 
 
 
 16. PLAUSIBLE / TESTABLE HYPOTHESES
-Joint airborne + loaded-interface maps will outperform one central SPL reading for predicting bodily salience/audio–tactile unity. Amastacia modal minima may alter Drone fullness. Some positions may be mechanically weighted despite weak airborne low-frequency energy. Gate strength may vary spatially. Adaptive mapping may capture important heterogeneity efficiently.
+Joint airborne + loaded-interface maps will outperform one central SPL reading for predicting bodily salience/audio–tactile unity. The didgeridoo modal minima may alter Drone fullness. Some positions may be mechanically weighted despite weak airborne low-frequency energy. Gate strength may vary spatially. Adaptive mapping may capture important heterogeneity efficiently.
 
 
 17. SPECULATION
@@ -89,14 +89,14 @@ Rules: THE ROOM IS A FIELD, NOT A NUMBER. DO NOT LET AVERAGING ERASE EXTREMA. MA
 
 
 20. KRX-061 — THE VENUE RESONANCE FIELD TEST
-Measure Amastacia spectrum and predefine relevant bands. Build a dense validation grid in one representative indoor venue. Derive frequency-resolved response and identify typical, peak, null and high-gradient zones. Add loaded-interface acceleration at representative positions. Run blinded listener comparisons for Drone fullness, Ankora clarity, bodily salience, audio–tactile unity, Threshold Gate strength and overall coherence. Retrospectively compare smaller 5-zone, 9-zone, perimeter+center and adaptive sampling schemes against the dense reference.
+Measure the didgeridoo spectrum and predefine relevant bands. Build a dense validation grid in one representative indoor venue. Derive frequency-resolved response and identify typical, peak, null and high-gradient zones. Add loaded-interface acceleration at representative positions. Run blinded listener comparisons for Drone fullness, the drum clarity, bodily salience, audio–tactile unity, Threshold Gate strength and overall coherence. Retrospectively compare smaller 5-zone, 9-zone, perimeter+center and adaptive sampling schemes against the dense reference.
 
 
 Primary question: WHAT IS THE SMALLEST PRACTICAL VENUE-MAPPING SCHEME THAT PRESERVES THE SPATIAL FEATURES THAT ACTUALLY MATTER TO KLAAT?
 
 
 RECOMMENDED NEXT DIRECTION
-Establish the frequency-range gate: determine which measured KLAAT mechanical components belong to low-frequency whole-body biodynamics and which belong to higher-frequency cutaneous/interface vibrotactile perception. Also continue translating scientific mechanisms back into the intentionally minimal core performance language: Amastacia, Ankora, breath, silence, repetition, duration, room and body. Laboratory hardware remains investigative unless a demonstrated mechanism can be translated back into that core grammar.
+Establish the frequency-range gate: determine which measured KLAAT mechanical components belong to low-frequency whole-body biodynamics and which belong to higher-frequency cutaneous/interface vibrotactile perception. Also continue translating scientific mechanisms back into the intentionally minimal core performance language: the didgeridoo, the drum, breath, silence, repetition, duration, room and body. Laboratory hardware remains investigative unless a demonstrated mechanism can be translated back into that core grammar.
 KLAAT RESONANCE RESEARCH — SESSION CORPUS
 
 

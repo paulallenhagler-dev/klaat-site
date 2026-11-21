@@ -8,7 +8,7 @@ Guiding principle: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 CENTRAL FINDING
 
 
-KLAAT does not need to hold every listener's attention in the same way to matter. A person sitting with Amastacia and Ankora may attend closely to each sound, become absorbed in images and thoughts stimulated by the sound, or drift into unrelated concerns. A person using the same recording while drawing, walking, or doing routine work may experience the music as a source of energy without treating it as the focus of attention. These are not interchangeable experiences. Nor does every departure from conscious attention to the music mean the listener is bored or disconnected.
+KLAAT does not need to hold every listener's attention in the same way to matter. A person sitting with the didgeridoo and drum may attend closely to each sound, become absorbed in images and thoughts stimulated by the sound, or drift into unrelated concerns. A person using the same recording while drawing, walking, or doing routine work may experience the music as a source of energy without treating it as the focus of attention. These are not interchangeable experiences. Nor does every departure from conscious attention to the music mean the listener is bored or disconnected.
 
 
 The strongest unresolved direction after Session 84 is not another prescription for managing repetition. It is a measurement problem with direct artistic consequences: when listeners say KLAAT was immersive, energizing, distracting, or transporting, WHERE WAS THEIR ATTENTION? Existing primary research reveals an instructive apparent contradiction. Preferred background music can reduce off-task mind-wandering during simple vigilance work, while ambient concerts can provoke abundant internally generated imagery and wandering thoughts. The difference may reflect the task, the meaning of "wandering," the music, the audience, and the measurement—not a contradiction that needs to be flattened into one rule.
@@ -35,7 +35,7 @@ The research should classify these experiences before it ranks them. It should n
 2. FOUR DIFFERENT ATTENTIONAL OUTCOMES
 
 
-FOCUSED MUSICAL ATTENTION: A listener deliberately follows Amastacia's breath, harmonic movement, Ankora's attack spacing, and the relationship between the two. They may be analytical or intensely receptive.
+FOCUSED MUSICAL ATTENTION: A listener deliberately follows the didgeridoo's breath, harmonic movement, the drum's attack spacing, and the relationship between the two. They may be analytical or intensely receptive.
 
 
 MUSIC-EVOKED INNER EXPERIENCE: A listener follows images, memories, emotions, bodily impressions, or imaginative scenes prompted by the music. Attention may alternate between the acoustic world and the inner world. This is not necessarily disengagement.
@@ -53,7 +53,7 @@ These are working categories, not mutually exclusive neurological compartments. 
 3. THE MOST KLAAT-ADJACENT LIVE STUDY
 
 
-Deil and colleagues studied 43 respondents after two experimental/ambient concerts at Berlin's CTM Festival: 21 attended a Deathprod performance and 22 attended Jacob Kirkegaard. This is unusually relevant because one concert featured approximately 50 minutes of continuous drone, low bass, silence, and forceful sound interruptions. It is closer in listening ecology to KLAAT than a typical 20-second pop-music excerpt, although it remains electronically produced and contextually different from an agave didgeridoo and elk-hide drum.
+Deil and colleagues studied 43 respondents after two experimental/ambient concerts at Berlin's CTM Festival: 21 attended a Deathprod performance and 22 attended Jacob Kirkegaard. This is unusually relevant because one concert featured approximately 50 minutes of continuous drone, low bass, silence, and forceful sound interruptions. It is closer in listening ecology to KLAAT than a typical 20-second pop-music excerpt, although it remains electronically produced and contextually different from an agave didgeridoo and drum.
 
 
 The study found that 83% of respondents to a GENERAL question reported regular-to-very-regular mind-wandering during live music events. This figure must not be misreported as 83% of people mind-wandering during the specific CTM performance. For the concert itself, the mean visual-imagery rating was 5.00 on a seven-point scale (n=40); the mean music-focused-thought rating was 4.69 (n=42); and the mean unrelated-thought rating was 4.52 (n=42). These descriptive differences were not statistically significant. Reported spontaneous mind-wandering exceeded deliberate mind-wandering. In the subset with before/after mood data, inspiration increased and stress/nervousness decreased.
@@ -128,31 +128,31 @@ KLAAT contains no lyrics in the conventional sense, which may avoid one source o
 An important artistic consequence follows: the same passage that is thrilling during intentional listening could interrupt a complex writing task. That is not an artistic defect. A powerful sound can command attention; a person trying to read may prefer a less salient environment. KLAAT can be both an immersive artwork and an energizing soundtrack without guaranteeing universal compatibility with every activity.
 
 
-9. WHAT AMASTACIA CONTRIBUTES TO THESE ATTENTIONAL PATHS
+9. WHAT DIDGERIDOO CONTRIBUTES TO THESE ATTENTIONAL PATHS
 
 
-Amastacia's sustained C# drone supplies a persistent acoustic object. Her breath-shaped amplitude, harmonic emphasis, buzz, noise, and subtle fluctuations can support several listening modes. In focused listening, those details may become objects of attention. In imaginative listening, the same sound may become an atmospheric foundation for internally generated scenes. In everyday activity, the drone may form a stable auditory backdrop, but an unusually conspicuous harmonic gesture may pull attention away from a task.
+The didgeridoo's sustained C# drone supplies a persistent acoustic object. Her breath-shaped amplitude, harmonic emphasis, buzz, noise, and subtle fluctuations can support several listening modes. In focused listening, those details may become objects of attention. In imaginative listening, the same sound may become an atmospheric foundation for internally generated scenes. In everyday activity, the drone may form a stable auditory backdrop, but an unusually conspicuous harmonic gesture may pull attention away from a task.
 
 
-Nothing in this reasoning requires the drone to be acoustically uniform. Its human irregularities may be important. Nor does it require the listener to identify the C# pitch. We still lack a measured Amastacia fundamental/octave and a controlled demonstration of any pitch-specific effect. The claim concerns a recognizable, continuous sound source, not a privileged frequency.
+Nothing in this reasoning requires the drone to be acoustically uniform. Its human irregularities may be important. Nor does it require the listener to identify the C# pitch. We still lack a measured the didgeridoo fundamental/octave and a controlled demonstration of any pitch-specific effect. The claim concerns a recognizable, continuous sound source, not a privileged frequency.
 
 
 Circular breathing adds another distinction. Paul's physical inhalation, the audible transition, and a listener's respiratory response were separated in Session 82. The current session adds a fourth: the listener's ATTENTIONAL interpretation of the breath. A barely audible transition might be ignored, detected as a fascinating detail, or interpreted as part of a living presence. None of those reports directly measures respiratory coupling.
 
 
-10. WHAT ANKORA CONTRIBUTES
+10. WHAT DRUM CONTRIBUTES
 
 
-Ankora's elk-hide attacks supply discrete temporal events, accents, decays, and physical-sounding impact. Repetition may make her pattern predictable; subdivisions and microtiming may remain interesting without altering the underlying pulse. For an attentive listener, those events may organize expectation. For someone drawing or walking, the pulse may provide a sense of momentum. For someone trying to read difficult prose, a strong strike may become an involuntary attentional capture.
+The drum's drumhead material attacks supply discrete temporal events, accents, decays, and physical-sounding impact. Repetition may make her pattern predictable; subdivisions and microtiming may remain interesting without altering the underlying pulse. For an attentive listener, those events may organize expectation. For someone drawing or walking, the pulse may provide a sense of momentum. For someone trying to read difficult prose, a strong strike may become an involuntary attentional capture.
 
 
-We should not assume the same strike creates the same attentional event across listeners. Loudness, playback, room response, familiarity, current task, and personal preference all matter. Sessions 77–78 asked whether Ankora's Clock remains recoverable under increasing activity. Session 85 asks a different question: what does the listener DO with a recoverable Clock? Track it consciously, move with it, let it recede, or use it as a background context?
+We should not assume the same strike creates the same attentional event across listeners. Loudness, playback, room response, familiarity, current task, and personal preference all matter. Sessions 77–78 asked whether the drum's Clock remains recoverable under increasing activity. Session 85 asks a different question: what does the listener DO with a recoverable Clock? Track it consciously, move with it, let it recede, or use it as a background context?
 
 
 11. THE RELATIONSHIP BETWEEN THE TWO INSTRUMENTS
 
 
-Amastacia and Ankora create an unusual combination of sustained and punctuated sound. That relationship may permit attention to move among scales: a slowly evolving harmonic field, a recurrent pulse, an individual attack, a breath change, or an imagined environment spanning minutes. This is a plausible account of why the same take can sustain different forms of engagement. It has not been measured in KLAAT.
+the didgeridoo and drum create an unusual combination of sustained and punctuated sound. That relationship may permit attention to move among scales: a slowly evolving harmonic field, a recurrent pulse, an individual attack, a breath change, or an imagined environment spanning minutes. This is a plausible account of why the same take can sustain different forms of engagement. It has not been measured in KLAAT.
 
 
 The hypothesis is not that a listener's brain becomes locked to a universal frequency. Acoustic pulse rates, spectral modulation, neural activity, subjective urgency, and motor impulses are different observables. The present research focuses on reported attention and behavior. Any neural explanation would require additional instruments and appropriate controls.
@@ -164,7 +164,7 @@ The hypothesis is not that a listener's brain becomes locked to a universal freq
 Ground Anchor, Threshold Gate, Rising Pulse, and Return Path remain useful names for naturally occurring aspects of the experience, but they are not compulsory sections.
 
 
-A passage retrospectively described as Ground Anchor may support acoustic orientation, daydreaming, or close attention to Amastacia. A naturally emerging Threshold Gate may coincide with Ankora becoming perceptually salient, but listeners may notice it at different moments. A Rising Pulse may increase alertness, invite movement, or distract from an external task; those are competing outcomes to observe. A Return Path may release attention back to the room, allow an inner image to continue, or simply mark the end of a musical gesture.
+A passage retrospectively described as Ground Anchor may support acoustic orientation, daydreaming, or close attention to the didgeridoo. A naturally emerging Threshold Gate may coincide with the drum becoming perceptually salient, but listeners may notice it at different moments. A Rising Pulse may increase alertness, invite movement, or distract from an external task; those are competing outcomes to observe. A Return Path may release attention back to the room, allow an inner image to continue, or simply mark the end of a musical gesture.
 
 
 If a recording never fits those categories, do not force it into them. The artistic world is older and larger than the vocabulary. The research must be able to discover a different attentional trajectory.
@@ -220,10 +220,10 @@ H1. During uninterrupted focused KLAAT listening, some listeners may report high
 H2. The same unedited recording may reduce unwanted mind-wandering during a low-demand, repetitive activity for some listeners, while offering no benefit or becoming distracting during difficult reading or writing.
 
 
-H3. Ankora's perceptually salient attacks may increase felt energy but also cause momentary task distraction; these two effects may coexist.
+H3. The drum's perceptually salient attacks may increase felt energy but also cause momentary task distraction; these two effects may coexist.
 
 
-H4. Amastacia's sustained, breath-shaped Field may support a sense of continuity across shifts between musical attention and inner imagery, but this does not imply physiological synchronization.
+H4. The didgeridoo's sustained, breath-shaped Field may support a sense of continuity across shifts between musical attention and inner imagery, but this does not imply physiological synchronization.
 
 
 H5. Familiarity may change the distribution of attention over repeated listens: early attention may favor gross pulse and drone identity, while later attention may notice microtiming and breath grain or drift into richer imagery. This extends Session 84 but requires actual listener reports.
@@ -235,7 +235,7 @@ H6. A listener may value KLAAT differently in focused listening and daily-life l
 18. SPECULATION
 
 
-KLAAT's distinctive atmosphere may invite a form of "anchored wandering": the listener's imagination ranges widely while Amastacia and Ankora remain a stable reference point. That phrase is an artistic research label, not an accepted neurological category. The ancient/ritual/archaeosonic identity might bias the content of imagery, especially when visuals or project descriptions are supplied. A future blinded comparison of audio-only listening versus audio plus visual identity could examine this. For now, these are possibilities, not facts.
+KLAAT's distinctive atmosphere may invite a form of "anchored wandering": the listener's imagination ranges widely while the didgeridoo and drum remain a stable reference point. That phrase is an artistic research label, not an accepted neurological category. The ancient/ritual/archaeosonic identity might bias the content of imagery, especially when visuals or project descriptions are supplied. A future blinded comparison of audio-only listening versus audio plus visual identity could examine this. For now, these are possibilities, not facts.
 
 
 19. UNSUPPORTED CLAIMS
@@ -271,7 +271,7 @@ The available ChatGPT Library Hourly Research folder was checked before this ses
 23. ONE OPTIONAL KLAAT OBSERVATION — KRX-085, WHERE DID YOUR MIND GO?
 
 
-Choose one authentic, unedited KLAAT recording of about 8–15 minutes with Amastacia and Ankora. Do not play differently or add an arrangement for the experiment. Invite three to six willing listeners. Each hears the recording once, uninterrupted, at a comfortable level, preferably without prior explanation of what they "should" experience. Immediately afterward, ask only: "What happened for you while you listened?" and "Where did your attention go?" Then, if they wish, invite them to mark which experiences occurred: attention to sound; images or memories connected to sound; unrelated thoughts; felt energy or urge to move; boredom or discomfort; and any mixture. Ask which experiences they welcomed. Do not require a single category.
+Choose one authentic, unedited KLAAT recording of about 8–15 minutes with the didgeridoo and drum. Do not play differently or add an arrangement for the experiment. Invite three to six willing listeners. Each hears the recording once, uninterrupted, at a comfortable level, preferably without prior explanation of what they "should" experience. Immediately afterward, ask only: "What happened for you while you listened?" and "Where did your attention go?" Then, if they wish, invite them to mark which experiences occurred: attention to sound; images or memories connected to sound; unrelated thoughts; felt energy or urge to move; boredom or discomfort; and any mixture. Ask which experiences they welcomed. Do not require a single category.
 
 
 For people who already use music during ordinary activity, a separate optional note can record whether they would choose this exact take for drawing, walking, routine work, focused listening, or none of these. Do not ask anyone to drive while participating in an attention experiment. Do not claim performance improvement without a task measure. A three-to-six-person sample is exploratory, not representative. Retrospective reporting misses moment-to-moment transitions, but it protects uninterrupted listening. If a second hearing later includes thought probes, record that the measurement method changed.

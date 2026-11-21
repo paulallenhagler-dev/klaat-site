@@ -11,10 +11,10 @@ Status of claims: research synthesis and proposed observations, not KLAAT-specif
 CENTRAL QUESTION
 
 
-Session 80 asked what survives when Amastacia and Ankora leave the room and enter a playback system. It concentrated on missing low-frequency energy, altered transients, and the distinction between heard pitch and bodily vibration. The next unresolved question is more interesting than whether a phone reproduces enough bass: WHICH FEATURES OF KLAAT CAN STILL COMMUNICATE WEIGHT, URGENCY, AND A SENSE OF LIVING PRESENCE WHEN MUCH OF THE LOWEST ACOUSTIC ENERGY IS GONE?
+Session 80 asked what survives when the didgeridoo and drum leave the room and enter a playback system. It concentrated on missing low-frequency energy, altered transients, and the distinction between heard pitch and bodily vibration. The next unresolved question is more interesting than whether a phone reproduces enough bass: WHICH FEATURES OF KLAAT CAN STILL COMMUNICATE WEIGHT, URGENCY, AND A SENSE OF LIVING PRESENCE WHEN MUCH OF THE LOWEST ACOUSTIC ENERGY IS GONE?
 
 
-There are several plausible candidates already present in Paul's spontaneous playing: the way Amastacia's breath swells and roughens; changing bands of upper harmonics; noise in the air column; Ankora's attack and decay; and the interaction between continuous drone and recurring transient events. These are not substitutes for physical low-frequency exposure. They are other sources of musical information. Their contribution is worth studying precisely because KLAAT is meant to work both as an immersive live experience and as an energizing soundtrack during ordinary life.
+There are several plausible candidates already present in Paul's spontaneous playing: the way the didgeridoo's breath swells and roughens; changing bands of upper harmonics; noise in the air column; the drum's attack and decay; and the interaction between continuous drone and recurring transient events. These are not substitutes for physical low-frequency exposure. They are other sources of musical information. Their contribution is worth studying precisely because KLAAT is meant to work both as an immersive live experience and as an energizing soundtrack during ordinary life.
 
 
 GOVERNING PRINCIPLE
@@ -29,19 +29,19 @@ DO NOT EQUATE BASS ENERGY WITH ALL OF KLAAT'S ENERGY. BUT DO NOT EQUATE THE PERC
 The word energy is unusually slippery in KLAAT discussions. Acoustic energy is physical and can be estimated from calibrated sound-pressure measurements in specified bands, locations, and durations. Perceptual intensity is a judgment: a listener may call a sound heavy, urgent, close, alive, rough, or powerful. Physiological activation is another kind of observation, requiring independently defined measures such as heart rate, skin conductance, or movement. Felt energy is a listener's subjective report; it need not track any one physiological variable.
 
 
-These meanings may correlate, but they must not be silently collapsed. A phone can make a breath accent sound forceful without reproducing Amastacia's original low-frequency pressure. A full-range system can deliver substantial low-frequency energy to a listener who finds the piece emotionally neutral. Neither experience is false. The underlying causes differ.
+These meanings may correlate, but they must not be silently collapsed. A phone can make a breath accent sound forceful without reproducing the didgeridoo's original low-frequency pressure. A full-range system can deliver substantial low-frequency energy to a listener who finds the piece emotionally neutral. Neither experience is false. The underlying causes differ.
 
 
 2. THE CARRIER IS NOT THE ENVELOPE
 
 
-Amastacia's drone is a sound with a fundamental and a changing harmonic/noise spectrum. That spectral structure is the carrier of much of her pitch and timbral identity. Overlaid on it are slower changes: breath-shaped amplitude contours, changing harmonic balance, irregular growl-like articulations, and interruptions or continuities. These temporal changes can remain audible even when the lowest part of the carrier is attenuated.
+The didgeridoo's drone is a sound with a fundamental and a changing harmonic/noise spectrum. That spectral structure is the carrier of much of her pitch and timbral identity. Overlaid on it are slower changes: breath-shaped amplitude contours, changing harmonic balance, irregular growl-like articulations, and interruptions or continuities. These temporal changes can remain audible even when the lowest part of the carrier is attenuated.
 
 
 For example, a rhythmic envelope recurring near 2.28 cycles per second would correspond numerically to 137 events per minute. But an envelope fluctuation at 2.28 Hz is not the same thing as a 2.28 Hz acoustic tone, nor is it an EEG frequency or a body-vibration measurement. A musical pulse can be conveyed by repeated attacks on a high-frequency instrument. Conversely, a 69 Hz tone can sound steady without establishing a beat. The difference between carrier frequency, modulation rate, and inferred musical beat is foundational.
 
 
-This distinction matters because KLAAT's rhythm may survive through the timing and shape of Ankora's attacks even if the low end of each attack is attenuated. Amastacia's harmonic swells may likewise retain their phrasing. A portable version of KLAAT may be missing physical weight but still retain a great deal of temporal information.
+This distinction matters because KLAAT's rhythm may survive through the timing and shape of the drum's attacks even if the low end of each attack is attenuated. The didgeridoo's harmonic swells may likewise retain their phrasing. A portable version of KLAAT may be missing physical weight but still retain a great deal of temporal information.
 
 
 3. TIMBRE IS NOT A SINGLE 'BRIGHTNESS' CONTROL
@@ -50,25 +50,25 @@ This distinction matters because KLAAT's rhythm may survive through the timing a
 John Grey's 1977 experiments compared 16 instrument tones matched for pitch, loudness, and duration. The perceived differences could be organized partly through spectral energy distribution, changing harmonic behavior, and the structure of the attack. Later controlled synthetic-tone experiments by Caclin, McAdams, Smith, and Winsberg (2005) confirmed perceptual roles for attack time, spectral centroid, and fine spectral structure; the contribution of spectral flux depended on which other dimensions were changing. Lakatos (2000) found that both spectral centroid and rise time were important across pitched and percussive sounds.
 
 
-For KLAAT this means 'the bass is gone' does not describe the rest of the signal. A recording can preserve Amastacia's higher harmonics but alter their balance. It can retain Ankora's strike timing while emphasizing a sharp edge over a rounded impact. It can change the perceived distance and material character of both instruments. A tonal correction that restores one feature might obscure another.
+For KLAAT this means 'the bass is gone' does not describe the rest of the signal. A recording can preserve the didgeridoo's higher harmonics but alter their balance. It can retain the drum's strike timing while emphasizing a sharp edge over a rounded impact. It can change the perceived distance and material character of both instruments. A tonal correction that restores one feature might obscure another.
 
 
 The practical implication is not to engineer the instruments toward a supposedly ideal timbre. It is to listen carefully to what the natural performance already contains, and to document how recording and playback modify those cues.
 
 
-4. ANKORA'S ATTACK CAN CARRY A CLOCK WITHOUT CARRYING ITS FULL BODY
+4. DRUM'S ATTACK CAN CARRY A CLOCK WITHOUT CARRYING ITS FULL BODY
 
 
-Ankora's elk-hide membrane creates a transient followed by a resonant decay. The attack includes broadband components, while the resonant tail may contain substantial lower-frequency energy. A small speaker may preserve the attack timing better than the low-frequency decay. Listeners may still infer the beat, subdivisions, accent hierarchy, and the difference between repeated and omitted events. They may nevertheless describe the drum as thinner, less physically present, or less rounded.
+The drum's drumhead creates a transient followed by a resonant decay. The attack includes broadband components, while the resonant tail may contain substantial lower-frequency energy. A small speaker may preserve the attack timing better than the low-frequency decay. Listeners may still infer the beat, subdivisions, accent hierarchy, and the difference between repeated and omitted events. They may nevertheless describe the drum as thinner, less physically present, or less rounded.
 
 
 A useful distinction is onset detectability versus felt impact. A high-frequency click can mark time very precisely without feeling like a heavy drum. A rounded low-frequency event can feel weighty while having a less sharply defined perceptual onset. Neither property alone determines musical absorption. KLAAT should not infer that rhythmic recognition implies equivalent acoustic or mechanical exposure.
 
 
-5. AMASTACIA'S BREATH IS INFORMATION, NOT BACKGROUND NOISE
+5. DIDGERIDOO'S BREATH IS INFORMATION, NOT BACKGROUND NOISE
 
 
-The air column's sustained pitch is only part of Amastacia's voice. Breath effort, articulation, turbulence, and shifts in vocal-tract resonance can produce changing noise and harmonic patterns. In the performance, Paul experiences those changes as motor actions and bodily effort. A listener receives their acoustic consequences, not Paul's respiratory physiology directly.
+The air column's sustained pitch is only part of the didgeridoo's voice. Breath effort, articulation, turbulence, and shifts in vocal-tract resonance can produce changing noise and harmonic patterns. In the performance, Paul experiences those changes as motor actions and bodily effort. A listener receives their acoustic consequences, not Paul's respiratory physiology directly.
 
 
 A roughened or noisy passage can signal intensity or proximity to some listeners. It can also be fatiguing or distracting to others. It is not automatically a sign of physiological entrainment, a particular breathing rate, or an altered state. Nor should the recording engineer indiscriminately remove it as 'noise' before learning whether it is central to the instrument's identity. The question is what listeners actually perceive and value.
@@ -80,10 +80,10 @@ A roughened or noisy passage can signal intensity or proximity to some listeners
 Arnal and colleagues' 2015 experiments on human screams identified concentrated amplitude modulation in approximately the 30–150 Hz range, often perceived as acoustic roughness. Their acoustic, behavioral, and neuroimaging analyses showed that such roughness can improve detection and engage systems relevant to rapid appraisal of danger. The work included screams and alarm-like sounds. It did not test didgeridoos, KLAAT, or positive musical absorption.
 
 
-This is a cautionary result as much as a promising one. Roughness may attract attention because it can sound urgent or alarming. That does not make more roughness inherently desirable. KLAAT's grain, buzz, and breath turbulence are artistically meaningful, but we should not treat 'rougher' as synonymous with 'more effective' or 'more trance-inducing.' The exact acoustic modulation spectrum of Amastacia's current playing has not been measured. The fact that a sound is described as rough does not prove that it contains the same 30–150 Hz modulation signature as a scream.
+This is a cautionary result as much as a promising one. Roughness may attract attention because it can sound urgent or alarming. That does not make more roughness inherently desirable. KLAAT's grain, buzz, and breath turbulence are artistically meaningful, but we should not treat 'rougher' as synonymous with 'more effective' or 'more trance-inducing.' The exact acoustic modulation spectrum of the didgeridoo's current playing has not been measured. The fact that a sound is described as rough does not prove that it contains the same 30–150 Hz modulation signature as a scream.
 
 
-A further distinction: rapid roughness modulation at tens of hertz is not Ankora's approximately 137-BPM beat. One is a texture-related modulation regime; the other is a musical event rate near 2.28 per second. Calling both 'rhythm' without specifying scale invites confusion.
+A further distinction: rapid roughness modulation at tens of hertz is not the drum's approximately 137-BPM beat. One is a texture-related modulation regime; the other is a musical event rate near 2.28 per second. Calling both 'rhythm' without specifying scale invites confusion.
 
 
 7. THE CONTRADICTORY LESSON FROM MUSICAL CHILLS
@@ -101,13 +101,13 @@ It also illustrates why the context matters. Brightness, attack sharpness, and r
 Harding and colleagues (2023) tested music-emotion categorization in 23 normal-hearing listeners using vocoders that changed the quality of temporal and spectral information. Emotion categories remained above chance in processed music but were identified less accurately than in unprocessed controls. Better temporal information improved categorization substantially in their conditions, and arousal-related information was more resilient than valence-related information under some degradations.
 
 
-This does not mean KLAAT can be reduced to a rhythm track without losing its identity. The study used processed musical excerpts and a classification task, not free-form drone listening. Nor does it mean that perceived energy is solely temporal. It does, however, establish a credible reason to investigate which time-varying aspects of Amastacia and Ankora remain expressive through limited playback. A listener may still perceive activity, tension, or movement when fine spectral detail is reduced, even while losing richness, materiality, or emotional nuance.
+This does not mean KLAAT can be reduced to a rhythm track without losing its identity. The study used processed musical excerpts and a classification task, not free-form drone listening. Nor does it mean that perceived energy is solely temporal. It does, however, establish a credible reason to investigate which time-varying aspects of the didgeridoo and drum remain expressive through limited playback. A listener may still perceive activity, tension, or movement when fine spectral detail is reduced, even while losing richness, materiality, or emotional nuance.
 
 
 9. THERE IS NO SINGLE 'PORTABLE' VERSION OF KLAAT
 
 
-Portable listening is not a binary category. Phone speakers, earbuds, closed headphones, open headphones, small desktop speakers, and car audio systems differ in frequency response, distortion, stereo imaging, output level, and acoustic interaction with the environment. A car's cabin can emphasize particular bass bands while masking breath detail with road noise. A phone can make Ankora's clicks prominent while compressing the amplitude differences that gave them expression. Good headphones may reveal upper-harmonic articulation and timing without providing the floor or seat motion of a live room.
+Portable listening is not a binary category. Phone speakers, earbuds, closed headphones, open headphones, small desktop speakers, and car audio systems differ in frequency response, distortion, stereo imaging, output level, and acoustic interaction with the environment. A car's cabin can emphasize particular bass bands while masking breath detail with road noise. A phone can make the drum's clicks prominent while compressing the amplitude differences that gave them expression. Good headphones may reveal upper-harmonic articulation and timing without providing the floor or seat motion of a live room.
 
 
 A recording may therefore have more than one authentic listening identity. KLAAT does not need to be optimized for a single device. But research comparisons must record the device and context; otherwise, 'listener A felt more energized than listener B' may conflate personal response with stimulus delivery.
@@ -116,7 +116,7 @@ A recording may therefore have more than one authentic listening identity. KLAAT
 10. THREE POSSIBLE CARRIERS OF KLAAT'S PORTABLE CHARACTER
 
 
-First, temporal continuity: the recognizable persistence of Amastacia's drone, breath-shaped phrasing, and Ankora's repeated or evolving attacks. Second, spectral identity: the changing harmonic structure, roughness, and resonant decay that distinguish these instruments from generic synthesized bass and percussion. Third, relational texture: the way a sustained Field makes discrete drum events stand out, and the way Ankora changes the listener's interpretation of Amastacia's apparent motion.
+First, temporal continuity: the recognizable persistence of the didgeridoo's drone, breath-shaped phrasing, and the drum's repeated or evolving attacks. Second, spectral identity: the changing harmonic structure, roughness, and resonant decay that distinguish these instruments from generic synthesized bass and percussion. Third, relational texture: the way a sustained Field makes discrete drum events stand out, and the way the drum changes the listener's interpretation of the didgeridoo's apparent motion.
 
 
 These are candidate descriptions of the music, not independent brain systems. Their contributions might vary with the take, the listening environment, and the listener. A person who finds KLAAT ideal for drawing or walking may prioritize rhythmic continuity. Someone lying down with full-range speakers may emphasize sustained acoustic weight. Someone hearing it for the first time may be most struck by the unusual timbre. We should preserve all three possibilities rather than declare one the 'real' KLAAT.
@@ -125,7 +125,7 @@ These are candidate descriptions of the music, not independent brain systems. Th
 11. WHAT THIS MEANS FOR PAUL'S TECHNIQUE
 
 
-The best application of this research may be technical fluency rather than composition. Cleaner circular breathing can allow Paul to sustain a drone without diverting attention from spontaneous articulation. Better coordination between Ankora and Amastacia can make transitions feel intentional even when they arise instinctively. More control over attack and decay can expand the expressive range of one drum without requiring more instruments. None of these goals implies that every performance should become smoother. Deliberate grain, irregularity, roughness, and noise may be essential to the identity.
+The best application of this research may be technical fluency rather than composition. Cleaner circular breathing can allow Paul to sustain a drone without diverting attention from spontaneous articulation. Better coordination between the drum and didgeridoo can make transitions feel intentional even when they arise instinctively. More control over attack and decay can expand the expressive range of one drum without requiring more instruments. None of these goals implies that every performance should become smoother. Deliberate grain, irregularity, roughness, and noise may be essential to the identity.
 
 
 A practical recording can be analyzed afterward for breath interruptions, onset timing, spectral change, and dynamic range. The analysis should describe what happened, not retroactively declare the performance 'correct' or 'incorrect.' Technical improvement means having more choices available in the moment, not obeying a scientific template.
@@ -134,10 +134,10 @@ A practical recording can be analyzed afterward for breath interruptions, onset 
 12. THE FOUR PHASES AS OPTIONAL OBSERVATIONAL LANGUAGE
 
 
-The familiar names—Ground Anchor, Threshold Gate, Rising Pulse, Return Path—can still help us describe spontaneously emerging trajectories. Ground Anchor may be heard as Amastacia's sustained presence; Threshold Gate as Ankora becoming recognizable; Rising Pulse as increasing density, noise, urgency, or interaction; Return Path as thinning, release, or changing expectations. These names are not a score, and an authentic KLAAT take need not contain all four.
+The familiar names—Ground Anchor, Threshold Gate, Rising Pulse, Return Path—can still help us describe spontaneously emerging trajectories. Ground Anchor may be heard as the didgeridoo's sustained presence; Threshold Gate as the drum becoming recognizable; Rising Pulse as increasing density, noise, urgency, or interaction; Return Path as thinning, release, or changing expectations. These names are not a score, and an authentic KLAAT take need not contain all four.
 
 
-This session adds one observational question to any retrospective description: WHICH OF THOSE DEVELOPMENTS REMAINS AUDIBLE ON A LIMITED PLAYBACK SYSTEM? A passage might retain its rhythmic progression while losing physical weight. Another might retain Amastacia's grain but obscure subtle drum dynamics. A listener could hear a convincing journey without experiencing the same low-frequency field that existed in the room. That would be evidence of portable musical structure, not proof of preserved mechanical stimulation.
+This session adds one observational question to any retrospective description: WHICH OF THOSE DEVELOPMENTS REMAINS AUDIBLE ON A LIMITED PLAYBACK SYSTEM? A passage might retain its rhythmic progression while losing physical weight. Another might retain the didgeridoo's grain but obscure subtle drum dynamics. A listener could hear a convincing journey without experiencing the same low-frequency field that existed in the room. That would be evidence of portable musical structure, not proof of preserved mechanical stimulation.
 
 
 13. WHAT WE CAN MEASURE IN AN EXISTING RECORDING
@@ -146,7 +146,7 @@ This session adds one observational question to any retrospective description: W
 With an accessible, unprocessed audio file, we can estimate band-limited energy, short-time amplitude envelopes, onset patterns, spectral centroid, spectral flux, and selected modulation characteristics. Those are descriptions of the recorded signal. They are not measurements of Paul's internal flow, a listener's autonomic state, or room vibration. The microphone's response, placement, processing, and noise floor affect all such estimates.
 
 
-For Amastacia, a spectrogram can show harmonic movement and broadband breath/noise. For Ankora, onset and decay estimates can describe transient shape. Comparisons should use the same excerpt and analysis settings. If a frequency band is absent from the file because of the microphone or recording process, no software analysis can recover the exact original room exposure from that absence alone.
+For the didgeridoo, a spectrogram can show harmonic movement and broadband breath/noise. For the drum, onset and decay estimates can describe transient shape. Comparisons should use the same excerpt and analysis settings. If a frequency band is absent from the file because of the microphone or recording process, no software analysis can recover the exact original room exposure from that absence alone.
 
 
 If we later test listener responses, ask first for unprompted descriptions. Then separate 'I can hear the beat,' 'the drone feels heavy,' 'I feel energized,' 'I feel absorbed,' and 'I felt vibration in my body.' The first two are perceptual reports about sound; the next two are experiential reports; the last is a somatic report that does not independently verify tissue motion. Physiological claims require different instruments and designs.
@@ -155,7 +155,7 @@ If we later test listener responses, ask first for unprompted descriptions. Then
 14. THE MASKING AND DISTORTION TRAP
 
 
-Removing bass from a recording may not merely remove low-frequency information. Some devices distort, compress, and generate additional harmonics; the relative balance of Amastacia and Ankora can change. Equalizing the bass back up can cause clipping or exaggerated loudness. A listener may prefer the brighter version because it is louder or clearer, not because the musical structure has improved.
+Removing bass from a recording may not merely remove low-frequency information. Some devices distort, compress, and generate additional harmonics; the relative balance of the didgeridoo and drum can change. Equalizing the bass back up can cause clipping or exaggerated loudness. A listener may prefer the brighter version because it is louder or clearer, not because the musical structure has improved.
 
 
 In a comparison, preserve an untouched reference file. Record every filter, normalization, or playback adjustment. Avoid destructive editing of the original. Compare at comfortable levels; don't compensate for missing bass by turning up the whole system. If matching loudness is uncertain, say so. We should not claim that two excerpts delivered equal acoustic exposure because they share the same digital peak level.
@@ -209,10 +209,10 @@ CONTEXT-DEPENDENT: Everyday listening may favor different attributes than eyes-c
 18. EVIDENCE CLASSIFICATION — PLAUSIBLE AND TESTABLE
 
 
-PLAUSIBLE/TESTABLE: Ankora's timing and accent hierarchy remain intelligible through restricted playback even when its low-frequency decay and felt weight diminish.
+PLAUSIBLE/TESTABLE: the drum's timing and accent hierarchy remain intelligible through restricted playback even when its low-frequency decay and felt weight diminish.
 
 
-PLAUSIBLE/TESTABLE: Amastacia's breath-shaped amplitude and upper-harmonic changes convey perceived activity or expressive intention independently of the exact level of its fundamental.
+PLAUSIBLE/TESTABLE: the didgeridoo's breath-shaped amplitude and upper-harmonic changes convey perceived activity or expressive intention independently of the exact level of its fundamental.
 
 
 PLAUSIBLE/TESTABLE: Some KLAAT listeners will report similar absorption across playback conditions but different bodily weight or physical intensity; others may not.
@@ -227,10 +227,10 @@ PLAUSIBLE/TESTABLE: Portable KLAAT may remain energizing during ordinary tasks t
 19. EVIDENCE CLASSIFICATION — SPECULATION
 
 
-SPECULATION: The recognizable 'living presence' of Amastacia may depend heavily on microvariation in breath, harmonics, and noise rather than on sustained fundamental energy alone.
+SPECULATION: The recognizable 'living presence' of the didgeridoo may depend heavily on microvariation in breath, harmonics, and noise rather than on sustained fundamental energy alone.
 
 
-SPECULATION: Ankora's apparent physical authority may emerge from a learned combination of attack shape and resonance, allowing listeners to infer weight from a recording that does not physically reproduce it.
+SPECULATION: the drum's apparent physical authority may emerge from a learned combination of attack shape and resonance, allowing listeners to infer weight from a recording that does not physically reproduce it.
 
 
 SPECULATION: Different recordings might emphasize different portable strengths: some favor rhythmic propulsion; others, evolving timbral depth. That could become useful for choosing album sequences or mixes, but no KLAAT-specific listener evidence yet supports a classification.
@@ -281,16 +281,16 @@ No new instrument. No prescribed tempo. No obligation to introduce a beat after 
 23. ONE OPTIONAL KLAAT OBSERVATION — KRX-081, THE PORTABLE-ENERGY CHECK
 
 
-Choose ONE existing, unedited Amastacia-and-Ankora recording that already feels authentically KLAAT. Keep the original untouched. Listen once on the best available full-range system at a comfortable level and once on an ordinary small speaker or phone, without forcing the two to sound identical. This is an informal observation, not a blinded experiment.
+Choose ONE existing, unedited the didgeridoo-and-the drum recording that already feels authentically KLAAT. Keep the original untouched. Listen once on the best available full-range system at a comfortable level and once on an ordinary small speaker or phone, without forcing the two to sound identical. This is an informal observation, not a blinded experiment.
 
 
-Immediately after each listen, write one free sentence: 'What felt most alive?' Then rate only four distinct qualities on a simple 0–10 scale: (1) Ankora's rhythmic clarity, (2) Amastacia's breath/texture detail, (3) perceived physical weight, and (4) personal energy/engagement. Note device and volume setting. If one other listener is willing, let them describe the two conditions without hearing Paul's judgments first. Do not tell them which features are supposed to matter.
+Immediately after each listen, write one free sentence: 'What felt most alive?' Then rate only four distinct qualities on a simple 0–10 scale: (1) the drum's rhythmic clarity, (2) the didgeridoo's breath/texture detail, (3) perceived physical weight, and (4) personal energy/engagement. Note device and volume setting. If one other listener is willing, let them describe the two conditions without hearing Paul's judgments first. Do not tell them which features are supposed to matter.
 
 
 The most informative outcome may be a split: beat and breath remain vivid while physical weight drops. Or the phone may exaggerate roughness and make the piece feel more urgent but less absorbing. Or very little may change for this particular take. Every result is useful because it identifies a real listening condition rather than an imagined universal effect. No compositional change is required.
 
 
-DECISIVE QUESTION: WHEN THE DEEPEST BASS IS REDUCED, WHICH PARTS OF AMASTACIA'S BREATH AND ANKORA'S ATTACK STILL MAKE KLAAT FEEL ALIVE—AND WHICH PARTS OF THE ORIGINAL PHYSICAL EXPERIENCE ARE TRULY MISSING?
+DECISIVE QUESTION: WHEN THE DEEPEST BASS IS REDUCED, WHICH PARTS OF DIDGERIDOO'S BREATH AND DRUM'S ATTACK STILL MAKE KLAAT FEEL ALIVE—AND WHICH PARTS OF THE ORIGINAL PHYSICAL EXPERIENCE ARE TRULY MISSING?
 
 
 24. RESEARCH DIRECTION AND PROVENANCE

@@ -59,10 +59,10 @@ A more defensible model is a STATE TRAJECTORY.
 At any moment, KLAAT has a position along several dimensions:
 
 
-Amastacia spectral density;
-Amastacia breath/pressure state;
-Ankora event rate;
-Ankora surface density;
+The didgeridoo spectral density;
+The didgeridoo breath/pressure state;
+The drum event rate;
+The drum surface density;
 underlying Pulse stability;
 accent structure;
 prediction strength;
@@ -129,8 +129,8 @@ Its hypothesized function is to establish a stable world from which later change
 A real Ground Anchor should therefore show some combination of:
 
 
-stable Amastacia identity;
-low Ankora activity or absence;
+stable the didgeridoo identity;
+low the drum activity or absence;
 relatively low rule-change rate;
 increasing listener familiarity/predictability;
 settling of room and bodily reference;
@@ -146,7 +146,7 @@ But “first section” is not a mechanism.
 5. THRESHOLD GATE MUST CHANGE THE MODEL
 
 
-Threshold Gate should not be defined as “Ankora starts.”
+Threshold Gate should not be defined as “the drum starts.”
 
 
 That would make the architecture tautological.
@@ -155,8 +155,8 @@ That would make the architecture tautological.
 The Gate is stronger if several independent indicators reorganize around a similar time:
 
 
-Ankora becomes predictively legible;
-Amastacia changes role or spectral state;
+The drum becomes predictively legible;
+The didgeridoo changes role or spectral state;
 event structure becomes countable;
 listener reports indicate a qualitative transition;
 movement or attention reorganizes;
@@ -181,7 +181,7 @@ The richer hypothesis is that Rising Pulse contains an ordered trajectory across
 surface density may rise;
 prediction may strengthen and then be violated;
 subdivision may increase while scaffold BPM remains stable;
-Amastacia may gate selected events;
+The didgeridoo may gate selected events;
 negative space may become strategically rarer or more consequential;
 bodily activation may rise without a proportional rise in SPL.
 
@@ -240,10 +240,10 @@ The useful principle is to ask whether independent methods identify transitions 
 Possible inputs include:
 
 
-Ankora onset density;
+The drum onset density;
 inter-onset intervals;
 accent strength;
-Amastacia spectral centroid or band-energy ratios;
+The didgeridoo spectral centroid or band-energy ratios;
 overall SPL;
 mechanical acceleration;
 movement magnitude;
@@ -317,7 +317,7 @@ So the strongest design uses at least two methods and looks for convergence.
 The measurement protocol must not turn the performance into a metronomic laboratory imitation.
 
 
-Core KLAAT remains Amastacia and Ankora performed by Paul.
+Core KLAAT remains the didgeridoo and drum performed by Paul.
 
 
 Human microtiming, breath, fatigue, pressure variation, and room interaction are part of the ecological performance.
@@ -371,10 +371,10 @@ Does Return Path reliably reorganize or withdraw that trajectory?
 A grammar should generate a family resemblance, not a clone.
 
 
-13. AMASTACIA’S ROLE ACROSS THE TRAJECTORY
+13. DIDGERIDOO’S ROLE ACROSS THE TRAJECTORY
 
 
-Amastacia should be analyzed as an active temporal and spectral agent, not background accompaniment.
+The didgeridoo should be analyzed as an active temporal and spectral agent, not background accompaniment.
 
 
 GROUND ANCHOR:
@@ -382,7 +382,7 @@ Field establishment, continuity, breath-scale change.
 
 
 THRESHOLD GATE:
-possible spectral opening, roughness shift, pressure change, or altered relationship to Ankora.
+possible spectral opening, roughness shift, pressure change, or altered relationship to the drum.
 
 
 RISING PULSE:
@@ -390,19 +390,19 @@ Field Gating, selective withdrawal, spectral counterweight, continuity beneath s
 
 
 RETURN PATH:
-reclamation of the Field after Ankora’s surface/scaffold withdraws.
+reclamation of the Field after the drum’s surface/scaffold withdraws.
 
 
-If Amastacia’s measurable behavior is identical throughout and only Ankora changes, then some of the current two-instrument grammar may be theoretical decoration.
+If the didgeridoo’s measurable behavior is identical throughout and only the drum changes, then some of the current two-instrument grammar may be theoretical decoration.
 
 
 That possibility must remain open.
 
 
-14. ANKORA’S ROLE ACROSS THE TRAJECTORY
+14. DRUM’S ROLE ACROSS THE TRAJECTORY
 
 
-Ankora provides the clearest discrete markers.
+The drum provides the clearest discrete markers.
 
 
 But its analysis must separate:
@@ -485,7 +485,7 @@ Context-dependent: there is no established change-point algorithm specifically v
 Context-dependent: continuous activation ratings may disrupt immersion enough to change the very state being studied.
 
 
-Context-dependent: the optimal temporal window for feature extraction depends on the variable — Ankora onsets can be resolved rapidly, while listener state may change more slowly.
+Context-dependent: the optimal temporal window for feature extraction depends on the variable — the drum onsets can be resolved rapidly, while listener state may change more slowly.
 
 
 Context-dependent: agreement between performer intention and listener segmentation may vary with experience, room position, attention, and familiarity with KLAAT.
@@ -497,13 +497,13 @@ Context-dependent: a detectable acoustic transition does not guarantee a meaning
 18. PLAUSIBLE / TESTABLE HYPOTHESES
 
 
-Plausible/testable: blind analysts can recover major transition windows from Amastacia/Ankora performance features at rates above chance.
+Plausible/testable: blind analysts can recover major transition windows from the didgeridoo and drum performance features at rates above chance.
 
 
 Plausible/testable: listener-reported state changes cluster near at least some intended KLAAT boundaries without listeners being told the four-phase model.
 
 
-Plausible/testable: Threshold Gate is better predicted by a multivariable change in clock legibility, Amastacia state, and listener response than by first Ankora onset alone.
+Plausible/testable: Threshold Gate is better predicted by a multivariable change in clock legibility, the didgeridoo state, and listener response than by first the drum onset alone.
 
 
 Plausible/testable: Rising Pulse can be identified through increasing surface density/prediction pressure while scaffold BPM remains approximately stable.
@@ -527,7 +527,7 @@ Speculation: KLAAT’s four phases may form a robust state trajectory that liste
 Speculation: the strongest perceptual boundary may not occur exactly where the performer intends it, revealing a systematic lag between delivered and perceived state.
 
 
-Speculation: Amastacia may carry more of the phase identity than currently assumed, especially in Ground Anchor and Return Path.
+Speculation: the didgeridoo may carry more of the phase identity than currently assumed, especially in Ground Anchor and Return Path.
 
 
 Speculation: the four-phase architecture may eventually be reducible to a smaller set of latent variables such as stability, clock strength, prediction pressure, and withdrawal.
@@ -572,7 +572,7 @@ Before treating the four-phase architecture as an empirically supported perceptu
 INTENDED TIMELINE — performer’s planned/marked phase intentions.
 
 
-DELIVERED TIMELINE — measured Amastacia/Ankora/acoustic/mechanical features.
+DELIVERED TIMELINE — measured the didgeridoo and drum/acoustic/mechanical features.
 
 
 RECEIVED TIMELINE — position-specific sound/mechanical exposure where measured.
@@ -611,13 +611,13 @@ REPLICATION MEANS FUNCTIONAL SIMILARITY, NOT IDENTICAL PERFORMANCE.
 This entire validation program leaves the musical object untouched.
 
 
-Amastacia remains the Drone / Field.
+The didgeridoo remains the Drone / Field.
 
 
-Ankora remains the Pulse / Event.
+The drum remains the Pulse / Event.
 
 
-Breath remains human and audible in the behavior of Amastacia.
+Breath remains human and audible in the behavior of the didgeridoo.
 
 
 Silence remains structural material.
@@ -647,7 +647,7 @@ The scientific question is whether the architecture Paul is already trying to pe
 23. KRX-065 — THE BLIND ARCHITECTURE TEST
 
 
-Perform one uninterrupted 20–30 minute KLAAT piece using only Amastacia and Ankora.
+Perform one uninterrupted 20–30 minute KLAAT piece using only the didgeridoo and drum.
 
 
 Before beginning, privately mark the intended phase plan and approximate transition windows. Do not reveal them to listeners or the later blind analyst.
@@ -657,7 +657,7 @@ Record synchronized:
 
 
 high-quality audio;
-video sufficient for Ankora onset/movement coding;
+video sufficient for the drum onset/movement coding;
 optional calibrated SPL;
 optional interface acceleration if the setup already supports it.
 
@@ -665,13 +665,13 @@ optional interface acceleration if the setup already supports it.
 Afterward derive a time series including at minimum:
 
 
-Ankora event density;
+The drum event density;
 inter-onset intervals;
 estimated scaffold BPM;
 surface-density/subdivision index;
 dynamic level;
-Amastacia spectral band ratios or another stable spectral descriptor;
-Amastacia amplitude/envelope;
+The didgeridoo spectral band ratios or another stable spectral descriptor;
+The didgeridoo amplitude/envelope;
 silence/negative-space duration.
 
 
@@ -710,7 +710,7 @@ DO INDEPENDENT VIEWS OF THE PERFORMANCE CONVERGE ON A STATE TRAJECTORY RESEMBLIN
 Secondary questions:
 
 
-Is first Ankora onset the perceived Gate, or does clock acquisition occur later?
+Is first the drum onset the perceived Gate, or does clock acquisition occur later?
 
 
 Can Rising Pulse be detected independently of loudness?
@@ -719,7 +719,7 @@ Can Rising Pulse be detected independently of loudness?
 Does Return Path appear as an ordered state change rather than merely an ending?
 
 
-Does Amastacia contribute measurable phase information beyond Ankora?
+Does the didgeridoo contribute measurable phase information beyond the drum?
 
 
 If the answer is yes across repeated performances, the four-phase architecture graduates from a useful artistic model toward an empirically supported KLAAT performance methodology.

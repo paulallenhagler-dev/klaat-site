@@ -11,7 +11,7 @@ Evidence status: A critical synthesis of primary experiments conducted with othe
 THE QUESTION
 
 
-KLAAT is not only an event to attend with eyes closed. Amastacia's sustained, breathing drone and Ankora's pulse can belong to daily life: walking, working with one's hands, drawing, traveling, and being alert in the ordinary world. This breadth matters artistically. An improvised performance can be absorbing without demanding that the listener abandon every other activity.
+KLAAT is not only an event to attend with eyes closed. The didgeridoo's sustained, breathing drone and the drum's pulse can belong to daily life: walking, working with one's hands, drawing, traveling, and being alert in the ordinary world. This breadth matters artistically. An improvised performance can be absorbing without demanding that the listener abandon every other activity.
 
 
 But “energizing” has an unresolved meaning. Does a soundtrack that makes someone feel more awake help them perform a demanding task? Can it simultaneously improve one measure of performance and impair another? Could an absorbing piece make monotonous driving feel less dull while making a rare, peripheral hazard harder to notice? The scientific answer is not a simple yes or no. It is that the endpoints must be separated, and the circumstances matter enormously.
@@ -29,7 +29,7 @@ At least six different variables can hide behind the sentence “this music keep
 Someone may feel intensely awake, maintain a lane more steadily, and still scan the periphery less often. A faster response to a lead car's change in speed may coexist with closer following distance. A person may prefer the music while becoming less attentive to an external warning. None of these contradictions is logically impossible; they arise because performance is multidimensional.
 
 
-For KLAAT, this gate prevents a tempting inference. If a listener says that Ankora makes a commute more energetic, the report establishes a subjective experience of energy. It does not demonstrate improved hazard perception, faster reaction, reduced fatigue, safer driving, or beneficial autonomic change. The listener may be sincere and the acoustic event may be powerful; the causal claim still requires independent evidence.
+For KLAAT, this gate prevents a tempting inference. If a listener says that the drum makes a commute more energetic, the report establishes a subjective experience of energy. It does not demonstrate improved hazard perception, faster reaction, reduced fatigue, safer driving, or beneficial autonomic change. The listener may be sincere and the acoustic event may be powerful; the causal claim still requires independent evidence.
 
 
 2. MONOTONOUS DRIVING: A REAL POSITIVE RESULT WITH NARROW BOUNDARIES
@@ -44,7 +44,7 @@ Music did not reduce car-following accuracy in this particular setting. It was a
 The finding is useful because it directly contradicts “any music must impair attention.” Under monotonous, relatively simple conditions, music may maintain engagement or arousal without degrading the measured task. Yet the experiment did not show that all music helps, that a driver is globally safer, or that increasing volume improves the effect. The task was car-following in a simulator, not an uncontrolled city street full of unpredictable conflicts. The physiological measures were proxies, not direct readouts of a unified mental state.
 
 
-It also does not establish anything about Amastacia or Ankora. KLAAT's long drone, broadband attacks, dynamic texture, and improvised recurrence may differ substantially from the music selected in the experiment. That uncertainty is a reason to preserve the distinction, not to assign a safety rating to KLAAT.
+It also does not establish anything about the didgeridoo or the drum. KLAAT's long drone, broadband attacks, dynamic texture, and improvised recurrence may differ substantially from the music selected in the experiment. That uncertainty is a reason to preserve the distinction, not to assign a safety rating to KLAAT.
 
 
 3. THE OPPOSITE RESULT: ATTENTION CAN NARROW
@@ -56,7 +56,7 @@ Beh and Hirst (1999) studied tracking and vigilance tasks under silence and musi
 This is one of the most important experimental contrasts in the session. Better central responses can coexist with worse peripheral responses. A single average reaction-time score would conceal that trade-off.
 
 
-Imagine an unchanged Ankora passage in which several strikes form an absorbing, recognizable pulse. That pulse could make a listener feel engaged; it might even help sustain alertness in a monotonous setting. But if the listener is also responsible for monitoring unpredictable events outside the center of attention, that engagement is not automatically beneficial. The hypothetical KLAAT mechanism is attention allocation, not a specific pulse frequency or a special neural entrainment state. The driving study did not test KLAAT, and the controlled task did not establish real-world collision risk.
+Imagine an unchanged the drum passage in which several strikes form an absorbing, recognizable pulse. That pulse could make a listener feel engaged; it might even help sustain alertness in a monotonous setting. But if the listener is also responsible for monitoring unpredictable events outside the center of attention, that engagement is not automatically beneficial. The hypothetical KLAAT mechanism is attention allocation, not a specific pulse frequency or a special neural entrainment state. The driving study did not test KLAAT, and the controlled task did not establish real-world collision risk.
 
 
 The key methodological lesson is broader than driving: a soundtrack's effect depends on which aspect of performance is measured. “Concentration” is not one outcome. Sustained vigilance, serial recall, visual scanning, peripheral detection, and motor control are different tasks with different vulnerabilities. Session 106 established that changing-state sound can disrupt serial-order memory. Session 113 extends the everyday-listening question to a safety-relevant trade-off among arousal, peripheral monitoring, and behavior.
@@ -65,7 +65,7 @@ The key methodological lesson is broader than driving: a soundtrack's effect dep
 4. AROUSAL IS NOT THE SAME AS TEMPO
 
 
-It is tempting to classify music by beats per minute and infer the resulting behavior. Ankora's provisional pulse around 137 BPM, and later faster versions of some reference material, might appear to invite such classification. That would be premature. A performed event rate is not the whole experience of musical speed, and perceived activation depends on timbre, loudness, familiarity, preference, rhythm, task, and context.
+It is tempting to classify music by beats per minute and infer the resulting behavior. The drum's provisional pulse around 137 BPM, and later faster versions of some reference material, might appear to invite such classification. That would be premature. A performed event rate is not the whole experience of musical speed, and perceived activation depends on timbre, loudness, familiarity, preference, rhythm, task, and context.
 
 
 Navarro, Osiurak, and Reynaud (2018) conducted three experiments manipulating background music during car-following. One experiment altered a driver's preferred track by plus or minus 30 percent tempo; another compared tracks of different tempos; a third contrasted arousing and relaxing tracks. Their conclusion was especially instructive: tempo itself did not consistently determine driving behavior. Arousing music improved responsiveness to changes in the lead vehicle, but it also shortened the intervehicle safety margin. Better adjustment did not amount to improved safety [3].
@@ -107,7 +107,7 @@ Van der Zwaag and colleagues (2012) used individually selected music in simulate
 The physiology is a useful warning against reducing “activation” to a single bodily channel. Music-related mood regulation can occur without a detectable heart-rate difference in the measured setting. Lower respiration rate does not necessarily mean sedation, improved driving, vagal entrainment, or that the driver's breathing synchronized to the music. The experimental result is a group-level comparison in a particular simulator protocol.
 
 
-KLAAT's breath-led acoustic identity makes respiratory interpretations especially tempting. A continuous Amastacia drone is produced by an active breathing musician, but it does not automatically entrain the listener's respiration. The performer, acoustic signal, and listener have distinct physiological clocks. A person might hear the breath texture and report calm or activation while their measured respiration does something else. Both measurements can be valid.
+KLAAT's breath-led acoustic identity makes respiratory interpretations especially tempting. A continuous the didgeridoo drone is produced by an active breathing musician, but it does not automatically entrain the listener's respiration. The performer, acoustic signal, and listener have distinct physiological clocks. A person might hear the breath texture and report calm or activation while their measured respiration does something else. Both measurements can be valid.
 
 
 7. THE UNHEARD WARNING
@@ -119,7 +119,7 @@ Driving adds an outcome that ordinary music-listening questionnaires often ignor
 Antin, Lauretta, and Wolf (1991) tested 24 people with auditory warning tones under recorded vehicle noise and radio conditions. They measured intensity relative to masked threshold needed for consistent detection and listeners' preferred warning intensity. The preferred and detectable levels did not coincide in the same way across backgrounds; the radio condition was different enough that the authors recommended further research on automatically muting entertainment audio during critical warnings [8].
 
 
-This does not mean Amastacia's low fundamental would necessarily mask a siren or that Ankora's attacks would necessarily obscure a horn. Actual overlap depends on the spectrum reaching the ear, not on the name of the instrument. But it demonstrates why loudness preference, enjoyment, and safety-critical signal detection cannot be collapsed into one score.
+This does not mean the didgeridoo's low fundamental would necessarily mask a siren or that the drum's attacks would necessarily obscure a horn. Actual overlap depends on the spectrum reaching the ear, not on the name of the instrument. But it demonstrates why loudness preference, enjoyment, and safety-critical signal detection cannot be collapsed into one score.
 
 
 For everyday KLAAT listening, the implication is not to redesign the improvisation. It is to recognize that playback level and listening environment are part of the experiment. An unedited recording can be artistically intact while being unsuitable at a level that interferes with awareness of surroundings. That is a delivery and context issue, not a defect in the musical material.
@@ -134,7 +134,7 @@ Brodsky's earlier 2001 simulator work reported faster simulated driving and more
 The appropriate synthesis is conditional. Music can influence speed or risk measures in some designs, but a universal tempo-to-speed law is not supported. The driver's experience, task demand, music familiarity, manipulation method, and measurement endpoint may change the result. The causal question is not “does a 137-BPM beat make people drive at a corresponding speed?” There is no meaningful direct conversion from BPM to miles per hour. The question is whether the particular listening condition changes behavior relative to a relevant comparison.
 
 
-KLAAT should therefore resist a second category error: equating a felt musical acceleration with a measured increase in physical action. Session 103 distinguished locomotor vigor from exact synchronization; this session distinguishes music-related arousal from task-specific safety and performance. The fact that Ankora can energize a listener is an artistic possibility worth exploring. It is not a license to claim improved driving.
+KLAAT should therefore resist a second category error: equating a felt musical acceleration with a measured increase in physical action. Session 103 distinguished locomotor vigor from exact synchronization; this session distinguishes music-related arousal from task-specific safety and performance. The fact that the drum can energize a listener is an artistic possibility worth exploring. It is not a license to claim improved driving.
 
 
 9. WHY KLAAT MAY BE DIFFERENT—AND WHY WE DO NOT KNOW
@@ -146,10 +146,10 @@ Much of the driving literature uses familiar songs, participant-selected playlis
 Three plausible, mutually compatible KLAAT hypotheses can be stated without pretending they are results.
 
 
-HYPOTHESIS A — CONTINUOUS PRESENCE: Amastacia's drone could provide a stable, nonverbal acoustic backdrop that some listeners find less intrusive than changing-state, lyric-heavy music. Alternatively, its shifting harmonics and noise could draw attention or mask environmental cues. We cannot decide from the instrument name.
+HYPOTHESIS A — CONTINUOUS PRESENCE: the didgeridoo's drone could provide a stable, nonverbal acoustic backdrop that some listeners find less intrusive than changing-state, lyric-heavy music. Alternatively, its shifting harmonics and noise could draw attention or mask environmental cues. We cannot decide from the instrument name.
 
 
-HYPOTHESIS B — TRANSIENT ORIENTING: Ankora's impacts could help maintain subjective alertness in an otherwise monotonous setting. The same impacts might distract from a concurrent warning or external event. A change in alertness is not a demonstrated gain in task accuracy.
+HYPOTHESIS B — TRANSIENT ORIENTING: the drum's impacts could help maintain subjective alertness in an otherwise monotonous setting. The same impacts might distract from a concurrent warning or external event. A change in alertness is not a demonstrated gain in task accuracy.
 
 
 HYPOTHESIS C — ABSORPTION TRADE-OFF: Some listeners may become absorbed in KLAAT's evolving perceptual field, which could be rewarding during dedicated listening or creative work. That same absorption might be unwelcome during tasks demanding immediate response to unpredictable hazards. Performer flow, listener absorption, and task performance must remain independent observations.
@@ -203,7 +203,7 @@ ESTABLISHED IN NON-KLAAT EXPERIMENTS: Music can affect mood, subjective arousal,
 CONTEXT-DEPENDENT: Tempo effects vary across designs; preferred music can improve enjoyment without improving safety; task load, listening level, age, experience, and background sound matter. A simulator outcome should not be presented as a real-world crash rate. Respiratory or cardiac differences are not direct proof of a particular mental state.
 
 
-PLAUSIBLE AND TESTABLE FOR KLAAT: Amastacia's sustained acoustic continuity and Ankora's intermittent attacks may influence energy, absorption, distraction, and task engagement differently across listening contexts. Existing unedited recordings could support safe comparisons during ordinary, nonhazardous desk tasks or dedicated listening. There is no known effect direction or size.
+PLAUSIBLE AND TESTABLE FOR KLAAT: the didgeridoo's sustained acoustic continuity and the drum's intermittent attacks may influence energy, absorption, distraction, and task engagement differently across listening contexts. Existing unedited recordings could support safe comparisons during ordinary, nonhazardous desk tasks or dedicated listening. There is no known effect direction or size.
 
 
 SPECULATIVE: KLAAT's combination of stable drone and emerging pulse may produce a distinctive balance of alertness and immersion. This is a possible artistic-perceptual signature, not a validated property or a brain-state discovery.
@@ -218,7 +218,7 @@ UNSUPPORTED: KLAAT improves driving, reaction time, focus, productivity, road sa
 KLAAT's larger scientific question is not whether it should become a driving soundtrack. It is whether its activation and absorption can be described precisely enough to know when those experiences support, coexist with, or compete against an external task. That question has a richer answer than “fast music energizes” or “repetitive music induces trance.”
 
 
-The immediate next step is not to modify Amastacia's pitch or Ankora's pulse. It is to collect the recordings Paul already makes, document their acoustic character honestly, and ask listeners what actually happens. A soundtrack that feels strong may be a wonderful artistic achievement without becoming a performance-enhancement tool. Science can help preserve that distinction.
+The immediate next step is not to modify the didgeridoo's pitch or the drum's pulse. It is to collect the recordings Paul already makes, document their acoustic character honestly, and ask listeners what actually happens. A soundtrack that feels strong may be a wonderful artistic achievement without becoming a performance-enhancement tool. Science can help preserve that distinction.
 
 
 OPTIONAL KLAAT OBSERVATION — KRX-113 (SAFE, NON-DRIVING)
@@ -230,7 +230,7 @@ Choose one existing, unchanged two- or three-minute KLAAT recording. On a quiet 
 THE RETURN
 
 
-Amastacia can hold a world open. Ankora can make that world move. Neither instrument can steer a car, scan a blind corner, or guarantee a safer decision. KLAAT's ambition to be an energizing everyday soundtrack is artistically sound; the research task is to discover where its effects begin, where they end, and what remains uncertain. Activation is an experience. Performance is an observation. Safety is an outcome that must be earned by evidence.
+The didgeridoo can hold a world open. The drum can make that world move. Neither instrument can steer a car, scan a blind corner, or guarantee a safer decision. KLAAT's ambition to be an energizing everyday soundtrack is artistically sound; the research task is to discover where its effects begin, where they end, and what remains uncertain. Activation is an experience. Performance is an observation. Safety is an outcome that must be earned by evidence.
 
 
 Experience-led creation. Science-informed refinement.

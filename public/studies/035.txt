@@ -17,4 +17,4 @@ Established: vibrotactile thresholds vary with stimulus parameters and anatomy. 
 
 
 KLAAT test
-Place a listener at increasing distances from Ankora or a coupled source. Record the point where vibration is first detectable, clearly present, and dominant relative to hearing.
+Place a listener at increasing distances from the drum or a coupled source. Record the point where vibration is first detectable, clearly present, and dominant relative to hearing.

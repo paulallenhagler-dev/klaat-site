@@ -8,7 +8,7 @@ GUIDING PRINCIPLE: EXPERIENCE-LED CREATION. SCIENCE-INFORMED REFINEMENT.
 
 
 CENTRAL QUESTION
-When Paul plays Amastacia and Ankora instinctively and enters an unusually absorbed, trance-like state, what—if anything—does that state tell us about what another person hears or experiences? Can KLAAT preserve the freedom that produces the music while learning which audible features invite listeners into their own forms of absorption, bodily engagement, or activation?
+When Paul plays the didgeridoo and drum instinctively and enters an unusually absorbed, trance-like state, what—if anything—does that state tell us about what another person hears or experiences? Can KLAAT preserve the freedom that produces the music while learning which audible features invite listeners into their own forms of absorption, bodily engagement, or activation?
 
 
 GOVERNING DISTINCTION
@@ -16,14 +16,14 @@ THE PERFORMER'S STATE IS AN EXPERIENCE. THE RECORDING IS AN ACOUSTIC EVENT. THE 
 
 
 1. WHY THIS IS THE NEXT STUDY
-Sessions 77 and 78 asked whether Ankora's rhythmic activity can grow without making its underlying Clock difficult to recover. That is a useful question, but the discussion risked quietly turning a spontaneous art into a set of mandatory rhythmic arrangements. The latest research direction clarifies the proper relationship: KLAAT already exists as an evolving, personal, improvised sound-world. Science should help explain and document what emerges, develop technical fluency, and test the response to actual performances. It should not tell Paul what his next beat, breath, section, or tempo must be.
+Sessions 77 and 78 asked whether the drum's rhythmic activity can grow without making its underlying Clock difficult to recover. That is a useful question, but the discussion risked quietly turning a spontaneous art into a set of mandatory rhythmic arrangements. The latest research direction clarifies the proper relationship: KLAAT already exists as an evolving, personal, improvised sound-world. Science should help explain and document what emerges, develop technical fluency, and test the response to actual performances. It should not tell Paul what his next beat, breath, section, or tempo must be.
 
 
 The accumulated Library hourly notes were reviewed; the newest available file is dated October 5, 2026, 18:33 CDT, and there are no newer hourly notes after Session 78. The existing archive contains substantial work on physical coupling, timing, perception, and measurement, but no verified KLAAT performer–listener dataset. The strongest unresolved direction is therefore a missing link: performer flow versus listener experience. This is a synthesis of primary research, not a report of a completed KLAAT experiment.
 
 
 2. THREE EXPERIENCES OF ONE PERFORMANCE
-Imagine Paul performing an uninterrupted KLAAT passage. The agave didgeridoo Amastacia sustains a low C# Field, reshaped by breath and vocal-tract articulation. Ankora, the elk-hide frame drum, introduces a repeating, human-timed Pulse. The relationship shifts without a written score. Paul feels unusually present; gestures seem to arrive without deliberation. He might experience time passing differently or lose awareness of ordinary self-monitoring.
+Imagine Paul performing an uninterrupted KLAAT passage. The agave didgeridoo the didgeridoo sustains a low C# Field, reshaped by breath and vocal-tract articulation. The drum, introduces a repeating, human-timed Pulse. The relationship shifts without a written score. Paul feels unusually present; gestures seem to arrive without deliberation. He might experience time passing differently or lose awareness of ordinary self-monitoring.
 
 
 A listener receives a different set of information. The listener hears air-pressure fluctuations after the room, microphone, speaker, or headphones have changed them. They do not directly receive Paul's motor commands, muscular effort, attentional state, or sense of time. They can infer expressive intention from sound and, at a live event, from visible movement. They may feel energized, deeply absorbed, restless, soothed, unsettled, or nothing special. The same passage can support different responses.
@@ -46,7 +46,7 @@ Primary source: Limb CJ & Braun AR (2008), PLOS ONE 3:e1679, DOI 10.1371/journal
 Pinho and colleagues (2014) studied 39 professional pianists with varying improvisation backgrounds. Greater improvisation experience was associated with lower activity in some frontoparietal executive areas during improvisation and stronger functional connectivity between prefrontal and premotor areas, even after controlling for age and classical practice hours. Their interpretation was that training can make the online generation of novel music more efficient.
 
 
-That suggests a productive way to understand KLAAT technique. Circular breathing, breath articulation, switching attention between Amastacia and Ankora, recovering after an irregular strike, and sustaining a pulse are trainable capacities. Developing them may free attentional resources for spontaneous choice. Skill practice does not have to become a compositional prescription. The purpose of a technical exercise is to make the instrument less obstructive when Paul plays instinctively.
+That suggests a productive way to understand KLAAT technique. Circular breathing, breath articulation, switching attention between the didgeridoo and drum, recovering after an irregular strike, and sustaining a pulse are trainable capacities. Developing them may free attentional resources for spontaneous choice. Skill practice does not have to become a compositional prescription. The purpose of a technical exercise is to make the instrument less obstructive when Paul plays instinctively.
 
 
 Caution: this is correlational evidence across musicians. It cannot establish that a particular KLAAT exercise causes a specific brain-network change or guarantees flow.
@@ -96,7 +96,7 @@ Primary source: Juslin PN (2000), Journal of Experimental Psychology: Human Perc
 
 
 9. THE ACTUAL KLAAT SIGNAL IS RICHER THAN A BPM
-Amastacia is not merely a C# frequency. Its sound includes a harmonic spectrum, formant-like emphasis from vocal-tract movement, breath noise, attack and release gestures, loudness changes, and room-dependent coloration. A low fundamental does not guarantee strong mechanical vibration at the listener's body; playback equipment may suppress it. Ankora is not merely a 137-BPM metronome. It produces variable attacks, resonances, decays, microtiming, and accent relations. The two sources coexist in one auditory scene.
+The didgeridoo is not merely a C# frequency. Its sound includes a harmonic spectrum, formant-like emphasis from vocal-tract movement, breath noise, attack and release gestures, loudness changes, and room-dependent coloration. A low fundamental does not guarantee strong mechanical vibration at the listener's body; playback equipment may suppress it. The drum is not merely a 137-BPM metronome. It produces variable attacks, resonances, decays, microtiming, and accent relations. The two sources coexist in one auditory scene.
 
 
 This matters because Paul's spontaneous state may be expressed through microscopic decisions rather than a dramatic section change. A slightly delayed strike, a rough breath edge, a held drone tone, or an unplanned quiet moment may be what makes the recording feel alive. These are candidates for analysis after the fact, not targets Paul must manufacture to satisfy a theory.
@@ -125,34 +125,34 @@ Trance-like or altered awareness: an experiential description that may include t
 The terms may overlap in one person, but KLAAT research should not collapse them into a single score called 'resonance.'
 
 
-12. AMASTACIA: THE BREATH IS A MOTOR ACT BEFORE IT IS A LISTENER EFFECT
+12. DIDGERIDOO: THE BREATH IS A MOTOR ACT BEFORE IT IS A LISTENER EFFECT
 Circular breathing, when used, coordinates stored oral air pressure, nasal inhalation, embouchure, and ongoing drone production. It is an embodied skill for Paul. The sound it produces may appear continuous to a listener even while the performer's breathing mechanics change. Thus, a breath-linked physiological event in the player need not have an obvious corresponding event in the recording. Conversely, an audible change in spectral color may be highly salient to the listener even if it feels technically routine to Paul.
 
 
 KLAAT's science can help Paul compare takes for unwanted breaks, breath noise, sustained tone, or tonal control when he wants that feedback. It should not turn breathing into a required respiratory cadence or claim that listeners' breathing automatically follows the didgeridoo player's breathing. That is an empirical question requiring simultaneous measurements.
 
 
-13. ANKORA: MOTOR FLUENCY MAKES ROOM FOR CHOICE
-A recurring frame-drum pattern can become increasingly familiar to the player through practice. Motor familiarity may permit attention to move toward phrasing, dynamics, interplay with Amastacia, and the overall feeling of the moment. It does not mean the pattern must be rigid or that the listener perceives exactly the player's internal beat.
+13. DRUM: MOTOR FLUENCY MAKES ROOM FOR CHOICE
+A recurring frame-drum pattern can become increasingly familiar to the player through practice. Motor familiarity may permit attention to move toward phrasing, dynamics, interplay with the didgeridoo, and the overall feeling of the moment. It does not mean the pattern must be rigid or that the listener perceives exactly the player's internal beat.
 
 
-Earlier sessions investigated recoverable meter, density, accents, and timbral grouping. Those remain valuable descriptive tools. The crucial correction is that they are optional ways to understand something Ankora already does. They are not an instruction to divide every performance into an Anchor layer and a Surface layer, nor to intensify at a specified bar. If an improvised passage feels powerful precisely because the beat drifts or becomes ambiguous, the research should document that rather than label it a compositional error.
+Earlier sessions investigated recoverable meter, density, accents, and timbral grouping. Those remain valuable descriptive tools. The crucial correction is that they are optional ways to understand something the drum already does. They are not an instruction to divide every performance into an Anchor layer and a Surface layer, nor to intensify at a specified bar. If an improvised passage feels powerful precisely because the beat drifts or becomes ambiguous, the research should document that rather than label it a compositional error.
 
 
 14. THE FOUR-PHASE ARCHITECTURE AS A LENS, NOT A SCORE
 Ground Anchor, Threshold Gate, Rising Pulse, and Return Path remain useful names for broad experiences sometimes heard in KLAAT. They need not be mandatory steps, equal-duration sections, or a checklist Paul must remember while playing.
 
 
-Ground Anchor may describe the moment Amastacia's sound-world becomes established. It may happen immediately, gradually, or alongside drumming.
+Ground Anchor may describe the moment the didgeridoo's sound-world becomes established. It may happen immediately, gradually, or alongside drumming.
 
 
-Threshold Gate may describe the listener's recognition of a recurring Ankora pulse or another perceptual crossing. It is not necessarily the first drum strike.
+Threshold Gate may describe the listener's recognition of a recurring the drum pulse or another perceptual crossing. It is not necessarily the first drum strike.
 
 
 Rising Pulse may describe an emergent increase in felt urgency, whether from density, accent, roughness, loudness, or a combination. It need not be a deliberate tempo ramp.
 
 
-Return Path may describe the listener's perception of release, thinning, disappearance of an expectation, or re-exposure of Amastacia's Field. Some genuine KLAAT performances may end differently.
+Return Path may describe the listener's perception of release, thinning, disappearance of an expectation, or re-exposure of the didgeridoo's Field. Some genuine KLAAT performances may end differently.
 
 
 Use these labels retrospectively when they illuminate a recording. If a passage does not fit, preserve the passage; revise the descriptive vocabulary if necessary. The music has priority.
@@ -226,7 +226,7 @@ Paul does not need to compose toward a questionnaire. He needs to play, keep the
 Purpose: Find out whether Paul's felt performance state and listeners' responses are related in his actual KLAAT sound, without changing how he composes.
 
 
-On two ordinary days, record one natural 8–15-minute Amastacia/Ankora take each. Do not impose a tempo, phase plan, crescendo, or special technique. Record at a consistent, non-clipping level and note the room, microphone position, and whether both instruments were present throughout. Immediately after each take—before listening back—Paul can jot down three short ratings (0–10): personal absorption/flow, felt physical effort, and sense of creative freedom, plus one sentence about what he remembers. This should take under a minute and must not interrupt the music.
+On two ordinary days, record one natural 8–15-minute the didgeridoo and drum take each. Do not impose a tempo, phase plan, crescendo, or special technique. Record at a consistent, non-clipping level and note the room, microphone position, and whether both instruments were present throughout. Immediately after each take—before listening back—Paul can jot down three short ratings (0–10): personal absorption/flow, felt physical effort, and sense of creative freedom, plus one sentence about what he remembers. This should take under a minute and must not interrupt the music.
 
 
 Invite roughly 6–10 consenting listeners to hear both recordings in randomized order at comfortable levels, ideally on the same playback setup per listener. Do not tell them which take Paul liked or which one he found more immersive. Ask first for an unprompted description. Then collect separate 0–10 ratings for absorption, felt energy, urge to move, and desire to hear the piece again. Allow 'not applicable.' Ask whether they would use it for quiet listening, everyday activity, both, or neither. A listener can also identify a particularly compelling moment if one occurred, but no phase labels are required.
@@ -240,7 +240,7 @@ WHEN PAUL DISAPPEARS INTO THE ACT OF PLAYING, WHAT CAN A LISTENER ACTUALLY HEAR�
 
 
 CONCLUSION
-KLAAT is not a laboratory composition waiting to be optimized. It is a living practice with an established identity: Amastacia's resonant breath, Ankora's organic pulse, raw texture, duration, repetition, and the feeling of an ancient acoustic world emerging in real time. The strongest science-informed approach is to make the techniques more fluent, the recordings more faithful, and the observations more honest. A theory is useful only when it helps Paul understand the music he already makes or reveals a genuine listener response worth investigating. Experience leads; science refines.
+KLAAT is not a laboratory composition waiting to be optimized. It is a living practice with an established identity: the didgeridoo's resonant breath, the drum's organic pulse, raw texture, duration, repetition, and the feeling of an ancient acoustic world emerging in real time. The strongest science-informed approach is to make the techniques more fluent, the recordings more faithful, and the observations more honest. A theory is useful only when it helps Paul understand the music he already makes or reveals a genuine listener response worth investigating. Experience leads; science refines.
 
 
 RESEARCH REFERENCES

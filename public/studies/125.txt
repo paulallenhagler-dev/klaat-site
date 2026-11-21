@@ -14,7 +14,7 @@ Critical synthesis of original statistical methods and pilot-design literature, 
 THE QUESTION
 
 
-Imagine that Paul shares one uninterrupted Amastacia–Ankora recording with twelve people. Eight say that they noticed a bodily sensation. It would be natural to describe the result as “two-thirds of listeners felt KLAAT in their bodies.” The arithmetic is correct: 8/12 is 66.7%. But what exactly does that percentage mean? How much could it vary with twelve different people? What if the listeners are friends, some hear through phone speakers, several hear multiple takes, or the question itself prompts them to search for a bodily sensation?
+Imagine that Paul shares one uninterrupted the didgeridoo–the drum recording with twelve people. Eight say that they noticed a bodily sensation. It would be natural to describe the result as “two-thirds of listeners felt KLAAT in their bodies.” The arithmetic is correct: 8/12 is 66.7%. But what exactly does that percentage mean? How much could it vary with twelve different people? What if the listeners are friends, some hear through phone speakers, several hear multiple takes, or the question itself prompts them to search for a bodily sensation?
 
 
 The central finding is simple and surprisingly consequential: A COUNT is an observation. A PERCENTAGE is a description of that count. A POPULATION CLAIM requires a defined population, a defensible sampling process, and uncertainty appropriate to the design. A MECHANISTIC CLAIM requires still more. These are not interchangeable achievements.
@@ -223,7 +223,7 @@ KLAAT now has a REPORT-PROPORTION VALIDITY GATE. Before turning first-listen res
 For the first eight to fifteen listeners, default to counts, original quotations where permission permits, individual 0–10 distributions, and explicit denominators. If an interval is shown as an educational sensitivity illustration, label the binomial assumptions and explain why the pilot does not support population generalization. Do not create a new threshold for “activated” simply to produce a clean success percentage. Retain the locked KLS-001 protocol and note any future amendment transparently rather than quietly changing what “blind-first” meant.
 
 
-The deeper artistic point is that science can protect KLAAT from being flattened into a success statistic. Amastacia's sustained breath, Ankora's unforced rhythmic development, and Paul's performer flow are not judged by how many people check a box. The music may become a ceremonial immersion for one listener and an energizing daily soundtrack for another. The first study should make room for both, and for disagreement. A strong archive is one that preserves what people actually said before it tells a story about what the sound supposedly did.
+The deeper artistic point is that science can protect KLAAT from being flattened into a success statistic. The didgeridoo's sustained breath, the drum's unforced rhythmic development, and Paul's performer flow are not judged by how many people check a box. The music may become a ceremonial immersion for one listener and an energizing daily soundtrack for another. The first study should make room for both, and for disagreement. A strong archive is one that preserves what people actually said before it tells a story about what the sound supposedly did.
 
 
 OPTIONAL OBSERVATION — KRX-125: THE TWELVE-VOICE REPORT TEMPLATE

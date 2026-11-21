@@ -11,7 +11,7 @@ Experience-led creation. Science-informed refinement.
 CENTRAL QUESTION
 
 
-When Paul is playing Amastacia and Ankora, should his attention be on the lips, breath, hand, and coordination mechanisms—or on the sound those mechanisms are making? And does scientific evidence really justify telling an improviser that one kind of attention is always better?
+When Paul is playing the didgeridoo and drum, should his attention be on the lips, breath, hand, and coordination mechanisms—or on the sound those mechanisms are making? And does scientific evidence really justify telling an improviser that one kind of attention is always better?
 
 
 The short answer is that a performer can legitimately use different attentional targets at different moments, but the evidence does not support a universal rule. Several music experiments favor attention directed toward the audible effect of movement rather than its bodily mechanics. A major 2024 publication-bias-adjusted reanalysis, however, sharply reduced the estimated average advantage of external focus across the wider motor-learning literature. A 2026 experiment found an advantage for internal attention in a different, proprioception-heavy adaptation task. The scientifically useful conclusion is not to pick a permanent focus. It is to separate the question of repairing a technical gesture from the question of allowing an already available gesture to become part of spontaneous music.
@@ -32,16 +32,16 @@ The most recent hourly work has instead concentrated on website audio controls, 
 2. THREE DIFFERENT TARGETS OF ATTENTION
 
 
-INTERNAL MOVEMENT FOCUS means directing attention toward bodily actions: the shape of the embouchure, pressure of the tongue, cheek compression during circular breathing, hand trajectory before an Ankora strike, or the sensation of a particular muscle group. These observations may be important when learning an unfamiliar physical maneuver or investigating discomfort.
+INTERNAL MOVEMENT FOCUS means directing attention toward bodily actions: the shape of the embouchure, pressure of the tongue, cheek compression during circular breathing, hand trajectory before an the drum strike, or the sensation of a particular muscle group. These observations may be important when learning an unfamiliar physical maneuver or investigating discomfort.
 
 
-EXTERNAL MOVEMENT-EFFECT FOCUS means directing attention toward what the action does: whether Amastacia's audible drone remains continuous, how a drum impact blooms and decays, whether a transition sounds fluid, or how the sound occupies the room. The word 'external' does not mean emotionally detached. The sound is an external consequence of the body's action.
+EXTERNAL MOVEMENT-EFFECT FOCUS means directing attention toward what the action does: whether the didgeridoo's audible drone remains continuous, how a drum impact blooms and decays, whether a transition sounds fluid, or how the sound occupies the room. The word 'external' does not mean emotionally detached. The sound is an external consequence of the body's action.
 
 
 OPEN, IMPROVISATIONAL ATTENTION is not simply the same as an experimental external-focus instruction. During KLAAT, attention may move among sound, bodily sensation, felt pulse, room, emerging imagery, and other experiences without verbal instruction. Paul's deep flow-like state is a genuine report of his experience, but it is not a measured attentional category or proof of a specific neural state.
 
 
-These three are not mutually exclusive across an entire performance. An instant of lip awareness need not ruin flow. Listening to Ankora's decay does not guarantee technical accuracy. And not monitoring every movement consciously does not mean the performer lacks technique.
+These three are not mutually exclusive across an entire performance. An instant of lip awareness need not ruin flow. Listening to the drum's decay does not guarantee technical accuracy. And not monitoring every movement consciously does not mean the performer lacks technique.
 
 
 3. THE CLASSIC RESEARCH RESULT: SOUND CAN GUIDE THE HAND
@@ -50,16 +50,16 @@ These three are not mutually exclusive across an entire performance. An instant 
 Duke, Cash, and Allen (2011) tested 16 music majors playing a short keyboard passage under four counterbalanced focus conditions: fingers, keys, piano hammers, and produced sound. Across 64 experimental sessions, the researchers used MIDI to quantify performance. Their reported pattern favored attention to the effects of movement, with more distal effects generally associated with more accurate, generalizable motor control [1].
 
 
-This is directly intelligible for KLAAT: an experienced player might listen for the unbroken sound of Amastacia instead of mentally checking every muscle involved in the breath handoff. But the experiment used a short, predetermined keyboard task with an explicit accuracy criterion. It did not involve a didgeridoo, an elk-hide drum, simultaneous playing, prolonged improvisation, or subjective trance. The result cannot be used to say that Paul should think about his sound at every instant.
+This is directly intelligible for KLAAT: an experienced player might listen for the unbroken sound of the didgeridoo instead of mentally checking every muscle involved in the breath handoff. But the experiment used a short, predetermined keyboard task with an explicit accuracy criterion. It did not involve a didgeridoo, an drum, simultaneous playing, prolonged improvisation, or subjective trance. The result cannot be used to say that Paul should think about his sound at every instant.
 
 
-Atkins (2017) examined 20 trained singers under six attentional instructions while they performed a vocalise, a familiar song phrase, and a prepared solo. Expert raters evaluated seven dimensions of tone. Ratings for ring and overall tone quality tended to improve as attention was directed farther away from the singer, including toward imagined room-filling sound [2]. That is a useful analogy for a wind-driven drone: a player can sometimes coordinate a complex body by orienting toward its audible result. It is not proof that vocal-tract resonance in Amastacia changes in the same way or that a particular room-imagery instruction improves circular breathing.
+Atkins (2017) examined 20 trained singers under six attentional instructions while they performed a vocalise, a familiar song phrase, and a prepared solo. Expert raters evaluated seven dimensions of tone. Ratings for ring and overall tone quality tended to improve as attention was directed farther away from the singer, including toward imagined room-filling sound [2]. That is a useful analogy for a wind-driven drone: a player can sometimes coordinate a complex body by orienting toward its audible result. It is not proof that vocal-tract resonance in the didgeridoo changes in the same way or that a particular room-imagery instruction improves circular breathing.
 
 
 Mornell and Wulf (2019) tested skilled musicians playing chosen prepared works under external, internal, and normal-performance instructions. In two experiments, expert raters favored the external-focus condition for musical expression. Technical precision did not improve in the first experiment; in the second, it was higher for external than internal focus under more detailed rating criteria [3]. This is an especially important distinction: musical expression and technical precision were not the same dependent variable, and they did not always move together.
 
 
-For KLAAT, this protects the possibility that a passage can be compelling while imperfect, and that a technical improvement need not make the passage more moving. An improvisation's success cannot be inferred solely from the absence of an audible breath seam or from regularity of Ankora's strikes.
+For KLAAT, this protects the possibility that a passage can be compelling while imperfect, and that a technical improvement need not make the passage more moving. An improvisation's success cannot be inferred solely from the absence of an audible breath seam or from regularity of the drum's strikes.
 
 
 4. A QUANTITATIVE MUSIC EXPERIMENT: WHAT CHANGED, AND WHAT DID NOT
@@ -120,7 +120,7 @@ Perkins-Ceccato, Passmore, and Lee (2003) compared ten highly skilled and ten le
 But Jentzsch and Braun's piano experiment did not find an expertise-by-focus interaction [4]. Moreover, the amateur piano sample did not include complete beginners or top professional performers. The 2026 adaptation study's results further suggest that sensory requirements—not merely years of practice—can matter [7]. It is therefore too simple to tell Paul, 'You are experienced, so always focus outward,' or 'You are still refining circular breathing, so always focus inward.' Different components of the same KLAAT session can be at different stages of fluency.
 
 
-Paul may be highly experienced at hearing the natural development of his music and at feeling Ankora's pulse, while a specific cheek-to-lung air transfer is still technically fragile. Expertise is multidimensional. The scientific task is to identify the particular coordination question, not assign the whole artist a single level.
+Paul may be highly experienced at hearing the natural development of his music and at feeling the drum's pulse, while a specific cheek-to-lung air transfer is still technically fragile. Expertise is multidimensional. The scientific task is to identify the particular coordination question, not assign the whole artist a single level.
 
 
 8. WHAT COUNTS AS A KLAAT TECHNICAL OUTCOME?
@@ -129,7 +129,7 @@ Paul may be highly experienced at hearing the natural development of his music a
 For a fixed piano score, a wrong note can be counted. For KLAAT, a predetermined note sequence is the wrong measurement frame. Instead, technique can be assessed against the player's own immediate intention without defining what the composition must be.
 
 
-Possible acoustic observables include the duration and spectral change of a breath handoff; whether the drone audibly drops out when the player intended continuity; the timing and strength of Ankora attacks during an independently identified transition; or whether unwanted contact noise appears during a new hand movement. These are properties of a recording, not verdicts about the artwork. An intentionally audible breath, a momentary drone interruption, or a rough strike can remain artistically right.
+Possible acoustic observables include the duration and spectral change of a breath handoff; whether the drone audibly drops out when the player intended continuity; the timing and strength of the drum attacks during an independently identified transition; or whether unwanted contact noise appears during a new hand movement. These are properties of a recording, not verdicts about the artwork. An intentionally audible breath, a momentary drone interruption, or a rough strike can remain artistically right.
 
 
 Possible performer-reported observables include perceived effort, freedom of movement, fatigue, tension, ease of returning to the drone, and whether attention felt captured by a troublesome gesture. Those are subjective reports, not acoustic measurements. Video may show hand placement, but a camera angle cannot directly measure lip pressure, airflow, or muscle coordination. Physiological sensors would be a third, separate category; none are currently available for this session.
@@ -150,13 +150,13 @@ In a technique investigation, it can be legitimate to examine one specific movem
 There is a further subtlety: the musician's felt flow is not an objective guarantee that the technique was more accurate. Conversely, being momentarily conscious of a difficult transition does not prove that the musical result was less affecting. The literature contains measures of performance accuracy, expressive ratings, and motor adaptation—not a validated equation linking attention to improvisational flow and listener trance.
 
 
-KLAAT's living identity is not a puzzle to be optimized into identical outputs. Amastacia's continuous C#-centered drone can be steady while its harmonics, breath noise, and intensity evolve. Ankora's elk hide can produce varied attacks, damping, and resonance. Paul's instinctive response to those changes is part of the work. The purpose of technical development is to expand the range of things he can do freely, not to eliminate the human irregularity that makes the music his.
+KLAAT's living identity is not a puzzle to be optimized into identical outputs. The didgeridoo's continuous C#-centered drone can be steady while its harmonics, breath noise, and intensity evolve. The drum's drumhead material can produce varied attacks, damping, and resonance. Paul's instinctive response to those changes is part of the work. The purpose of technical development is to expand the range of things he can do freely, not to eliminate the human irregularity that makes the music his.
 
 
 10. WHAT THE ATTENTIONAL THEORY CANNOT EXPLAIN
 
 
-Even if Paul discovers that listening to Amastacia's outgoing sound makes a breath transition easier, several mechanisms remain possible. The sound may give him a clearer error signal. He may reduce unhelpful self-monitoring. The cue may simply be easier to remember. Familiarity with the transition may be increasing across repetitions. Fatigue, warm-up, room acoustics, microphone processing, and his expectations may change the result. An attentional-focus experiment can establish a difference under its conditions; it does not automatically identify the mechanism.
+Even if Paul discovers that listening to the didgeridoo's outgoing sound makes a breath transition easier, several mechanisms remain possible. The sound may give him a clearer error signal. He may reduce unhelpful self-monitoring. The cue may simply be easier to remember. Familiarity with the transition may be increasing across repetitions. Fatigue, warm-up, room acoustics, microphone processing, and his expectations may change the result. An attentional-focus experiment can establish a difference under its conditions; it does not automatically identify the mechanism.
 
 
 A one-person observation also cannot separate all these causes. Randomizing brief cue conditions could help in a later controlled skill study, but it would be invasive to impose that on a valued improvisation. We should first use low-pressure observations from ordinary practice. A technical exercise can remain private, optional, and distinct from the music offered to listeners.
@@ -190,7 +190,7 @@ CONTEXT-DEPENDENT
 
 
 PLAUSIBLE AND TESTABLE FOR KLAAT
-- Sound-directed attention might help an already familiar Amastacia breath handoff remain fluent during spontaneous performance.
+- Sound-directed attention might help an already familiar the didgeridoo breath handoff remain fluent during spontaneous performance.
 - Brief movement-directed attention might help diagnose an unfamiliar or uncomfortable cheek, lip, or hand coordination problem.
 - Technical practice that improves reliable options might increase Paul's sense of freedom without imposing regularity on the actual music.
 
@@ -241,7 +241,7 @@ PRIMARY RESEARCH AND CRITICAL SYNTHESIS
 
 
 PROVENANCE AND LIMITATIONS
-Sources checked October 26, 2026. Quantitative findings above belong to the cited external studies, not to measured Amastacia, Ankora, Paul, or KLAAT listeners. No KLAAT recording was acoustically analyzed for this session. Connected Drive Master Instructions, Curriculum Index, Research Ledger, and Session Corpus Volume II were consulted through Session 123; ChatGPT Library Hourly Research notes after Session 123 were reviewed, and targeted novelty searches checked prior notes on cognitive load, motor learning, and performer attention. Hourly notes remain intact. The canonical safety copy of this complete text is the timestamped ChatGPT Library Published Studies file. Drive copies are secondary curation mirrors.
+Sources checked October 26, 2026. Quantitative findings above belong to the cited external studies, not to measured the didgeridoo, the drum, Paul, or KLAAT listeners. No KLAAT recording was acoustically analyzed for this session. Connected Drive Master Instructions, Curriculum Index, Research Ledger, and Session Corpus Volume II were consulted through Session 123; ChatGPT Library Hourly Research notes after Session 123 were reviewed, and targeted novelty searches checked prior notes on cognitive load, motor learning, and performer attention. Hourly notes remain intact. The canonical safety copy of this complete text is the timestamped ChatGPT Library Published Studies file. Drive copies are secondary curation mirrors.
 
 
 END OF SESSION 124

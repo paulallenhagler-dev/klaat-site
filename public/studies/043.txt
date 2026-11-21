@@ -9,7 +9,7 @@ As two close components move from a few hertz apart toward faster interaction ra
 Roughness is broadly associated with modulation in the tens-of-hertz range, often strongest around several dozen hertz under many conditions, but exact values vary with carrier frequency, spectrum, and listener.
 
 
-Amastacia can potentially control this dimension through growl, vocalization, embouchure, tongue position, and harmonic interaction. Roughness should be treated as an independent KLAAT control axis alongside amplitude, tempo, event density, prediction, and masking.
+The didgeridoo can potentially control this dimension through growl, vocalization, embouchure, tongue position, and harmonic interaction. Roughness should be treated as an independent KLAAT control axis alongside amplitude, tempo, event density, prediction, and masking.
 
 
 Evidence boundary
@@ -17,4 +17,4 @@ Established: roughness depends on rapid amplitude interaction and auditory-filte
 
 
 KLAAT test
-Build a seven-step Amastacia roughness ladder while keeping loudness approximately matched. Record seven 20-second examples, randomize them, and ask listeners to rate roughness, activation, tension, bodily intensity, and loudness. Later compare ratings with modulation-spectrum analysis.
+Build a seven-step the didgeridoo roughness ladder while keeping loudness approximately matched. Record seven 20-second examples, randomize them, and ask listeners to rate roughness, activation, tension, bodily intensity, and loudness. Later compare ratings with modulation-spectrum analysis.

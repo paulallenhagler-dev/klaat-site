@@ -1,8 +1,8 @@
 KLAAT Resonance Research — Session 56
-CROSSMODAL CAUSAL COHERENCE: When Heard Ankora and Felt Ankora Become One Event
+CROSSMODAL CAUSAL COHERENCE: When Heard the drum and Felt the drum Become One Event
 
 
-Session 55 separated Ankora into two provisional jobs: audition is the stronger candidate for carrying the temporal scaffold, while touch may contribute disproportionately to bodily impact, localization, salience, and physical consequence. The next problem is deeper: what makes the listener experience the audible strike and the felt strike as ONE event rather than two correlated sensations?
+Session 55 separated the drum into two provisional jobs: audition is the stronger candidate for carrying the temporal scaffold, while touch may contribute disproportionately to bodily impact, localization, salience, and physical consequence. The next problem is deeper: what makes the listener experience the audible strike and the felt strike as ONE event rather than two correlated sensations?
 
 
 The strongest accumulated hourly work supports a provisional KLAAT control variable:
@@ -35,7 +35,7 @@ KLAAT therefore needs four layers kept separate:
 PHYSICAL CORRESPONDENCE — what sensors measure.
 PERCEIVED EVENT UNITY — whether heard and felt components seem to belong to one event/source.
 BODILY IMPACT — how immediate, forceful, localized, or consequential the event feels.
-BEAT ORGANIZATION — whether the listener predicts and maintains Ankora’s temporal scaffold.
+BEAT ORGANIZATION — whether the listener predicts and maintains the drum’s temporal scaffold.
 
 
 Session 55 separated beat organization from embodiment. Session 56 now separates physical coherence, perceived unity, and bodily impact from one another.
@@ -47,7 +47,7 @@ Session 55 separated beat organization from embodiment. Session 56 now separates
 Audio-tactile research supports timing as important, but the evidence rejects a universal “zero milliseconds is best” rule.
 
 
-Airborne Ankora reaches the ears through the room. Mechanical Ankora reaches the listener through drum support, floor, chair, footwear, body contact, and tissue. Those pathways differ in filtering, resonance, rise time, decay, and latency. A delay measured on the floor is not necessarily the delay experienced at the body.
+Airborne the drum reaches the ears through the room. Mechanical the drum reaches the listener through drum support, floor, chair, footwear, body contact, and tissue. Those pathways differ in filtering, resonance, rise time, decay, and latency. A delay measured on the floor is not necessarily the delay experienced at the body.
 
 
 Recent controlled work also shows that audio-tactile temporal processing depends on stimulus structure, rhythm, relative phase, attention, and pathway. Temporal binding windows are not universal constants.
@@ -71,17 +71,17 @@ Controlled audio-tactile work shows that spatial relationship can influence inte
 A COMMON CAUSE SHOULD BE PLAUSIBLE IN BOTH TIME AND SPACE.
 
 
-This may matter differently for Amastacia and Ankora. Amastacia is sustained, diffuse, reverberant, and capable of becoming a room field. Ankora is transient and temporally localizable. Precise point-source tactile correspondence may therefore matter more for Ankora than for Amastacia.
+This may matter differently for the didgeridoo and drum. The didgeridoo is sustained, diffuse, reverberant, and capable of becoming a room field. The drum is transient and temporally localizable. Precise point-source tactile correspondence may therefore matter more for the drum than for the didgeridoo.
 
 
-AMASTACIA CAN BE A FIELD.
-ANKORA CAN BE AN EVENT.
+DIDGERIDOO CAN BE A FIELD.
+DRUM CAN BE AN EVENT.
 
 
 4. ENVELOPE CORRESPONDENCE MAY MATTER AS MUCH AS ONSET
 
 
-An Ankora strike has attack, rise, spectral change, decay, room reflection, and mechanical ringing. Recent human audio-tactile work supports crossmodal interaction for temporal-envelope features such as attack time and amplitude modulation.
+An the drum strike has attack, rise, spectral change, decay, room reflection, and mechanical ringing. Recent human audio-tactile work supports crossmodal interaction for temporal-envelope features such as attack time and amplitude modulation.
 
 
 KLAAT should therefore preserve at least three descriptors:
@@ -116,7 +116,7 @@ This is not yet established for KLAAT. Direct Bayesian common-cause evidence is 
 If event-unity ratings add no predictive value beyond physical amplitude and timing, KLAAT should drop the construct rather than preserve it because it sounds elegant.
 
 
-6. AMASTACIA: ESTABLISHING THE WORLD’S CAUSAL PRIOR
+6. DIDGERIDOO: ESTABLISHING THE WORLD’S CAUSAL PRIOR
 
 
 During Ground Anchor, prolonged exposure to a stable relationship among Drone, room, floor, seat, and body may teach the listener what belongs to the KLAAT environment.
@@ -131,16 +131,16 @@ GROUND ANCHOR MAY ESTABLISH A CAUSAL PRIOR.
 The listener learns that this sound, this room, this body contact, and this vibration belong to the same world.
 
 
-Amastacia may therefore establish not only an acoustic field but a CROSSMODAL WORLD MODEL.
+The didgeridoo may therefore establish not only an acoustic field but a CROSSMODAL WORLD MODEL.
 
 
-7. ANKORA: MAKING THE COMMON CAUSE DISCRETE
+7. DRUM: MAKING THE COMMON CAUSE DISCRETE
 
 
-A strongly coherent Ankora strike can provide converging evidence: audible attack, plausible mechanical timing, plausible contact pathway, related envelope, and stable repetition.
+A strongly coherent the drum strike can provide converging evidence: audible attack, plausible mechanical timing, plausible contact pathway, related envelope, and stable repetition.
 
 
-When those cues agree, the listener may stop experiencing “sound plus vibration” and instead experience a single physically consequential Ankora event.
+When those cues agree, the listener may stop experiencing “sound plus vibration” and instead experience a single physically consequential the drum event.
 
 
 The goal is not maximum tactile amplitude.
@@ -153,11 +153,11 @@ The goal is maximum credibility of the event.
 
 
 GROUND ANCHOR — ESTABLISH CROSSMODAL WORLD COHERENCE
-Use Amastacia to establish stable relationships among sound, room, support, and body. The aim is a coherent environmental prior, not maximum salience.
+Use the didgeridoo to establish stable relationships among sound, room, support, and body. The aim is a coherent environmental prior, not maximum salience.
 
 
 THRESHOLD GATE — CHANGE THE CAUSAL ORGANIZATION
-Session 54 defined the Gate as controlled model replacement. Session 56 adds a possible crossmodal dimension. Ankora can enter not merely as a new audible Pulse but as a series of discrete bodily consequences that appear to belong to that Pulse. KLAAT might also briefly weaken coherence before a Gate and re-bind sound and touch as the new regime stabilizes. That remains speculative.
+Session 54 defined the Gate as controlled model replacement. Session 56 adds a possible crossmodal dimension. The drum can enter not merely as a new audible Pulse but as a series of discrete bodily consequences that appear to belong to that Pulse. KLAAT might also briefly weaken coherence before a Gate and re-bind sound and touch as the new regime stabilizes. That remains speculative.
 
 
 RISING PULSE — CONTROL COHERENCE, NOT ONLY ENERGY
@@ -169,7 +169,7 @@ THE IMPORTANT STRIKES MAY NEED TO BELONG TO THE BODY MORE CONVINCINGLY.
 
 
 RETURN PATH — DISSOLVE THE COMMON EVENT
-Tactile consequence can fade while the audible clock remains, or discrete audio-tactile events can dissolve back into Amastacia’s continuous field.
+Tactile consequence can fade while the audible clock remains, or discrete audio-tactile events can dissolve back into the didgeridoo’s continuous field.
 
 
 EVENT → FIELD.
@@ -216,7 +216,7 @@ Crossmodal causal coherence lives partly between the second and third layers. It
 The overnight work adds a time dimension. Prolonged vibration can reversibly alter vibrotactile sensitivity under controlled conditions. Attention can alter tactile temporal judgments and salience. Repeated bodily questions can themselves redirect attention.
 
 
-The same measured Ankora relationship may therefore not produce a constant percept across a 20–30 minute ritual.
+The same measured the drum relationship may therefore not produce a constant percept across a 20–30 minute ritual.
 
 
 KLAAT now needs at least two history-dependent state variables:
@@ -244,15 +244,15 @@ Vibrotactile sensitivity and salience depend on recent exposure, frequency, body
 CONTEXT-DEPENDENT:
 Most direct causal-inference parameterization comes from audiovisual or tightly controlled laboratory paradigms, not live whole-body KLAAT.
 Temporal binding windows, points of subjective simultaneity, spatial tolerance, and preferred offsets vary with stimulus, body site, task, attention, and listener.
-Diffuse Amastacia fields and transient Ankora events may require different coherence criteria.
+Diffuse the didgeridoo fields and transient the drum events may require different coherence criteria.
 A unity rating is a subjective behavioral measure, not proof of a specific neural fusion mechanism.
 
 
 PLAUSIBLE / TESTABLE:
-At matched SPL and loaded-interface acceleration, better temporal-envelope and spatial/source correspondence will increase perceived Ankora event unity.
+At matched SPL and loaded-interface acceleration, better temporal-envelope and spatial/source correspondence will increase perceived the drum event unity.
 Perceived event unity will predict bodily impact beyond raw airborne level and interface acceleration.
 Ground Anchor exposure can alter expectation about which acoustic and mechanical signals belong to the same KLAAT environment.
-Selective high-coherence Ankora events can create stronger bodily consequence than mechanically stronger but poorly matched events.
+Selective high-coherence the drum events can create stronger bodily consequence than mechanically stronger but poorly matched events.
 
 
 SPECULATION:
@@ -271,7 +271,7 @@ Deliberately delaying tactile vibration is inherently disorienting or transforma
 13. KLAAT METHODOLOGY UPDATE
 
 
-For audio-tactile Ankora experiments, distinguish:
+For audio-tactile the drum experiments, distinguish:
 
 
 PHYSICAL CORRESPONDENCE — airborne onset/envelope, loaded-interface onset/envelope, relative delay, spatial/source geometry, repeatability.
@@ -293,7 +293,7 @@ IF EVENT UNITY DOES NOT PREDICT ANYTHING USEFUL, DROP THE CONSTRUCT.
 14. KRX-056 — THE COMMON-CAUSE TEST
 
 
-Use one simple Ankora passage with a stable auditory Pulse. First characterize the natural system with a measurement microphone and loaded-interface triaxial accelerometer on one acquisition clock.
+Use one simple the drum passage with a stable auditory Pulse. First characterize the natural system with a measurement microphone and loaded-interface triaxial accelerometer on one acquisition clock.
 
 
 Then create a randomized within-listener 2 × 2 manipulation:
@@ -305,7 +305,7 @@ B. Deliberately offset or decorrelated tactile relationship within a conservativ
 
 
 SPATIAL / SOURCE COHERENCE
-1. Mechanical delivery through a support/contact pathway plausibly consistent with the apparent Ankora source.
+1. Mechanical delivery through a support/contact pathway plausibly consistent with the apparent the drum source.
 2. Mechanical delivery through a clearly discrepant support/contact pathway while holding mechanical magnitude as similar as practical.
 
 
@@ -316,7 +316,7 @@ B1 — temporally disrupted + spatially plausible.
 B2 — temporally disrupted + spatially discrepant.
 
 
-Hold audible Ankora level and material constant. Match loaded-interface mechanical magnitude across corresponding conditions as closely as practical.
+Hold audible the drum level and material constant. Match loaded-interface mechanical magnitude across corresponding conditions as closely as practical.
 
 
 After each short block collect separate ratings:

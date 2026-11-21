@@ -28,7 +28,7 @@ Moving tactile reports can reflect actual propagation, apparent motion, sensory 
 
 
 4. WHY KLAAT IS HARD
-Classic work mainly uses controlled direct skin stimulation. KLAAT couples through feet, floor, seat, backrest, clothing, footwear, posture, tissue, and room structure while Amastacia and Ankora remain audible. The first challenge is proving support regions are sufficiently independent to interpret a sweep.
+Classic work mainly uses controlled direct skin stimulation. KLAAT couples through feet, floor, seat, backrest, clothing, footwear, posture, tissue, and room structure while the didgeridoo and drum remain audible. The first challenge is proving support regions are sufficiently independent to interpret a sweep.
 
 
 5. LOCALIZABILITY COMES BEFORE TRAJECTORY
@@ -39,8 +39,8 @@ If FOOT, SEAT, and BACK stimulation is already poorly localized, a three-site tr
 There is no universal KLAAT delay. Map a listener/interface-specific TRAJECTORY RESPONSE FUNCTION: DELAY → perceived separateness/continuity/direction/intermediate location.
 
 
-7. AMASTACIA AS FIELD, ANKORA AS LOCOMOTIVE EVENT
-Amastacia is naturally suited to FIELD; Ankora to EVENT. AMASTACIA DEFINES THE SOMATIC SPACE. ANKORA MOVES THE EVENT THROUGH IT. This remains testable, not established.
+7. DIDGERIDOO AS FIELD, DRUM AS LOCOMOTIVE EVENT
+The didgeridoo is naturally suited to FIELD; the drum to EVENT. DIDGERIDOO DEFINES THE SOMATIC SPACE. DRUM MOVES THE EVENT THROUGH IT. This remains testable, not established.
 
 
 8. GROUND ANCHOR — BUILD THE BODY MAP
@@ -52,15 +52,15 @@ Introduce a previously stationary bodily event that begins to move, hop, reverse
 
 
 10. RISING PULSE — TRAJECTORY AS A SECOND RHYTHM
-Separate ANKORA’S AUDITORY CLOCK from a slower TACTILE SPATIAL CLOCK controlling where bodily consequence appears. The body receives a Pulse with direction.
+Separate DRUM’S AUDITORY CLOCK from a slower TACTILE SPATIAL CLOCK controlling where bodily consequence appears. The body receives a Pulse with direction.
 
 
 11. RETURN PATH — COLLAPSE MOTION BACK INTO FIELD
-Directional events can slow, fragment, return to one site, or dissolve into Amastacia’s field: FIELD → EVENT → TRAJECTORY → FIELD.
+Directional events can slow, fragment, return to one site, or dissolve into the didgeridoo’s field: FIELD → EVENT → TRAJECTORY → FIELD.
 
 
 12. CROSSMODAL CAUSAL COHERENCE RETURNS
-Distinguish TACTILE SPATIAL COHERENCE from AUDIO–TACTILE CAUSAL COHERENCE. A convincing tactile path that no longer feels caused by Ankora is a different compositional object from a moving Ankora event.
+Distinguish TACTILE SPATIAL COHERENCE from AUDIO–TACTILE CAUSAL COHERENCE. A convincing tactile path that no longer feels caused by the drum is a different compositional object from a moving the drum event.
 
 
 13. POSTURAL CONTROL IS A NEW CONFOUND
@@ -80,7 +80,7 @@ Classic work mainly uses direct skin stimulation rather than distributed KLAAT s
 
 
 17. PLAUSIBLE / TESTABLE
-With sufficiently independent support regions, relative timing can create repeatable perceived trajectories at matched total mechanical exposure. Intermediate bodily locations may be felt despite little local excitation. Moving tactile consequence may increase bodily salience without increased level. Trajectory direction may alter Gate/Rising-Pulse impact independently of BPM. Amastacia’s stable field may provide a spatial reference. Postural state may change trajectory detectability at matched interface acceleration.
+With sufficiently independent support regions, relative timing can create repeatable perceived trajectories at matched total mechanical exposure. Intermediate bodily locations may be felt despite little local excitation. Moving tactile consequence may increase bodily salience without increased level. Trajectory direction may alter Gate/Rising-Pulse impact independently of BPM. The didgeridoo’s stable field may provide a spatial reference. Postural state may change trajectory detectability at matched interface acceleration.
 
 
 18. SPECULATION
@@ -88,7 +88,7 @@ Two or three coarse support locations may create a larger perceived path. Thresh
 
 
 19. UNSUPPORTED
-A felt sweep proves literal vibration travel; forearm cutaneous-rabbit timing defines KLAAT; phantom location means “energy moving through the body”; saltation proves nervous-system entrainment, vagal activation, trauma release, or healing; stronger motion means greater physiological activation; sway proves Ankora entrainment; every perceived trajectory is central interpolation rather than structural propagation.
+A felt sweep proves literal vibration travel; forearm cutaneous-rabbit timing defines KLAAT; phantom location means “energy moving through the body”; saltation proves nervous-system entrainment, vagal activation, trauma release, or healing; stronger motion means greater physiological activation; sway proves the drum entrainment; every perceived trajectory is central interpolation rather than structural propagation.
 
 
 20. KLAAT METHODOLOGY UPDATE
@@ -110,7 +110,7 @@ Stage 2: calibrated tri-axial cross-talk matrix.
 Stage 3: A→B/B→A timing map with simultaneous and separated controls; collect event-continuity, start/end/intermediate location, direction confidence and bodily-impact judgments.
 Stage 4: probe an unstimulated intermediate region and compare perceived events against measured cross-talk.
 Stage 5: repeat the best trajectory in stable posture and controlled gentle movement while measuring motion and interface acceleration.
-Stage 6: embed only a repeatable trajectory into one stable Amastacia field and one Ankora passage. Compare static consequence, physically sequential consequence, optimized apparent trajectory, and scrambled control at matched airborne material/mechanical exposure.
+Stage 6: embed only a repeatable trajectory into one stable the didgeridoo field and one the drum passage. Compare static consequence, physically sequential consequence, optimized apparent trajectory, and scrambled control at matched airborne material/mechanical exposure.
 
 
 Primary test: CAN KLAAT CREATE A REPEATABLE FELT PATH NOT EXPLAINED BY LITERAL MECHANICAL PROPAGATION — AND DOES THAT PATH INCREASE BODILY IMPACT WITHOUT INCREASING LEVEL?

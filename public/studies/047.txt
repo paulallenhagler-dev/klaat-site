@@ -50,10 +50,10 @@ KLAAT should eventually record at least two measurement families: calibrated air
 
 
 PEAKS AND AVERAGES ANSWER DIFFERENT QUESTIONS
-Ankora is transient-rich. Its strikes can have sharp peaks while contributing less total acoustic energy than a sustained source at a similar peak level. Amastacia is almost the inverse: the Drone can sustain energy continuously even when it lacks dramatic transient peaks.
+The drum is transient-rich. Its strikes can have sharp peaks while contributing less total acoustic energy than a sustained source at a similar peak level. The didgeridoo is almost the inverse: the Drone can sustain energy continuously even when it lacks dramatic transient peaks.
 
 
-Ankora therefore demands attention to transient and peak behavior. Amastacia demands attention to duration and accumulated equivalent level. Together they create a mixed exposure that cannot be characterized honestly by one maximum reading. A phone screen flashing “102 dB” once tells us very little about the total KLAAT exposure.
+The drum therefore demands attention to transient and peak behavior. The didgeridoo demands attention to duration and accumulated equivalent level. Together they create a mixed exposure that cannot be characterized honestly by one maximum reading. A phone screen flashing “102 dB” once tells us very little about the total KLAAT exposure.
 
 
 RECREATIONAL MUSIC GUIDANCE IS NOT IDENTICAL TO OCCUPATIONAL GUIDANCE
@@ -70,7 +70,7 @@ THE PERFORMER POSITION MAY BE THE HIGHEST-PRIORITY MEASUREMENT POINT
 Earlier sessions established that performer and listener experience differ because the performer also receives bone conduction, direct instrument contact, respiratory feedback, and a different spatial field. Hearing conservation adds another asymmetry: the performer repeats the exposure.
 
 
-The first formal KLAAT sound map should therefore include at minimum: Paul’s ear position while playing Amastacia; Paul’s ear position while playing Ankora; the nearest plausible audience position; a representative central audience position; and a farther audience position.
+The first formal KLAAT sound map should therefore include at minimum: Paul’s ear position while playing the didgeridoo; Paul’s ear position while playing the drum; the nearest plausible audience position; a representative central audience position; and a farther audience position.
 
 
 ROOM ACOUSTICS CAN CHANGE EXPOSURE WITHOUT CHANGING PERFORMANCE EFFORT
@@ -118,7 +118,7 @@ PLAUSIBLE / TESTABLE — KLAAT can produce large increases in perceived activati
 PLAUSIBLE / TESTABLE — The performer’s cumulative exposure may be a more important long-term hearing-conservation concern than the exposure of an occasional audience member.
 
 
-UNKNOWN — Typical LAeq, phase-specific exposure, and peak levels for the present Amastacia + Ankora configuration have not yet been measured with calibrated equipment.
+UNKNOWN — Typical LAeq, phase-specific exposure, and peak levels for the present the didgeridoo and drum configuration have not yet been measured with calibrated equipment.
 
 
 UNSUPPORTED / AVOID — “If it doesn’t hurt, it is safe.” Auditory discomfort is not a calibrated exposure meter.
@@ -154,7 +154,7 @@ Use a calibrated Class 1 or Class 2 sound level meter if available. A validated 
 Run a representative 12-minute KLAAT passage: 3 min Ground Anchor; 2 min Threshold Gate; 4 min Rising Pulse; 3 min Return Path.
 
 
-At a fixed representative audience position, record LAeq for the complete 12 minutes; phase-specific LAeq if logging permits; maximum level using a documented time weighting; distance and angle from Amastacia and Ankora; and room/floor type. Repeat at the performer-ear position and nearest intended audience position.
+At a fixed representative audience position, record LAeq for the complete 12 minutes; phase-specific LAeq if logging permits; maximum level using a documented time weighting; distance and angle from the didgeridoo and drum; and room/floor type. Repeat at the performer-ear position and nearest intended audience position.
 
 
 Do not change the performance because a number “looks too low.” The first goal is descriptive: find out what KLAAT currently is. Then compare the measurements with subjective ratings of activation and bodily intensity for each phase.

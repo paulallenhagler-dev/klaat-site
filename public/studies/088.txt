@@ -23,10 +23,10 @@ GOVERNING PROPOSITION: A LOUD EVENT CAN BE FORGOTTEN, A QUIET CHANGE CAN REORIEN
 1. FROM SESSION 87'S CHAPTERS TO THE UNRESOLVED QUESTION
 
 
-A continuous Amastacia drone may seem stable for several minutes while its harmonics, breath grain, and intensity shift. Ankora may maintain recognizable rhythmic activity even as accents, attack qualities, or subdivisions change. Session 87 showed why listeners might mark a chapter boundary at one of those moments. Yet boundary detection alone leaves several possibilities open.
+A continuous the didgeridoo drone may seem stable for several minutes while its harmonics, breath grain, and intensity shift. The drum may maintain recognizable rhythmic activity even as accents, attack qualities, or subdivisions change. Session 87 showed why listeners might mark a chapter boundary at one of those moments. Yet boundary detection alone leaves several possibilities open.
 
 
-A sudden Ankora attack might be startling but have no lasting organizational consequence. A small, repeated change in the relationship between Amastacia and Ankora might be less dramatic but cause a listener to hear the subsequent passage differently. An apparent transition might simply be a temporary masking event or
+A sudden the drum attack might be startling but have no lasting organizational consequence. A small, repeated change in the relationship between the didgeridoo and drum might be less dramatic but cause a listener to hear the subsequent passage differently. An apparent transition might simply be a temporary masking event or
 
 
 ========================================
@@ -39,7 +39,7 @@ A scientific analysis therefore needs at least three temporal windows: the learn
 2. THREE DIFFERENT CONCEPTS THAT ARE OFTEN COLLAPSED
 
 
-Predictability is how strongly a listener's prior experience favors some next event over alternatives. In KLAAT, that might concern the timing of Ankora's next attack, the recurrence of a particular accent, or the continuation of Amastacia's drone. These are possible expectations, not assumptions that all listeners form the same model.
+Predictability is how strongly a listener's prior experience favors some next event over alternatives. In KLAAT, that might concern the timing of the drum's next attack, the recurrence of a particular accent, or the continuation of the didgeridoo's drone. These are possible expectations, not assumptions that all listeners form the same model.
 
 
 Surprisal is the unexpectedness of an event under a particular predictive model. In information theory, an event with model probability p has surprisal -log2(p) bits. An event assigned probability 1/2 has one bit of surprisal; an event assigned probability 1/8 has three. This is an illustration of a mathematical definition, not a measurement of KLAAT or of the listener's brain. The result depends completely on which model and probabilities are justified.
@@ -57,7 +57,7 @@ This is the key separation: surprise looks backward at the mismatch between an e
 Hansen, Kragness, Vuust, Trainor, and Pearce (2021) used computationally characterized tone sequences to investigate phrase-boundary perception. In an implicit self-paced task involving 38 undergraduates, participants lingered longer on tones associated with greater predictive entropy. In another experiment involving 31 undergraduates, sequences ending on higher-entropy tones were judged more complete. The effects were reported independently of target-tone surprisal and original phrase position. The study directly challenges the idea that listeners locate boundaries only by noticing an unexpected event after the fact. [S1]
 
 
-For KLAAT, this creates an intriguing possibility: a slowly changing Amastacia texture might not be startling, but it could make the listener less certain about how the acoustic world will continue. A momentary thinning of Ankora could similarly alter expectations without changing the nominal beat. Those are hypotheses, not demonstrated mechanisms in didgeridoo music.
+For KLAAT, this creates an intriguing possibility: a slowly changing the didgeridoo texture might not be startling, but it could make the listener less certain about how the acoustic world will continue. A momentary thinning of the drum could similarly alter expectations without changing the nominal beat. Those are hypotheses, not demonstrated mechanisms in didgeridoo music.
 
 
 The limitation is substantial. The experiment involved selected tonal sequences, a model of their statistics, and specific judgments. A sustained C# drone with breath noise and a frame drum has no validated computational grammar analogous to the melodies in that study. It would be an error to compute arbitrary audio entropy and declare that KLAAT has produced a listener's subjective threshold.
@@ -72,7 +72,7 @@ Coy, Bendixen, Grimm, Roeber, and Schröger (2023) tested higher-order auditory 
 This is a precise and useful finding: a deviant is not forever 'the surprising thing.' It can itself predict the next event. But the evidence is narrower than a claim that all repeated surprises become pleasurable or that all new rhythmic ideas rapidly become a groove. The experiments measured behavior in controlled tone-pair tasks, not aesthetic responses to natural music. Accuracy effects were less consistent than reaction-time effects, and explicit instructions influenced the outcome.
 
 
-Applied cautiously to Ankora, a displaced accent might initially draw attention because it departs from a familiar placement. If a similar displacement recurs, some listeners might begin anticipating it as part of the local rhythmic language. A texture that first feels like an interruption might later feel like the natural way the music proceeds. The question is not whether Paul should deliberately repeat an accent. It is whether listeners actually hear the evolving performance that way.
+Applied cautiously to the drum, a displaced accent might initially draw attention because it departs from a familiar placement. If a similar displacement recurs, some listeners might begin anticipating it as part of the local rhythmic language. A texture that first feels like an interruption might later feel like the natural way the music proceeds. The question is not whether Paul should deliberately repeat an accent. It is whether listeners actually hear the evolving performance that way.
 
 
 5. PRIMARY EVIDENCE: LEARNING HAS CONTEXT AND MEMORY
@@ -81,7 +81,7 @@ Applied cautiously to Ankora, a displaced accent might initially draw attention 
 Todd and colleagues (2013) examined mismatch-negativity responses to auditory deviants across multiple contexts and timescales. They found that deviant probability and prior context affected the neural response; the history of the sequence mattered, and the system did not simply reset its expectations at every event. [S3]
 
 
-This is relevant to long-form KLAAT because a ten- or thirty-minute performance gives listeners a history against which later gestures may acquire meaning. The same Ankora strike could be interpreted differently at the beginning of a recording and after several minutes of recurring pulse. The same Amastacia breath roughness might sound like normal texture in one context and a significant departure in another.
+This is relevant to long-form KLAAT because a ten- or thirty-minute performance gives listeners a history against which later gestures may acquire meaning. The same the drum strike could be interpreted differently at the beginning of a recording and after several minutes of recurring pulse. The same the didgeridoo breath roughness might sound like normal texture in one context and a significant departure in another.
 
 
 But mismatch negativity is an EEG event-related potential. It is not a meter of consciousness, artistic quality, healing, or bodily energy. The auditory oddball paradigms also do not give us a universal number of repetitions required for a KLAAT gesture to become expected. Learning speed varies with context, attention, probability, acoustic discriminability, and individual history.
@@ -93,10 +93,10 @@ But mismatch negativity is an EEG event-related potential. It is not a meter of 
 Prete, Heikoop, McGillivray, Reilly, and Trainor (2022) compared neural responses to unexpected omissions and expected omissions in tone sequences. Unexpected silence elicited mismatch-negativity and P3a responses, though the effects were small and variable. [S4]
 
 
-Ankora is particularly interesting here because a rhythmic pulse can establish an expectation of another attack. When an anticipated attack is absent, the listener may register a meaningful event despite there being no new drum sound at that instant. But a missing attack is not automatically a dramatic musical event, and it does not prove that a listener has consciously noticed anything. Nor should Paul start inserting rests as a scientific trick. Naturally occurring moments of thinning or withdrawal are enough to motivate observation.
+The drum is particularly interesting here because a rhythmic pulse can establish an expectation of another attack. When an anticipated attack is absent, the listener may register a meaningful event despite there being no new drum sound at that instant. But a missing attack is not automatically a dramatic musical event, and it does not prove that a listener has consciously noticed anything. Nor should Paul start inserting rests as a scientific trick. Naturally occurring moments of thinning or withdrawal are enough to motivate observation.
 
 
-Amastacia complicates this further. Her continued drone might preserve acoustic continuity through Ankora's absence, while an audible breath transition could create an event in the otherwise continuous layer. KLAAT's sound therefore offers multiple simultaneous expectation systems, not one universal metronome.
+The didgeridoo complicates this further. Her continued drone might preserve acoustic continuity through the drum's absence, while an audible breath transition could create an event in the otherwise continuous layer. KLAAT's sound therefore offers multiple simultaneous expectation systems, not one universal metronome.
 
 
 7. WHAT THE EEG LITERATURE DOES — AND DOES NOT — ADD
@@ -105,7 +105,7 @@ Amastacia complicates this further. Her continued drone might preserve acoustic 
 Galeano-Otálvaro and colleagues (2024) reanalyzed EEG from 20 people, including 10 musicians, listening to Western tonal music. Models incorporating melodic expectations improved prediction of EEG responses across bands below 30 Hz; modeled entropy contributed more than surprisal in their comparisons. [S5]
 
 
-The study supports the relevance of predictive information beyond simple acoustic features. But EEG model performance is not a direct readout of what someone consciously anticipates, and results from tonal melodies cannot be mapped one-to-one onto Amastacia's harmonics or Ankora's rhythm. Neural oscillation frequencies in an EEG analysis must not be confused with the C# drone's acoustic fundamental, Ankora's beat frequency, breath cycles, or tactile vibration frequencies.
+The study supports the relevance of predictive information beyond simple acoustic features. But EEG model performance is not a direct readout of what someone consciously anticipates, and results from tonal melodies cannot be mapped one-to-one onto the didgeridoo's harmonics or the drum's rhythm. Neural oscillation frequencies in an EEG analysis must not be confused with the C# drone's acoustic fundamental, the drum's beat frequency, breath cycles, or tactile vibration frequencies.
 
 
 A related naturalistic study by Kaneshiro and colleagues (2024) examined time-varying inter-subject EEG and behavioral correlations during a cello concerto movement. Correlated neural responses and continuous behavioral engagement varied across the music, with different patterns around tension and arrival; even a control retaining envelope characteristics elicited some correlations. [S6] This is a warning that synchronized brain responses can reflect shared acoustics, not necessarily shared emotional interpretation. It is not KLAAT evidence.
@@ -117,7 +117,7 @@ A related naturalistic study by Kaneshiro and colleagues (2024) examined time-va
 Session 87 already showed that listeners can identify boundaries without regular phrase spacing, and that different people may disagree on boundary placement. Hansen's uncertainty finding adds a possible prospective contribution. Coy's results show that a surprising event can become predictable. Todd's results show that context changes the response to deviation. None of these findings says that every unexpected event is a new musical section.
 
 
-Consider four possible KLAAT moments. First, Ankora produces one unusually loud strike and immediately resumes the prior rhythm. Second, Ankora's attacks become slightly more irregular and remain so. Third, Amastacia's harmonic focus shifts gradually while Ankora remains stable. Fourth, Ankora becomes silent but Amastacia continues. Each could be noticeable. Their subsequent perceptual consequences may be entirely different.
+Consider four possible KLAAT moments. First, the drum produces one unusually loud strike and immediately resumes the prior rhythm. Second, the drum's attacks become slightly more irregular and remain so. Third, the didgeridoo's harmonic focus shifts gradually while the drum remains stable. Fourth, the drum becomes silent but the didgeridoo continues. Each could be noticeable. Their subsequent perceptual consequences may be entirely different.
 
 
 The first may be a local accent, the second a changed temporal expectation, the third a slow change in source identity or attention, and the fourth an omission, release, or simply a reduction in event density. These labels are hypotheses to test with listeners. Without their reports, we cannot know which, if any, became a remembered chapter or increased absorption.
@@ -132,16 +132,16 @@ The strongest inference is relational: the perceptual significance of an event m
 Paul's improvisational flow involves physical coordination, breath, listening, motor anticipation, and the evolving interaction of two instruments. It is entirely possible to make musically coherent transitions without consciously planning their informational properties. Scientific language can describe an outcome without describing the musician's actual decision process.
 
 
-Circular breathing is a useful example. Greater fluency might make Amastacia's continuity easier to sustain and leave more room for expressive articulation. The listener might hear stable continuity, a breath-related irregularity, or a new timbral gesture. A recording can help identify which acoustical events occurred; it cannot tell us that Paul intended a 'prediction error.'
+Circular breathing is a useful example. Greater fluency might make the didgeridoo's continuity easier to sustain and leave more room for expressive articulation. The listener might hear stable continuity, a breath-related irregularity, or a new timbral gesture. A recording can help identify which acoustical events occurred; it cannot tell us that Paul intended a 'prediction error.'
 
 
-The same is true for coordination with Ankora. A spontaneous accent may emerge from hand movement, bodily rhythm, or a momentary interaction with Amastacia's overtone emphasis. It may be artistically effective even if no listener could explain it. The aim of research is to understand that effectiveness, not to make performance dependent on the explanation.
+The same is true for coordination with the drum. A spontaneous accent may emerge from hand movement, bodily rhythm, or a momentary interaction with the didgeridoo's overtone emphasis. It may be artistically effective even if no listener could explain it. The aim of research is to understand that effectiveness, not to make performance dependent on the explanation.
 
 
 10. THE FOUR-PHASE VOCABULARY AS A RETROSPECTIVE LENS
 
 
-Ground Anchor can describe a period when listeners learn Amastacia's presence or a stable rhythmic environment. Threshold Gate can describe a perceived transition that changes what listeners expect, not a mandatory dramatic cue. Rising Pulse can describe an emergent intensification that may involve rhythm, roughness, articulation, or bodily energy, rather than an obligatory tempo increase. Return Path can describe the fading, withdrawal, or recontextualization of prior expectations.
+Ground Anchor can describe a period when listeners learn the didgeridoo's presence or a stable rhythmic environment. Threshold Gate can describe a perceived transition that changes what listeners expect, not a mandatory dramatic cue. Rising Pulse can describe an emergent intensification that may involve rhythm, roughness, articulation, or bodily energy, rather than an obligatory tempo increase. Return Path can describe the fading, withdrawal, or recontextualization of prior expectations.
 
 
 These names are not universal listener categories. A KLAAT recording may not exhibit all four, may exhibit them in another order, or may have several transitions that resist the framework entirely. The vocabulary earns its usefulness only when it helps describe authentic sound and experience. It must never become a score imposed on Paul.
@@ -150,7 +150,7 @@ These names are not universal listener categories. A KLAAT recording may not exh
 11. TWO LISTENING IDENTITIES, TWO POSSIBLE USES OF EXPECTATION
 
 
-For immersive listening, an evolving expectation may contribute to the sense of an unfolding world. Some people may attend closely to a quiet change; others may drift into imagery and barely register it consciously. For everyday listening, recurring Ankora attacks may supply energy or continuity while attention remains on work, drawing, walking, or another activity. A passage that is fascinating under headphones might be distracting during a demanding task.
+For immersive listening, an evolving expectation may contribute to the sense of an unfolding world. Some people may attend closely to a quiet change; others may drift into imagery and barely register it consciously. For everyday listening, recurring the drum attacks may supply energy or continuity while attention remains on work, drawing, walking, or another activity. A passage that is fascinating under headphones might be distracting during a demanding task.
 
 
 Neither use is a lesser form of KLAAT. The experimental literature does not establish that surprise improves focus, that uncertainty induces trance, or that a predictable pulse improves productivity. Different outcomes must be measured in their own contexts. A listener's report of activation is not a heart-rate measurement, and a listener's report of absorption is not evidence of a particular EEG rhythm.
@@ -168,7 +168,7 @@ These are established findings under the studies' particular methods and stimuli
 13. EVIDENCE CLASSIFICATION — CONTEXT-DEPENDENT
 
 
-The strength and direction of effects depend on task instructions, prior familiarity, probability structure, expertise, attention, stimulus complexity, and the listener's learned model. Oddball tones and Western tonal melodies differ sharply from improvised didgeridoo and elk-hide drum. A computational measure of audio unpredictability is not automatically the entropy of a human listener's expectations. EEG mismatch and shared neural response are not direct measures of trance, enjoyment, groove, or physical activation.
+The strength and direction of effects depend on task instructions, prior familiarity, probability structure, expertise, attention, stimulus complexity, and the listener's learned model. Oddball tones and Western tonal melodies differ sharply from improvised didgeridoo and drum. A computational measure of audio unpredictability is not automatically the entropy of a human listener's expectations. EEG mismatch and shared neural response are not direct measures of trance, enjoyment, groove, or physical activation.
 
 
 A recording's loudness, spectral flux, attack density, masking, and playback conditions may explain an apparent change without requiring a higher-order predictive mechanism. Any future analysis must compare such acoustic explanations against more ambitious claims.
@@ -180,10 +180,10 @@ A recording's loudness, spectral flux, attack density, masking, and playback con
 H1: A naturally occurring change followed by a sustained new texture or attack relationship will be more likely to receive a listener boundary mark than an equally conspicuous but isolated change. This is not guaranteed; the new state may be too subtle to recognize.
 
 
-H2: Some listeners will report that a repeated Ankora irregularity feels less unexpected later in the same recording, even if its physical attack pattern is similar.
+H2: Some listeners will report that a repeated the drum irregularity feels less unexpected later in the same recording, even if its physical attack pattern is similar.
 
 
-H3: A quiet transition in Amastacia may generate a remembered landmark when it changes the perceived continuation of the drone, even without a large increase in RMS amplitude.
+H3: A quiet transition in the didgeridoo may generate a remembered landmark when it changes the perceived continuation of the drone, even without a large increase in RMS amplitude.
 
 
 H4: The relationship between a transition and later absorption or energy ratings will differ between focused listening and everyday-background listening.
@@ -195,7 +195,7 @@ H5: Listener reports of 'a new part beginning' will be better predicted by a com
 15. EVIDENCE CLASSIFICATION — SPECULATION
 
 
-KLAAT's archaeosonic character may partly depend on a peculiar combination of enduring identity and continuously revisable expectation: Amastacia sounds like one persistent entity while her internal color changes; Ankora creates recognizable time while its expressive surface refuses complete mechanical sameness. The resulting experience might feel like entering an unfamiliar but coherent environment. This is an aesthetic interpretation, not an established brain mechanism.
+KLAAT's archaeosonic character may partly depend on a peculiar combination of enduring identity and continuously revisable expectation: the didgeridoo sounds like one persistent entity while her internal color changes; the drum creates recognizable time while its expressive surface refuses complete mechanical sameness. The resulting experience might feel like entering an unfamiliar but coherent environment. This is an aesthetic interpretation, not an established brain mechanism.
 
 
 It is also possible that Paul's own flow is especially strong when a new musical relationship emerges without deliberate planning. There is no evidence yet that listeners reliably recognize those moments or experience stronger activation because of them.
@@ -219,7 +219,7 @@ Session 88 introduces a retrospective analysis safeguard rather than a new compo
 Keep a second, independent layer for the listener: what they spontaneously remembered; where they marked a boundary on a later hearing; whether they experienced continuity, uncertainty, surprise, absorption, and felt energy; and whether they could describe any change in what they expected next. These questions should not be collapsed into one 'trance' or 'resonance' score.
 
 
-Only after collecting listener reports should acoustic analysis quantify candidate features such as RMS intensity, spectral centroid, spectral flux, attack density, inter-onset variability, gaps, and changes in Amastacia's harmonic emphasis. Even with these measurements, causality remains uncertain. To test causation later, a controlled comparison would be required, and it should use copies of recordings rather than instruct Paul to change his natural performance.
+Only after collecting listener reports should acoustic analysis quantify candidate features such as RMS intensity, spectral centroid, spectral flux, attack density, inter-onset variability, gaps, and changes in the didgeridoo's harmonic emphasis. Even with these measurements, causality remains uncertain. To test causation later, a controlled comparison would be required, and it should use copies of recordings rather than instruct Paul to change his natural performance.
 
 
 The distinction between acoustic event, inferred expectation, conscious report, neural response, and bodily physiology remains mandatory. This gate builds on the Listener-Defined Chapter Gate of Session 87 and the Two-Clock Reporting Rule of Session 86; it does not replace them.
@@ -228,7 +228,7 @@ The distinction between acoustic event, inferred expectation, conscious report, 
 18. WHY THIS MATTERS FOR TECHNIQUE WITHOUT GOVERNING THE MUSIC
 
 
-Greater control over circular breathing can make Amastacia more expressive without demanding perfectly smooth drones. Improved Ankora attack consistency can help Paul distinguish deliberate rhythmic variation from an unintended loss of coordination. Better coordination between instruments can make a spontaneous transition more physically available when inspiration arises. These are legitimate technical goals because they expand options and reduce friction.
+Greater control over circular breathing can make the didgeridoo more expressive without demanding perfectly smooth drones. Improved the drum attack consistency can help Paul distinguish deliberate rhythmic variation from an unintended loss of coordination. Better coordination between instruments can make a spontaneous transition more physically available when inspiration arises. These are legitimate technical goals because they expand options and reduce friction.
 
 
 None requires Paul to calculate entropy, count bars, use prescribed phase lengths, or engineer a climax. An imperfect breath, an unexpected accent, or a rough sound may be exactly what the performance needs artistically. Science can help distinguish a compelling result from a recording artifact or an imagined universal listener response, but it cannot substitute for Paul's judgment about what belongs in KLAAT.

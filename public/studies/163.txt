@@ -10,7 +10,7 @@ GUIDING PRINCIPLE: Experience-led creation. Science-informed refinement.
 THE QUESTION
 
 
-When an unedited KLAAT performance is captured through a phone, video-call app, or social-media recording path, can an algorithm designed to make speech clearer change the apparent relationship between Amastacia's continuous drone and Ankora's attacks? Yes, in principle. Whether it has happened to a particular KLAAT recording cannot be determined without knowing its recording path or making a controlled comparison. The problem is not merely whether a recording sounds 'good.' It is whether the recording still represents the acoustic interaction that actually occurred.
+When an unedited KLAAT performance is captured through a phone, video-call app, or social-media recording path, can an algorithm designed to make speech clearer change the apparent relationship between the didgeridoo's continuous drone and the drum's attacks? Yes, in principle. Whether it has happened to a particular KLAAT recording cannot be determined without knowing its recording path or making a controlled comparison. The problem is not merely whether a recording sounds 'good.' It is whether the recording still represents the acoustic interaction that actually occurred.
 
 
 WHY THIS IS A DISTINCT RESEARCH QUESTION
@@ -22,13 +22,13 @@ Previous KLAAT studies have examined digital peak overshoot (156), harmonic/perc
 THE ORIGINAL EVENT AND ITS DIGITAL REPRESENTATION
 
 
-At the instrument level, Amastacia is not a static pure tone. Its agave body, player's breath, lips and vocal tract generate a changing harmonic spectrum with airflow noise, resonant emphasis, and brief articulations. Ankora is not simply an isolated click: the elk-hide head and drum body continue to resonate after each attack. Together they create a mixed signal containing sustained and transient material, sometimes overlapping in frequency and time.
+At the instrument level, the didgeridoo is not a static pure tone. Its agave body, player's breath, lips and vocal tract generate a changing harmonic spectrum with airflow noise, resonant emphasis, and brief articulations. The drum is not simply an isolated click: the drumhead and drum body continue to resonate after each attack. Together they create a mixed signal containing sustained and transient material, sometimes overlapping in frequency and time.
 
 
 A speech-optimized processor has a different objective from the artist. It may try to preserve speech while reducing sounds estimated to be background noise. Depending on the implementation, a sustained drone could be classified as undesirable stationary energy; certain percussion transients might be preserved, suppressed, or transformed. These are possible outcomes, not universal properties of all phones or apps. A voice-isolation setting might be off; an app may have music mode; an algorithm may preserve music surprisingly well. The specific implementation matters.
 
 
-A simple diagnostic model is Y(t,f)=G(t,f)X(t,f), where X is the input short-time spectrum, G is a time- and frequency-dependent gain, and Y is the processed output. If a hypothetical algorithm assigns G=0.25 to part of Amastacia's drone, that component loses 20 log10(0.25) = 12.04 dB in amplitude level. If the same algorithm assigns G=1 to a drum transient, the transient remains unchanged in this simplified model. A listener could then hear a percussion-forward performance that Paul did not actually play. This numerical example is not a measurement of any algorithm or KLAAT recording. Real enhancement systems may also modify phase, create nonlinear artifacts, or reconstruct rather than merely attenuate components.
+A simple diagnostic model is Y(t,f)=G(t,f)X(t,f), where X is the input short-time spectrum, G is a time- and frequency-dependent gain, and Y is the processed output. If a hypothetical algorithm assigns G=0.25 to part of the didgeridoo's drone, that component loses 20 log10(0.25) = 12.04 dB in amplitude level. If the same algorithm assigns G=1 to a drum transient, the transient remains unchanged in this simplified model. A listener could then hear a percussion-forward performance that Paul did not actually play. This numerical example is not a measurement of any algorithm or KLAAT recording. Real enhancement systems may also modify phase, create nonlinear artifacts, or reconstruct rather than merely attenuate components.
 
 
 WHAT IS ESTABLISHED
@@ -46,7 +46,7 @@ Whether the drone is preferentially suppressed depends on its harmonic and noise
 WHAT IS PLAUSIBLE BUT UNTESTED FOR KLAAT
 
 
-A speech-enhanced recording might make Amastacia sound thinner or intermittently gated while Ankora appears unusually prominent. That could distort judgments about Paul's breath-to-drum coordination, the apparent density of the drone, and the overall continuity of the improvisation. Conversely, suppressing drum transients could make a naturally active passage appear smoother. Either change could affect listener ratings of energy, groove, or absorption, but no KLAAT-specific listening study has established such an effect.
+A speech-enhanced recording might make the didgeridoo sound thinner or intermittently gated while the drum appears unusually prominent. That could distort judgments about Paul's breath-to-drum coordination, the apparent density of the drone, and the overall continuity of the improvisation. Conversely, suppressing drum transients could make a naturally active passage appear smoother. Either change could affect listener ratings of energy, groove, or absorption, but no KLAAT-specific listening study has established such an effect.
 
 
 WHAT WOULD BE AN UNSUPPORTED CLAIM
@@ -61,7 +61,7 @@ HOW TO TEST THE CAPTURE PATH WITHOUT REWRITING THE MUSIC
 The cleanest comparison records the same naturally improvised passage simultaneously through two documented capture paths: a minimally processed original and a path with known speech enhancement. Simultaneous capture matters because two separate performances are never identical. Keep microphones as close in position and orientation as feasible, avoid clipping, and document sample rates, app versions, processing settings and any automatic gain control. Time-align the files using recognizable transients; compare loudness-matched versions and retain the untouched originals.
 
 
-Measure low-band and harmonic-band energy in sections where Amastacia is prominent, and separately inspect Ankora attack envelopes and decays. A difference in band energy after level matching is an acoustic observation. Audible 'pumping' or intermittent drone disappearance is a perceptual observation. The attribution to a particular algorithm is a causal hypothesis requiring controlled settings or additional evidence. Do not use an automatic harmonic/percussive separator as the sole ground truth: Session 157 showed why complementary source estimates can create misleading anticorrelation.
+Measure low-band and harmonic-band energy in sections where the didgeridoo is prominent, and separately inspect the drum attack envelopes and decays. A difference in band energy after level matching is an acoustic observation. Audible 'pumping' or intermittent drone disappearance is a perceptual observation. The attribution to a particular algorithm is a causal hypothesis requiring controlled settings or additional evidence. Do not use an automatic harmonic/percussive separator as the sole ground truth: Session 157 showed why complementary source estimates can create misleading anticorrelation.
 
 
 A useful quantitative metric is the change in drone-to-drum energy ratio between paths, in decibels. Let R_raw = 10 log10(E_drone,raw/E_drum,raw) and R_processed similarly, with carefully defined time-frequency regions and identical calibration conventions. The difference R_processed - R_raw can summarize a relative balance shift. It does not independently identify which component changed or why. Because the instruments overlap spectrally, the labels 'drone' and 'drum' are operational analysis regions, not perfect isolated sources. Report uncertainties and listen to the raw waveform alongside the metric.
@@ -87,7 +87,7 @@ EVIDENCE REGISTER
 
 Established: Speech-oriented noise suppression exists; selective time-frequency attenuation changes a signal's spectral balance; a processed file need not represent the original acoustic event faithfully.
 Context-dependent: The direction, size and audibility of any alteration vary with implementation, capture environment and playback.
-Plausible/testable: Voice processing could change the apparent Amastacia–Ankora balance and hence listener descriptions.
+Plausible/testable: Voice processing could change the apparent the didgeridoo–the drum balance and hence listener descriptions.
 Speculative: Such changes might influence reported immersion or everyday activation.
 Unsupported: Any claim that KLAAT has demonstrated trance induction, cardiac or neural entrainment, therapeutic efficacy, or a special neurological effect from its C# drone.
 

@@ -6,11 +6,11 @@ Guiding principle: Experience-led creation. Science-informed refinement.
 
 
 RESEARCH QUESTION
-When the same spontaneous KLAAT improvisation is captured on a phone and an independent audio recorder, could the two files slowly fall out of alignment even though Paul's hands, breath, Amastacia drone and Ankora strikes have not changed? And could an analyst then mistake an artifact of recording clocks for a changing relationship between pulse and drone?
+When the same spontaneous KLAAT improvisation is captured on a phone and an independent audio recorder, could the two files slowly fall out of alignment even though Paul's hands, breath, the didgeridoo drone and the drum strikes have not changed? And could an analyst then mistake an artifact of recording clocks for a changing relationship between pulse and drone?
 
 
 WHY THIS MATTERS NOW
-KLAAT is beginning to cross from interpretive research into the possibility of examining real performances. Paul already has short phone recordings and may eventually record simultaneously with an external microphone, second phone or dedicated recorder. Comparing two captures is attractive: one might emphasize Ankora's attack, another Amastacia's harmonics; one might reveal room sound, another close-up articulation. But comparison requires a common timebase. Two devices can record the same five-minute event yet disagree about how many samples represent those five minutes. A single strike aligned near the beginning does not guarantee that a strike near the end remains aligned.
+KLAAT is beginning to cross from interpretive research into the possibility of examining real performances. Paul already has short phone recordings and may eventually record simultaneously with an external microphone, second phone or dedicated recorder. Comparing two captures is attractive: one might emphasize the drum's attack, another the didgeridoo's harmonics; one might reveal room sound, another close-up articulation. But comparison requires a common timebase. Two devices can record the same five-minute event yet disagree about how many samples represent those five minutes. A single strike aligned near the beginning does not guarantee that a strike near the end remains aligned.
 
 
 This is not an argument for click tracks, metronomes or regulated improvisation. It is a demand that the instruments, not the measurement apparatus, receive credit for the timing they actually produced.
@@ -33,7 +33,7 @@ Fifteen milliseconds is not automatically perceptually enormous. It is, however,
 
 
 THE FALSE MUSICAL STORY
-Imagine two hypothetical files of one uninterrupted KLAAT take. In the first minute, an Ankora strike appears exactly beside a visible change in the drone's amplitude envelope. Four minutes later, the same pair of recordings seems to show the drum attack lagging that envelope by 12 ms. An analyst might describe a progressive loosening of breath–drum coordination, an emerging counter-rhythm, or a subtle tension between the drone and pulse. But if the apparent shift increases approximately linearly with elapsed time and is present across many unrelated sound events, the more economical explanation may be recorder clock drift.
+Imagine two hypothetical files of one uninterrupted KLAAT take. In the first minute, an the drum strike appears exactly beside a visible change in the drone's amplitude envelope. Four minutes later, the same pair of recordings seems to show the drum attack lagging that envelope by 12 ms. An analyst might describe a progressive loosening of breath–drum coordination, an emerging counter-rhythm, or a subtle tension between the drone and pulse. But if the apparent shift increases approximately linearly with elapsed time and is present across many unrelated sound events, the more economical explanation may be recorder clock drift.
 
 
 A crucial distinction: genuine expressive timing is local variation within the performance. Clock drift is a changing mapping between the two files' time axes. The latter can be present even when every actual event is unchanged. Conversely, correcting clock drift must not erase genuine performance variation within either original recording.
@@ -54,11 +54,11 @@ HOW TO TELL DRIFT FROM OTHER PROBLEMS
 A fixed offset stays roughly constant from beginning to end. It may come from microphone distance, buffering, processing latency or a late recording start. A gradual increase in offset suggests a rate mismatch, although changing processing delay can mimic it. A sudden jump suggests a dropped chunk, edit, pause, discontinuity or timestamp issue. A repeating pattern of offsets may indicate periodic resampling or a flawed matching algorithm. None should be labeled an artistic timing change without checking the underlying files.
 
 
-The most reliable anchors are distinct acoustic events audible in both recordings: isolated Ankora attacks, abrupt breath articulations or other unique transients. A long nearly periodic drone is a poor sole anchor because a cross-correlation algorithm can match the wrong cycle and report a convincing but incorrect delay. Select at least two anchors widely separated in time, preferably more. Compare their relative offsets. Use a linear fit only if the observed trend supports it; report residual deviations and uncertainty. Preserve raw samples and original timestamps. Any time-stretched or resampled alignment file is a derivative, never the archival master.
+The most reliable anchors are distinct acoustic events audible in both recordings: isolated the drum attacks, abrupt breath articulations or other unique transients. A long nearly periodic drone is a poor sole anchor because a cross-correlation algorithm can match the wrong cycle and report a convincing but incorrect delay. Select at least two anchors widely separated in time, preferably more. Compare their relative offsets. Use a linear fit only if the observed trend supports it; report residual deviations and uncertainty. Preserve raw samples and original timestamps. Any time-stretched or resampled alignment file is a derivative, never the archival master.
 
 
 ACOUSTIC PROPAGATION IS NOT CLOCK DRIFT
-Sound takes time to travel through air. Two microphones at different distances from Ankora may record the same strike at different moments. At roughly 343 m/s, a one-meter path difference corresponds to approximately 2.9 ms. This is a rough room-temperature calculation, not a measured KLAAT room condition. If microphone positions remain fixed, this propagation delay is largely a fixed offset, not a steadily growing difference. Reverberation and source directivity can make the best waveform anchor more ambiguous than this simple geometry suggests.
+Sound takes time to travel through air. Two microphones at different distances from the drum may record the same strike at different moments. At roughly 343 m/s, a one-meter path difference corresponds to approximately 2.9 ms. This is a rough room-temperature calculation, not a measured KLAAT room condition. If microphone positions remain fixed, this propagation delay is largely a fixed offset, not a steadily growing difference. Reverberation and source directivity can make the best waveform anchor more ambiguous than this simple geometry suggests.
 
 
 A phone can also apply automatic gain control, noise suppression or codec delay. Such processing may alter the shape of a transient so that peak-to-peak comparison gives the wrong onset. Where possible, compare onset windows rather than a single largest sample; document the algorithm. Do not infer sample-clock accuracy from a visually aligned waveform alone.
@@ -115,7 +115,7 @@ These references support the engineering framework. Device-specific drift and su
 
 
 OPTIONAL OBSERVATION — NO CHANGE TO THE MUSIC
-On an ordinary improvisation, if two recorders happen to be available, let both run without a click or prescribed structure. Later locate one distinctive Ankora strike near the beginning and another near the end in both original files. Note whether the relative time offset changed. If the strikes are ambiguous, mark the comparison inconclusive. Preserve both untouched files. The observation is about the clocks, not a test of Paul's rhythmic skill.
+On an ordinary improvisation, if two recorders happen to be available, let both run without a click or prescribed structure. Later locate one distinctive the drum strike near the beginning and another near the end in both original files. Note whether the relative time offset changed. If the strikes are ambiguous, mark the comparison inconclusive. Preserve both untouched files. The observation is about the clocks, not a test of Paul's rhythmic skill.
 
 
 CLOSING

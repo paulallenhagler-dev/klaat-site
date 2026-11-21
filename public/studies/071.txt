@@ -5,7 +5,7 @@ Published: 2026-10-09 08:12 CDT
 
 
 CORE QUESTION
-When an omitted Ankora strike becomes unusually noticeable, is the effect caused by violation of a learned temporal expectation, by attention being directed toward that moment, or by changes in sensory responsiveness across repetition? KLAAT must distinguish these mechanisms before claiming that an Earned Wound has a special embodied effect.
+When an omitted the drum strike becomes unusually noticeable, is the effect caused by violation of a learned temporal expectation, by attention being directed toward that moment, or by changes in sensory responsiveness across repetition? KLAAT must distinguish these mechanisms before claiming that an Earned Wound has a special embodied effect.
 
 
 GOVERNING PRINCIPLE
@@ -13,15 +13,15 @@ A noticeable absence is evidence of a noticed absence. It is not, by itself, evi
 
 
 1. WHY SESSION 71 FOLLOWS SESSION 70
-Session 70 established the Predictive Salience Gate: the physical strike, the expected strike, and the reported experience are different events. It proposed a regular-Clock versus irregular-Clock versus learned-rest comparison. That design can show whether rhythmic context matters. It cannot, by itself, identify why. A long run of regular Ankora strikes simultaneously increases predictability, permits temporal attention, and repeats a similar acoustic input. Those changes are correlated. Session 71 is about pulling them apart without turning KLAAT into a laboratory-generated composition.
+Session 70 established the Predictive Salience Gate: the physical strike, the expected strike, and the reported experience are different events. It proposed a regular-Clock versus irregular-Clock versus learned-rest comparison. That design can show whether rhythmic context matters. It cannot, by itself, identify why. A long run of regular the drum strikes simultaneously increases predictability, permits temporal attention, and repeats a similar acoustic input. Those changes are correlated. Session 71 is about pulling them apart without turning KLAAT into a laboratory-generated composition.
 
 
 2. THE THREE RIVAL EXPLANATIONS
-PREDICTION: a listener learns that a strike should occur at a particular moment, so its absence violates a learned model. ATTENTION: a listener preferentially allocates processing to that moment or to Ankora rather than Amastacia; the event or absence becomes more noticeable. ADAPTATION/REPETITION: responses to repeated sounds change over time through sensory and cognitive mechanisms, so a deviation may stand out against an altered baseline. These explanations can coexist. The scientific question is whether one explains an effect after the others are controlled.
+PREDICTION: a listener learns that a strike should occur at a particular moment, so its absence violates a learned model. ATTENTION: a listener preferentially allocates processing to that moment or to the drum rather than the didgeridoo; the event or absence becomes more noticeable. ADAPTATION/REPETITION: responses to repeated sounds change over time through sensory and cognitive mechanisms, so a deviation may stand out against an altered baseline. These explanations can coexist. The scientific question is whether one explains an effect after the others are controlled.
 
 
 3. WHY 'ADAPTATION' MUST BE USED CAREFULLY
-There are at least three phenomena often lumped together: peripheral or neural sensory adaptation; repetition-related attenuation of particular evoked responses; and behavioral habituation, such as a listener reporting less surprise after many repetitions. They are not synonyms. A declining salience rating cannot identify which occurred. An unexpected omission has no target attack to drive ordinary stimulus-evoked adaptation at that exact moment, but the preceding repeated attacks and the ongoing Amastacia Field can still alter neural and perceptual context. This is why an omission paradigm is informative but not magically free of confounds.
+There are at least three phenomena often lumped together: peripheral or neural sensory adaptation; repetition-related attenuation of particular evoked responses; and behavioral habituation, such as a listener reporting less surprise after many repetitions. They are not synonyms. A declining salience rating cannot identify which occurred. An unexpected omission has no target attack to drive ordinary stimulus-evoked adaptation at that exact moment, but the preceding repeated attacks and the ongoing the didgeridoo Field can still alter neural and perceptual context. This is why an omission paradigm is informative but not magically free of confounds.
 
 
 4. THE DIRECT EVIDENCE FOR ATTENTION MATTERS
@@ -29,7 +29,7 @@ A study titled 'Silent Expectations: Dynamic Causal Modeling of Cortical Predict
 
 
 5. EXPECTATION AND ATTENTION ARE NOT IDENTICAL
-A temporal-cueing MEG study found that auditory beta-band responses to expected versus unexpected tones depended on whether the tones were attended. Differences were apparent even before expected onset times. That makes it risky to equate a pre-onset neural fluctuation with pure prediction or to assume attention simply adds a constant boost. For KLAAT, a listener can know when Ankora should strike while attending primarily to Amastacia, or attend intensely to Ankora without accurately knowing which beat will be emphasized. These states need distinct experimental labels. Reference: PubMed PMID 25799572.
+A temporal-cueing MEG study found that auditory beta-band responses to expected versus unexpected tones depended on whether the tones were attended. Differences were apparent even before expected onset times. That makes it risky to equate a pre-onset neural fluctuation with pure prediction or to assume attention simply adds a constant boost. For KLAAT, a listener can know when the drum should strike while attending primarily to the didgeridoo, or attend intensely to the drum without accurately knowing which beat will be emphasized. These states need distinct experimental labels. Reference: PubMed PMID 25799572.
 
 
 6. REPETITION HAS ATTENTION-INDEPENDENT AND ATTENTION-DEPENDENT COMPONENTS
@@ -41,7 +41,7 @@ Milne and colleagues' 2021 auditory-sequence experiments found smaller sustained
 
 
 8. TEMPORAL REGULARITY CAN SUPPORT HIGHER-ORDER LEARNING
-Tavano and colleagues manipulated regularity and deviant probabilities in rapid auditory sequences. Their findings supported a role for temporal regularity in higher-order predictions, with important qualifications involving stimulus rate and which mismatch effects were altered. KLAAT's approximately 137 BPM reference is far slower than some laboratory tone rates, and the natural acoustic complexity of Ankora differs from pure-tone experiments. The transferable idea is a question, not a numerical prediction: does a legible Ankora Scaffold allow the listener to learn a higher-order pattern of where an omission belongs? Reference: DOI 10.1111/ejn.12404.
+Tavano and colleagues manipulated regularity and deviant probabilities in rapid auditory sequences. Their findings supported a role for temporal regularity in higher-order predictions, with important qualifications involving stimulus rate and which mismatch effects were altered. KLAAT's approximately 137 BPM reference is far slower than some laboratory tone rates, and the natural acoustic complexity of the drum differs from pure-tone experiments. The transferable idea is a question, not a numerical prediction: does a legible the drum Scaffold allow the listener to learn a higher-order pattern of where an omission belongs? Reference: DOI 10.1111/ejn.12404.
 
 
 9. THE PROBLEM WITH A SINGLE 'SURPRISE' SCORE
@@ -49,15 +49,15 @@ A participant may correctly detect that a strike was omitted without feeling sur
 
 
 10. THE PHYSICAL NULL IS A FEATURE, NOT A MYSTERY
-At the omitted target time, Ankora produces no strike-associated acoustic attack or mechanical impulse. Amastacia may continue, and the room may contain reverberant energy from preceding events. The absence is therefore not total physical silence. A properly labeled omission trial records the expected beat location, confirms no target attack, and preserves the residual acoustic field. This protects the Somatic Attribution Gate from Session 69: a felt event at the omitted time is a report to explain, not proof of a physical hit.
+At the omitted target time, the drum produces no strike-associated acoustic attack or mechanical impulse. The didgeridoo may continue, and the room may contain reverberant energy from preceding events. The absence is therefore not total physical silence. A properly labeled omission trial records the expected beat location, confirms no target attack, and preserves the residual acoustic field. This protects the Somatic Attribution Gate from Session 69: a felt event at the omitted time is a report to explain, not proof of a physical hit.
 
 
-11. ANKORA'S CLOCK CAN CREATE TEMPORAL ATTENTION
-The repeated elk-hide frame-drum attack gives the listener opportunities to anticipate a moment. But temporal expectation and temporal attention may reinforce each other. Someone told to 'listen for the missing beat' will likely allocate attention differently from someone invited to listen naturally. This makes the instruction itself an experimental treatment. The low-interruption KLAAT design should use a neutral listening condition first and a directed-counting condition separately, without pretending that either is a pure window into spontaneous immersion.
+11. DRUM'S CLOCK CAN CREATE TEMPORAL ATTENTION
+The repeated drumhead material frame-drum attack gives the listener opportunities to anticipate a moment. But temporal expectation and temporal attention may reinforce each other. Someone told to 'listen for the missing beat' will likely allocate attention differently from someone invited to listen naturally. This makes the instruction itself an experimental treatment. The low-interruption KLAAT design should use a neutral listening condition first and a directed-counting condition separately, without pretending that either is a pure window into spontaneous immersion.
 
 
-12. AMASTACIA IS AN ATTENTIONAL COMPETITOR AND AN ANCHOR
-Amastacia's C# agave drone is not merely background sound. Its sustained harmonic Field, breath accents and timbral movement can compete for attention with Ankora or stabilize the acoustic scene against which Ankora is heard. If Paul makes a prominent breath accent at an omission moment, listeners might report a strong transition even if the drum omission itself was barely learned. Conversely, a stable Amastacia Field may make the absence of an expected Ankora transient easier to detect. This interaction is KLAAT-specific and untested; record the Field envelope and annotate breath accents rather than assuming neutrality.
+12. DIDGERIDOO IS AN ATTENTIONAL COMPETITOR AND AN ANCHOR
+The didgeridoo's C# agave drone is not merely background sound. Its sustained harmonic Field, breath accents and timbral movement can compete for attention with the drum or stabilize the acoustic scene against which the drum is heard. If Paul makes a prominent breath accent at an omission moment, listeners might report a strong transition even if the drum omission itself was barely learned. Conversely, a stable the didgeridoo Field may make the absence of an expected the drum transient easier to detect. This interaction is KLAAT-specific and untested; record the Field envelope and annotate breath accents rather than assuming neutrality.
 
 
 13. THE REPEAT-COUNT TRAP
@@ -65,27 +65,27 @@ More repetitions may strengthen the listener's temporal model. They may also red
 
 
 14. PROBABILITY IS DIFFERENT FROM POSITION
-An omission at the same beat position may be rare in one block and frequent in another. But changing omission frequency also changes the overall number of physical Ankora attacks. That alters exposure history and potentially average level. A better control uses balanced present-hit and omission trials, preserves local acoustic history as closely as practical, and analyzes target-time expectedness explicitly. No single control can perfectly equate learning history while manipulating expectation; the remaining asymmetries must be reported.
+An omission at the same beat position may be rare in one block and frequent in another. But changing omission frequency also changes the overall number of physical the drum attacks. That alters exposure history and potentially average level. A better control uses balanced present-hit and omission trials, preserves local acoustic history as closely as practical, and analyzes target-time expectedness explicitly. No single control can perfectly equate learning history while manipulating expectation; the remaining asymmetries must be reported.
 
 
 15. A BETTER CONCEPT: THE EXPECTATION–ATTENTION–REPETITION TRIANGLE
 KLAAT now adopts a three-corner explanatory diagram. At one corner: learned event probability. At another: where the listener directs attention. At the third: accumulated repetition and sensory exposure. The observed outcome sits in the center. The aim is not to prove that only one corner matters; it is to estimate which relationships survive controlled comparisons. The triangle is a methodological model, not a new neural theory or additional KSV state variable.
 
 
-16. GROUND ANCHOR — BEFORE ANKORA MAKES A PROMISE
-During Ground Anchor, Amastacia establishes the continuous Field, the breath timescale and the room's acoustic identity. There is no well-learned Ankora beat yet, so an empty drum moment should not be coded as an omitted strike. This phase can also provide a neutral attention baseline: ask listeners what they noticed without mentioning prediction, missing beats, or bodily impact. If they spontaneously describe rhythmic anticipation before Ankora enters, record that as an interesting report, not as proof of a hidden drum Clock.
+16. GROUND ANCHOR — BEFORE DRUM MAKES A PROMISE
+During Ground Anchor, the didgeridoo establishes the continuous Field, the breath timescale and the room's acoustic identity. There is no well-learned the drum beat yet, so an empty drum moment should not be coded as an omitted strike. This phase can also provide a neutral attention baseline: ask listeners what they noticed without mentioning prediction, missing beats, or bodily impact. If they spontaneously describe rhythmic anticipation before the drum enters, record that as an interesting report, not as proof of a hidden drum Clock.
 
 
 17. THRESHOLD GATE — LEARNING AND ATTENDING CAN DIVERGE
-Threshold Gate is the acquisition of a legible Ankora Clock, not just the first attack. A listener may learn the Clock without consciously counting; another may count but choose a half-time interpretation. We should test whether listeners can identify the next beat's location under neutral instructions, then compare with a directed-attention task. Amastacia's Field may support or interfere with this learning. The transition is successful artistically when it changes the experience; scientifically, its proposed predictive mechanism still needs validation.
+Threshold Gate is the acquisition of a legible the drum Clock, not just the first attack. A listener may learn the Clock without consciously counting; another may count but choose a half-time interpretation. We should test whether listeners can identify the next beat's location under neutral instructions, then compare with a directed-attention task. The didgeridoo's Field may support or interfere with this learning. The transition is successful artistically when it changes the experience; scientifically, its proposed predictive mechanism still needs validation.
 
 
 18. RISING PULSE — THE EARNED WOUND UNDER SCRUTINY
-During Rising Pulse, Ankora can increase Surface Pressure while maintaining a relatively stable Scaffold. A sparse omission after a convincing pattern is a candidate Earned Wound. But if its reported intensity appears only when the audience is instructed to count, then the evidence favors a task-dependent attention effect. If it persists during neutral listening and exceeds matched learned-rest controls, the predictive interpretation becomes more credible. If it declines with exposure, test whether the omission has become expected before claiming neural adaptation.
+During Rising Pulse, the drum can increase Surface Pressure while maintaining a relatively stable Scaffold. A sparse omission after a convincing pattern is a candidate Earned Wound. But if its reported intensity appears only when the audience is instructed to count, then the evidence favors a task-dependent attention effect. If it persists during neutral listening and exceeds matched learned-rest controls, the predictive interpretation becomes more credible. If it declines with exposure, test whether the omission has become expected before claiming neural adaptation.
 
 
 19. RETURN PATH — ENDING A RULE IS NOT MISSING ONE BEAT
-An isolated omitted strike is a local violation within an ongoing Clock. Return Path removes the Clock itself. The listener may initially expect another strike and then revise the model as the silence continues. That transition may have a different time course from an Earned Wound. Amastacia remains to hold continuity while Ankora withdraws. Measure the persistence of an inferred beat with separate post-passage tapping or retrospective marking; do not interrupt the live experience repeatedly to demand a report.
+An isolated omitted strike is a local violation within an ongoing Clock. Return Path removes the Clock itself. The listener may initially expect another strike and then revise the model as the silence continues. That transition may have a different time course from an Earned Wound. The didgeridoo remains to hold continuity while the drum withdraws. Measure the persistence of an inferred beat with separate post-passage tapping or retrospective marking; do not interrupt the live experience repeatedly to demand a report.
 
 
 20. THE KSV-0.1 IMPLICATION
@@ -98,7 +98,7 @@ ESTABLISHED — Temporal expectation and attention interact in auditory neural m
 ESTABLISHED — Repetition-related auditory responses can have both attention-independent and attention-dependent components in controlled experiments (Hsu et al. 2021).
 ESTABLISHED — Predictable auditory sequences can be associated with reduced sustained pupil diameter relative to random sequences in particular experiments (Milne et al. 2021).
 ESTABLISHED — Temporal regularity can support higher-order learning of auditory event probabilities in tested rapid-sequence conditions (Tavano et al. 2014).
-ESTABLISHED — A deliberately omitted Ankora strike does not generate the strike-associated acoustic or mechanical impulse.
+ESTABLISHED — A deliberately omitted the drum strike does not generate the strike-associated acoustic or mechanical impulse.
 
 
 22. CONTEXT-DEPENDENT EVIDENCE
@@ -106,22 +106,22 @@ CONTEXT-DEPENDENT — EEG/MEG findings are not equivalent to conscious omission 
 CONTEXT-DEPENDENT — Attention can improve detection, but its direction and magnitude depend on task, timing, perceptual organization and stimulus history.
 CONTEXT-DEPENDENT — Repetition suppression, adaptation and habituation cannot be inferred from a single declining self-report series.
 CONTEXT-DEPENDENT — Pupil changes are affected by lighting, effort, surprise and many other variables; they are not a direct activation or therapy measure.
-CONTEXT-DEPENDENT — Laboratory tone rates and simple auditory patterns differ from KLAAT's human-played ~137 BPM Scaffold and rich Amastacia Field.
+CONTEXT-DEPENDENT — Laboratory tone rates and simple auditory patterns differ from KLAAT's human-played ~137 BPM Scaffold and rich the didgeridoo Field.
 CONTEXT-DEPENDENT — 'Matched loudness' is not the same as matched onset spectrum, event count or mechanical contact exposure.
 
 
 23. PLAUSIBLE / TESTABLE KLAAT HYPOTHESES
-PLAUSIBLE/TESTABLE — Rare unexpected Ankora omissions produce more accurate detection and stronger suspension ratings than predictable learned rests, even under neutral listening instructions.
+PLAUSIBLE/TESTABLE — Rare unexpected the drum omissions produce more accurate detection and stronger suspension ratings than predictable learned rests, even under neutral listening instructions.
 PLAUSIBLE/TESTABLE — Directed attention increases omission detection but need not proportionally increase bodily sensation.
 PLAUSIBLE/TESTABLE — Repeated exposure changes omission salience partly through learning the omission probability, distinguishable from mere exposure count with appropriate controls.
-PLAUSIBLE/TESTABLE — Stable Amastacia Field supports maintenance of Ankora's inferred Clock through an omission, compared with salient Field changes at the same moment.
+PLAUSIBLE/TESTABLE — Stable the didgeridoo Field supports maintenance of the drum's inferred Clock through an omission, compared with salient Field changes at the same moment.
 PLAUSIBLE/TESTABLE — The difference between a local Earned Wound and the global Return Path persists across listeners after accounting for meter choice and attentional framing.
 
 
 24. SPECULATION
 SPECULATION — KLAAT's most distinctive omission moments may occur when the Clock is highly learned but the listener is not explicitly monitoring it.
 SPECULATION — An Earned Wound may feel like a temporary suspension of bodily movement preparation, even with negligible contact vibration.
-SPECULATION — Amastacia could act as a perceptual continuity scaffold that makes Ankora's absent event more meaningful, not merely louder or more tactile.
+SPECULATION — the didgeridoo could act as a perceptual continuity scaffold that makes the drum's absent event more meaningful, not merely louder or more tactile.
 SPECULATION — A future human-playable notation might mark degrees of expectation confidence rather than fixed numbers of repeated bars.
 
 
@@ -136,14 +136,14 @@ UNSUPPORTED — A successful KLAAT composition must maximize surprise, omission 
 
 
 26. METHODOLOGY UPDATE — THE TRIANGLE VALIDITY GATE
-Before promoting predictive salience to an explanatory KLAAT mechanism, preserve three independent descriptors: EXPECTATION (local probability, learned meter, rest history); ATTENTION (neutral versus directed instruction, task performance, reported focus); and REPETITION (number of physically delivered attacks, exposure duration, serial position, block order). Use separate outcomes for omission detection, timing confidence, surprise, suspension, urge to move, and bodily quality/location. Document Amastacia Field changes, Ankora timing, average/peak sound level, and any contact-motion signal above noise. Compare simple explanations before adding interactions. Keep all hourly source notes untouched. Do not call a response 'adaptation' when it could be learning, fatigue, habituation, or changing attention.
+Before promoting predictive salience to an explanatory KLAAT mechanism, preserve three independent descriptors: EXPECTATION (local probability, learned meter, rest history); ATTENTION (neutral versus directed instruction, task performance, reported focus); and REPETITION (number of physically delivered attacks, exposure duration, serial position, block order). Use separate outcomes for omission detection, timing confidence, surprise, suspension, urge to move, and bodily quality/location. Document the didgeridoo Field changes, the drum timing, average/peak sound level, and any contact-motion signal above noise. Compare simple explanations before adding interactions. Keep all hourly source notes untouched. Do not call a response 'adaptation' when it could be learning, fatigue, habituation, or changing attention.
 
 
 27. KRX-071 — THE EXPECTATION–ATTENTION–REPETITION CROSSOVER
 OBJECTIVE: Test whether an Earned Wound survives a basic attention control and whether its apparent strength changes with repetition independently of learned-rest probability.
 
 
-PERFORMANCE MATERIAL: Paul records a single natural, comfortable-level Amastacia + Ankora four-phase performance (10–12 minutes), plus short human-played Ankora patterns. Preserve the unedited take as ecological reference. For controlled clips only, create target windows with (A) a rare omitted strike after a stable regular Clock and (B) a predictable rest learned at the same metrical location. Include physically present-hit targets as timing/detection controls. Use only human-performed sound; any edits are labeled laboratory manipulations, not KLAAT composition.
+PERFORMANCE MATERIAL: Paul records a single natural, comfortable-level the didgeridoo and drum four-phase performance (10–12 minutes), plus short human-played the drum patterns. Preserve the unedited take as ecological reference. For controlled clips only, create target windows with (A) a rare omitted strike after a stable regular Clock and (B) a predictable rest learned at the same metrical location. Include physically present-hit targets as timing/detection controls. Use only human-performed sound; any edits are labeled laboratory manipulations, not KLAAT composition.
 
 
 ATTENTION CROSSOVER: Randomly assign half of listeners to hear the neutral condition first ('listen to the music; describe what changed') and the other half to hear a directed condition first ('monitor the drum for missing events'). Keep playback level and equipment comparable. Use a short practice unrelated to the test material. Collect open reports before forced-choice questions; do not suggest phantom impacts.
@@ -152,7 +152,7 @@ ATTENTION CROSSOVER: Randomly assign half of listeners to hear the neutral condi
 REPETITION CONTROL: Present early and late target windows, balancing their order across participants and maintaining comparable immediately preceding strike patterns. Document the actual number of delivered hits, rests and elapsed time. If an omission becomes common within a block, label that change in learned probability; do not attribute a reduced response automatically to adaptation. Allow rests and monitor fatigue.
 
 
-AMASTACIA CONTROL: For the primary test, keep the Field as stable as practical around the target window. Annotate breath accents and spectral changes. Only after the primary comparison is reliable should a secondary stable-Field versus changing-Field condition be added.
+DIDGERIDOO CONTROL: For the primary test, keep the Field as stable as practical around the target window. Annotate breath accents and spectral changes. Only after the primary comparison is reliable should a secondary stable-Field versus changing-Field condition be added.
 
 
 MEASUREMENTS: Verify the target omission is physically absent. For present hits, compare actual onset timing, attack waveform and level. Record each listener's chosen beat level in a separate tapping task. Ask separately: Was an event absent? Where? How certain are you? Did the moment feel surprising or suspended? Did you want to move? Did you experience any bodily change, and where? Do not collapse these into a single 'impact' score.
@@ -164,7 +164,7 @@ ANALYSIS: The primary contrast is unexpected omission versus learned rest within
 DECISION RULE: If unexpected omissions outperform learned rests in neutral listening and replicate, preserve predictive salience as a promising KLAAT-specific explanation. If the effect appears only during directed counting, classify it as task-dependent until better evidence exists. If it changes with repeated exposure, do not call that adaptation without further controls. If effects vanish after matching context, retain the Earned Wound as artistic language without claiming a special bodily mechanism.
 
 
-DECISIVE QUESTION: CAN ANKORA MAKE AN ABSENCE MATTER AFTER AMASTACIA HAS HELD THE WORLD STEADY, EVEN WHEN THE LISTENER IS NOT TOLD TO SEARCH FOR THE MISSING STRIKE?
+DECISIVE QUESTION: CAN DRUM MAKE AN ABSENCE MATTER AFTER DIDGERIDOO HAS HELD THE WORLD STEADY, EVEN WHEN THE LISTENER IS NOT TOLD TO SEARCH FOR THE MISSING STRIKE?
 
 
 PRIMARY SOURCES
