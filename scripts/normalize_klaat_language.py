@@ -45,6 +45,19 @@ def rewrite(value: str) -> str:
     value = re.sub(r"\bthe (didgeridoo|drum)\s*[/+&]\s*the (didgeridoo|drum)\b",r"the \1 and \2",value,flags=re.I)
     value = re.sub(r"\bthe (didgeridoo|drum)\s+and\s+the (didgeridoo|drum)\b",r"the \1 and \2",value,flags=re.I)
     value = re.sub(r"\bthe drum['’]s drum\b", "the drum", value,flags=re.I)
+    # Editorial clean-up after proper names became common nouns.
+    value = re.sub(r"(?<=>)(\s*)the (didgeridoo|drum)\b",
+                   lambda m: m.group(1)+"The "+m.group(2), value)
+    value = re.sub(r"\bthe didgeridoo,\s+and the drum\b", "the didgeridoo and drum", value, flags=re.I)
+    value = re.sub(r"\b(?:an?) the (didgeridoo|drum)\b",
+                   lambda m: ("a "+m.group(1)), value, flags=re.I)
+    value = re.sub(r"\b(a|an) remembered the drum\b",r"\1 remembered drum",value,flags=re.I)
+    value = re.sub(r"\bremembered the drum\b", "remembered drum", value, flags=re.I)
+    value = re.sub(r"\breference the drum pulse\b", "reference drum pulse",value,flags=re.I)
+    value = re.sub(r"\bimprovised the didgeridoo and drum actions\b",
+                   "improvised didgeridoo-and-drum actions",value,flags=re.I)
+    value = value.replace("|the didgeridoo)\\b/","|didgeridoo)\\b/")
+    value = value.replace("|the drum)\\b/","|drum)\\b/")
     return value
 
 def rewrite_epub(path, dry=False):
